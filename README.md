@@ -1,6 +1,8 @@
 # BlockchainOpportunityAnalysis
 
-One Paragraph of project description goes here
+As a service to the emergent Blockchain technology community, and in an effort to aid in the growth of that community, this project seeks to achieve the following:
+* Provide an interactive visualization of the blockchain space for concretely summarizing skills, locations, verticals, salaries, opportunities and other related meta data.
+* Present the interactive visualization publicly in a format that can be explored by technologists seeking to enter or expand their presence in the space.
 
 ## Getting Started
 
