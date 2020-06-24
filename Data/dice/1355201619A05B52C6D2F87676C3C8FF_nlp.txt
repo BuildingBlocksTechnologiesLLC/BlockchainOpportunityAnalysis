@@ -1,0 +1,6 @@
+bodylocation:no location found
+bodycompany:Adroit
+bodysalarynot found
+titlelocation: NH 
+titlecompany:Adroit Software Inc
+titlesalary:not found

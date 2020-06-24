@@ -1,0 +1,6 @@
+bodylocation:no location found
+bodycompany:Alert
+bodysalarynot found
+titlelocation:Los Angeles
+titlecompany:Motion Recruitment
+titlesalary:not found

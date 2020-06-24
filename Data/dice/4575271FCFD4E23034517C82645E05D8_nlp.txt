@@ -1,0 +1,6 @@
+bodylocation:US
+bodycompany:Career
+bodysalarynot found
+titlelocation: TX 
+titlecompany:InfoVision Inc
+titlesalary:not found

@@ -1,0 +1,6 @@
+bodylocation:no location found
+bodycompany:Alert
+bodysalarynot found
+titlelocation:Brooklyn
+titlecompany:Company not found
+titlesalary:not found

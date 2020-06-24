@@ -1,0 +1,6 @@
+bodylocation:no location found
+bodycompany:BSI
+bodysalarynot found
+titlelocation: NC 
+titlecompany:Charlotte NC
+titlesalary:not found

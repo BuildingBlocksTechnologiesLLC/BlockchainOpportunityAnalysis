@@ -1,0 +1,6 @@
+bodylocation:Louisiana
+bodycompany:Alert
+bodysalarynot found
+titlelocation:Lafayette LA
+titlecompany:Louisiana Economic Development
+titlesalary:not found

@@ -1,0 +1,6 @@
+bodylocation:no location found
+bodycompany:Apply
+bodysalarynot found
+titlelocation:Chicago
+titlecompany:Company not found
+titlesalary:not found

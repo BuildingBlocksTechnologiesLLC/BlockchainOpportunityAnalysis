@@ -1,0 +1,6 @@
+bodylocation:no location found
+bodycompany:Capital
+bodysalarynot found
+titlelocation:New York
+titlecompany:Focus Capital Markets
+titlesalary:not found

@@ -1,0 +1,6 @@
+bodylocation:remote
+bodycompany:Career
+bodysalarynot found
+titlelocation:Vienna
+titlecompany:Company not found
+titlesalary:not found

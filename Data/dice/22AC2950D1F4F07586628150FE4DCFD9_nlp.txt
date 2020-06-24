@@ -1,0 +1,6 @@
+bodylocation:no location found
+bodycompany:Chicago
+bodysalarynot found
+titlelocation:Chicago
+titlecompany:Encore Consulting Services
+titlesalary:not found

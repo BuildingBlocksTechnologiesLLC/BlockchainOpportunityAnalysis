@@ -1,0 +1,6 @@
+bodylocation:remote
+bodycompany:Career
+bodysalarynot found
+titlelocation:Blacksburg
+titlecompany:Accolite Inc
+titlesalary:not found
