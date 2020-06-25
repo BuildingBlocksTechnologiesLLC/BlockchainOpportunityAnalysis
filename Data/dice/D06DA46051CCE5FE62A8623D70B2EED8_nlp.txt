@@ -1,5 +1,5 @@
 bodylocation:remote
-bodycompany:Career
+bodycompany:Yahoo
 bodysalarynot found
 titlelocation:Location not found
 titlecompany:Company not found

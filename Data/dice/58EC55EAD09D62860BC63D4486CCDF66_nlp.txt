@@ -1,6 +1,6 @@
-bodylocation:no location found
-bodycompany:Apply
+bodylocation:Location not found
+bodycompany:Alert
 bodysalarynot found
-titlelocation: NC 
+titlelocation:Charlotte, US
 titlecompany:Charlotte NC
 titlesalary:not found

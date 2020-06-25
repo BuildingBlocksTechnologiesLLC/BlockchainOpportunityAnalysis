@@ -1,5 +1,5 @@
-bodylocation:Alto
-bodycompany:Career
+bodylocation:Dice
+bodycompany:Yahoo
 bodysalarynot found
 titlelocation:Palo Alto CA
 titlecompany:VMware

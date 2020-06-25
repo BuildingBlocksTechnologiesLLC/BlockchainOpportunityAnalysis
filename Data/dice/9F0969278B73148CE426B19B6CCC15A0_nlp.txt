@@ -1,5 +1,5 @@
-bodylocation:Skyrocket
-bodycompany:Apply
+bodylocation:CA
+bodycompany:Alert
 bodysalarynot found
 titlelocation:San Mateo CA
 titlecompany:Hypergrowth Crypto Fintech Startup

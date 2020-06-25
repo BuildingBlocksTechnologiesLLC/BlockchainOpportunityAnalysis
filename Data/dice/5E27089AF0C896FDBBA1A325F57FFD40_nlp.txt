@@ -1,6 +1,6 @@
-bodylocation:no location found
+bodylocation:Seattle
 bodycompany:Alert
 bodysalarynot found
-titlelocation: WA 
+titlelocation:Seattle, US
 titlecompany:Seattle WA
 titlesalary:not found

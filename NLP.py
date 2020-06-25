@@ -1,18 +1,18 @@
 """
 Created on Wed Jun 17 2020
-@author: Leon Lu
 """
+
 from geotext import GeoText
 import nltk
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
-
 import numpy as np
 import os
 import json 
 import gzip
 import re
 import string
+import datetime
 
 def get_listings(entry):
     """Get file names that are jobs listings"""
@@ -30,7 +30,7 @@ def decide_loc(locations):
         counts = np.bincount(pos)                    
         maxpos = counts.argmax()
         return unique[maxpos]
-    return 'no location found'
+    return 'Location not found'
 
 def decide_org(orgs):
     """Decide which company name is the right company name"""
@@ -39,7 +39,7 @@ def decide_org(orgs):
         counts = np.bincount(pos)                    
         maxpos = counts.argmax()
         return unique[maxpos]
-    return 'no company found'
+    return 'Company not found'
 
 def check_remote(text):
     """Check whether or not a posting is remote"""
@@ -84,9 +84,12 @@ def nlp_title(text,tagger):
             prev = 'ORGANIZATION'
         else:
             prev = ''
-
+    geo = GeoText(text)
     if loc:
         location = loc[-1]
+    elif geo.cities:
+        nation = list(geo.country_mentions.keys())
+        location = str(geo.cities[0])+', '+str(nation[0])
     else:
         location = 'Location not found'
 
@@ -113,12 +116,14 @@ def nlp_body(text,tagger):
         elif lab == 'ORGANIZATION':
             name.append(t)
 
-    loc = loc[:len(loc)//4]
-    name = name[:len(name)//4]
     name = [n for n in name if not_common(n.strip())]
 
     org_name = decide_org(np.array(name))
     location = decide_loc(np.array(loc))
+    geo = GeoText(text)
+    if location == 'Company not found' and geo.cities:
+        nation = list(geo.country_mentions.keys())
+        location = str(geo.cities[0]) +', '+str(nation[0])
     if check_remote(text):  
         location = 'remote'
     salary = 'not found'
@@ -153,9 +158,11 @@ def get_entities(site_dict):
     index_json(site_dict['dice'],'dice')
 
 if __name__ == "__main__":
+    print(datetime.datetime.now())
     entries = os.listdir('C:/Users/Leon/Data/Jobs')
     site_dict = {}
     for e in entries:
         site_dict[e] = get_listings(e)
         print(e,len(site_dict[e]))
     get_entities(site_dict)
+    print(datetime.datetime.now())

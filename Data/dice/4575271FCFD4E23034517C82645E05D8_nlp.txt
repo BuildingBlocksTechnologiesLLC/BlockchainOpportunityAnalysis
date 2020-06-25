@@ -1,6 +1,6 @@
-bodylocation:US
-bodycompany:Career
+bodylocation:Dice
+bodycompany:Yahoo
 bodysalarynot found
-titlelocation: TX 
+titlelocation:Irving, US
 titlecompany:InfoVision Inc
 titlesalary:not found

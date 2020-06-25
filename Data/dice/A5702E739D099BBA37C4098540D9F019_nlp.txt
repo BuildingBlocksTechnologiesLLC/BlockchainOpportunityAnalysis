@@ -1,4 +1,4 @@
-bodylocation:no location found
+bodylocation:Blacksburg
 bodycompany:Alert
 bodysalarynot found
 titlelocation:Blacksburg

@@ -1,5 +1,5 @@
-bodylocation:NY
-bodycompany:Career
+bodylocation:New
+bodycompany:Yahoo
 bodysalarynot found
 titlelocation:New York
 titlecompany:Company not found

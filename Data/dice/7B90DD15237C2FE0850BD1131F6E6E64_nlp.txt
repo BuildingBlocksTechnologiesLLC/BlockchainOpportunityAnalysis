@@ -1,4 +1,4 @@
-bodylocation:Skyrocket
+bodylocation:CA
 bodycompany:Alert
 bodysalarynot found
 titlelocation:San Francisco CA

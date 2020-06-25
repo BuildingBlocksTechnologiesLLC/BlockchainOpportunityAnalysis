@@ -1,6 +1,6 @@
-bodylocation:no location found
-bodycompany:Apply
+bodylocation:Blockchain
+bodycompany:Alert
 bodysalarynot found
-titlelocation: RI 
+titlelocation:Providence, US
 titlecompany:Information Resource Group Inc
 titlesalary:not found

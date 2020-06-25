@@ -1,6 +1,6 @@
-bodylocation:no location found
+bodylocation:LA
 bodycompany:Alert
 bodysalarynot found
-titlelocation: LA 
+titlelocation:Lafayette, US
 titlecompany:Lafayette LA com
 titlesalary:not found

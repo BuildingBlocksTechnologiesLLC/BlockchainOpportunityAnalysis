@@ -1,5 +1,5 @@
-bodylocation:CA
-bodycompany:Career
+bodylocation:Francisco
+bodycompany:Inc
 bodysalarynot found
 titlelocation:San Francisco CA
 titlecompany:Mindsource Inc

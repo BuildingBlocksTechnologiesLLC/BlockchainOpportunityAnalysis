@@ -1,6 +1,6 @@
-bodylocation:no location found
-bodycompany:Apply
+bodylocation:Location not found
+bodycompany:Alert
 bodysalarynot found
-titlelocation: TX 
+titlelocation:Irving, US
 titlecompany:InfoVision Inc
 titlesalary:not found

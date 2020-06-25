@@ -1,4 +1,4 @@
-bodylocation:no location found
+bodylocation:CA
 bodycompany:Alert
 bodysalarynot found
 titlelocation:San Francisco CA

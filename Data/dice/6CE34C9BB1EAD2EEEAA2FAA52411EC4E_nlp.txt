@@ -1,6 +1,6 @@
-bodylocation:no location found
-bodycompany:Apply
+bodylocation:Location not found
+bodycompany:Alert
 bodysalarynot found
-titlelocation: NC 
+titlelocation:Morrisville, US
 titlecompany:Morrisville NC
 titlesalary:not found

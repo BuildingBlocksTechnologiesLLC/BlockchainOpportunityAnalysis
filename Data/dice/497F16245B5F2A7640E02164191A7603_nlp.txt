@@ -1,5 +1,5 @@
 bodylocation:Francisco
-bodycompany:Career
+bodycompany:Yahoo
 bodysalarynot found
 titlelocation:San Francisco CA
 titlecompany:Mindsource Inc

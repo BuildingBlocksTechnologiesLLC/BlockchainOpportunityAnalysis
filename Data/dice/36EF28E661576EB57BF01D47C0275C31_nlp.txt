@@ -1,4 +1,4 @@
-bodylocation:no location found
+bodylocation:NY
 bodycompany:Alert
 bodysalarynot found
 titlelocation:New York
