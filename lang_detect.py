@@ -1,7 +1,7 @@
 import sys
 import gzip
 import json
-import langid
+
 
 def get_lang(text):
 
