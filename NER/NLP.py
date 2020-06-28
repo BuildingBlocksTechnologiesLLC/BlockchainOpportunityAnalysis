@@ -6,6 +6,7 @@ from geotext import GeoText
 import nltk
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
+import geograpy3
 import numpy as np
 import os
 import json 
@@ -129,6 +130,8 @@ def nlp_body(text,tagger):
     salary = 'not found'
     return location, org_name, salary
 
+def nlp_url
+
 def index_json(filenames,site):
     """Get retrive data from json files"""
     tagger = StanfordNERTagger('C:/Users/Leon/BlockchainOpportunityAnalysis/stanford-ner-4.0.0/classifiers/english.all.3class.distsim.crf.ser.gz',
@@ -139,9 +142,11 @@ def index_json(filenames,site):
         with gzip.GzipFile('C:/Users/Leon/Data/Jobs/'+site+'/'+f,"r") as json_file:
             job = json.loads(json_file.read().decode('utf-8'))
          
-            text_loc, text_org,body_sal = nlp_body(regex.sub(' ',job['Body']),tagger)
+
             title_loc, title_org,title_sal = nlp_title(regex.sub(' ',job['Title']),tagger)
-            
+            url_loc, url_org,url_sal = nlp_url(' ',job['Url']),tagger)
+            text_loc, text_org,body_sal = nlp_body(regex.sub(' ',job['Body']),tagger)
+
             state = check_state(job['Title'])
             if title_loc == "Location not found" and state:
                     title_loc = check_state(job['Title'])[0]
