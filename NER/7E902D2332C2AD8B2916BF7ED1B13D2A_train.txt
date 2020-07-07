@@ -1,0 +1,10 @@
+{
+    "Salary": "2000 -2500$",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "BeInCrypto",
+    "Body": " Responsibilities: -Create a systematic, process-driven approach to partner outreach and relationship management -Identify and source partnership opportunities through inbound lead follow-up and outbound calls and emails -Research partners, identify key players and generate interest -Negotiate and finalize deals in accordance with company\u2019s guidelines -Measure, and report the results of various projects with partners, including co-created and/or co-branded content promotions, lead sharing, and/or event partnerships -Keep great ongoing relationships with current partners and offer new ways to grow the partnership Please apply if you have: -Solid previous working experience as an Outreach and Partnerships Manager -Sales experience -Previous experience working in the crypto space is a plus -BA/BS in Marketing, Communication or similar relevant filed -Excellent organizational and time management skills -Networking aptitude Skills sales Compensation 2000 -2500$ ",
+    "Url": "https://crypto.jobs/jobs/partnerships-and-sales-manager-at-beincrypto",
+    "Title": "Partnerships and Sales Manager Job at BeInCrypto",
+    "Site": "crypto"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Boston, United States",
+    "Date Posted": "1 May 2020",
+    "Company name": "Algorand",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Algorand A scalable, secure, decentralized digital currency and transactions platform Technical Evangelist / Developer Advocate Boston \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Los Angeles \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 San Francisco \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Engineering \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 1 May 2020 Algorand is hiring a full-time Technical Evangelist / Developer Advocate in Boston, Los Angeles or San Francisco. Algorand - A scalable, secure, decentralized digital currency and transactions platform. Apply now Algorand website View more jobs at Algorand developer advocate evangelist How did you hear about this opportunity? Please let Algorand know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like Digital Asset Director of Community Taxa Network Developer Marketing Specialist Flow Developer Evangelist - Blockchain Libra Association Developer Advocate NEAR Developer Relations \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/engineering/algorand-technical-evangelist-developer-advocate/",
+    "Title": "Technical Evangelist / Developer Advocate at Algorand \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

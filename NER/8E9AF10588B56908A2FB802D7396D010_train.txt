@@ -1,0 +1,10 @@
+{
+    "Salary": "80-120,000",
+    "Location": "London, England, United Kingdom",
+    "Date Posted": "Not Found",
+    "Company name": "LedgerComm",
+    "Body": " Posted by: William Nash William Nash Founder - LedgerComm.io We're hiring - Check out our CTO job posting .... A chance to join an early stage start up in the Fintech space. Based in London this is a full time role. A chance for a highly ambitious individual to make the jump to a CTO. Ideally you will have experience at a start up already and are looking to take the next step in your career. Your role as a blockchain fluent engineer will be turning our vision into technical reality. You will be one of the earliest members of the tech team hence, you will have the option to lead future platform development as we go along in our path. As an experienced full stack developer you want to take the next step in your career and make the leap to CTO. This is a chance for you take a stake in very focused fintech business looking to change a $8 trillion marketplace. You will have intimate knowledge of multiple blockchain technology and be able to advise on the correct path to success. You will be responsible for the following:? MVP build out? Technical Design and Architecture Hiring a tech team? Making strategic decisions on which technologies will future proof our business Product management Security managment Liaising with investors from a tech point of view This is a full time role with equity available on top of a decent basic range of ?80-120,000 for the right candidate. ",
+    "Url": "https://uk.linkedin.com/jobs/view/cto-senior-blockchain-engineer-at-ledgercomm-1678113123?trk=guest_job_details_job-result-card_result-card_full-click",
+    "Title": "LedgerComm hiring CTO/Senior Blockchain Engineer in London, England, United Kingdom | LinkedIn",
+    "Site": "linkedin"
+}

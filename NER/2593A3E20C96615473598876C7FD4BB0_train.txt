@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Frankfurt am Main",
+    "Date Posted": "28 Nov 2019",
+    "Company name": "Northern Bitcoin",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Northern Bitcoin A sustainable and profitable infrastructure to the bitcoin blockchain Media Assistant Frankfurt am Main \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Marketing \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 28 Nov 2019 Northern Bitcoin is hiring a full-time Media Assistant in Frankfurt am Main. Northern Bitcoin - A sustainable and profitable infrastructure to the bitcoin blockchain. Apply now Northern Bitcoin website bitcoin entry-level non-tech social media marketing How did you hear about this opportunity? Please let Northern Bitcoin know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/marketing/northern-bitcoin-media-assistant/",
+    "Title": "Media Assistant at Northern Bitcoin \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

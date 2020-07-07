@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Remote",
+    "Date Posted": "Not Found",
+    "Company name": "Salt",
+    "Body": " Posted by: Bea Casey Bea Casey Director @ Salt - Partnering with disruptive technology companies and digital talent across the US *** 100%??permanently??remote ***Decentralized Finance (DeFi) *** Salt is working with a start-up who is being incubated by one of the most successful investors in cutting edge technology in the data-rich world of finance. Along with many highly successful VC firms. This meaningful venture is passionately driven by equality for all people to have universal access to the financial market. ?? The founders of this innovative startup are Ex-google and Goldman Sachs, who have already built startups that were successfully acquired. ??This role will be a key addition to the fast-growing team and will assist this elite team of engineers in the next stage of development for this promising Crypto leader. ?? If you have a passion or interest in blockchain technology, cryptonomic, protocol design, game theory, and decentralized finance; this could be the right career opportunity for you. Tech Stack : React, Solidity, JavaScript, Node.JS, Drizzle, Truffle. ",
+    "Url": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-blockchain-at-salt-1880128943?refId=df998f5a-01d9-4e12-9872-05d9745715ff&position=1&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Salt hiring Senior Full Stack Engineer - Blockchain in California, United States | LinkedIn",
+    "Site": "linkedin"
+}

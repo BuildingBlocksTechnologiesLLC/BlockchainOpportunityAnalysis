@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Bellevue, Washington, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Aditi Consulting",
+    "Body": " Position: Typescript Developer Required Skills Extensive experience with Typescript Must be able to build very lightweight, no framework application (ES5+) Blockchain or Bitcoin experience is a plus Must have prior experience with C# or Java Must understand real-time messaging systems, websockets, etc Must be able to quickly and rapidly go from vague discriptions to a working implementation. Must be able to fill in gaps in the requirements Additional Information All your information will be kept confidential according to EEO guidelines. Title: JavaScript Developer JavaScript Developer duties and responsibilities Develop and enhance our main front end platform - website Develop new user-facing features Design and develop new front end applications for various platforms Help out with front end work on other applications (HTML/CSS/JS in Ruby applications) Develop specifications and designs for complex applications or modifying/maintaining complex existing applications Perform code analysis, requirements analysis, identification of code metrics, system risk analysis and software reliability analysis Performance tuning, improvement, balancing, usability, automation For Any Queries, Contact Marisha Nikumbh Marketing Coordinator Ph: (650) 618 3908 Email: marishan@aditiconsulting.com www.aditiconsulting.com ",
+    "Url": "https://www.linkedin.com/jobs/view/javascript-typescript-developer-at-aditi-consulting-1852614947?refId=f4e24739-5cbf-4b6e-9c2b-1b3a4050fef0&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Aditi Consulting hiring JavaScript / TypeScript Developer in Bellevue, Washington, United States | LinkedIn",
+    "Site": "linkedin"
+}

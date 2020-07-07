@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Bangalore",
+    "Date Posted": "Not Found",
+    "Company name": "Tradelab",
+    "Body": " Blockchain Developer Tradelab Full Time Tech Bangalore 2744 views \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 posted 650 ",
+    "Url": "https://crypto.jobs/locations/bangalore/solidity",
+    "Title": "2020\u2019s Top Solidity Jobs in Bangalore",
+    "Site": "crypto"
+}

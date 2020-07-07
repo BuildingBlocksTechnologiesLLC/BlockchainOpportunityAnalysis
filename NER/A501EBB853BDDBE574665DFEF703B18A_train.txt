@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "4 months ago",
+    "Company name": "JOP Blockchain",
+    "Body": "JOP Blockchain About JOP Blockchain JOP blockchain is seeking a Chief Operating Officer/partner to join our executive team (working in tandem with the CEO/Founder) . The COO is both a self proclaimed blockchain & crypto nerd, loves entrepreneurship as joining ambitious start-ups. JOP is a live on-demand service mobile platform, with +35K users in NYC. JOP was launch in 2016 by Canel Frichet and Sebastian Lombardo, 2 french-american digital entrepreneur with extensive track record. Website Active 4 months ago\u00c3\u0083\u00c2\u00b0\u009f\u0091\u0081\u00c3\u0083\u00c2\u00af\u00c3\u0082\u00c2\u00b8\u008f 119 views Company Culture Company Properties Interview Process Current Team Tech stack Funding Vacation Policy Founded Date HQ HomeCompaniesJOP Blockchain Blockchain company profiles: Featured Interview BRD Featured Interview Status Featured Interview Etherscan Featured Interview Parity Technologies View all Blockchain Companies Browse jobs by Role Remote Blockchain jobs Blockchain Developer jobs Blockchain Marketing jobs Blockchain Designer jobs Earn Bitcoin Hire Blockchain Talent Solidity jobs Crypto Trader jobs Crypto Analyst jobs Community Manager jobs Browse jobs by Location San Francisco jobs Austin blockchain jobs Boston blockchain jobs Chicago blockchain jobs New York blockchain jobs Seattle blockchain jobs Singapore blockchain jobs Hong Kong blockchain jobs London blockchain jobs Paris blockchain jobs Berlin blockchain jobs Hiring Blockchain Talent? \u00c3\u0083\u00c2\u00a2\u0086\u0092 Post a job for $199 Partners: AirdropAlert Dapp University More partners\u2026 Twitter Telegram LinkedIn Reddit Instagram Facebook Jobs Salaries Companies Affiliate Hire Success Stories Blog RSS TermsFeedback & Support \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Crypto Jobs List",
+    "Url": "https://cryptojobslist.com/companies/jop-blockchain",
+    "Title": "JOP Blockchain - Company Culture, Jobs and Blockchain Careers",
+    "Site": "cryptojobslist"
+}

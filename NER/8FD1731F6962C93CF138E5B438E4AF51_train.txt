@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "AskBrains",
+    "Body": " We're looking for blockchain architect and stellar developer in our company. Offering equity, token stake and salary Our project: askbrains.con Skills Blockchain, Stellar Compensation Ready to discuss + Equity ",
+    "Url": "https://crypto.jobs/jobs/blockchain-stellar-architect-at-askbrains",
+    "Title": "Blockchain/Stellar architect Job at AskBrains",
+    "Site": "crypto"
+}

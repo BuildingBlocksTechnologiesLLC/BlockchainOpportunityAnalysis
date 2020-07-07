@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "GoCryp.to",
+    "Body": " For a new coin we are looking for online promoters/ marketeers that can promote the token in different ways (forum posts, videos, twitter, instagram, etc). Skills social media Compensation Tokens + Equity ",
+    "Url": "https://crypto.jobs/jobs/online-promoter-marketeer-at-gocryp-to",
+    "Title": "Online promoter/marketeer Job at GoCryp.to",
+    "Site": "crypto"
+}

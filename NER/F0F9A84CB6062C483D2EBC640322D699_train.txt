@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Madison, Wisconsin, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Prism IT Corporation",
+    "Body": " Blockchain developers at Prism IT Corporation Madison, WI ?? About the Job #Blockchain developers Snippets Inc Urgent Requirement for our SOW project Blockchain developers with Hyperledge ( HyperLedger Fabric framework, Python, PostGres, NodeRed and Javascript ) Location : Madison, WI, Bethesda, MD, Atlanta,GA ?? 1 mid-level - Green card or U.S. Citizen 1 mid level - offshore 1 junior level - Green card or U.S. Citizen 1 junior level - offshore Rate : Open ( Please submit the resume with your expectation onsite rate and/or remote rate) Thanks and Regards, DAYA 904-252-1145(C) ",
+    "Url": "https://job-openings.monster.com/blockchain-developers-madison-wi-us-prism-it-corporation/217695004",
+    "Title": "Blockchain developers job at Prism IT Corporation | Monster.com",
+    "Site": "monster"
+}

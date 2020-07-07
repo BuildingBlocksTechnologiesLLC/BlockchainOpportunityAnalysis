@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Manhattan, New York, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Huxley Banking & Financial Services",
+    "Body": " Blockchain & Digital Assets Exchange - Core Java Developer at Huxley Banking & Financial Services Manhattan, NY 10024 ? About the Job Huxley Associates are working on a search for a leading Cryptocurrency Exchange based in Midtown Manhattan. They are looking for talented Core Java developer with strong experience in Multithreading and low latency to join their award winning team to help build out their financial trading platform specialising in Digital Assets and Block-chain. Experience with building trading applications is highly preferred and you must have prior financial services experience. Knowledge and interest in Block-chain and Crypto would also be a major benefit - although is not a must have. The role is a contract position paying market leading rates (depending on experience) Please apply now if interested and one of our consultants will get in touch! Thanks #Java #CoreJava #Developer #engineer #react #developer #crypto #blockchain #exchange Sthree US is acting as an Employment Business in relation to this vacancy. - provided by Dice ",
+    "Url": "https://job-openings.monster.com/blockchain-digital-assets-exchange-core-java-developer-manhattan-ny-us-huxley-banking-financial-services/6ec98899-f63a-44e0-9aca-20e906271e5b",
+    "Title": "Blockchain & Digital Assets Exchange - Core Java Developer job at Huxley Banking & Financial Services | Monster.com",
+    "Site": "monster"
+}

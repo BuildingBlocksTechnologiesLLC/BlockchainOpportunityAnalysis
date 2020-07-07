@@ -1,0 +1,10 @@
+{
+    "Salary": "7000 - 21000",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "Nebula Network",
+    "Body": " We're building the core team for Nebula Network - we need extraordinary and friendly people that others will want to join. We are working within the fields of cryptocurrencies and cloudcomputing - a big plus is experience within those industries. For the best people - stock options are an option. You can work from anywhere on earth - except for events and meetings which mostly Business Developers need to attend. A good candidate should be able to commit full time after some time. We do intend to change the world and that requires commitment. A higher education from renowned universities, and delivered recognizable projects are a plus. For this position we expect: - A thorough understanding of security issues on all levels - At least 5 years of DevOp experience in different environments - Experience with pen testing - Excellent understanding of various levels software architecture - A master of version control & continuous integration - Understands good policies in access control policing -A white hat with excellent work & general ethic - Experience with handling money, especially cryptocurrencies is a plus Skills pen testing, software architecture, version control, continuous integration Compensation 7000 - 21000 PLN + Equity Applications for this job are currently closed. ",
+    "Url": "https://crypto.jobs/jobs/head-of-devops-security-at-nebula-network",
+    "Title": "Head of DevOps & Security Job at Nebula Network",
+    "Site": "crypto"
+}

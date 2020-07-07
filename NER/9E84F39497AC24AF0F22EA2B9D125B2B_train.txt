@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Menlo Park, California, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Findora",
+    "Body": " Research Scientists work with a talented team of engineers, architects, and researchers from various fields to build out Findora. Findora\u2019s research team operates at the cutting-edge of cryptography, distributed systems, economics, and consensus/state machine replication, staying up-to-date on new developments. Researchers must identify theoretical breakthroughs relevant to Findora and work closely with the engineering team to bring them into practice. As a member of the research team, you will work closely with industry-leading cryptographers who have made substantial contributions to blockchain privacy and scalability (Bulletproofs, batching techniques for accumulators, solvency proofs, VDFs, to name a few). Responsibilities Research scalability techniques for the Findora blockchain Investigate new consensus models/techniques Design new distributed system architectures with strong security guarantees Stay up-to-date on new developments in consensus and distributed systems research, and determine their applicability to Findora Represent Findora at conferences and relevant industry eventsMinimum qualifications MS or PhD in Computer Science, Mathematics, or another relevant field Experience with blockchain systemsPreferred Experience with Rust and/or C++ in a production environment Track record of relevant peer-reviewed publicationsPerks Work on new problems in an emerging field Learn from systems engineering, cryptography, and finance domain experts in a mentorship-oriented work culture Make a big impact as an early contributor ",
+    "Url": "https://www.linkedin.com/jobs/view/research-scientist-consensus-distributed-systems-at-findora-1823002436?refId=3276fa68-4821-4e15-a04d-0723f0fccf53&position=14&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Findora hiring Research Scientist, Consensus/Distributed Systems in Menlo Park, California, United States | LinkedIn",
+    "Site": "linkedin"
+}

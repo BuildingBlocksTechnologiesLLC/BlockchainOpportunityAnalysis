@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "San Francisco, California, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Skyrocket Ventures",
+    "Body": " Posted by: Bobby Kim Bobby Kim Client Relations Director at Skyrocket Ventures Sr. Front End Engineer - Profitable Blockchain Startup Palo Alto, CA This company is led by industry veterans with a proven track record of success, and is building disruptive products in the blockchain space. The company is profitable, and is rapidly growing, with a desire to hire as many great engineers as possible, as quickly as possible. In addition to very competitive salary, the company will offer equity which could be very lucrative. Job Responsibilities: - Designing and implementing new user-facing features - Collaborating with the design team to implement clean and elegant user experiences - Building responsive, scalable, elegant web applications - Optimizing web applications for speed and scale - Developing prototypes quickly. Qualifications: - At least 2 (preferably 5+) years experience as a front end software engineer - A Bachelors degree in Computer Science or a related field. - Skills in HTML, CSS, and Javascript - Understanding of Javascript frameworks such as React and Angular - Ability to write clean and maintainable code with engineering best practices such as unit testing, source control, automation, design patterns, etc Nice to have: - Startup experience - Passion for user experience - Passion for blockchain technology ",
+    "Url": "https://www.linkedin.com/jobs/view/sr-front-end-engineer-profitable-blockchain-startup-at-skyrocket-ventures-892762373?refId=61c86871-f045-4728-844b-2e3d863bd552&position=3&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Skyrocket Ventures hiring Sr. Front End Engineer - Profitable Blockchain Startup in San Francisco, California, United States | LinkedIn",
+    "Site": "linkedin"
+}

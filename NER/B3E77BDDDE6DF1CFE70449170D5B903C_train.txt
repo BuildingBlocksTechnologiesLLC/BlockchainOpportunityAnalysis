@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "IBC International Blockchain Consulting",
+    "Body": " IBC Group is growing fast and hiring accordingly. We are seeking an experienced, nimble and efficient with the ability to take charge, lead a team and improve existing systems. Experience with CRM and project management tools is necessary.Also, experience with blockchain. Skills required: - leadership - organizational - willingness and ability to learn fast - flexibility Project Type: Ongoing project You will be asked to answer the following questions when submitting a proposal: What project management and/or CRM tools have you used? What would you consider as your main strength? What would you consider as your main area of improvement? Skills Project Management Compensation will be discussed later Applications for this job are currently closed. ",
+    "Url": "https://crypto.jobs/jobs/senior-project-manager-at-ibc-international-blockchain-consulting",
+    "Title": "Senior Project Manager Job at IBC International Blockchain Consulting",
+    "Site": "crypto"
+}

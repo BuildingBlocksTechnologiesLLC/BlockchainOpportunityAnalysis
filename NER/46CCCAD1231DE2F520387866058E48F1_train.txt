@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Bengaluru, Karnataka, India",
+    "Date Posted": "Not Found",
+    "Company name": "Kanektify Academy",
+    "Body": " Posted by: Nayana.S Devanga Nayana.S Devanga Adamin at Kanektify Academy - ",
+    "Url": "https://in.linkedin.com/jobs/view/blockchain-consultant-at-kanektify-academy-1518867019?refId=9dcc7fe4-db40-4ba7-bcd4-dfe9f0759f43",
+    "Title": "Kanektify Academy hiring Blockchain Consultant in Bengaluru, Karnataka, India | LinkedIn",
+    "Site": "linkedin"
+}

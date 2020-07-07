@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Toronto, ON, Canada",
+    "Date Posted": "Not Found",
+    "Company name": "ViewFin",
+    "Body": " Posted by: Ange Martinez Ange Martinez Human Resources Manager At ViewFin Canada The Candidate will be be expected to perform public chain analysis and conduct market analyses in the crypto and blockchain industry. For more information: https://ca.indeed.com/m/viewjob?jk=98b91b087e78d8c9&from=applyfrommycomputer&dupclk=0&utm_source=jobseeker_emails&utm_medium=email To apply: Send us your resume and report at: ange.martinez@viewfin.com ",
+    "Url": "https://ca.linkedin.com/jobs/view/blockchain-analyst-at-viewfin%E2%84%A2-1703564151?refId=4497a685-ebc9-4e5e-aaeb-4bb21353b9fb&position=3&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "ViewFin? hiring Blockchain Analyst in Toronto, ON | LinkedIn",
+    "Site": "linkedin"
+}

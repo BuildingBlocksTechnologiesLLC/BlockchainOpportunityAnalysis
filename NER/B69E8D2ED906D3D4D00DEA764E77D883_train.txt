@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Munich, Bavaria, Germany",
+    "Date Posted": "Not Found",
+    "Company name": "Fruition IT",
+    "Body": " Blockchain Software Architect? Location: Munich, Germany My client, is a global leader in shaping the future and the power of innovation to thrive on change. Utilizing the latest technology, to translate strategic goals into efficient business processes, by offering end to end services. Your profile?(not limited to):?? Completed studies in computer science, electrical engineering or mechanical engineering. Several years of professional experience as a senior developer or software architect. Excellent knowledge of Java, Spring and software architectures. Routine with agile software development, virtualization and cloud technologies. Profound experience with relational and NoSQL databases and current BI stacks. Interest in IT security, blockchain technologies or machine learning. What the role is:?? ? Working on the latest technology, and implementation of products for cutomers.? Daily topics that engage you are intelligent platforms, P2P ecosystems, digital identities or collaborative business models - essentialy digitization brought to the \"streets\".? If you are interested in answering the following questions, then I am keen to hear from you.? How can workflow engines be efficiently combined with machine learning or chatbots in modern microservice architectures?? When do blockchain and DLT come into play?? How can sovereign identities be used in B2C applications?? You can contact me via email: achim.pashi@fruitionit.co.uk or via the phone +44 113 323 97 59. ",
+    "Url": "https://de.linkedin.com/jobs/view/blockchain-software-architect-at-fruition-it-1714903726?refId=6741dfbd-b5dd-43b2-aa23-91a187d2ab24&position=10&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "Fruition IT hiring Blockchain Software Architect in Munich, Bavaria, Germany | LinkedIn",
+    "Site": "linkedin"
+}

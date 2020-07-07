@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Haidian District, Beijing, China",
+    "Date Posted": "Not Found",
+    "Company name": "OKEx",
+    "Body": " Responsibilities Research, plan and develop the ecosystem construction of platform currency according to the company's development; Conduct research and plan about relevant co-operations and to promote them, based on business characteristics and development requirements of the company; Expand global famous overseas projects and reach cooperation intention to improve brand image; Connect and coordinate the resources of all parties in the blockchain industry; Be responsible for cooperating with product, market, business and other departments to jointly promote the construction of ecosystem. Requirements: ? Rich experience in channel development and management, and sales management is preferred; Have a deep understanding of blockchain format and trading platform business, and be able to expand resources and operators is preferred; Strong communication ability and pressure resistance, able to meet the requirements of business trip and regional development; Good English business communication skills; Experience in blockchain project management is preferred. ",
+    "Url": "https://cn.linkedin.com/jobs/view/senior-business-development-manager-at-okex-1694653111?trk=guest_job_details_job-result-card_result-card_full-click",
+    "Title": "OKEx hiring Senior Business Development Manager in Haidian District, Beijing, China | LinkedIn",
+    "Site": "linkedin"
+}

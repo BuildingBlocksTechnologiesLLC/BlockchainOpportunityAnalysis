@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Arlington, Virginia, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Capital TechSearch",
+    "Body": " Penetration Tester Join a Product Security team responsible for secure product design, code review and penetration testing of web, network, cloud and blockchain applications. Responsibilities: Work as part of a team delivering application and network security assessments. Perform web application, network and blockchain penetration testing, along with manual/automated code reviews Create unique testing tools and integrate vendor tools to assist in project goals. Provide technical leadership/mentorship to the security team. Senior Penetration Tester Qualifications: 5+ years of experience in Security Engineering / Penetration Tester Performing advanced-level penetration testing Performing automated and manual Web security reviews Demonstrating high ethical standards Applying offensive / red team methodologies Web Services penetration testing (RESTful and SOAP) Familiarity with common open source and commercial??testing tools SANS or OSCP certifications highly desirable Why us? Advanced technology environment Lots of room to grow Training Solve unique challenges Great benefits (100% healthcare premiums covered for employee and family) Direct-hire only ",
+    "Url": "https://www.linkedin.com/jobs/view/penetration-tester-at-capital-techsearch-1806834039?refId=d8c6fa59-e1ad-4e9e-a31a-794e148b6b86&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Capital TechSearch hiring Penetration Tester in Arlington, Virginia, United States | LinkedIn",
+    "Site": "linkedin"
+}

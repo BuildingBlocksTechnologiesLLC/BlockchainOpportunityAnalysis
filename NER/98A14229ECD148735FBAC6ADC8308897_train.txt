@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Singapore, SG",
+    "Date Posted": "Not Found",
+    "Company name": "JTE Recruit Pte Ltd",
+    "Body": " JTE is a recruitment platform & firm in Singapore assisting companies to source & hire suitable talents. Our goal is to provide an effective & efficient bridge for companies & talents. Allowing people to discover and develop careers. Responsible on raising fund for Blockchain related projects Understand the business development process and able to prepare and collate business content to persuade potential VCs / B2B customers Performing research for use within business and potential project feasibility Working with prospects, clients, and potential partners to understand proposed blockchain technology solutions; participate in or lead technical meetings and presentations Identifying new and creative ways to source viable clients including: VCs, directories, contact lists, database leads, internet resources and personal networking Prospecting of potential business and developing relationships with C-level decision-makers Recognizing and expanding upon changing seasonal/market conditions Securing initial client visits with all qualified prospects Negotiating and closing deals Collaborate with the Marketing team on the delivery of localised marketing activities Attending industry related functions to increase networking opportunities while gaining valuable knowledge Interested candidates please submit your application through Jobstore.com ",
+    "Url": "https://sg.linkedin.com/jobs/view/investment-manager-blockchain-at-jte-recruit-pte-ltd-1663394807?refId=f43f5386-e4f4-4072-bb0c-6adb087fc9e8&position=21&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "JTE Recruit Pte Ltd hiring Investment Manager (Blockchain) in Singapore, SG | LinkedIn",
+    "Site": "linkedin"
+}

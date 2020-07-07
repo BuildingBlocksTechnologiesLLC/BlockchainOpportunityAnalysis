@@ -1,0 +1,10 @@
+{
+    "Salary": "$5000 per month",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "Crypto PR Lab",
+    "Body": " Responsibilities: - Develop media relations strategy, seeking high-level placements in print, broadcast and online media - Identify main client groups and audiences, and determine the best way to reach them - Leverage existing media relationships and cultivate new contacts within business and industry media - Write interesting and effective press releases and prepare information for the media - Analyse media coverage - Evaluate opportunities for partnerships, sponsorships, and advertising on an on-going basis Experience needed: - Proven working experience in public relations required - Proven track record designing and executing successful public relations campaigns at both a national and international level - Nice to have: Strong relationships with European business and industry media outlets - Experience in acting as a company spokesperson; comfortable and skilled in both broadcast and print media interviews - Exceptional writing and editing skills - Solid experience with social media including blogs, Facebook, Twitter, etc. - Nice to have: BA/MA degree in Marketing, Advertising, Communications or a related discipline - Excellent English and German skills - Ideally experience in the Crypto, Fintech and/or financial industry Skills Management Compensation $5000 per month ",
+    "Url": "https://crypto.jobs/jobs/pr-manager-at-crypto-pr-lab-1",
+    "Title": "PR Manager Job at Crypto PR Lab",
+    "Site": "crypto"
+}

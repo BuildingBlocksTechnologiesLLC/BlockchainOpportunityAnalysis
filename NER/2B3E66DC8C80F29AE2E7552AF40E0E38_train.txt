@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "BloqBuzz",
+    "Body": " We need writers who are ready to challenge crypto and blockchain universe. If applying for internship, no experience is necessary. However, we would consider more experienced cryptowriters as well. Skills WordPress Compensation TBC ",
+    "Url": "https://crypto.jobs/jobs/writer-co-editor-at-bloqbuzz",
+    "Title": "Writer/Co-Editor Job at BloqBuzz",
+    "Site": "crypto"
+}

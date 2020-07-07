@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "London, England, United Kingdom",
+    "Date Posted": "Not Found",
+    "Company name": "Henderson Scott",
+    "Body": " Posted by: Akash Solankee Akash Solankee Senior Recruitment Consultant, Information Security at Henderson Scott Blockchain Engineer Currently looking for a Blockchain Engineer to work for one of the hottest, UK based startups offering a unique P2P trading platform for cryptocurrencies and tokenised assets. They have a unique platform pioneered using Multi-Party Computation (MPC) and a secure, decentralized network that removes the need to store private keys and makes moving bitcoin from A to B much faster than native chains. You'll be working alongside other Blockchain Engineers on distributed ledger technologies and building on top of Tendermint core to help craft consensus rules and put that into code. Ideally looking for experience in the following: Golang (must have), will still consider C++ as it's easy to transition into Hyperledger Fabric, Cosmos/Tendermint or similar Layer 2 Sidechain Developing open source distributed applications Worked on commercial Blockchain projects DevOps tooling and CI (basic minimum but not essential) Location: Shoreditch, London (office based) Salary: Highly Competitive + Stock ",
+    "Url": "https://uk.linkedin.com/jobs/view/blockchain-engineer-at-henderson-scott-1714790477?refId=6741dfbd-b5dd-43b2-aa23-91a187d2ab24&position=12&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "Henderson Scott hiring Blockchain Engineer in London, England, United Kingdom | LinkedIn",
+    "Site": "linkedin"
+}

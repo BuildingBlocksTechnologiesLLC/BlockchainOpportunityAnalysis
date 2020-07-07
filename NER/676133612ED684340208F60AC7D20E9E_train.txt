@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Bangkok",
+    "Date Posted": "24 Sep 2019",
+    "Company name": "OmiseGO",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs OmiseGO Next generation financial network and decentralized economy Developer Advocate Bangkok \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Engineering \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 24 Sep 2019 OmiseGO is hiring a full-time Developer Advocate in Bangkok. OmiseGO - Next generation financial network and decentralized economy. Apply now OmiseGO website View more jobs at OmiseGO developer advocate developer relations How did you hear about this opportunity? Please let OmiseGO know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/engineering/omisego-developer-advocate/",
+    "Title": "Developer Advocate at OmiseGO \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Remote",
+    "Date Posted": "4 Mar 2020",
+    "Company name": "Unchained Capital",
+    "Body": " Unchained Capital Bitcoin and cryptocurrency backed loans Product Designer Austin \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Remote - US \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Design \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 4 Mar 2020 Unchained Capital is hiring a full-time Product Designer in Austin or Remote - US. Unchained Capital - Bitcoin and cryptocurrency backed loans. Apply now Unchained Capital website View more jobs at Unchained Capital bitcoin product product designer How did you hear about this opportunity? Please let Unchained Capital know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like Compound Product Designer Tari Product Designer Bancor Product Designer Aion Product Designer MakersPlace Product Designer \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/design/unchained-capital-product-designer/",
+    "Title": "Product Designer at Unchained Capital \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

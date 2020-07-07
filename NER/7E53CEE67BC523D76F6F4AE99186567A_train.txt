@@ -1,0 +1,10 @@
+{
+    "Salary": "Token Equity",
+    "Location": "Remote",
+    "Date Posted": "Not Found",
+    "Company name": "Ventmode",
+    "Body": "Graphics/Animations Designer Intern at Ventmode Ventmode strives in building communities all over the globe. Our main goal is to connect communities, enterprises and startups with the right audience. Our platform (Ventmode) builts and provides all the necessary tools needed to equip startups to enable them attracts investors and reaching exceptional success. TO apply send us an mail at : \u00c3\u0083\u0083\u0082\u00c3\u0083\u0082\u00c3\u0082\u00c2\u00af\\_(\u00c3\u0083\u0083\u00c3\u0082\u00c2\u00a3\u0083\u0084)_/\u00c3\u0083\u0083\u0082\u00c3\u0083\u0082\u00c3\u0082\u00c2\u00af Job Description Salary Expectations: Token Equity. What We expect from you: Should have the willingness to learn, develop and improve skills. Should be ready and determined to partake in any challenge. Should be able to create graphics designs, info-graphics and basic designs. Should be able to create animation videos with minimal experience with blender,lighthouse and animation softwares. Should be familiar with abode suites( photoshop, abode illustrator, corel draw, paint, indesign) and a varieties of designing softwares. Should be creative HTML/CSS skills is an additional bonus. What you will Gain: A chance to work with open minded individuals. Access to creative ideas and tools. Gaining Experience in graphics designs, animations and team work. Token equity. A chance to be retained Full time. Flexible working Hours. \u00c3\u0083\u0083\u00c3\u0082\u00c2\u00b0\u009f\u0093\u008d Remote \u00c3\u0083\u0083\u00c3\u0082\u00c2\u00b0\u009f\u008c\u008e Remote \u00c3\u0083\u0083\u00c3\u0082\u00c2\u00b0\u009f\u0092\u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b0 Token Equity ",
+    "Url": "https://cryptojobslist.com/jobs/graphics-animations-designer-intern-at-ventmode-remote",
+    "Title": "Graphics/Animations Designer Intern job at Ventmode | Remote",
+    "Site": "cryptojobslist"
+}

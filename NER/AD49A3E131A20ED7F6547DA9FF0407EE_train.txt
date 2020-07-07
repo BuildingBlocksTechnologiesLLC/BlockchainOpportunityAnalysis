@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "San Francisco, California, United States",
+    "Date Posted": "Not Found",
+    "Company name": "BitMEX",
+    "Body": " The goal of the security engineer is to design and implement cryptographic systems that protect and ensure the authenticity of critical data and are not vulnerable to physical or virtual attack. She or he achieves this by keeping abreast of the latest developments in cryptography research, understanding past and current attacks on cryptographic systems, and applying this knowledge to the problems faced by BitMEX. Key Responsibilities: The ability to communicate highly technical cryptographic problems and their solutions to non-cryptographer decision-makers within the organization The ability to weigh and translate the the risk of leveraging legacy cryptographic solutions with known weaknesses vs the risk of less mature, new solutions being vulnerable to unknown attacks The ability to deliver maintainable cryptographic code that is relatively easy for non-cryptographers to uptake and use Be a team player and someone that others feel comfortable approaching with cryptography related questions Skills, Traits & Competencies: 5+ years of industry experience Strong software development skills Deep understanding of applied cryptography, common cryptographic primitives, cryptographic concepts, and practical attacks Strong understanding of modern and next-gen cryptography problems and potential solutions, especially in relation to multi-party computation Excellent ability to communicate complex ideas to audiences with varying cryptography backgrounds ",
+    "Url": "https://www.linkedin.com/jobs/view/security-engineer-cryptography-at-bitmex-1651537578?trk=guest_job_details_job-result-card_result-card_full-click",
+    "Title": "BitMEX hiring Security Engineer, Cryptography in San Francisco, California, United States | LinkedIn",
+    "Site": "linkedin"
+}

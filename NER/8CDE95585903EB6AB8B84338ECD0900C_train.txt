@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Manchester, GB",
+    "Date Posted": "Not Found",
+    "Company name": "CONSULT",
+    "Body": " Leading customer needs a fantastic content marketing specialist with Fintech and Blockchain background who can deliver an exciting stream of content - you will write 5-6 articles a day of interesting relevant content, based on Blockchain and Fintech news - or any topic you find interesting that will generate user interest, that can be adapted to the Bitcoin and Blockchain industry. You will need amazing grammar, writing skills and research abilities - also experience in building a community fast! If you are interested in this exciting opportunity please get in touch now. ",
+    "Url": "https://uk.linkedin.com/jobs/view/content-marketing-bitcoin-blockchain-at-consult-1708500207?refId=6b4c1d0a-5424-436f-bed4-db93c42b0a7d&position=24&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "CONSULT hiring Content Marketing - Bitcoin & Blockchain in Manchester, GB | LinkedIn",
+    "Site": "linkedin"
+}

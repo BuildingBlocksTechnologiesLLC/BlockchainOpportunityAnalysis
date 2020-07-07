@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Sydney, AU",
+    "Date Posted": "Not Found",
+    "Company name": "RoBloX",
+    "Body": " Description: We are CoBloX, the R&D lab of TenX - a growth-stage startup - with the mission to bring cryptocurrencies to the masses. This means you can expect to find a fast-paced environment, bleeding-edge technology, and a group of highly motivated engineers and researchers, collaborating to change the world. We are building COMIT, an open protocol facilitating trustless cross-blockchain applications. Our current objective is to set the industry standard for atomic swaps across major public open blockchains. Location: Sydney, Australia Requirements: About you: * Are you a curious engineer who is excited about blockchain technology? * Do you value open source software and want to contribute to it? * Are you keen to solve problems that no one has solved before? * You prefer learning new concepts over learning new frameworks. * Learning new programming languages is one of your hobbies. * You are interested in cryptography. Your skills: * You enjoy employing functional programming concepts. * You are familiar with strongly-typed languages such as C, C++, Go or Haskell. * You have experience with or are interested in learning Rust. Benefits: Perks of working with us: * A casual work environment where results matter more than office time * Developer-friendly tools, whether it's Linux, BSD or Mac that you prefer ",
+    "Url": "https://au.linkedin.com/jobs/view/software-engineer-blockchain-at-tenx-1655899270?trk=guest_job_details_job-result-card_result-card_full-click",
+    "Title": "TenX hiring Software Engineer - Blockchain in Sydney, AU | LinkedIn",
+    "Site": "linkedin"
+}

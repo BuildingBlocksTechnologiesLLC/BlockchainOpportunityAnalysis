@@ -1,0 +1,10 @@
+{
+    "Salary": "$100K - $130K",
+    "Location": "Not Found",
+    "Date Posted": "21 Jun 2019",
+    "Company name": "BlockFi",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs BlockFi Loans backed by your cryptocurrency Accounting Manager / Controller New York \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Operations \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 $100K \u2013 $130K Date posted: 21 Jun 2019 BlockFi is hiring a full-time Accounting Manager / Controller in New York. BlockFi - Loans backed by your cryptocurrency. Apply now BlockFi website View more jobs at BlockFi accountant finance financial controller non-tech How did you hear about this opportunity? Please let BlockFi know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/operations/blockfi-accounting-manager-controller/",
+    "Title": "Accounting Manager / Controller at BlockFi \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

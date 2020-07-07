@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Chicago, United States",
+    "Date Posted": "8 Oct 2019",
+    "Company name": "GSR",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs GSR Trading strategies for digital assets Trading Clerk Chicago \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Other \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 8 Oct 2019 GSR is hiring a full-time Trading Clerk in Chicago. GSR - Trading strategies for digital assets. Apply now GSR website finance trading How did you hear about this opportunity? Please let GSR know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/other/gsr-trading-clerk/",
+    "Title": "Trading Clerk at GSR \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

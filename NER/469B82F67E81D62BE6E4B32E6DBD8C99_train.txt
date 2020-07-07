@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Hong Kong",
+    "Date Posted": "6 Dec 2019",
+    "Company name": "block.one",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs block.one Designs free market systems to secure life, liberty, and property Web Project Manager Hong Kong \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Marketing \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 6 Dec 2019 block.one is hiring a full-time Web Project Manager in Hong Kong. block.one - Designs free market systems to secure life, liberty, and property. Apply now block.one website View more jobs at block.one project management wordpress How did you hear about this opportunity? Please let block.one know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/marketing/block-one-web-project-manager/",
+    "Title": "Web Project Manager at block.one \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

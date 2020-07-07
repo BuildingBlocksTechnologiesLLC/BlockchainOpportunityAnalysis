@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "San Francisco, California, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Mindsource Inc",
+    "Body": " UX Writer (Trading / Financial Services) Mindsource Inc, San Francisco, CA 1 month ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing ",
+    "Url": "https://www.dice.com/jobs/detail/UX-Writer-%28Trading-%26%2347-Financial-Services%29-Mindsource-Inc-San-Francisco-CA-94101/minds/6486257",
+    "Title": "UX Writer (Trading / Financial Services) - Mindsource Inc - San Francisco, CA | Dice.com",
+    "Site": "dice"
+}

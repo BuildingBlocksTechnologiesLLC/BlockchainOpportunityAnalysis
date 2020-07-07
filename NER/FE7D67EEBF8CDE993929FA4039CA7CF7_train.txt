@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Zurich",
+    "Date Posted": "6 Apr 2020",
+    "Company name": "Sygnum ",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Sygnum The world\u2019s first digital asset bank Compliance Intern (4 - 6 months) Zurich \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Operations \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Internship Date posted: 6 Apr 2020 Sygnum is hiring a Compliance Intern (4 - 6 months) in Zurich. Sygnum - The world\u2019s first digital asset bank. Apply now Sygnum website View more jobs at Sygnum compliance entry-level legal non-tech How did you hear about this opportunity? Please let Sygnum know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like Paxful Compliance Associate SEBA Crypto AG Senior Compliance Officer Crypto.com Senior Compliance Analyst Logos Network Chief Compliance Officer Akuna Capital Compliance Analyst \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/operations/sygnum-compliance-intern-4-6-months/",
+    "Title": "Compliance Intern (4 - 6 months) at Sygnum \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

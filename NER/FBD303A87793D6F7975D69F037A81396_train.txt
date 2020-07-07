@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Vilnius",
+    "Date Posted": "8 Jun 2020",
+    "Company name": "Blockchain",
+    "Body": " Blockchain Building an open, fair and accessible financial future Customer Success Associate - Night Shift (Live Chat) Vilnius \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Customer Support \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 8 Jun 2020 Blockchain is hiring a full-time Customer Success Associate - Night Shift (Live Chat) in Vilnius. Blockchain - Building an open, fair and accessible financial future. Apply now Blockchain website View more jobs at Blockchain customer success non-tech How did you hear about this opportunity? Please let Blockchain know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like Bison Trails Customer Success Specialist Luno Customer Success Associate Lolli Customer Care Specialist CoinDCX Sr. Customer Success Expert / Customer Success Expert eToro Customer Success Advocate \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/customer-support/blockchain-customer-success-associate-night-shift-live-chat/",
+    "Title": "Customer Success Associate - Night Shift (Live Chat) at Blockchain \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

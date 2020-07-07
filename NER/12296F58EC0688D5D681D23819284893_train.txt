@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Remote",
+    "Date Posted": "23 Jan 2020",
+    "Company name": "Binance",
+    "Body": " Binance A cryptocurrency exchange Community & PR Manager- Middle East & North Africa Remote \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Marketing \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 23 Jan 2020 Binance is hiring a remote full-time Community & PR Manager- Middle East & North Africa. Binance - A cryptocurrency exchange. Apply now Binance website View more jobs at Binance community support non-tech public relations How did you hear about this opportunity? Please let Binance know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like Ava Labs Social Media Manager BitBay Copywriter & Social Media Expert Ledger Affiliation Intern CipherTrace Product Marketing Manager Blocktrade.com Social Media Manager \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/marketing/binance-community-pr-manager-middle-east-north-africa/",
+    "Title": "Community & PR Manager- Middle East & North Africa at Binance \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

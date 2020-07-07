@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Remote",
+    "Date Posted": "Not Found",
+    "Company name": "Synergy CTS",
+    "Body": " Software/Management Services Sales Executive for Cryptocurrency Automated Trading Software Synergy CTS is a Cloud Based Software/Management Services Company. We provide proprietary Cryptocurrency Trading Software along with Management Services which dramatically increase ROI for Individuals or businesses who trade cryptocurrency. We target High Volume/High Frequency Traders. Prospective candidate must have: Working knowledge of Cryptocurrency, Cryptocurrency trading exchanges and the Blockchain Prior Sales Experience in the Financial Arena. Contacts with Financial Managers, Hedge Fund Managers or High Volume/High Frequency Cryptocurrency Traders a Plus Semi-Retired Stock/Currency Brokers, Financial Managers are welcome to apply. We Hire Qualified Veterans Commission Only Plus Monthly Residuals Work From Home Travel optional, not required Skills Sales & Marketing Compensation Commission ",
+    "Url": "https://crypto.jobs/jobs/sales-executive-at-synergy-cts",
+    "Title": "Sales executive Job at Synergy CTS",
+    "Site": "crypto"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Leutkirch, Baden-W?rttemberg, Germany",
+    "Date Posted": "Not Found",
+    "Company name": "Porsche AG",
+    "Body": " Aufgaben Support our customers in their digital transformation: define future strategy, business models, processes, organization and consequent implementation measures Lead national and international consultancy projects in various industries Contribute to the development of the Digital Transformation Practice Collaborate with Porsche Consulting Global Digital Leaders to develop methodologies and adapt them to customer specific needs Support marketing related activities, such as studies and events Qualifikationen Successfully completed degree in Economics, Engineering or an equivalent education, MBA or PhD is a preferred requirement More than 5 years of experience in a leading consulting company or multinational firm, managing innovation and digital transformation projects Strong ability in understanding the \u201cbig picture\u201d and the strategic impacts of new technologies in the competitiveness of our customers, ability to shape new business models Deep knowledge of manufacturing & supply chain management technologies (IoT, AI, Blockchain) and leading providers Excellent presentation and communication skills Entrepreneurial spirit and enthusiasm for changes Team spirit and flexibility Language proficiency in Italian and English, German is a plus Willingness to travel frequently Hinweise zur Bewerbung Apply here: carriera-italia@porsche-consulting.com ",
+    "Url": "https://de.linkedin.com/jobs/view/digitization-innovation-consultant-at-porsche-ag-1508974857?refId=19ec8b2d-eb0e-4d80-a727-77f2523dcb71",
+    "Title": "Porsche AG hiring Digitization & Innovation Consultant in Leutkirch, Baden-W?rttemberg, Germany | LinkedIn",
+    "Site": "linkedin"
+}

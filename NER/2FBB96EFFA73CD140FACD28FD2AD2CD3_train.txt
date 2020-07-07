@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Campbell, California, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Arkius",
+    "Body": " Posted by: Andrin Foster Andrin Foster Head of Product at Arkius Please read the entire post before applying. Arkius Public Benefit Corporation is radically reimagining the structure of the internet in a more humanistic, equitable form. We're looking for an experienced Software Engineer to be a part of this mission. In this role, you will have the opportunity to shape the future of information technology for the better. ?? We're looking for highly competent engineers to fill roles across a wide variety of our tech stack. Candidates should have experience with some portion of the following: Leading technical teams to successful outcomes Public cloud infrastructure (AWS, Terraform) Contanerized microservices Modern web framework (Vue, React, Angular) Machine Learning and associated frameworks Blockchain smart contracts, Dapps, and DAOs ?? To qualify as an applicant, in addition to your linkedIn application, please email me at Andrin@arkius.org with your resume, a portfolio of prior work, and a section where you rate yourself in the following skill sets on a scale from 1 (low) to 10 (high): Leadership Cloud Infrastructure Contanerized Microservices Web Frameworks Machine Learning Engineering Blockchain Engineering In addition to cash compensation, this role includes an opportunity to earn equity. ",
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-at-arkius-1855819860?refId=1c50d206-f52a-4ce4-ab97-b42e25f1400a&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Arkius hiring Software Engineer in Campbell, California, United States | LinkedIn",
+    "Site": "linkedin"
+}

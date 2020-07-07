@@ -1,0 +1,10 @@
+{
+    "Salary": "$84,000 - $180,000",
+    "Location": "New York, New York, United States",
+    "Date Posted": "5 days ago",
+    "Company name": "Chainhaus",
+    "Body": " Blockchain Technical Sales Chainhaus - New York, NY Quick Apply Job Details Full-time | Part-time | Commission$84,000 - $180,000 a year5 days ago Benefits 401(k) Full Job Description Chainhaus is looking for a seasoned technology sales manager or sales engineer that can drive the sales and capture of development projects. We focus on blockchain and artificial intelligence, with a specific focus on the Corda blockchain and enterprise DLTs. We have a low-cost development center based in Indonesia and are very competitively priced. The ideal candidate will have direct experience sourcing development projects from start-ups and enterprises. This includes the full sales lifecycle such as sourcing leads, generating proposals in conjunction with Chainhaus team, negotiating, closing and up/cross-selling with client. This role can be full-time or part-time for the right candidate. Compensation commensurates with experience. Job Types: Full-time, Part-time, Commission Pay: $84,207.00 - $179,487.00 per year Experience: Technical Sales: 5 years (Preferred) Additional Compensation: Commission Paid Training: Yes Typical start time: 9AM Typical end time: 5PM Schedule: Monday to Friday Company's website: http://chainhaus.com ",
+    "Url": "https://www.simplyhired.com/job/BA7Am5IXyB9r2ZQ1sKG4PhlrC3d_SN3f7AnmJi7TpDfxpg8Mra8vSQ?q=blockchain",
+    "Title": "Blockchain Technical Sales - Chainhaus | New York, NY",
+    "Site": "simplyhired"
+}

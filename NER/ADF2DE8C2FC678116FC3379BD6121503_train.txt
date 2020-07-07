@@ -1,0 +1,10 @@
+{
+    "Salary": "60,000-140,000",
+    "Location": "Palo Alto, California, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Decentralized Finance Labs",
+    "Body": " Decentralized Finance Labs is a stealth mode blockchain/crypto currency backed by DHVC, Pantera and several top venture capital firms. Our office is located in Palo Alto, CA. The company started in April, 2018 by several experienced engineers and a partner of a VC firm. We are looking for full time and interns to join us on this exciting journey. Research engineer/VP/CTO: PhD with background in distributed system, cryptography. Passionate about blockchain technology and fast learner. Past software development experience is a major plus. Development Engineer: Ideal candidate should have some experience in front or backend integration, including JavaScript, html. Distributed system, Web development, Solidity, Chrome plugin, iOS/Android development experience will be major plus. We have multiple openings for this position. email address: [email\u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a0protected] (remark from cryptojobs) Skills Distributed Systems, Front-End Development, Cryptography, Backend Development, Blockchain Compensation 60,000-140,000 ",
+    "Url": "https://crypto.jobs/jobs/blockchain-engineer-architect-various-levels-at-decentralized-finance-labs",
+    "Title": "Blockchain Engineer/Architect/Various Levels Job at Decentralized Finance Labs",
+    "Site": "crypto"
+}

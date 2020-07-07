@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "San Jose, California, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Ampcus Inc",
+    "Body": " Position: Full Stack Developer Location: San Jose, CA Duration: Long term Position Role Full Stack Developer Project Summary Development of Blockchain platform Responsibilities - In detail Develop and Deploy Cloud native applications as a full stack developer Understand and use Design patterns in development Learn and use Blockchain expertise in development Key Technical Skill NodeJS, JavaScript, RDBMS, Desired Skills Java, Angular, REST, Blockchain, MongoDB Experience Level 5+ years ",
+    "Url": "https://www.linkedin.com/jobs/view/full-stack-developer-blockchain-at-ampcus-inc-1852346053?refId=f3ceb2e4-d310-477c-b5a8-e8fe008fb669&position=1&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Ampcus Inc hiring Full Stack Developer (BlockChain) in San Jose, California, United States | LinkedIn",
+    "Site": "linkedin"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Irving, Texas, United States",
+    "Date Posted": "Not Found",
+    "Company name": "InfoVision Inc.",
+    "Body": " Posted by: Guru Nagaraj Guru Nagaraj Resource Development Manager Sr. BlockChain Developer Location: Irving TX Duration: 12+ months ?? Preferred Qualifications: ??????????????????Experience with 3 or more blockchain implementations is a plus ??????????????????Strong understanding of different types of Blockchain such as public, private/permissioned, public permissioned, etc. ??????????????????Sound understanding of Blockchain framework such as Hyperledger Fabric ??????????????????Understand Blockchain Data Architecture and ability to Identify/recommend ways to optimize data elements on-chain/Off-chain.?? ",
+    "Url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-infovision-inc-1804105825?refId=767a2752-18a5-483b-8ab8-3e5ffdeb981a&position=4&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "InfoVision Inc. hiring Blockchain Developer in Irving, Texas, United States | LinkedIn",
+    "Site": "linkedin"
+}

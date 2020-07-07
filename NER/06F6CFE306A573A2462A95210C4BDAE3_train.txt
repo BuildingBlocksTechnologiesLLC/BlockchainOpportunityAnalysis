@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "London, England, United Kingdom",
+    "Date Posted": "Not Found",
+    "Company name": "The M-Wek Company",
+    "Body": " Posted by: Robert Lycett Robert Lycett Technology Lead at The M-Wek Company You will be involved with expanding our services via an Ethereum architecture and monetizing those services with our clients.? Roles: Help implement and maintain our blockchain infrastructure Educate clients and employees on blockchain development Development of Ethereum smart contracts and oracles Writing, testing, and deploying Ethereum smart contracts and building the System design (oracles, services, etc) around them Supporting the development of DApps as part of our platform Work with partners and vendors Skills: Strong software engineering background including strong skills in testing, source control, documentation, refactoring, and troubleshooting Good knowledge and experience with at least one other programming language Experience with JavaScript and experience with DApp development is a bonus Prior contributions to Ethereum or other blockchain solutions is a strong bonus Ability to work in a team that values high collaboration and transparency If this is of interest to you, please call me on 07710 51 77 49. ",
+    "Url": "https://uk.linkedin.com/jobs/view/blockchain-developer-up-to-%C2%A380k-perm-at-the-m-wek-company-1716470420?refId=234dd993-999c-4366-a71b-571b08b05210&position=12&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "The M-Wek Company hiring Blockchain Developer, Up to ?80K, Perm in London, England, United Kingdom | LinkedIn",
+    "Site": "linkedin"
+}

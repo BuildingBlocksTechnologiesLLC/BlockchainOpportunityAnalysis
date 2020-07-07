@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "London, GB",
+    "Date Posted": "Not Found",
+    "Company name": "Streamline Connections Inc",
+    "Body": " PRODUCT MANAGER (Software) - Blockchain, Fintech/Wealthtech We are currently engaged in Search for a Product Manager on behalf of la eading Financial Technology and Enterprise Cloud business in London with a global reach. They have an established team exploring different ways to leverage blockchain technology to improve the global asset and wealth management industry by reducing the cost and fricti... This job was originally posted as www.cwjobs.co.uk/job/89220757 ",
+    "Url": "https://uk.linkedin.com/jobs/view/blockchain-product-manager-at-streamline-connections-inc-1691651316?refId=d4e13d0a-c3de-4c91-8782-7605d8524196&position=22&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "Streamline Connections Inc hiring Blockchain Product Manager in London, GB | LinkedIn",
+    "Site": "linkedin"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Remote",
+    "Date Posted": "Not Found",
+    "Company name": "CipherTrace",
+    "Body": " Posted by: Caroline Kerr Caroline Kerr Cryptocurrency AML, Forensics and Blockchain Threat Intelligence Specialist at CipherTrace at CipherTrace CipherTrace is a rapidly-growing leader in the cryptocurrency analytics, intelligence and security market. Our cryptocurrency investigation, anti-money laundering, and compliance software operates on a global scale to assist banks, cryptocurrency exchanges, law enforcement agencies, regulators, ICOs and businesses as they negotiate cases involving fraud, human trafficking, money laundering, and other illicit activity where cryptocurrency is involved. You will be working on a team based out of our Los Gatos, CA office or 100% remotely. We are looking for a frontend developer to join us who has an interest in the blockchain/crypto space. Qualifications: BS in Computer Science, Statistics or equivalent through experience 3-5+ years of experience in Javscript Angular, Node,js Typescript, React, Ionic. 5+ years of experience as a professional software developer with increasing levels of responsibility Experience with blockchain technolgies a plus. Excellent oral and written communication skills. US Citizen and Green Card Holders only, please. ",
+    "Url": "https://www.linkedin.com/jobs/view/frontend-developer-at-ciphertrace-1705056039?trk=guest_job_details_job-result-card_result-card_full-click",
+    "Title": "CipherTrace hiring Frontend Developer in San Francisco Bay Area | LinkedIn",
+    "Site": "linkedin"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Mexico City",
+    "Date Posted": "20 Feb 2020",
+    "Company name": "Bitso",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Bitso Mexico's first crypto exchange Product Designer Mexico City \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Design \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 20 Feb 2020 Bitso is hiring a full-time Product Designer in Mexico City. Bitso - Mexico's first crypto exchange. Apply now Bitso website View more jobs at Bitso product product designer How did you hear about this opportunity? Please let Bitso know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like Bancor Product Designer Aion Product Designer TRM Product Designer CoinTracker Lead Product Designer MakersPlace Product Designer \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/design/bitso-product-designer/",
+    "Title": "Product Designer at Bitso \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

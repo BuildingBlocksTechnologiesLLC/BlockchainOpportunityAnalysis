@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "Vectorium",
+    "Body": " Vectorium is looking for 2 Chinese Sales representative for all the ICO period. You will earn a fee of the total coins that you will sell in China and Asia (payment with a bank transfer or BTC/ETH) You will receive Vectorium Plus coin every month as benefit. Requirements: - Experience in Business Development and Sales - Basic Understanding of Blockchain technology If you would like to learn more information, please reply back with: 1) Resume + Cover Letter 2) Proven success projects 3) Why should you be considered for this position? 4) What can you do for Vectorium Only serious inquiries will be reviewed. More info at http://vectorium.co/ Skills Sales, ICO Compensation variable + Vectorium Plus + Equity ",
+    "Url": "https://crypto.jobs/jobs/sales-representative-at-vectorium",
+    "Title": "Sales representative Job at Vectorium",
+    "Site": "crypto"
+}

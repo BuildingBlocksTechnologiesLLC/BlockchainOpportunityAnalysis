@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Chicago, Illinois, United States",
+    "Date Posted": "Not Found",
+    "Company name": "CapB InfoteK",
+    "Body": " CapB is a global leader on IT Solutions and Managed Services. Our R&D is focused on providing cutting edge products and solutions across Digital Transformations from Cloud, AI/ML, IOT, Blockchain to MDM/PIM, Supply chain, ERP, CRM, HRMS and Integration solutions. For our growing needs we need a consultant with a Minimum 3 years of experience in UI frameworks and very strong in React framework. Consultant should be able to code and develop core UI programs and frameworks based on client requirements. Experience in Data side is optional but not must. Angular and Node JS experience is preferred but its not must. Must have hands on to all react libraries ",
+    "Url": "https://www.linkedin.com/jobs/view/react-developer-at-capb-infotek-1738422121?refId=04bdf0ea-2d61-43cf-87e2-ddb55712d289&position=19&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "CapB InfoteK hiring React Developer in Chicago, Illinois, United States | LinkedIn",
+    "Site": "linkedin"
+}

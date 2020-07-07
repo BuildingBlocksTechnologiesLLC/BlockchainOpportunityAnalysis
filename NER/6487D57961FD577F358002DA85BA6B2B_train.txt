@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Miami, United States",
+    "Date Posted": "3 Oct 2019",
+    "Company name": "Wyre",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Wyre Faster, cheaper international transfers Customer Support Rep Miami \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Customer Support \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 3 Oct 2019 Wyre is hiring a full-time Customer Support Rep in Miami. Wyre - Faster, cheaper international transfers. Apply now Wyre website View more jobs at Wyre customer support non-tech pays in crypto How did you hear about this opportunity? Please let Wyre know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/customer-support/wyre-customer-support-rep/",
+    "Title": "Customer Support Rep at Wyre \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

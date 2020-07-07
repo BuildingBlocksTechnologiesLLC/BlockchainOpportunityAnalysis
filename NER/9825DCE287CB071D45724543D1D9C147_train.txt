@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "San Antonio, TX, US",
+    "Date Posted": "Not Found",
+    "Company name": "Sysmind LLC",
+    "Body": " : Experience with atleast one of the following technologies Ethereum/Solidity, Hyperledger/Fabric, Multichain or Moanx/Eric Experience in either Blockchain (Quorun), Distributed Ledger, Cryptocurrencies, Smart contracts, Digital Registries and Decentralized Autonomous organizations Strong analytical and development background with full stack development background that includes experience in python, Java, NodeJS, WebServices, XML Hands on experience with either peer to peer technologies, distributed computing and/or cloud computing Containerization and securing applications on Openshift, Node.Js, HA/DR for availability aspects P&C Claims business domain experience with Claims Subrogation process understanding Bachelor's Degree OR 4 additional years of related experience beyond the minimum required may be substituted in lieu of a degree. Experience with implementing production grade Blockchain applications for P&C Claims business domain Developing knowledge of function/discipline and demonstrated application of knowledge, skills and abilities towards work products. Developing level of business acumen in the areas of business operations, industry practices and emerging trends. Excellent verbal and written communication and team collaboration For More Deatils please reach.... Swatantra Mishra | SYSMIND, LLC Phone: click apply x 4018 Email: click apply Website Address: 38 Washington Road, Princeton Junction, NJ 08550 ",
+    "Url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-sysmind-llc-1702874016?refId=0a257151-d16a-41be-bd33-1a19599fa525&position=24&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "SysMind LLC hiring BlockChain Developer in San Antonio, TX, US | LinkedIn",
+    "Site": "linkedin"
+}

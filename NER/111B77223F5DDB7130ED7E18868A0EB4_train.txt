@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "GYMBase, LLC",
+    "Body": " GYMBase is an upcoming Cryptocurrency investment and portfolio management platform and we are seeking a fund manager with experience and proven profitability experience. Requirements: 1. Over 3 years cryptocurrency trading experience. 2. Cryptocurrency investment or similar working experience. 3. Pass a background check. If interested please reply with some portfolio examples and their performance. Responsibilities: 1. Manage Low, Medium and High Risk investment funds for GYMBase customers. 2. Establish a leadership role in the platform investment community. Skills Cryptocurrency Trading, Leadership skills, Fund Manager experience desired. Compensation Commission Based. ",
+    "Url": "https://crypto.jobs/jobs/fund-manager-at-gymbase-llc",
+    "Title": "Cryptocurrency Fund Manager Job at GYMBase, LLC",
+    "Site": "crypto"
+}

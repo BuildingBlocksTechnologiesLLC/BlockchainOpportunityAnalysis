@@ -1,0 +1,10 @@
+{
+    "Salary": "$60K - $100K",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "Purse",
+    "Body": " You will be responsible for telling the world (and company) the story of our product. You will be expected to be our chief advocate for a specific feature set and its benefits. Additionally, you will be charged with crafting the strategy around the messaging and marketing for new launches. Responsibilities: Together with the product team, educate both internal and external stakeholders about our product features and their benefits. Create product content (e.g. sales enablement documentation, case studies, product videos, website copy, blog posts, forum responses) to articulate the benefits of our products to the world. Skills Compensation $60K \u2013 $100K + Equity Apply on CryptoJobs Related jobs you might like Technical Marketing Writer \u00c3\u0083\u0083\u00c3\u0082\u00c2\u00a6ternity blockchain Contract Marketing \u00c3\u0083\u00c2\u00b0\u009f\u0094\u00c3\u0082\u00c2\u00a5 Trending Remote remote 269 views \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 posted 4 ",
+    "Url": "https://crypto.jobs/jobs/product-marketing-manager-at-purse",
+    "Title": "Product Marketing Manager Job at Purse",
+    "Site": "crypto"
+}

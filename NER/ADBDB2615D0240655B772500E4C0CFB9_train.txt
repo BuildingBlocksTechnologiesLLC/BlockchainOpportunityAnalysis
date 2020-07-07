@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Greater Toronto Area Metropolitan Area",
+    "Date Posted": "Not Found",
+    "Company name": "ViewFin?",
+    "Body": " Posted by: Ange Martinez Ange Martinez Human Resources Manager At ViewFin Canada The candidate will be responsible for research, writing market analysis, designing, implementing, and supporting a distributed blockchain-based network. How to apply: https://ca.indeed.com/m/viewjob?jk=d2e503b19d08784b&from=applyfrommycomputer&dupclk=0&utm_source=jobseeker_emails&utm_medium=email To apply: resume & CV to ange.martinez@viewfin.com ",
+    "Url": "https://ca.linkedin.com/jobs/view/blockchain-developer-at-viewfin%E2%84%A2-1664034630?refId=1db3404c-c0e5-44f7-9e7e-221d5a518063&position=17&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "ViewFin? hiring Blockchain Developer in Greater Toronto Area Metropolitan Area | LinkedIn",
+    "Site": "linkedin"
+}

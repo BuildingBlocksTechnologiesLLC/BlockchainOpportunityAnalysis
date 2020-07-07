@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "New York, New York, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Columbia University School of Professional Studies",
+    "Body": " Columbia University, School of Professional Studies (SPS) seeks candidates to serve as a part-time??Associate??to??teach an on-campus graduate-level course in Introduction to Blockchain, Crypto-currencies & Analytics. This course provides our Applied Analytics Master of Science degree students with an introduction to ??blockchains and crypt-currencies as well as cryptographic protocols, hash, digital signatures, chaining of blocks of transactions, decentralization using mining based on proof of work and smart contracts. An??Associate??is a faculty role that is junior to Lecturer. The position offers a great way for??successful experienced industry professionals to gain exposure to graduate level instructional practices at Columbia University. Responsibilities Attend all on-campus class sessions, assist with instruction, lead breakout sessions, facilitate discussions. Evaluate, grade student work and assessments as requested by the course Lecturer. Monitor and address student concerns and inquiries. ",
+    "Url": "https://www.linkedin.com/jobs/view/adjunct-associate-faculty-intro-to-blockchain-cryptocurrencies-analytics-on-campus-fall-20-at-columbia-university-school-of-professional-studies-1830525189?refId=122c1898-9046-41e5-84a5-f57a3129beb6&position=5&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Columbia University School of Professional Studies hiring Adjunct Associate Faculty, Intro to Blockchain, Cryptocurrencies & Analytics (On-campus, Fall '20) in New York, New York, United States | LinkedIn",
+    "Site": "linkedin"
+}

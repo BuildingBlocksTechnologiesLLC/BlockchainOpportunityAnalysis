@@ -1,0 +1,10 @@
+{
+    "Salary": "0.05$/word",
+    "Location": "Remote",
+    "Date Posted": "Not Found",
+    "Company name": "BeInCrypto",
+    "Body": " Full-time Turkish Writer We are looking for a news writer (full-time work, remote) for our global cryptocurrency news portal BeInCrypto.com, with a focus on covering breaking news quickly and cleanly during the Turkish working hours. Responsibilities: Write 3-4 news articles per day during the standard Turkish work day Translate 3-4 articles per day during the standard Turkish work day Produce well-written, clean, and concise news copy on the most recent/breaking topics, Engage with commenters on the website and social media platforms, Be available Monday-Friday, from 9 am to 6 pm Turkish Time Candidate profile: Native-Turkish speaker. Strong news writing background and skills required, Bachelor\u2019s Degree in Journalism, Turkish, or related major, Solid experience within the news writing and cryptocurrency scene with a proven track record of successful articles Creative and innovative in your daily work and your deliveries. Fluent English We offer: Remote, full-time work Join a stellar team of talents from all over the world and learn from them, Unique opportunity to take part in the emergence of a future leader in bitcoin news coverage. Skills Writing, Crypto knowledge Compensation 0.05$/word ",
+    "Url": "https://crypto.jobs/jobs/turkish-crypto-niche-writer-journalist-at-beincrypto",
+    "Title": "Turkish Crypto Niche Writer/ Journalist Job at BeInCrypto",
+    "Site": "crypto"
+}

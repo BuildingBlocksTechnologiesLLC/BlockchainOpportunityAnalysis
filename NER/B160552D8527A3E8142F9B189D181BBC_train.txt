@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Remote",
+    "Date Posted": "29 Jan 2019",
+    "Company name": "Minds",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Minds An open source and decentralized platform for Internet freedom Full-Stack Developer Remote \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Engineering \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 29 Jan 2019 Minds is hiring a remote full-time Full-Stack Developer. Minds - An open source and decentralized platform for Internet freedom. Apply now Minds website developer docker full stack developer javascript php typescript How did you hear about this opportunity? Please let Minds know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/engineering/minds-full-stack-developer/",
+    "Title": "Full-Stack Developer at Minds \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

@@ -1,67 +1,155 @@
 """
 Created on Wed Jun 17 2020
 """
-
 from geotext import GeoText
 import nltk
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
-import geograpy3
 import numpy as np
 import os
 import json 
 import gzip
 import re
 import string
-import datetime
-
-def get_listings(entry):
-    """Get file names that are jobs listings"""
-    sub_entries = os.listdir('C:/Users/Leon/Data/Jobs/'+entry)
-    entries = []
-    for i in sub_entries:
-        if i[-4:] == '_.gz':
-            entries.append(i)
-    return entries
+from date_extractor import extract_dates
+from datetime import datetime
 
 def decide_loc(locations):
-    """Decide which location is the right location"""
+    """
+    Decide which location is the right location
+    """
     if locations.size != 0:
         unique,pos = np.unique(locations,return_inverse=True) 
         counts = np.bincount(pos)                    
         maxpos = counts.argmax()
         return unique[maxpos]
-    return 'Location not found'
+    return 'Not Found'
 
 def decide_org(orgs):
-    """Decide which company name is the right company name"""
+    """
+    Decide which company name is the right company name
+    """
     if orgs.size != 0:
         unique,pos = np.unique(orgs,return_inverse=True) 
         counts = np.bincount(pos)                    
         maxpos = counts.argmax()
         return unique[maxpos]
-    return 'Company not found'
+    return 'Not Found'
 
 def check_remote(text):
-    """Check whether or not a posting is remote"""
-    r = re.compile(r'\bRemote\b | \bwork from home\b', flags=re.I | re.X)
+    """
+    Check whether or not a posting is remote
+    """
+    r = re.compile(r'Remote|work from home| Remotely', re.IGNORECASE) 
     matches = r.findall(text)
     return len(matches) != 0 
 
 def not_common(text):
-    """Check whether or not entity is a false positive company ie programming language or blockchain keyword"""
+    """
+    Check whether or not entity is a false positive company ie programming language or blockchain keyword
+    """
     false_positive = re.compile('[Bb]lockchain|Ethereum|Rust|Kotlin|Elixer|Julia|Swift|Go|Java|Python|C#|OCaml|Javascript|Lua|Haskell|Octave|MATLAB|Perl|Ruby|PHP|SQL|[Cc]ryptocurrencies|AWS|Amazon|Microsoft|UX|React [Native|JS| ]|Dice')
     return not false_positive.search(text)
-
 def check_state(text):
-    """Look for common state abbreviations"""
-    states = re.compile(' AL | AK | AZ | AR | CA | CO | CT | DC | DE | FL | GA | HI | ID | IL | IN | IA | KS |'+
+    """
+    Look for common state abbreviations
+    """
+    states = re.compile('Alaska|Alabama|Alaska|Arizona|'+
+    'Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|'+
+    'Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|'+
+    'Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|'+
+    'North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|'+
+    'South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming')
+    state_abbr = re.compile(' AL | AK | AZ | AR | CA | CO | CT | DC | DE | FL | GA | HI | ID | IL | IN | IA | KS |'+
     ' KY | LA | ME | MD | MA | MI | MN | MS | MO | MT | NE | NV | NH | NJ | NM | NY | NC | ND | OH | OK | OR |'+
     ' PA | RI | SC | SD | TN | TX | UT | VT | VA | WA | WV | WI | WY ')
-    return states.findall(text)
+    d_state = {
+        ' AK ': 'Alaska',
+        ' AL ': 'Alabama',
+        ' AR ': 'Arkansas',
+        ' AS ': 'American Samoa',
+        ' AZ ': 'Arizona',
+        ' CA ': 'California',
+        ' CO ': 'Colorado',
+        ' CT ': 'Connecticut',
+        ' DC ': 'District of Columbia',
+        ' DE ': 'Delaware',
+        ' FL ': 'Florida',
+        ' GA ': 'Georgia',
+        ' GU ': 'Guam',
+        ' HI ': 'Hawaii',
+        ' IA ': 'Iowa',
+        ' ID ': 'Idaho',
+        ' IL ': 'Illinois',
+        ' IN ': 'Indiana',
+        ' KS ': 'Kansas',
+        ' KY ': 'Kentucky',
+        ' LA ': 'Louisiana',
+        ' MA ': 'Massachusetts',
+        ' MD ': 'Maryland',
+        ' ME ': 'Maine',
+        ' MI ': 'Michigan',
+        ' MN ': 'Minnesota',
+        ' MO ': 'Missouri',
+        ' MP ': 'Northern Mariana Islands',
+        ' MS ': 'Mississippi',
+        ' MT ': 'Montana',
+        ' NA ': 'National',
+        ' NC ': 'North Carolina',
+        ' ND ': 'North Dakota',
+        ' NE ': 'Nebraska',
+        ' NH ': 'New Hampshire',
+        ' NJ ': 'New Jersey',
+        ' NM ': 'New Mexico',
+        ' NV ': 'Nevada',
+        ' NY ': 'New York',
+        ' OH ': 'Ohio',
+        ' OK ': 'Oklahoma',
+        ' OR ': 'Oregon',
+        ' PA ': 'Pennsylvania',
+        ' PR ': 'Puerto Rico',
+        ' RI ': 'Rhode Island',
+        ' SC ': 'South Carolina',
+        ' SD ': 'South Dakota',
+        ' TN ': 'Tennessee',
+        ' TX ': 'Texas',
+        ' UT ': 'Utah',
+        ' VA ': 'Virginia',
+        ' VI ': 'Virgin Islands',
+        ' VT ': 'Vermont',
+        ' WA ': 'Washington',
+        ' WI ': 'Wisconsin',
+        ' WV ': 'West Virginia',
+        ' WY ': 'Wyoming'
+        }
+    abbr = state_abbr.findall(text)
+    full = states.findall(text)
+    state = ''
+    if abbr:
+        state = d_state[abbr[0]]
+    if full:
+        state = full[0]
+    return state
 
+def regex_title(text):
+    """
+    Find location in the title
+    """
+    loc = GeoText(text)
+    if loc.cities:
+        if 'US' in loc.country_mentions:
+            state = check_state(text)
+            if state != '':
+                return loc.cities[0]+', '+state[0]+', '+'United States'
+        elif loc.countries:
+            return loc.cities[0]+', '+loc.countries[0]
+
+    return 'Not Found'
 def nlp_title(text,tagger):
-    """Retrieve information from title line"""
+    """
+    Retrieve information from title line
+    """
+    location = regex_title(text)
     tokenized_text = word_tokenize(text)
     tokenized_text = [n for n in tokenized_text if not_common(n.strip())]
     classified_text = tagger.tag(tokenized_text)
@@ -85,6 +173,7 @@ def nlp_title(text,tagger):
             prev = 'ORGANIZATION'
         else:
             prev = ''
+
     geo = GeoText(text)
     if loc:
         location = loc[-1]
@@ -92,21 +181,117 @@ def nlp_title(text,tagger):
         nation = list(geo.country_mentions.keys())
         location = str(geo.cities[0])+', '+str(nation[0])
     else:
-        location = 'Location not found'
+        location = 'Not Found'
 
     if name:
         org_name = name[-1]
     else:
-        org_name = 'Company not found'
+        org_name = 'Not Found'
 
     if check_remote(text):  
-        location = 'remote'
-    salary = 'not found'
-    return location, org_name, salary
+        location = 'Remote'
+
+    find_at = re.compile(r' at ',re.IGNORECASE)
+    punct = re.compile(r'\,|\-|\.|\/|\:|\;|\\|\||\–')
+    if find_at.findall(text):
+        text_post = text[text.index(' at '):]
+        abbr_re = re.compile('Inc|LLC|Co|Ltd|.com|.org|.net')
+        abb = abbr_re.findall(text_post)
+        abbrev = [m.start(0) for m in abbr_re.finditer(text_post)]
+        if abbrev:
+            org_name = text_post[4:abbrev[0]+len(abb[0])]
+        elif punct.findall(text_post):
+            org_name = text_post[4:text_post.index(punct.findall(text_post)[0])-1]
+        else:
+            org_name = text_post[4:]
+    
+    return location.strip(), org_name.strip()
+
+def check_sal_fp(text):
+    """
+    Check for false positives in salary
+    """
+    halves = text.split('-')
+    if halves:
+        if len(halves[0]) < 3:
+            return True
+    symbols = re.compile('\W',re.IGNORECASE)
+    all_s = symbols.findall(text)
+    for i in all_s:
+        if i != '$' and i != '/' and i != ',' and i != '.' and i != '-' and i != '+':
+            return True
+
+    if len(text) <=4 or text[-1] == ',' or text.count('-') > 1:
+        return True
+    return False
+
+def find_sal(text):
+    """
+    Find salary from posting
+    """
+    text = text.replace('\u2013','-')
+    text = text.replace('401K','')
+    text = text.replace('401k','')
+    salary = 'Not Found'
+    re_sal = re.compile(r'compensation|salary|estimate', re.IGNORECASE) 
+    sal = re_sal.findall(text)
+    
+    if sal:
+        for i in sal:
+            salary_search = text[text.index(i)-20:text.index(i)+32]
+            case = re.compile('[0-9]K|\$|[0-9]',re.IGNORECASE)
+            sal1 = case.findall(salary_search)
+            indices = [m.start(0) for m in case.finditer(salary_search)]
+            if sal1:
+                salary = salary_search[indices[0]:indices[-1]+2]
+                if salary_search[indices[-1]:indices[-1]+1] == 'k' or salary_search[indices[-1]:indices[-1]+1] == 'K':
+                    salary = salary + 'K'
+                break
+
+    if salary == 'Not Found':
+        sal_range_re = re.compile('\-|\–')
+        sal_range = sal_range_re.findall(text)
+        indices = [m.start(0) for m in sal_range_re.finditer(text)]
+
+        for i in indices:
+            re_dol = re.compile('\$',re.IGNORECASE) 
+            dol = re_dol.findall(text)
+            
+            salary_dol = text[i-10:i+10]
+            end = re.compile(' per ', re.IGNORECASE)
+            sal = end.findall(salary_dol)
+            if sal:
+                if sal[-1] == 'per':
+                    salary = salary_dol[:salary_dol.index(sal[-1])+len(sal[-1])]
+                    next_word = salary_dol[salary_dol.index(sal[-1])+len(sal[-1]):salary_dol.index(' ')]
+
+                    salary = salary +' '+next_word
+                else:
+                    salary = salary_dol[:salary_dol.index(sal[-1])+len(sal[-1])]
+                break
+            else:
+                case = re.compile('[0-9]K|\$|[0-9]',re.IGNORECASE)
+                sal1 = case.findall(salary_dol)
+                indices = [m.start(0) for m in case.finditer(salary_dol)]
+                if sal1:
+                    salary = salary_dol[indices[0]:indices[-1]+2]
+                    if salary_dol[indices[-1]:indices[-1]+1] == 'k' or salary_dol[indices[-1]:indices[-1]+1] == 'K':
+                        salary = salary + 'K'
+                    break
+                
+    false_positive = re.compile(r'20[0-9][0-9]|\#|\(|\%|\!|[0-9][a-z][0-9]|am|pm',re.IGNORECASE)
+    sal_no_space = salary.replace(' ','')
+    if false_positive.findall(salary) or check_sal_fp(sal_no_space):
+        salary = "Not Found"
+    return salary
 
 def nlp_body(text,tagger):
-    """Retrieve information from body"""
-    tokenized_text = word_tokenize(text)
+    """
+    Retrieve information from body
+    """
+    regex = re.compile('[^a-zA-Z\-\|\,0-9\+]')
+    re_text = regex.sub(' ',text)
+    tokenized_text = word_tokenize(re_text)
     classified_text = tagger.tag(tokenized_text)
     loc = []
     name = []
@@ -121,16 +306,54 @@ def nlp_body(text,tagger):
 
     org_name = decide_org(np.array(name))
     location = decide_loc(np.array(loc))
-    geo = GeoText(text)
-    if location == 'Company not found' and geo.cities:
+    geo = GeoText(re.sub(r'\bdate\b', '', re_text))
+    if location == 'Not Found' and geo.cities:
         nation = list(geo.country_mentions.keys())
         location = str(geo.cities[0]) +', '+str(nation[0])
-    if check_remote(text):  
-        location = 'remote'
-    salary = 'not found'
-    return location, org_name, salary
+    if check_remote(re_text):  
+        location = 'Remote'
+        
+    salary = 'Not Found'
+    date = 'Not Found'
 
-def nlp_url
+    re_date = re.compile(r'date post|date posted ',re.IGNORECASE) 
+    find_date = re_date.findall(re_text)
+    if find_date:
+        find_date = re_text[re_text.index(find_date[0]):re_text.index(find_date[0])+30]
+
+        date_time = extract_dates(find_date)[0]
+        date = date_time.strftime("%e %b %Y")
+        
+    if date == 'Not Found':
+        re_date = re.compile(r'\bmonths ago\b|\bdays ago\b|\bhours ago\b',re.IGNORECASE) 
+        dtype = re_date.findall(re_text)
+        if dtype:
+            find_date = re_text[re_text.index(dtype[0])-4:re_text.index(dtype[0])+2]
+            date_time = re.compile('[1-9][0-9][0-9]|[1-9][0-9]|[0-9]')
+            date = date_time.findall(find_date)[0]+' '+dtype[0]
+    
+    salary = find_sal(text)
+        
+    return location.strip(), org_name.strip(), salary.strip(), date.strip()
+
+def linkedin_title(text, tagger):
+    """
+    Retrieve information specifically from linkedin titles
+    """
+    try:
+        comp_index = text.index(' hiring ')
+        org_name = text[:comp_index]
+    except ValueError:
+        org_name = 'Not Found'
+    try:
+        loc_index = text.index(' in ')
+        loc_end = text.index('|',loc_index)
+        location = text[loc_index+4:loc_end-1]
+    except ValueError:
+        location = 'Not Found'
+
+    return location.strip(), org_name.strip()
+
 
 def index_json(filenames,site):
     """Get retrive data from json files"""
@@ -141,19 +364,27 @@ def index_json(filenames,site):
     for f in filenames:
         with gzip.GzipFile('C:/Users/Leon/Data/Jobs/'+site+'/'+f,"r") as json_file:
             job = json.loads(json_file.read().decode('utf-8'))
-         
 
-            title_loc, title_org,title_sal = nlp_title(regex.sub(' ',job['Title']),tagger)
-            url_loc, url_org,url_sal = nlp_url(' ',job['Url']),tagger)
-            text_loc, text_org,body_sal = nlp_body(regex.sub(' ',job['Body']),tagger)
+            if job['Language'] == 'English':
+                pred = {}
+                if site == 'linkedin':
+                    title_loc, title_org = linkedin_title(job['Title'],tagger)
+                else:
+                    title_loc, title_org = nlp_title(job['Title'],tagger)
 
-            state = check_state(job['Title'])
-            if title_loc == "Location not found" and state:
-                    title_loc = check_state(job['Title'])[0]
+                text_loc, text_org,text_sal, text_date = nlp_body(job['Body'],tagger)
 
-            with open('C:/Users/Leon/BlockchainOpportunityAnalysis/Data/'+site+'/'+f[:-3]+'nlp.txt', "w") as w:
-                w.write("bodylocation:"+text_loc+'\nbodycompany:'+text_org+'\nbodysalary'+body_sal+'\ntitlelocation:'
-                +title_loc+'\ntitlecompany:'+title_org+'\ntitlesalary:'+title_sal)
+                pred['site'] = site
+                pred['body loc'] = text_loc
+                pred['body org'] = text_org
+                pred['salary'] = text_sal
+                pred['date'] = text_date
+                pred['title loc'] = title_loc
+                pred['title org'] = title_org
+                json_str = json.dumps(pred, indent = 4) + "\n" 
+
+                with open('C:/Users/Leon/BlockchainOpportunityAnalysis/Data/'+site+'/'+f[:-3]+'nlp.txt', "w") as w:
+                    w.write(json_str)
             
 
 def get_entities(site_dict):

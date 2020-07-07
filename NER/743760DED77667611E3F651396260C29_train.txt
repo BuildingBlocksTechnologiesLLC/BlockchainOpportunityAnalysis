@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "4 months ago",
+    "Company name": "Zerion",
+    "Body": "Zerion Zerion is a gateway to Decentralized Finance (DeFi). Watch your portfolio, trade, lend and borrow Ethereum-based assets in a single place! In short, we are building a decentralized Coinbase using open DeFi protocols. Instead of relying on a third party to manage their money, our users keep full control over their crypto assets and execute common banking services with minimal fees. With Zerion you can send crypto anywhere, trade over 50 tokens and earn passive interest on stablecoins! Website Twitter Active 4 months ago\u00c3\u0083\u00c2\u00b0\u009f\u0091\u0081\u00c3\u0083\u00c2\u00af\u00c3\u0082\u00c2\u00b8\u008f 260 views Company Culture Company Properties Interview Process Current Team Tech stack Funding Vacation Policy Founded Date HQ HomeCompaniesZerion Blockchain company profiles: Featured Interview BRD Featured Interview Status Featured Interview Etherscan Featured Interview Parity Technologies View all Blockchain Companies Browse jobs by Role Remote Blockchain jobs Blockchain Developer jobs Blockchain Marketing jobs Blockchain Designer jobs Earn Bitcoin Hire Blockchain Talent Solidity jobs Crypto Trader jobs Crypto Analyst jobs Community Manager jobs Browse jobs by Location San Francisco jobs Austin blockchain jobs Boston blockchain jobs Chicago blockchain jobs New York blockchain jobs Seattle blockchain jobs Singapore blockchain jobs Hong Kong blockchain jobs London blockchain jobs Paris blockchain jobs Berlin blockchain jobs Hiring Blockchain Talent? \u00c3\u0083\u00c2\u00a2\u0086\u0092 Post a job for $199 Partners: AirdropAlert Dapp University More partners\u2026 Twitter Telegram LinkedIn Reddit Instagram Facebook Jobs Salaries Companies Affiliate Hire Success Stories Blog RSS TermsFeedback & Support \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Crypto Jobs List",
+    "Url": "https://cryptojobslist.com/companies/zerion",
+    "Title": "Zerion - Company Culture, Jobs and Blockchain Careers",
+    "Site": "cryptojobslist"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Remote",
+    "Date Posted": "Not Found",
+    "Company name": "Paradigm",
+    "Body": " Our client is one of the most well known and most successful Blockchain companies in the world. CANDIDATE MUST HAVE an active GITHUB PAGE What You Will Do Are you a Node.js developer who fell in love with Cryptocurrencies and Blockchain? If the answer is yes, then read on: You have a long history and track record of Node.js development that can be demonstrated via Github. You take initiative and don't wait for direction. You have a passion for cryptocurrencies like Bitcoin and demonstrated passion for solving problems. You\u2019re familiar with the differences between REST, GraphQL, gRPC APIs and know the tradeoffs of each. Express, Hapi, Apollo, Restify\u2026 you know what these tools do and when to use each. ",
+    "Url": "https://www.linkedin.com/jobs/view/node-js-%2B-blockchain-engineer-remote-remote-at-paradigm-1840422499?refId=2f9c56e4-904d-4b1e-8728-db5a0b042df9&position=12&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Paradigm hiring Node.js + Blockchain Engineer (Remote) (Remote) in Chicago, Illinois, United States | LinkedIn",
+    "Site": "linkedin"
+}

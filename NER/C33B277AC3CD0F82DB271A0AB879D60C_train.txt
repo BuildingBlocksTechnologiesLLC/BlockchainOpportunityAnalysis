@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Remote",
+    "Date Posted": "Not Found",
+    "Company name": "Tides",
+    "Body": " Crypto Community Manager Tides Full Time Operations Remote San Francisco, CA 4274 views \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 posted 855 ",
+    "Url": "https://crypto.jobs/locations/san-francisco/bitcoin",
+    "Title": "2020\u2019s Top Bitcoin Jobs in San Francisco",
+    "Site": "crypto"
+}

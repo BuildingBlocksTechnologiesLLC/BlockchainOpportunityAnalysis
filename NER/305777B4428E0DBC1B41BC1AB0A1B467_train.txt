@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Mumbai, Maharashtra, India",
+    "Date Posted": "Not Found",
+    "Company name": "KMPARDS",
+    "Body": " Posted by: Ramesh Shrikonda Ramesh Shrikonda Chief Strategic Alliance & Partnership at Blocklogy Edutech Pvt Ltd Experience in Blockchain design, build, test, and deployment; either individually or part of a solution development team using distributed applications frameworks such as Multichain, Meteor etc Should have development experience with Blockchain, distributed ledger technologies including Solidity, Truffle, Geth, Parity, Hyperledger, Quorum, Corda or other blockchain platforms and technologies ",
+    "Url": "https://in.linkedin.com/jobs/view/blockchain-developer-at-kmpards-1567651903?refId=a3fcda9c-c49d-4c4b-b871-6128bef85bb5&position=6&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "KMPARDS hiring Blockchain Developer in Mumbai, Maharashtra, India | LinkedIn",
+    "Site": "linkedin"
+}

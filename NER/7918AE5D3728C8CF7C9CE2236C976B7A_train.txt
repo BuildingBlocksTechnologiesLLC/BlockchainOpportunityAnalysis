@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "New Delhi, Delhi, India",
+    "Date Posted": "Not Found",
+    "Company name": "Mobiloitte",
+    "Body": " Desired Skills Should be able to deal with (and ideally limit) lots of complexity. Ideally should know about the complexities of Enterprise Mobility, Blockchain, IoT Should be a fast thinker hands on manager and strong communicator; think and act like an entrepreneur Should have an outstanding university degree in a technical subject and several years\u2019 experience in a leading position Should be a very good communicator Roles & Responsibilities Understand solutions portfolio and help convert deals with the customer (RFP, presales) Deep Knowledge and hands-on experience on enterprise architecture for new dimension technology such as - Blockchain, IoT, Mobility, Digitization, Analytics Handled multiple PoC / Pilot build projects on various innovations Branding set up, expansion of Manufacturing lab Handle client visit, joint solutioning with the client team, work on building joint PoC with the clients and alliance partners Should interface with multiple technology teams in developing solutions/ platforms and influence them in creating domain strength Responsible for domain led delivery, account mining for identified accounts and supporting Sales & Presales in proposals/pursuits/events. Will carry target nos./KPIs for selling solution to the client. Help create content for Domain training for Delivery, Sales and Presales teams Should be open for short-term business travel to support pursuits/delivery To be open to take short term billable Consulting roles to facilitate downstream business. ",
+    "Url": "https://in.linkedin.com/jobs/view/blockchain-lead-new-delhi-at-mobiloitte-1737134616?refId=5f725671-e1d0-49a6-b0dd-58797aa712ff&position=11&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "Mobiloitte hiring Blockchain Lead - New Delhi in New Delhi, Delhi, India | LinkedIn",
+    "Site": "linkedin"
+}

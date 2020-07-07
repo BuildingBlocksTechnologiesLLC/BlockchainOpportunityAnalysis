@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Dongcheng Qu, Beijing, China",
+    "Date Posted": "Not Found",
+    "Company name": "Not Found",
+    "Body": " Position Description Further development of the Blockchain runtime Integration of partner Frameworks / Blockchains implementation of frameworks and interfaces based on open standards and norms #LinkedIn Position Requirements Required understanding of DLT technologies (Hyperledger Fabric, etc.) Programming skills (Golang, Node.js, Java, etc.) Software engineering practices including agile techniques Min 2 years of experience with computer related master degree ",
+    "Url": "https://cn.linkedin.com/jobs/view/blockchain-researcher-at-%E8%81%94%E6%83%B3-1673257655?refId=f6d1f834-1db1-4854-be90-524461412f94&position=16&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "?? hiring Blockchain researcher in Dongcheng Qu, Beijing, China | LinkedIn",
+    "Site": "linkedin"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "San Jose, California, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Nutanix",
+    "Body": " Lead Identity Engineer at Nutanix San Jose, CA ?? About the Job As a Lead Identity and Blockchain Engineer, you will be responsible for design, development, and support of Blockchain As A Service. The ideal candidate will have prior experience with blockchain. This is a unique opportunity to do cutting edge work in the blockchain area.?? Responsibilities: Design and lead the development of API's for Blockchain As A Service?? Develop and maintain services Application development with Go Develop libraries that will interact with a variety of blockchains Research, design, develop, and validate blockchain technologies Implement new features and enhance existing features You'll be responsible for building rapid prototypes and working on dynamic projects Experience/Skills/Education Requirements: BS in Computer Science or related field?? 5+ years of software development experience Deep understanding of Hyper Ledger and other Blockchain technologies Prior experience working on blockchain development is a must have?? Experience in Hyperledger Fabric, Ethereum, Docker Swarm, Kubernetes, Apache Kafka, Go, PKI Certificates Experience with writing Smart contracts Familiarity with cloud-based technologies?? Deep understanding of Identity and cryptography A good understanding of OO principles, software design, REST, micro-services based Cloud/SaaS architecture and database design Collaborate extensively with others to solve tough problems with relatively new technologies?? Potentially contribute back to Hyperledger foundation?? Willing to work in an environment where technology is evolving rapidly; not hesitant to debug 3rd party software ",
+    "Url": "https://job-openings.monster.com/lead-identity-engineer-san-jose-ca-us-nutanix/509f3381-150a-4e17-9cb5-cdc3e65edd47",
+    "Title": "Lead Identity Engineer job at Nutanix | Monster.com",
+    "Site": "monster"
+}

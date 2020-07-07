@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "10x ICO",
+    "Body": " 10x ICO is seeking a Google Script Professional. Someone that is able to automate Google Forms with Google Sheets. Ideal Candidate Would be able to; - Have a strong understanding of Google Script, Google Sheets, and Google Forms - Think outside of the box and come up with new and effective ways to do things. -Understand what a bounty campaign is and how they run. - Self-motivated and autonomous - Have Excellent project management skills Requirements: - A fluent level of English - Be willing to be paid in Cryptocurrency on a project basis. - Know and understand Google Script, Forms, and sheets - Hustler, someone that always wants to get better - problem solver Skills Google Script, Google Forms, Google Sheets, Automation, Compensation Contract Basis. ",
+    "Url": "https://crypto.jobs/jobs/google-script-forms-and-sheet-guru-at-10x-ico-1",
+    "Title": "Google Script, Forms, and Sheet Guru Job at 10x ICO",
+    "Site": "crypto"
+}

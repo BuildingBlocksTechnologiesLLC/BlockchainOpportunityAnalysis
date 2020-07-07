@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Melbourne, Australia",
+    "Date Posted": "Not Found",
+    "Company name": "Opus Recruitment Solutions",
+    "Body": " SENIOR SOFTWARE DEVELOPER Opportunity to be part of a BIG change in the travel industry Chance to use the latest technology ? Grow and challenge yourself Who it\u2019s with: A chance to become part of a software engineering team that is currently in the process of scoping out a large project. Work on a leading platform using modern tech and Microsoft stack with React and Node JS. This makes for an exciting opportunity to be part of a big change in an industry leading company. This is a really exciting role and is a great opportunity to take your career to the next level. Your Skills required: Experience with ?.NET Core Experience with React JS Experience with NodeJS Azure and Azure DevOps Experience in CI/CD Excellent communication and presentation skill Nice to have: Experience with Blockchain Technologies What\u2019s in it for you: Excellent work culture and exciting project makes this a fantastic career move for a highly skilled Software developer to take their career to the next level and be part of a HUGE change in the industry. If you would like to hear more about this role or other opportunities with Opus Recruitment Solutions in Australia - hit the APPLY NOW button! Contact Bradley to discuss further via my direct line 02 8089 0128 or email. ? ",
+    "Url": "https://au.linkedin.com/jobs/view/senior-software-developer-at-opus-recruitment-solutions-1719135684?trk=guest_job_details_job-result-card_result-card_full-click",
+    "Title": "Opus Recruitment Solutions hiring Senior Software Developer in Melbourne, Australia | LinkedIn",
+    "Site": "linkedin"
+}

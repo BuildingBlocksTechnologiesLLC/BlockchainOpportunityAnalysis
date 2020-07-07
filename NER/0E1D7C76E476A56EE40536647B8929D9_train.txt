@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Singapore",
+    "Date Posted": "Not Found",
+    "Company name": "Chubb",
+    "Body": " Posted by: York Tan York Tan The Emerging Technology Specialist role in the New Frontiers team is a lead role with the responsibility of partnering with cross-functional business & IT leaders across multiple geographies to support innovation priorities and ensure success. Most projects are three to six months in duration with multiple such efforts going on in parallel.? No two projects will look the same. Typical innovation efforts include projects in Telematics, IoT/Sensors, Cognitive/AI initiatives, process automation etc. Success requires a combination of technical skills, strong communication skills, ability to manage expectations of senior business and technical stakeholders. ?? Experience At least 7 years of experience working preferably in an innovation role. Excellent understanding of applying emerging technologies to solve business problems. Strong presentation and communication skills, with the ability to explain complex analytical concepts to a non-technical audience. Experience working with Agile teams a must. Experience in P&C or insurtech start-up a plus. Skills Bachelors in computer science a minimum. A good understanding of machine learning, telematics, IoT, blockchain with implementation experience in one or more of these areas preferred. A good understanding of Big data management, Data Engineering, SQL, NoSQL DB preferred. Experience in Nodejs, Java, Scala, Python along with common data science toolkits, such as Scikit-learn, Azure ML, R, NumPy is a plus. ",
+    "Url": "https://sg.linkedin.com/jobs/view/emerging-technology-lead-specialist-new-frontiers-at-chubb-1682359294?refId=8bc7ed1e-8214-4e0b-823d-3f1a18abd5bd&position=25&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "Chubb hiring Emerging Technology Lead Specialist (New Frontiers) in Singapore | LinkedIn",
+    "Site": "linkedin"
+}

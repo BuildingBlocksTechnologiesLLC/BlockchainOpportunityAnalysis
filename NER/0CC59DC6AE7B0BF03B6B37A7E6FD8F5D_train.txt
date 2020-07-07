@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "New York",
+    "Date Posted": "Not Found",
+    "Company name": "Atlantic Group",
+    "Body": " Our Client, a Private Equity Firm in Midtown Manhattan with over $600 million in AUM is looking to hire a Controller to work directly with the CFO.?? The ideal candidate will come from a Public Accounting Firm (Top 10 preferred) currently working as a Senior Associate or Manager working on Private Equity clients.?? The Controller will be assisting with oversight of Fund Administrator, year-end audits and other day to day operations.? This position will also assist with investor relation needs and work on investor reporting.?? ",
+    "Url": "https://www.linkedin.com/jobs/view/private-equity-controller-at-atlantic-group-1709794083?trk=guest_job_details_job-result-card_result-card_full-click",
+    "Title": "Atlantic Group hiring Private Equity Controller in New York City Metropolitan Area | LinkedIn",
+    "Site": "linkedin"
+}

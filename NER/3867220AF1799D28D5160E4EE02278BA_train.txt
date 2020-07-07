@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "New York, United States",
+    "Date Posted": "26 Dec 2019",
+    "Company name": "Chaincode Labs",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Chaincode Labs Research and development group that explores cryptocurrencies Engineer New York \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Engineering \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 26 Dec 2019 Chaincode Labs is hiring a full-time Engineer in New York. Chaincode Labs - Research and development group that explores cryptocurrencies. Apply now Chaincode Labs website bitcoin engineer How did you hear about this opportunity? Please let Chaincode Labs know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like MakersPlace Software Engineer (Front-end) \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/engineering/chain-code-labs-engineer/",
+    "Title": "Engineer at Chaincode Labs \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "San Francisco, United States",
+    "Date Posted": "28 Mar 2019",
+    "Company name": "Stellar",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Stellar Develop the world's new financial system Partnerships Manager San Francisco \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Sales \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 28 Mar 2019 Stellar is hiring a full-time Partnerships Manager in San Francisco. Stellar - Develop the world's new financial system. Apply now Stellar website View more jobs at Stellar partnerships How did you hear about this opportunity? Please let Stellar know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/sales/stellar-partnerships-manager/",
+    "Title": "Partnerships Manager at Stellar \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

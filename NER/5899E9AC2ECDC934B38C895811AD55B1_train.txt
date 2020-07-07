@@ -1,0 +1,10 @@
+{
+    "Salary": "$150k-$180k",
+    "Location": "San Francisco Bay Area",
+    "Date Posted": "Not Found",
+    "Company name": "Orbis Consultants",
+    "Body": " Cloud Security Engineer | Exciting Fin-Tech Start-up | FTE | San Francisco | $150k-$180k ?? This Fin-Tech company are utilizing blockchain technology for the issuance, investing, trading and spending of digital assets. This is an incredible opportunity to join a high potential start-up on the ground floor of a company planning on changing the world of financial services. If building innovative and impactful products motivates you then this could be for you! ?? They are looking to hire an experienced cloud security engineer to help with the design, buildout, and operation of their cloud-based trading platform. You will have much hands-on experience and exposure to a wide variety of security technologies. ?? Experience required: - ?? ?? ?? Experience building, operating and securing AWS Infrastructure - ?? ?? ?? Experience deploying and managing Palo Alto Firewalls, ideally in a cloud environment ?? ?? Additional notes \u2013 Jenkins, Docker, Kubernetes, Splunk, Aqua Security, Twistlock, EDR, MDM, HashiCorp Vault, Python, C++, Incident response, SOC2, ISO27001, Linux, Financial Services ?? ?? Get in touch today if you\u2019d like to discuss this role further ?? ?? ",
+    "Url": "https://www.linkedin.com/jobs/view/cloud-security-engineer-exciting-fin-tech-start-up-fte-san-francisco-%24150k-%24180k-at-orbis-consultants-1743572529?refId=c1446715-aff5-4aba-a893-550b8844ea35&position=17&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Orbis Consultants hiring Cloud Security Engineer | Exciting Fin-Tech Start-up | FTE | San Francisco | $150k-$180k in San Francisco Bay Area | LinkedIn",
+    "Site": "linkedin"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "6-8 Lakh/CTC",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "Osiz Technologies",
+    "Body": " Demonstrate thought leadership and understanding of various Blockchain platforms and capabilities. \u2022 Design and build industry-specific solutions using Blockchain technology \u2022 Lead solution development in Blockchain and related technologies such as Ethereum, crypto currencies and smart contracts. \u2022 Understand functional requirements as applicable to various industries and convert into system specifications for development. \u2022 Define architecture and best practices to implement the solutions. \u2022 Design and build Blockchain framework, accelerators, and assets. \u2022 Document development artifacts and best practices. \u2022 Mentor team members, review code artifacts and provide technical guidance. Skills Hyperledger, Ethereum, R3 Corda, Ripple, Bluemix, Rubix. Compensation 6-8 Lakh/CTC ",
+    "Url": "https://crypto.jobs/jobs/blockchain-solution-architect-at-osiz-technologies",
+    "Title": "BlockChain Solution Architect Job at Osiz Technologies",
+    "Site": "crypto"
+}

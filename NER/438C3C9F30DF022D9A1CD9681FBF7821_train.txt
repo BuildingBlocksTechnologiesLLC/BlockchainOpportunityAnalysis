@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Not Found",
+    "Date Posted": "Not Found",
+    "Company name": "Morpheus Labs",
+    "Body": " Join our dynamic team in revolutionising the blockchain space, one of the few providing Blockchain Platform as as service Find out more on: - https://token.morpheuslabs.io - https://sg.news.yahoo.com/blockchain-platform-startup-morpheus-labs-raises-us-6m-061207058.html Skills PR & Marketing, well verse in English and Chinese (3rd language if preferred). Experience ins Social media, PR release, Strategic planning. (Female Preferred) Compensation Negotiable ",
+    "Url": "https://crypto.jobs/jobs/marketing-director-at-morpheus-labs",
+    "Title": "Marketing Director Job at Morpheus Labs",
+    "Site": "crypto"
+}

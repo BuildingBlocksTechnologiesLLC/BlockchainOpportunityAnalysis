@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Charlotte, North Carolina, United States",
+    "Date Posted": "Not Found",
+    "Company name": "BSI Solutions Ltd",
+    "Body": " Blockchain Developer Req 140 No C2C accepted Duties and Responsibilities Design, develop and implement blockchain capabilities into mobile platforms for various industry Design new methods for implementing blockchain technology for our clients Requirements Minimum of 4 years of experience in design, build, implement and support of application (mobile and web) Front-end Javascript, HTMLCSS, Angular React Back-end Nodejs., Golang, Java, Python Database Oracle, Mongodb, MySQL, etchellip Infrastructure Docker, Kubernetes, Continuous Integration, etchellip Cloud Platform AWS, Azure, GCP RESTful APIs, Object-Oriented Experience in developing Blockchain applications Hyperledger, Ethereum, Corda, Ripple or other proprietary language and APIs Strong understanding of blockchain capabilities in logistics and cryptocurrency transactions Work well in a team environment full of innovators Passion for challenging the norm Open minded with successful results driven attitude Desired Skills Bachelorrsquos in Computer Science, Information Technology or similar fieldshellip Blockchain developer certification Prior blockchain development and implementation experience ",
+    "Url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-bsi-solutions-ltd-1865504303?refId=d6cfd1f9-8521-47c0-a8ff-251cb026c082&position=15&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "BSI Solutions Ltd hiring Blockchain Developer in Charlotte, North Carolina, United States | LinkedIn",
+    "Site": "linkedin"
+}

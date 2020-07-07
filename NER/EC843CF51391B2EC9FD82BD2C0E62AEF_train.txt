@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "New York",
+    "Date Posted": "18 Jun 2019",
+    "Company name": "Gemini",
+    "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Gemini A licensed digital asset exchange and custodian Digital Communications Specialist New York \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Marketing \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 18 Jun 2019 Gemini is hiring a full-time Digital Communications Specialist in New York. Gemini - A licensed digital asset exchange and custodian. Apply now Gemini website View more jobs at Gemini communications non-tech social media marketing How did you hear about this opportunity? Please let Gemini know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/marketing/gemini-digital-communications-specialist/",
+    "Title": "Digital Communications Specialist at Gemini \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

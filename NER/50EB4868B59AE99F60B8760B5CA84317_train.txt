@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "New York, United States",
+    "Date Posted": "8 Jan 2020",
+    "Company name": "Gemini",
+    "Body": " Gemini A licensed digital asset exchange and custodian Recruiter New York \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Operations \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 8 Jan 2020 Gemini is hiring a full-time Recruiter in New York. Gemini - A licensed digital asset exchange and custodian. Apply now Gemini website View more jobs at Gemini non-tech recruiter How did you hear about this opportunity? Please let Gemini know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like Axiom Zen Senior Manager - People & Culture Coinbase Core Recruiter Celo Recruiting Coordinator Power Ledger Intern Coins.ph Operations Associate \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",
+    "Url": "https://cryptocurrencyjobs.co/operations/gemini-recruiter/",
+    "Title": "Recruiter at Gemini \u2013 Cryptocurrency Jobs",
+    "Site": "cryptocurrencyjobs"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "90,000",
+    "Location": "Opus Recruitment Solutions",
+    "Date Posted": "Not Found",
+    "Company name": "London, England, United Kingdom",
+    "Body": " Senior Full-Stack Developer | Professional Services | ?90,000 | React/ Node/ Blockchain I am supporting a leading international professional services firm with their search for a Senior Full-Stack Developer (React/ Node). You will join their in-house Applications Development team and spearhead a number of Greenfield projects kicking off this year whilst helping grow the engineering team/ set best practices with their Tech Lead. You will be joining a small function (that will be growing) within the business and will be given autonomy/ space/ backing to get the work done. As a business, they heavily promote technology and see the vital importance of it for the overall company. Some of the key responsibilities will be: Spearheading an array of Greenfield projects with their Technical Lead \u2013 Some will be blockchain/ SMARTcontracts focused (if you are interested in this area) Building high quality, scalable code Helping with key technical decisions with Tech Lead ahead of projects etc Liaise with stakeholders Skills (must have) JavaScript/ ES6 \u2013 4+ years React.js/ Redux Node.js MongoDB Skills (nice to have) Blockchain (or an interest) SMARTcontracts (or an interest) GraphQL The role: Senior Full-Stack Developer Prof Services Central London Up to ?90,000 ",
+    "Url": "https://uk.linkedin.com/jobs/view/senior-full-stack-developer-professional-services-%C2%A390-000-react-node-blockchain-at-opus-recruitment-solutions-1636017610?trk=guest_job_details_job-result-card_result-card_full-click",
+    "Title": "Opus Recruitment Solutions hiring Senior Full-Stack Developer | Professional Services | ?90,000 | React/ Node/ Blockchain in London, England, United Kingdom | LinkedIn",
+    "Site": "linkedin"
+}

@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "Brussels Region, Belgium",
+    "Date Posted": "Not Found",
+    "Company name": "European Recruitment",
+    "Body": " I'm currently looking for a Blockchain Engineer to join a team on a 12 month contract, with the option to extend further should you want to. This is with an established (non-start up company). I'm looking for someone who has a strong background in developing proof-of-cocepts in a blockchain platform (Ethereum, Hyperledge, Multi-Chain) with an understanding of various cryptography techniques.? You will also need a background in development; ideally in Java but Go, Scala or C++ could be of interest. ? Minimum qualifications Knowledge with at least one of the follow: Java, C++, Go, or Scala Experienced in developing in proof-of-concept for blockchain platforms Knowledge of cryptography ? Bonus Qualifications Knowledge of Zero Knowledge Proofs, Proxy re-encryption or Secure Multi-Party Computation This is a contract opportunity, initially 12 months but will be renewed further, if you're interested apply here or get in contact: Canderson@eu-recruit.com ",
+    "Url": "https://be.linkedin.com/jobs/view/blockchain-engineer-at-european-recruitment-1741980702?refId=2c02c365-1bed-4f4f-a0d7-4349e440b27a&position=22&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "Title": "European Recruitment hiring Blockchain Engineer in Brussels Region, Belgium | LinkedIn",
+    "Site": "linkedin"
+}

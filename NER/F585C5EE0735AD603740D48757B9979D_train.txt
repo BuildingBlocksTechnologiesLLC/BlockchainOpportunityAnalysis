@@ -1,0 +1,10 @@
+{
+    "Salary": "Not Found",
+    "Location": "New York, New York, United States",
+    "Date Posted": "Not Found",
+    "Company name": "Niah",
+    "Body": " Our P2P blockchain platform client is looking to bring on a functional developer to help build and grow the products offered by their company. While they have a preference for someone with functional experience, they're open to someone with solid skills in the standards (C/C++ and MySQL). What You'll Do Design/program the core components Collab with the team to architect the system Research existing libraries and tools to find resuable code Perform domain research From time to time, interface with clients to spec out solutionsWhat you bring: Linux, Mac, & Windows Proficiency in one or more: C/C++, Go, Java, Scala, F#, Haskell, etc. Node.js, PostgreSQL, Rest/HTTP, JSON/XML, Kafka, Azure/AWS, OAuth, Docker DB design Web and mobile FE Cryptography, blockchain contract coding language design Understand how P2P networks work SDL2019-128 ",
+    "Url": "https://www.linkedin.com/jobs/view/functional-developer-opportunity-at-p2p-blockchain-startup-at-niah-1834191396?refId=3278ff89-61cc-431e-a6bd-eb641070eba4&position=2&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Title": "Niah hiring Functional developer opportunity at P2P blockchain startup in New York, New York, United States | LinkedIn",
+    "Site": "linkedin"
+}
