@@ -4,6 +4,8 @@ As a service to the emergent Blockchain technology community, and in an effort t
 * Provide an interactive visualization of the blockchain space for concretely summarizing skills, locations, verticals, salaries, opportunities and other related meta data.
 * Present the interactive visualization publicly in a format that can be explored by technologists seeking to enter or expand their presence in the space.
 
+# Named Entity Recognition
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -13,7 +15,6 @@ These instructions will get you a copy of the project up and running on your loc
 * GeoText
 * nltk
 * StanfordCoreNLP
-
 
 ### Programs
 
@@ -25,32 +26,17 @@ sample_jobs.py - Samples a specific number of jobs from available postings
 
 Currently the paths used in the programs are specific to my computer, I will change them to be an input during this sprint.
 
-### Research
+## Process
 
-## Spacy
 
-## StanfordNLP
+## Research
 
-### Misc
+### Spacy
 
-## Built With
+### StanfordNLP
+
+## Misc
+
+### Built With
 
 * Python
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
