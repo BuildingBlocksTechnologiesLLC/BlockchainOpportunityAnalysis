@@ -8,35 +8,22 @@ As a service to the emergent Blockchain technology community, and in an effort t
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-libraries to install:
+## Prerequisites
+### Libraries
 * GeoText
 * nltk
 * StanfordCoreNLP
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Programs
+### Programs
 
 NLP.py - Currently runs on all of the gzipped data and outputs JSONs of predicted NER
 NLP_acc.py - Takes in JSON with labeled data and Outputs JSON with predicted data. Also prints out accuracy of the NER
+sample_jobs.py - Samples a specific number of jobs from available postings
+
+#### Note for using NLP.py and NLP_acc.py
+
+Currently the paths used in the programs are specific to my computer, I will change them to be an input during this sprint.
 
 ### Research
 
