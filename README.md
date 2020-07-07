@@ -28,6 +28,32 @@ Currently the paths used in the programs are specific to my computer, I will cha
 
 ## Process
 
+### Heuristics 
+
+#### General
+
+Looking for company names in titles usually came after 'at' in most posting. I also looked for common company endings such as LLC, Ltd etc.
+
+Location was found through the geotext library in general.
+
+For salary, it was usually preceded by compenseation, salary, estimate. 
+
+For date, it was usually preceded by date posted if it was a date or included the word ago if it was in the form of x 'month/days' ago
+
+#### Linkedin
+
+Linkedin titles contained both company and location ususally from looking for 'hiring' and 'in'. 'hiring' was usually preceded by the company name and 'in' was usually followed by the location. 
+
+### Accuracy
+
+Accuracy was calculated through counting how many predicted subjects were the same as the labeled subjects. This was then divided by the total number of postings there were.
+Current accuracy on a representative sample from 6/30/2020:
+* Total location Accuracy: 0.7223427331887202
+* Total company Accuracy: 0.8394793926247288
+* Date Accuracy: 0.9891540130151844
+* Salary Accuracy: 0.9718004338394793
+* No Not Found, Date Accuracy: 0.9122807017543859
+* No Not Found, Salary Accuracy: 0.7560975609756098
 
 ## Research
 
