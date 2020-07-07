@@ -44,6 +44,10 @@ For date, it was usually preceded by date posted if it was a date or included th
 
 Linkedin titles contained both company and location ususally from looking for 'hiring' and 'in'. 'hiring' was usually preceded by the company name and 'in' was usually followed by the location. 
 
+#### Choosing company
+
+In order to determine a company name from the body, the most common named was used do to the company name being used the most often.
+
 ### Accuracy
 
 Accuracy was calculated through counting how many predicted subjects were the same as the labeled subjects. This was then divided by the total number of postings there were.
@@ -59,7 +63,17 @@ Current accuracy on a representative sample from 6/30/2020:
 
 ### Spacy
 
+* Really fast at running
+* Performance varies due to false positives or missing up
+* Built to work with Python so easier to work with
+
+
 ### StanfordNLP
+
+* Good accuracy at finding organizations and locations
+* Somewhat slow 
+* Works best with Java but Python port works well currently
+* Requires NLTK to work 
 
 ## Misc
 
