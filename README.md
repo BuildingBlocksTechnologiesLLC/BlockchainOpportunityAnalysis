@@ -53,10 +53,10 @@ In order to determine a company name from the body, the most common named was us
 
 Accuracy was calculated through counting how many predicted subjects were the same as the labeled subjects. This was then divided by the total number of postings there were.
 Current accuracy on a representative sample from 6/30/2020:
-* Total location Accuracy: 0.824295010845987
+* Total location Accuracy: 0.8980477223427332
 * Total company Accuracy: 0.9240780911062907
 * Date Accuracy: 0.9869848156182213
-* Salary Accuracy: 0.9544468546637744
+* Salary Accuracy: 0.9501084598698482
 * No Not Found, Date Accuracy: 0.9122807017543859
 * No Not Found, Salary Accuracy: 0.7560975609756098
 
