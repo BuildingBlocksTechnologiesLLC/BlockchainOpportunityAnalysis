@@ -1,0 +1,11 @@
+{
+    "site": "monster",
+    "body loc": "Midvale, Utah, United States",
+    "body org": "Business",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Overstock.com Inc.",
+    "org": "Overstock.com Inc.",
+    "loc": "Midvale, Utah, United States"
+}

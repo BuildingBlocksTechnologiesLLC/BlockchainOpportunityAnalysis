@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Blacksburg, Virginia, United States",
+    "body org": "USC",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Blacksburg, Virginia, United States",
+    "title org": "Keane Soft Inc",
+    "org": "Keane Soft Inc",
+    "loc": "Blacksburg, Virginia, United States"
+}

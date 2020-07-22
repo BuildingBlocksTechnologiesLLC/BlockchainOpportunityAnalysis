@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Bangalore, IN",
+    "body org": "ISO",
+    "salary": "CMMI-L5 as per",
+    "date": "Not Found",
+    "title loc": "Bangalore, IN",
+    "title org": "Bosch Engineering and Business Solutions",
+    "org": "Bosch Engineering and Business Solutions",
+    "loc": "Bangalore, IN"
+}

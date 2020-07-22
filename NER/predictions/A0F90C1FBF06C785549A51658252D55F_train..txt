@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Remote",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Cryptape",
+    "title org": "Cryptape",
+    "org": "Cryptape",
+    "loc": "Remote"
+}

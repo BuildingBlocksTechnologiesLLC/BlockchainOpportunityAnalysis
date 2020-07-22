@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Foster, US",
+    "body org": "Cypress",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Sioux Falls, South Dakota, United States",
+    "title org": "Anchorage",
+    "org": "Anchorage",
+    "loc": "Sioux Falls, South Dakota, United States"
+}

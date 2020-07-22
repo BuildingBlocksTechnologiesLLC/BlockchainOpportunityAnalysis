@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Not Found",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Bangalore, IN",
+    "title org": "Top Solidity Jobs",
+    "org": "Top Solidity Jobs",
+    "loc": "Bangalore, IN"
+}

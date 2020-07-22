@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Remote",
+    "body org": "Square",
+    "salary": "Not Found",
+    "date": "1 Oct 2019",
+    "title loc": "Not Found",
+    "title org": "Square Crypto",
+    "org": "Square Crypto",
+    "loc": "Remote"
+}

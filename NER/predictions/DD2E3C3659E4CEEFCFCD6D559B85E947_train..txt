@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Japan",
+    "body org": "LINE",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Tokyo, Japan",
+    "title org": "LINE Corp",
+    "org": "LINE Corp",
+    "loc": "Tokyo, Japan"
+}

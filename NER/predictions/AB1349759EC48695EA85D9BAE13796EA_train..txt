@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Manage, BE",
+    "body org": "Binance",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Amsterdam, New York, United States",
+    "title org": "Binance",
+    "org": "Binance",
+    "loc": "Amsterdam, New York, United States"
+}

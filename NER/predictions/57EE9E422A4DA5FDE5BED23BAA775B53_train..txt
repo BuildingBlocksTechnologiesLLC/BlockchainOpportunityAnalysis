@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Tel Aviv, IL",
+    "body org": "ICG",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Tel Aviv, IL",
+    "title org": "Citi",
+    "org": "Citi",
+    "loc": "Tel Aviv, IL"
+}

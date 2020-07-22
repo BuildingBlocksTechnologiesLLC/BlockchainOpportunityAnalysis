@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "Quantum",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Kansas, United States",
+    "title org": "?ternity blockchain",
+    "org": "?ternity blockchain",
+    "loc": "Remote"
+}

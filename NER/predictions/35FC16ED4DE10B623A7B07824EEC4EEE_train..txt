@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Chicago, US",
+    "body org": "OCC",
+    "salary": "Not Found",
+    "date": "30 Days Ago",
+    "title loc": "Chicago, Illinois, United States",
+    "title org": "OCC",
+    "org": "OCC",
+    "loc": "Chicago, Illinois, United States"
+}

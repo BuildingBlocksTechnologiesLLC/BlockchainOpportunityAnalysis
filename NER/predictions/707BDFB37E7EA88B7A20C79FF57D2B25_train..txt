@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Chicago, US",
+    "body org": "Software",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Chicago, Illinois, United States",
+    "title org": "Roy Talman & Associates, Inc.",
+    "org": "Roy Talman & Associates, Inc.",
+    "loc": "Chicago, Illinois, United States"
+}

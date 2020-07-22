@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Vitwit",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Hyderabad, Telangana, India",
+    "title org": "Vitwit",
+    "org": "Vitwit",
+    "loc": "Hyderabad, Telangana, India"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Amazon",
+    "body org": "Amazon",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Seattle, Washington, United States",
+    "title org": "Amazon Web Services (AWS)",
+    "org": "Amazon Web Services (AWS)",
+    "loc": "Seattle, Washington, United States"
+}

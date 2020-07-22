@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Europe",
+    "body org": "BDS",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "BayBridgeDigital",
+    "org": "BayBridgeDigital",
+    "loc": "Europe"
+}

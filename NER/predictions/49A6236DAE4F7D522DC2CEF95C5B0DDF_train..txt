@@ -1,0 +1,11 @@
+{
+    "site": "monster",
+    "body loc": "Manhattan, New York, United States",
+    "body org": "Core",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Huxley Banking & Financial Services",
+    "org": "Huxley Banking & Financial Services",
+    "loc": "Manhattan, New York, United States"
+}

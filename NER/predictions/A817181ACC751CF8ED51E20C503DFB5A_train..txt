@@ -1,0 +1,11 @@
+{
+    "site": "simplyhired",
+    "body loc": "New York, New York, United States",
+    "body org": "Commission",
+    "salary": "$84,000 - $180,000",
+    "date": "5 days ago",
+    "title loc": "New York, US",
+    "title org": "Not Found",
+    "org": "Commission",
+    "loc": "New York, New York, United States"
+}

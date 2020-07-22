@@ -1,6 +1,6 @@
 {
     "Salary": "Not Found",
-    "Location": "Tel Aviv, Israel",
+    "Location": "Tel Aviv, IL",
     "Date Posted": "17 Jun 2020",
     "Company name": "Curv",
     "Body": " Curv Setting the standard for institutional digital asset security Senior DevOps Engineer Tel Aviv \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Engineering \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 17 Jun 2020 Curv is hiring a full-time Senior DevOps Engineer in Tel Aviv. Curv - Setting the standard for institutional digital asset security. Apply now Curv website View more jobs at Curv aws devops docker engineer kubernetes linux python How did you hear about this opportunity? Please let Curv know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like Circle Site Reliability Engineer BitGo Senior Infrastructure Engineer BlockTEST Blockchain Engineer Tokeny DevOps Engineer Axiom Zen Site Reliability Engineer \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "San Francisco, US",
+    "body org": "Nicole",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Hong Kong, Hong Kong SAR",
+    "title org": "TRON Foundation",
+    "org": "TRON Foundation",
+    "loc": "Hong Kong, Hong Kong SAR"
+}

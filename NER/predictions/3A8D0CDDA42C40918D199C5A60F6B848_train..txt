@@ -1,0 +1,11 @@
+{
+    "site": "simplyhired",
+    "body loc": "San Francisco, California, United States",
+    "body org": "Benefits",
+    "salary": "$74,000 - $99,000",
+    "date": "Not Found",
+    "title loc": "San Francisco, US",
+    "title org": "Strategy Associate",
+    "org": "Strategy Associate",
+    "loc": "San Francisco, California, United States"
+}

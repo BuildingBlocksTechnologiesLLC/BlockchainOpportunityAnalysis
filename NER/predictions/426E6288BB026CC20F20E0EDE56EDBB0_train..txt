@@ -1,0 +1,11 @@
+{
+    "site": "simplyhired",
+    "body loc": "Boston, Massachusetts, United States",
+    "body org": "USDC",
+    "salary": "$93,000 - $130,000",
+    "date": "Not Found",
+    "title loc": "Boston, US",
+    "title org": "Not Found",
+    "org": "USDC",
+    "loc": "Boston, Massachusetts, United States"
+}

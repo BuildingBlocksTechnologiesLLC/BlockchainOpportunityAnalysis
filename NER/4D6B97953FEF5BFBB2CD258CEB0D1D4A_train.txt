@@ -1,6 +1,6 @@
 {
     "Salary": "Not Found",
-    "Location": "Copenhagen",
+    "Location": "Copenhagen, DK",
     "Date Posted": "21 Dec 2018",
     "Company name": "Coinify",
     "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Coinify An established global virtual currency player Customer Support Specialist Copenhagen \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Customer Support \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Part-Time Date posted: 21 Dec 2018 Coinify is hiring a part-time Customer Support Specialist in Copenhagen. Coinify - An established global virtual currency player. Apply now Coinify website customer support entry-level non-tech How did you hear about this opportunity? Please let Coinify know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",

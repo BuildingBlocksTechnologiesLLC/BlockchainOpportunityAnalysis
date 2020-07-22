@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Not Found",
+    "body org": "IBC",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "IBC International Blockchain Consulting",
+    "org": "IBC International Blockchain Consulting",
+    "loc": "Not Found"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Washington, Oregon, United States",
+    "body org": "CSS",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York City Metropolitan Area",
+    "title org": "ProTask Inc",
+    "org": "ProTask Inc",
+    "loc": "New York City Metropolitan Area"
+}

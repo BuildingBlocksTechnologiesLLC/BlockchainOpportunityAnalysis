@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Blockchain",
+    "body org": "Developed",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Artivatic",
+    "title org": "Artivatic",
+    "org": "Artivatic",
+    "loc": "Blockchain"
+}

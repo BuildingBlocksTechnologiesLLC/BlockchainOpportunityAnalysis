@@ -1,0 +1,11 @@
+{
+    "site": "simplyhired",
+    "body loc": "Remote",
+    "body org": "Benefits",
+    "salary": "$76,000 - $110,000",
+    "date": "Not Found",
+    "title loc": "Remote",
+    "title org": "Prime Trust, LLC",
+    "org": "Prime Trust, LLC",
+    "loc": "Remote"
+}

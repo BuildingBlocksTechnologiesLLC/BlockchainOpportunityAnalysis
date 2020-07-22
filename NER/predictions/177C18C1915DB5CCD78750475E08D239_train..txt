@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "Google",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Ahmadabad, Gujarat, India",
+    "title org": "MindDeft Technologies",
+    "org": "MindDeft Technologies",
+    "loc": "Remote"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "York City NY",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, New York, United States",
+    "title org": "EM Talent Consulting",
+    "org": "EM Talent Consulting",
+    "loc": "New York, New York, United States"
+}

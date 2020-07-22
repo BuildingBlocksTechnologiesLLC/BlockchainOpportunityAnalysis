@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Madrid, Spain",
+    "body org": "Autonomous",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "P2P Models",
+    "org": "P2P Models",
+    "loc": "Madrid, Spain"
+}

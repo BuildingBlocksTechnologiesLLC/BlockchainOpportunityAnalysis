@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "San Francisco, US",
+    "body org": "InVision",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, California, United States",
+    "title org": "TokenSoft Inc",
+    "org": "TokenSoft Inc",
+    "loc": "San Francisco, California, United States"
+}

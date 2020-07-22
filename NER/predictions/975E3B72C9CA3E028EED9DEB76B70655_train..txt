@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "DDD",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Florham Park, New Jersey, United States",
+    "title org": "Conduent",
+    "org": "Conduent",
+    "loc": "Florham Park, New Jersey, United States"
+}

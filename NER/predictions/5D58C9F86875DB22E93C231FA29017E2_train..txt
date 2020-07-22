@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Blacksburg, Virginia, United States",
+    "body org": "Inc",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Blacksburg, Virginia, United States",
+    "title org": "CyberCoders",
+    "org": "CyberCoders",
+    "loc": "Blacksburg, Virginia, United States"
+}

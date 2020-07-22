@@ -1,0 +1,11 @@
+{
+    "site": "spider",
+    "body loc": "Not Found",
+    "body org": "Numerai",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Not Found",
+    "org": "Numerai",
+    "loc": "Not Found"
+}

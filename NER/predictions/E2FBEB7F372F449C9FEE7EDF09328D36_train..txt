@@ -1,0 +1,11 @@
+{
+    "site": "blocktribe",
+    "body loc": "Remote",
+    "body org": "USDC",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Not Found",
+    "org": "USDC",
+    "loc": "Remote"
+}

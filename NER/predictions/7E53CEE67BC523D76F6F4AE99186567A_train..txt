@@ -1,0 +1,11 @@
+{
+    "site": "cryptojobslist",
+    "body loc": "Ventmode",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Remote",
+    "title org": "Ventmode",
+    "org": "Ventmode",
+    "loc": "Remote"
+}

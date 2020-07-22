@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Tel Aviv, IL",
+    "body org": "Tel",
+    "salary": "Not Found",
+    "date": "17 Jun 2020",
+    "title loc": "Not Found",
+    "title org": "Curv",
+    "org": "Curv",
+    "loc": "Tel Aviv, IL"
+}

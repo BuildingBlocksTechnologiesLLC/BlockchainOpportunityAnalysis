@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Solana, PH",
+    "body org": "Adobe",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, California, United States",
+    "title org": "Solana",
+    "org": "Solana",
+    "loc": "San Francisco, California, United States"
+}

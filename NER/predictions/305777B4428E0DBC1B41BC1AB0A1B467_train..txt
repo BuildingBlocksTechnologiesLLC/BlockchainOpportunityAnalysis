@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Alliance, US",
+    "body org": "Blocklogy",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Mumbai, Maharashtra, India",
+    "title org": "KMPARDS",
+    "org": "KMPARDS",
+    "loc": "Mumbai, Maharashtra, India"
+}

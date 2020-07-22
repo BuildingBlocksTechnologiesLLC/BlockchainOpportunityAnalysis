@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "San Francisco, US",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "28 Mar 2019",
+    "title loc": "Not Found",
+    "title org": "Stellar",
+    "org": "Stellar",
+    "loc": "San Francisco, United States"
+}

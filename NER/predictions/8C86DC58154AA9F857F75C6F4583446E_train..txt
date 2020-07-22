@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "New York, New York, United States",
+    "body org": "Hydrogen",
+    "salary": "$60K  $8",
+    "date": "12 Feb 2020",
+    "title loc": "Not Found",
+    "title org": "Hydrogen",
+    "org": "Hydrogen",
+    "loc": "New York, New York, United States"
+}

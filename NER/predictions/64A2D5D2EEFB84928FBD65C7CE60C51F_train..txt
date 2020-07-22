@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "BitGo",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Palo Alto, California, United States",
+    "title org": "BitGo",
+    "org": "BitGo",
+    "loc": "Palo Alto, California, United States"
+}

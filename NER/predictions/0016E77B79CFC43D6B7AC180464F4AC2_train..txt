@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Charlotte, North Carolina, United States",
+    "body org": "Accountability",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Pittsburgh, Pennsylvania, United States",
+    "title org": "Executive Placements, LLC.",
+    "org": "Executive Placements, LLC.",
+    "loc": "Pittsburgh, Pennsylvania, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "York, New York, United States",
+    "body org": "Labs",
+    "salary": "Not Found",
+    "date": "26 Dec 2019",
+    "title loc": "Not Found",
+    "title org": "Chaincode Labs",
+    "org": "Chaincode Labs",
+    "loc": "York, New York, United States"
+}

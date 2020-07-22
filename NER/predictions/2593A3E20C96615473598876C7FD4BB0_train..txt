@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Frankfurt",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "28 Nov 2019",
+    "title loc": "Not Found",
+    "title org": "Northern Bitcoin",
+    "org": "Northern Bitcoin",
+    "loc": "Frankfurt"
+}

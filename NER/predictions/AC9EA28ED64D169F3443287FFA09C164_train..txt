@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Mobile, US",
+    "body org": "ERP",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Pleasanton, California, United States",
+    "title org": "Workday",
+    "org": "Workday",
+    "loc": "Pleasanton, California, United States"
+}

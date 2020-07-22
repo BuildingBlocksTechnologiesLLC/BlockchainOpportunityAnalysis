@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Midtown",
+    "body org": "AUM",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York City Metropolitan Area",
+    "title org": "Atlantic Group",
+    "org": "Atlantic Group",
+    "loc": "New York City Metropolitan Area"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "Eastern",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Remote",
+    "title org": "SmartContract",
+    "org": "SmartContract",
+    "loc": "Remote"
+}

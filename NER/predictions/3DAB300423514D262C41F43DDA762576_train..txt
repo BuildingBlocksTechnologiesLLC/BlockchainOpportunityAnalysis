@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Portland, Oregon, United States",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Portland, Oregon, United States",
+    "title org": "Smith + Crown",
+    "org": "Smith + Crown",
+    "loc": "Portland, Oregon, United States"
+}

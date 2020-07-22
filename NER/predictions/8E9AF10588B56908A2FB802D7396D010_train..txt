@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "London, GB",
+    "body org": "CTO",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "London, England, United Kingdom",
+    "title org": "LedgerComm",
+    "org": "LedgerComm",
+    "loc": "London, England, United Kingdom"
+}

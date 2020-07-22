@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Gdynia, PL",
+    "body org": "Order",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Gdynia, PL",
+    "title org": "Refinitiv",
+    "org": "Refinitiv",
+    "loc": "Gdynia, PL"
+}

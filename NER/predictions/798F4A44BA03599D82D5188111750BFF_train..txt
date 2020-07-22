@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "IACR",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco Bay Area",
+    "title org": "DFINITY",
+    "org": "DFINITY",
+    "loc": "San Francisco Bay Area"
+}

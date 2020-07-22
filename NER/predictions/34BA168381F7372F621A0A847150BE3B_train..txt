@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "Ajax",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, New York, United States",
+    "title org": "Intone Networks",
+    "org": "Intone Networks",
+    "loc": "New York, New York, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Draper, US",
+    "body org": "Baylor",
+    "salary": "$100,000 - $150,000",
+    "date": "Not Found",
+    "title loc": "Novestic",
+    "title org": "Novestic",
+    "org": "Novestic",
+    "loc": "Draper, United States"
+}

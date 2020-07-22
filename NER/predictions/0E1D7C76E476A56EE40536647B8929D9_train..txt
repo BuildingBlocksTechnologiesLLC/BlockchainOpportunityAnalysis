@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Most, CZ",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Singapore",
+    "title org": "Chubb",
+    "org": "Chubb",
+    "loc": "Singapore"
+}

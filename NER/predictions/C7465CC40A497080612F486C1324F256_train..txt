@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "Amazon",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Salt Lake City, Utah, United States",
+    "title org": "Evernym, Inc.",
+    "org": "Evernym, Inc.",
+    "loc": "Salt Lake City, Utah, United States"
+}

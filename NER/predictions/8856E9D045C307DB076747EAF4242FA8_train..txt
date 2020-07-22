@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "London, GB",
+    "body org": "FCA",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "London, GB",
+    "title org": "ARCADIS United Kingdom",
+    "org": "ARCADIS United Kingdom",
+    "loc": "London, GB"
+}

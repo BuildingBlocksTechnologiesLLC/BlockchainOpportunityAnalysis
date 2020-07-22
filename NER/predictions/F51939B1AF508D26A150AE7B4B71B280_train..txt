@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Not Found",
+    "body org": "Google",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "10x ICO",
+    "org": "10x ICO",
+    "loc": "Not Found"
+}

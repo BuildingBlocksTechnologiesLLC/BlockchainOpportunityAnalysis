@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Los Altos, California, United States",
+    "body org": "Paxos",
+    "salary": "$150-200k",
+    "date": "Not Found",
+    "title loc": "San Francisco, California, United States",
+    "title org": "Skyrocket Ventures",
+    "org": "Skyrocket Ventures",
+    "loc": "San Francisco, California, United States"
+}

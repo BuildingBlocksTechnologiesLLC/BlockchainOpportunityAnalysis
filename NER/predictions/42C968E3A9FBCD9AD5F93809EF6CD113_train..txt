@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "IBM",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Haifa, IL",
+    "title org": "IBM",
+    "org": "IBM",
+    "loc": "Haifa, IL"
+}

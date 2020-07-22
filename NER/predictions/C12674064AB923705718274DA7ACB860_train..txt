@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "New York, US",
+    "body org": "Operations",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Warsaw, Mazowieckie, Poland",
+    "title org": "Goldman Sachs",
+    "org": "Goldman Sachs",
+    "loc": "Warsaw, Mazowieckie, Poland"
+}

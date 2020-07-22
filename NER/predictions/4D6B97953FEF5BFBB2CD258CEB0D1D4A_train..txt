@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Copenhagen, DK",
+    "body org": "Coinify",
+    "salary": "Not Found",
+    "date": "21 Dec 2018",
+    "title loc": "Not Found",
+    "title org": "Coinify",
+    "org": "Coinify",
+    "loc": "Copenhagen, DK"
+}

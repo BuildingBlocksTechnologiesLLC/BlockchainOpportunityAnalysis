@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "San Francisco, New York, United States",
+    "body org": "Generous",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, California, United States",
+    "title org": "Ripple",
+    "org": "Ripple",
+    "loc": "San Francisco, California, United States"
+}

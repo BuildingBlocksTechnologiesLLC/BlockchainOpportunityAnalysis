@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Remote",
+    "body org": "Cyberjaya",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Cyberjaya",
+    "title org": "Not Found",
+    "org": "Cyberjaya",
+    "loc": "Remote"
+}

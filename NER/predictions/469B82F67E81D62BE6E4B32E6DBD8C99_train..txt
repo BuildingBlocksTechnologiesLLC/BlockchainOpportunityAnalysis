@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Hong Kong",
+    "body org": "Hong",
+    "salary": "Not Found",
+    "date": "6 Dec 2019",
+    "title loc": "Not Found",
+    "title org": "block.one",
+    "org": "block.one",
+    "loc": "Hong Kong"
+}

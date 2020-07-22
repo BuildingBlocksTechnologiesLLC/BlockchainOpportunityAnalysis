@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Foster, US",
+    "body org": "Cypress",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, California, United States",
+    "title org": "Anchorage",
+    "org": "Anchorage",
+    "loc": "San Francisco, California, United States"
+}

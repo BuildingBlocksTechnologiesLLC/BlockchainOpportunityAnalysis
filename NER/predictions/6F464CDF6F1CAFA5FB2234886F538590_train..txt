@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "CoinDesk",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, New York, United States",
+    "title org": "CoinDesk",
+    "org": "CoinDesk",
+    "loc": "New York, New York, United States"
+}

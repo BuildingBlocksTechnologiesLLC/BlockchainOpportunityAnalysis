@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "CRD",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Burlington, Massachusetts, United States",
+    "title org": "Charles River Development",
+    "org": "Charles River Development",
+    "loc": "Burlington, Massachusetts, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Los Angeles, California, United States",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Los Angeles, California, United States",
+    "title org": "Blockdaemon",
+    "org": "Blockdaemon",
+    "loc": "Los Angeles, California, United States"
+}

@@ -1,6 +1,6 @@
 {
     "Salary": "Not Found",
-    "Location": "United States",
+    "Location": "Remote",
     "Date Posted": "Not Found",
     "Company name": "Ciberspring",
     "Body": " Posted by: Michael Santomarco Michael Santomarco Managing Partner, Ciberspring International LLC. (mike@ciberspring.com) Remote Blockchain Architect ?? Job Description ?? Responsible for the architecture and design of Smart Contracts, Oracles and DAPPS based on a distributed blockchain-based network. Primary responsibility will be analyzing requirements, designing the blockchain dependent components of the application. ???? Responsibilities ?? Research and design Blockchain Smart Contracts, Oracles and Dapps Brainstorm and help evaluate applications for new tools and technologies as they continually evolve ?? Skills ?? 5+ Years in software development experience, 3+ Years in Blockchain Familiarity with cryptography Familiarity with P2P networks Strong knowledge of Ethereum and Hyperledger Knowledge of R3 Corda and Quorum Blockchains Smart contract development experience in Solidity/GO Hands on experience with Truffle, Web3.js and other Blockchain developer tools Strong software development background Cloud Web development experience Proven experience in design and development RESTful APIs Proficiency in one or more of the following languages: C#, Java, JavaScript Strong knowledge of common algorithms and data structures Strong knowledge of concurrency and writing efficient and safe multithreaded code Good knowledge of Document Management systems ?? ?? ",

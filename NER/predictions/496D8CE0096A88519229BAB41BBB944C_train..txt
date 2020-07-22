@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Asia",
+    "body org": "Telegram",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "London, GB",
+    "title org": "MS Maxfield Search",
+    "org": "MS Maxfield Search",
+    "loc": "London, GB"
+}

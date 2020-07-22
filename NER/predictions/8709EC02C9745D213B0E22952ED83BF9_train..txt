@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Citi",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Jersey City, New Jersey, United States",
+    "title org": "Citi",
+    "org": "Citi",
+    "loc": "Jersey City, New Jersey, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "University",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Myrtle Point, Oregon, United States",
+    "title org": "2U",
+    "org": "2U",
+    "loc": "Remote"
+}

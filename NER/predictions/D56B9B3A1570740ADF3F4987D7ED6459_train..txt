@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Opportunity, US",
+    "body org": "Microsoft",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Melbourne, Australia",
+    "title org": "Opus Recruitment Solutions",
+    "org": "Opus Recruitment Solutions",
+    "loc": "Melbourne, Australia"
+}

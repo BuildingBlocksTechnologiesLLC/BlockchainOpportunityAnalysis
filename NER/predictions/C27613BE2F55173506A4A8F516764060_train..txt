@@ -1,0 +1,11 @@
+{
+    "site": "monster",
+    "body loc": "New York, US",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "CyberCoders",
+    "org": "CyberCoders",
+    "loc": "New York, United States"
+}

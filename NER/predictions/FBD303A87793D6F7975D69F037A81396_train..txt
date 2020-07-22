@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Vilnius, LT",
+    "body org": "Bison",
+    "salary": "Not Found",
+    "date": "8 Jun 2020",
+    "title loc": "Blockchain",
+    "title org": "Blockchain",
+    "org": "Blockchain",
+    "loc": "Vilnius, LT"
+}

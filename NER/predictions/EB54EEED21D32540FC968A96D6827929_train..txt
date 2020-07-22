@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Asia",
+    "body org": "AIC",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Singapore, Singapore",
+    "title org": "Sumitomo Mitsui Banking Corporation (SMBC) Asia Pacific",
+    "org": "Sumitomo Mitsui Banking Corporation (SMBC) Asia Pacific",
+    "loc": "Singapore, Singapore"
+}

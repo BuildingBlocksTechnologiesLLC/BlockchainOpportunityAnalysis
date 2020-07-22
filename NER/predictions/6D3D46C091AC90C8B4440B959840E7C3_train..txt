@@ -1,0 +1,11 @@
+{
+    "site": "glassdoor",
+    "body loc": "United States",
+    "body org": "Digital",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "United States",
+    "title org": "Information Services Group Digital Enterprise Agility Operating Model",
+    "org": "Information Services Group Digital Enterprise Agility Operating Model",
+    "loc": "United States"
+}

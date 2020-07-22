@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "San Francisco, US",
+    "body org": "OK",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, California, United States",
+    "title org": "OKCoin",
+    "org": "OKCoin",
+    "loc": "San Francisco, California, United States"
+}

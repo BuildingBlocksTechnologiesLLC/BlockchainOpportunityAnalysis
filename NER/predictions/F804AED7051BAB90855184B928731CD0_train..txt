@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Windsor, Connecticut, United States",
+    "body org": "CT",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Windsor, Connecticut, United States",
+    "title org": "XpertTech Inc",
+    "org": "XpertTech Inc",
+    "loc": "Windsor, Connecticut, United States"
+}

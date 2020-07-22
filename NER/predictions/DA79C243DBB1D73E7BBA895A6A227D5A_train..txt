@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Porsche",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Leutkirch, Baden-W?rttemberg, Germany",
+    "title org": "Porsche AG",
+    "org": "Porsche AG",
+    "loc": "Leutkirch, Baden-W?rttemberg, Germany"
+}

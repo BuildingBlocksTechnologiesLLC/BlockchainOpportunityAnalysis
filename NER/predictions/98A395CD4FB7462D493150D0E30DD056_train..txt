@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Gaia",
+    "body org": "Amazon",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Bangalore, IN",
+    "title org": "J.P. Morgan",
+    "org": "J.P. Morgan",
+    "loc": "Bangalore, IN"
+}

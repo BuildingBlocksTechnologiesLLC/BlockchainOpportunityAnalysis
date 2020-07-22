@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "York, New York, United States",
+    "body org": "Recruiter",
+    "salary": "Not Found",
+    "date": "8 Jan 2020",
+    "title loc": "Not Found",
+    "title org": "Gemini",
+    "org": "Gemini",
+    "loc": "York, New York, United States"
+}

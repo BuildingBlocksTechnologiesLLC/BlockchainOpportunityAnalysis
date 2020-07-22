@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Boston, US",
+    "body org": "Community",
+    "salary": "Not Found",
+    "date": "1 May 2020",
+    "title loc": "Not Found",
+    "title org": "Algorand",
+    "org": "Algorand",
+    "loc": "Boston, United States"
+}

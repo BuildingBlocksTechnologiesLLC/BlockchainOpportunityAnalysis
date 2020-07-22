@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Dallas, US",
+    "body org": "LATOKEN",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "El Paso, Texas, United States",
+    "title org": "LATOKEN",
+    "org": "LATOKEN",
+    "loc": "El Paso, Texas, United States"
+}

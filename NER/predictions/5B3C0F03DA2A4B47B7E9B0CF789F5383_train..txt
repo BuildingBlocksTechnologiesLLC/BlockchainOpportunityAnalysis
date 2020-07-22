@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Sofia, BG",
+    "body org": "Operations",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Sofia, Sofia City, Bulgaria",
+    "title org": "Crypto.com",
+    "org": "Crypto.com",
+    "loc": "Sofia, Sofia City, Bulgaria"
+}

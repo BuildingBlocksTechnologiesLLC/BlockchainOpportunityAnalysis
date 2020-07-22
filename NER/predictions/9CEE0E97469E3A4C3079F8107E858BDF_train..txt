@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Mobile, US",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Singapore",
+    "title org": "WRS - Worldwide Recruitment Solutions",
+    "org": "WRS - Worldwide Recruitment Solutions",
+    "loc": "Singapore"
+}

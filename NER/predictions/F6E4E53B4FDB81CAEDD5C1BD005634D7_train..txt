@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Emergent",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "London, England, United Kingdom",
+    "title org": "Maxfield Search",
+    "org": "Maxfield Search",
+    "loc": "London, England, United Kingdom"
+}

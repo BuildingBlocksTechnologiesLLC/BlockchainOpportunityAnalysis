@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Business",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Singapore, SG",
+    "title org": "Grounded",
+    "org": "Grounded",
+    "loc": "Singapore, SG"
+}

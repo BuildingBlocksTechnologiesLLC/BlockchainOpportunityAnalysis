@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "ViewFin",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Greater Toronto Area Metropolitan Area",
+    "title org": "ViewFin?",
+    "org": "ViewFin?",
+    "loc": "Greater Toronto Area Metropolitan Area"
+}

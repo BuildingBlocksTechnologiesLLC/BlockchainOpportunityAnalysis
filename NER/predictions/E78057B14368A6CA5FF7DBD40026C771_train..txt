@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Opportunity, US",
+    "body org": "FILD",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Los Angeles, California, United States",
+    "title org": "FILD",
+    "org": "FILD",
+    "loc": "Los Angeles, California, United States"
+}

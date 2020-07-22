@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Remote",
+    "body org": "Dune",
+    "salary": "Not Found",
+    "date": "1 Mar 2020",
+    "title loc": "Not Found",
+    "title org": "Dune Analytics",
+    "org": "Dune Analytics",
+    "loc": "Remote"
+}

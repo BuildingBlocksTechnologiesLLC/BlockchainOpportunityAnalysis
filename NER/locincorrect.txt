@@ -1,501 +1,188 @@
-00C5F4BBC2DFBF80B208D852E4643E21_train.txt
-correct: Remote
-pred: remote - Not Found
-03E86503D2E419853FE18D0D636480D9_train.txt
-correct: Remote
-pred: remote - Not Found
-04B542B8F81158D09D8AAA4395F9BB0F_train.txt
-correct: Remote
-pred: remote - United States
-0CBA067738B6ACE9FF5FA6B14B80D622_train.txt
-correct: Midvale, Utah
-pred: City - Not Found
-0CC59DC6AE7B0BF03B6B37A7E6FD8F5D_train.txt
-correct: New York
-pred: Manhattan - New York City Metropolitan Area
-0CEE6F912EE093A402351B7587F14580_train.txt
-correct: New York
-pred: Apifiny - New York City Metropolitan Area
-0EF06A0C5A5AE5A87888A46C7726CA80_train.txt
-correct: Portland, Oregon
-pred: Portland - Not Found
-0F5924C9E6FF6B791052D33B8CA846D6_train.txt
-correct: USA
-pred: remote - Not Found
-0F5B295746EA88401C5C7B6C5BC4DAEB_train.txt
-correct: New York
-pred: Blockchain - New York City Metropolitan Area
-100AD9C9B73907D353AF1BE6CCB977B3_train.txt
-correct: Remote
-pred: remote - remote
-1016718CE46185FDF48FAFF3BE70B0C5_train.txt
-correct: San Francisco, California, United States
-pred: Francisco - San Francisco
 10D93931EEBF47D4174AB9C10DBF1882_train.txt
 correct: RTP, North Carolina, US
-pred: Carolina - Not Found
-12296F58EC0688D5D681D23819284893_train.txt
-correct: Remote
-pred: remote - Binance
-12D31CC9662ACCA708ED31B680F9B34B_train.txt
-correct: St Louis, Missouri, United States,
-pred: Jose - Not Found
-14E7204637627C5794A498B4FB1969A3_train.txt
-correct: Long Island City, NY
-pred: remote - NY
+pred: NC - Not Found
+pred: NC
+110547317AFDDFE05710897D1BD35DDA_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
 177C18C1915DB5CCD78750475E08D239_train.txt
-correct: Remote
-pred: remote - Ahmadabad, Gujarat, India
-1823B478884D489A1454DF60D900C3C7_train.txt
-correct: Austin, Texas, United States
-pred: Bluemix - Not Found
-1A71CE0EFD587A4FA76A7558E63BABB5_train.txt
-correct: Charlotte, North Carolina
-pred: New - Not Found
-1BA4023BEF8D392F534111F05955C4F4_train.txt
-correct: San Jose, California, United States
-pred: Braintree - San Jose, CA, US
-1CF629D22E336CD34ABB36A269934178_train.txt
-correct: Seattle, Washington
-pred: Providence - Not Found
-2133A7D74F95B878A0293ACA4E9A9526_train.txt
-correct: Remote
-pred: remote - remote
-21E048327645159E6F0C5E702E5328D9_train.txt
-correct: Foster City, California, United States
-pred: City - Foster City, CA, US
-24F0BD493F4479C6E050A1B927491B56_train.txt
-correct: London, San Francisco
-pred: States - Not Found
-250737EFD0FD753BA6FBC38FB4001D39_train.txt
-correct: Midvale, UT, United States
-pred: Vietnam - Not Found
-251E352C4DB3A1ACE9425F1797864193_train.txt
-correct: Washington, DC, United States
-pred: , - Not Found
+correct: Ahmadabad, Gujarat, India
+pred: Remote - Ahmadabad, Gujarat, India
+pred: Remote
+2111DA325AFA7F3ABD69DD54D18DDA44_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
 2593A3E20C96615473598876C7FD4BB0_train.txt
 correct: Frankfurt am Main
 pred: Frankfurt - Not Found
-2B646466BBAEADD5C5586D210033379E_train.txt
-correct: New York, United States
-pred: Not Found - New York City Metropolitan Area
+pred: Frankfurt
+27E6626052BCA1E321C4A0AD5318DDA7_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
 2B691C8102629C0273ACAD8585E45094_train.txt
 correct: San Francisco, California, United States
-pred: Coinbase - Not Found
-2BD2FD449ADD5D1A5543D299AECB1F78_train.txt
-correct: Springdale, Arkansas, United States
-pred: Springdale - ICONMA
-2C7F1A29527B3A1138AE1A1754978CE9_train.txt
-correct: Midvale, Utah, United States
-pred: City - Not Found
-2D8AD4DAD6EE554A22DDC95234CB6011_train.txt
-correct: San Jose, California, United States
-pred: Jose - San Jose
-2F0E31BCD7A6D678B081F5B642CC5EE8_train.txt
-correct: New York
-pred: Nice, FR - New York City Metropolitan Area
-2FF9DCEFD9BB6E8DFD314C20C0AC0C8D_train.txt
-correct: San Fancisco, California, United States
-pred: Anchorage - San Francisco, California, United States
-31318F4040D8763C767C518F0B3B47A1_train.txt
-correct: Toronto, ON, Canada
-pred: Not Found - Toronto, ON
-31B20FBA399CE38DF39B49A6742C878E_train.txt
-correct: Remote
-pred: remote - remote
-334CDDE55C4BEE451DA8D650AF826665_train.txt
-correct: Morrisville, NC, United States
-pred: Chainyard - Not Found
-33AE395CAA771D2B262CA544DE03A6DC_train.txt
-correct: San Francisco, California, United States
-pred: California - Not Found
+pred: San Francisco, US - Not Found
+pred: San Francisco, United States
 34BA168381F7372F621A0A847150BE3B_train.txt
 correct: Remote
-pred: remote - New York, New York, United States
-35CD8A6F1C5FECF1AE04B34BA794BDCF_train.txt
-correct: Remote
-pred: remote - Not Found
-368DC4EBD071C3C55516284E855EF7DB_train.txt
-correct: Armonk, New York, United States
-pred: TX - Not Found
-36944682A00E350CBF115A7B2AF19A52_train.txt
-correct: San Francisco, California, United States
-pred: Francisco - San Francisco, CA, US
-3734783B11BAFD956A0D775653BC9E5A_train.txt
-correct: New York, New York, United States
-pred: Blockchain - Not Found
-37AAF9AFDD90CC03D936478710A33EC0_train.txt
-correct: San Francisco, United States
-pred: Francisco - Not Found
+pred: Remote - New York, New York, United States
+pred: New York, New York, United States
 3867220AF1799D28D5160E4EE02278BA_train.txt
 correct: New York, United States
-pred: New - Not Found
-397C69D58D8E37191E4CB1808FCDE3FA_train.txt
-correct: Log Angeles, California, United States
-pred: Angeles - Los Angeles, California, United States
-3A8D0CDDA42C40918D199C5A60F6B848_train.txt
-correct: San Francisco, California, United States
-pred: California - San Francisco
-3B5C5006B7EA21031DA380CD69A27864_train.txt
-correct: Jersey City, New Jersey, United States
-pred: Blockchain - Jersey City, New Jersey
-3BAADB2F9D2A165E56833B329F19FE44_train.txt
-correct: Remote
-pred: remote - Austin, Texas Metropolitan Area
-3DC2351B8160663758425F5FB8DC67C4_train.txt
-correct: New Delhi
-pred: Blockchain - Delhi, IN
-405C0CF4DF6421653DEC3815A5A08896_train.txt
-correct: Minneapolis, Minnesota, United States
-pred: Bluemix - Not Found
-4099B064BA207B2B3CA6E8BB4DA4FC70_train.txt
-correct: Remote
-pred: remote - San Francisco, California, United States
-426E6288BB026CC20F20E0EDE56EDBB0_train.txt
-correct: Boston, Massachusetts 
-pred: Boston - Boston
-42BD193B16556ED079B8C1DD9B255B07_train.txt
-correct: New Delhi in Delhi, IN
-pred: Blockchain - Delhi, IN
-469B82F67E81D62BE6E4B32E6DBD8C99_train.txt
-correct: Hong Kong
-pred: Hong - Not Found
-48A3D979B283FA102E2BF7DE3B3A9B22_train.txt
-correct: Toronto, Canada
-pred: Deloitte - Toronto, CA
-49247E0209EF02ABA60C84CC3F517832_train.txt
-correct: Bellevue, Washington, United States
-pred: Bellevue - Not Found
-4958D5DA372B5A5BD5DE1C3FEA00150C_train.txt
-correct: Jersey City, New Jersey, United States
-pred: Blockchain - Jersey City, New Jersey
-49A6236DAE4F7D522DC2CEF95C5B0DDF_train.txt
-correct: Manhattan, New York, United States
-pred: Manhattan - Not Found
-4BC8673621E213477365C29FB6AC0921_train.txt
-correct: San Jose, California, United States
-pred: Ethereum - Nutanix
-4C77D57F6B8436A1623FF20AE42ADB3E_train.txt
-correct: Washington, DC, United States
-pred: New - Not Found
-4EE26854375ADA4C30BC998AC3F435FA_train.txt
-correct: Remote
-pred: Not Found - Chicago, Illinois, United States
+pred: York, New York, United States - Not Found
+pred: York, New York, United States
+388349D3FF70D0E8C776F13D88DA1092_train.txt
+correct: Not Found
+pred: Europe - Not Found
+pred: Europe
+44EA7B280D8A987144B79B6774E371E2_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
+4920F423DC82ECED2AFA3F0CCEE8FEFF_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
+4D0703CFBBF9D785B01E0EBED109D0A9_train.txt
+correct: New York, New York, United States
+pred: York, New York, United States - Not Found
+pred: York, New York, United States
 50EB4868B59AE99F60B8760B5CA84317_train.txt
 correct: New York, United States
-pred: New - Not Found
-51322586EA1644725980C143B1905119_train.txt
-correct: Remote
-pred: Angeles - San Francisco Bay Area
-52EFC3993B56FD26A46E0AE7166B64E9_train.txt
-correct: Remote
-pred: remote - Not Found
+pred: York, New York, United States - Not Found
+pred: York, New York, United States
+5268EBDAB64F2977EB78138F7C400D59_train.txt
+correct: Gdynia, Poland
+pred: Gdynia, PL - Gdynia, PL
+pred: Gdynia, PL
 54B22F7A273F73ADF13DDAB1B7CD3F52_train.txt
 correct: Boxborough, Massachusetts, United States
-pred: Nederland, US - Boxborough
-5728BE799FC05613C0266211236392A4_train.txt
-correct: San Francisco, California, United States
-pred: remote - San Francisco, CA, US
-587E68601E936DE144B2D9485883F825_train.txt
-correct: Blacksburg, Virginia, United States
-pred: Blacksburg - Not Found
-5BD3F9C162441682DED5AF459AF487D6_train.txt
-correct: Philadelphia, Pennsylvania, United States
-pred: Philadelphia - Not Found
-5BDD148FE25F92A5FD969F7D46D207AD_train.txt
-correct: Singapore
-pred: Braintree - Singapore, SG
-5F29F1B286B27A18076FD88C17F45A56_train.txt
-correct: Walnut Creek, California, United States
-pred: Area - Jobot
-5FAC881155A7382CCC21A12E26FFA83D_train.txt
-correct: Pune, Indiana, United States
-pred: Bitcoin - Pune, IN
+pred: Pop, UZ - Boxborough
+pred: Pop, UZ
 607C99E61CA246936CAB57FF25F76139_train.txt
 correct: Remote
-pred: remote - San Francisco, California, United States
-618B1A9CF0A2382072ADBA8A0C403B59_train.txt
-correct: Menlo Park, California, United States
-pred: Blockchain - Not Found
-62C47F5D2A650B639FC43070788AC851_train.txt
-correct: Remote
-pred: remote - Not Found
-62D8EB3BC37ADDDA558C9CE5307F282B_train.txt
-correct: Chicago, United States
-pred: Chicago - Not Found
-6312F3136A1A687A2B4503388B6967C6_train.txt
-correct: Pune, Indiana, United States
-pred: Bitcoin - Pune, IN
-63E0A59F2E5D4BE115C1E073A0833BC2_train.txt
-correct: Merrimack, New Hampshire, United States
-pred: Not Found - Merrimack, NH, US
-6487D57961FD577F358002DA85BA6B2B_train.txt
-correct: Miami, United States
-pred: Miami - Not Found
-6496DCB73A021520D6846F97F271D4DA_train.txt
-correct: Madrid, Spain
-pred: Aragon - Not Found
-64A2D5D2EEFB84928FBD65C7CE60C51F_train.txt
-correct: Remote
-pred: remote - Palo Alto, California, United States
-65F7785664D45B38E1799CE667309D48_train.txt
-correct: Remote
-pred: remote - Lehi, Utah, United States
+pred: Remote - San Francisco, California, United States
+pred: San Francisco, California, United States
 66283722445D13B14673DE9FBBE671C4_train.txt
 correct: New York, New York, United States
-pred: remote - Not Found
-6874539049183AF92B311004202B6668_train.txt
+pred: Remote - Not Found
+pred: Remote
+669A560648854EB749036C3E3D040527_train.txt
 correct: Not Found
-pred: remote - Blockgram
+pred: US - Not Found
+pred: United States
 68E6934657A9DCFA04717C700EC35F88_train.txt
 correct: San Francisco, California, United States
-pred: remote - San Francisco
-69AB0FCEAD0EC4FDBEB1FF5068FFB591_train.txt
-correct: Tel Aviv, Israel
-pred: Aviv - Not Found
+pred: Remote - San Francisco, CA
+pred: San Francisco, CA
+6A7EEB784C5F21DA40C22278EC6D69BD_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
 6B56AE7BD1BC8BFFBB4FCBF35FA72ED6_train.txt
-correct: Remote
-pred: remote - Chicago
-6BC0AE6C6938610A0F25088714B8EB73_train.txt
-correct: Hunt Valley, Maryland, United States
-pred: Collabera - Collabera
-6CBF9CC67F20114E746B15C0C47E61E2_train.txt
-correct: Remote
-pred: remote - Los Angeles, California, United States
+correct: Chicago, Illinois, United States
+pred: Remote - Chicago, US
+pred: Chicago, United States
 6E2592422C1A8C98308890C8BB9D95FF_train.txt
 correct: Not Found
-pred: remote - Cyberjaya
+pred: Remote - Cyberjaya
+pred: Remote
 6F34CE1BC8325E19DCF008BC863ECF91_train.txt
 correct: Not Found
 pred: Blockchain - Artivatic
-6F75EB754E88C9AA6D9DEC44CE447804_train.txt
-correct: New York
-pred: Blockchain - New York City Metropolitan Area
-6FA695AF7444C9F5A8F16B73A4C124E0_train.txt
-correct: Chicago, Illinois, United States
-pred: Blockchain - Not Found
-6FEAD70002E47E7A0642105431780DD2_train.txt
-correct: Bangalore, India
-pred: Blockchain - Bangalore, IN
-708CC50DF1429B558334A537DA8B3621_train.txt
-correct: Remote
-pred: remote - Not Found
-7166524EE224D9890F588BDE30F03F80_train.txt
-correct: Tallin, Estonia
-pred: remote - Mothership
-73ACCBA1AA73D6D3CFACA13806BCA122_train.txt
-correct: Tel Aviv
-pred: Aviv - Not Found
-74098876A4291E8ABE5365AAA52B9984_train.txt
-correct: Milpitas, California, United States
-pred: California - Not Found
-76F2940A61E865745818D7D7737FF4DA_train.txt
-correct: Minneapolis, Minnesota, United States
-pred: Caffe - Not Found
-7E53CEE67BC523D76F6F4AE99186567A_train.txt
-correct: Remote
-pred: remote - remote
-7F64BD6F01BCCD20EC2D9C8171BB2A60_train.txt
-correct: Remote
-pred: remote - Not Found
+pred: Blockchain
+743760DED77667611E3F651396260C29_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
 81E7D9DC59D74356D9E08C049219239B_train.txt
 correct: San Francisco, California, United States
-pred: Francisco - Not Found
-838BC9ABBE4AEF8F8AC2594466F36249_train.txt
+pred: San, ML - Not Found
+pred: San, ML
+832ED0F1510A47EB58E40279FD304B72_train.txt
 correct: Not Found
-pred: Asia - Vectorium
-8544CEA52018EC9A2BC5EA5AA101BC2A_train.txt
-correct: Remote
-pred: remote - Myrtle Point, Oregon, United States
-857310EF0CFA38B29B4486D637A1A05D_train.txt
-correct: Raleigh, North Carolina, United States
-pred: Github - Not Found
-87B5A532F3EB0FC2538E59AD68845ABD_train.txt
-correct: Remote
-pred: remote - Kansas, United States
-8858A0A4E1CCFAF5D59B9A38D9AAE7F5_train.txt
-correct: New York, United States
-pred: New - Not Found
+pred: Africa - Not Found
+pred: Africa
+89A9B398EE960B10153C066BE7FFB962_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
 8B3889B9C87D9A49F7DD50B7314850FD_train.txt
 correct: Toronto, Ontario, Canada
-pred: Ontario - Not Found
-8C86DC58154AA9F857F75C6F4583446E_train.txt
-correct: New York
-pred: Hydrogen - Not Found
-8CAE13FBE7F11D849B81F58CA225DE62_train.txt
-correct: Minneapolis, Minnesota, United States
-pred: New - Not Found
-8E1E67782DB739C6D36AB62718370059_train.txt
-correct: Remote
-pred: remote - remote
-8FE4173E8D6C0256B0A23AB123E86776_train.txt
-correct: New Delhi in Delhi, IN
-pred: Blockchain - Delhi, IN
+pred: Toronto, CA - Not Found
+pred: Toronto, CA
 91DA00364DF083494BD55A04431A60EB_train.txt
-correct: New York, United States
-pred: remote - Blockgram
-94CA1E58354D04DCB9755CFAEAB42573_train.txt
-correct: San Francisco, California, United States
-pred: Not Found - WebAssembly and Compilers in San Francisco, California, United States
-97CF8E474DABA32C26523F53513EF560_train.txt
-correct: Phoenix, Arizona, United States
-pred: AZ - Not Found
+correct: New York, New York, United States
+pred: York City NY - Blockgram
+pred: York City NY
 98205F37E508BEE6ACFF1266B4D925E0_train.txt
 correct: Armonk, New York, United States
-pred: Blockchain - Not Found
-98A395CD4FB7462D493150D0E30DD056_train.txt
-correct: Bangalore, India
-pred: Gaia - Bangalore, IN
+pred: NY - Not Found
+pred: NY
 9C8E892BF2FAE35A3CCD04F900FE5520_train.txt
 correct: Charlotte, North Carolina, United States
-pred: remote - Not Found
+pred: Remote - Not Found
+pred: Remote
 9D85005CFD7F3DE4854B8745E6579BF8_train.txt
 correct: New York, Philadelphia, San Francisco
-pred: City - Not Found
-A0F90C1FBF06C785549A51658252D55F_train.txt
-correct: Remote
-pred: remote - Cryptape
-A817181ACC751CF8ED51E20C503DFB5A_train.txt
-correct: New York, New York, United States
-pred: Indonesia - NY
-A89F67FEAD10AAB052643F4611B857DE_train.txt
-correct: Remote
-pred: remote - Jelurida
-ADF2DE8C2FC678116FC3379BD6121503_train.txt
-correct: Palo Alto, California, United States
-pred: Alto - Not Found
-B160552D8527A3E8142F9B189D181BBC_train.txt
-correct: Remote
-pred: remote - Not Found
-B74D71FBCBACD06823DD36DFB68A43F3_train.txt
-correct: Atlanta, United States
-pred: Bakkt - Not Found
-BA0CB8995426BD5967858A849735FBB0_train.txt
-correct: Raleigh, North Carolina, United States
-pred: NC - Not Found
-BAA7A75B40372CAEA7E5562BFDEED89D_train.txt
-correct: Miami, Florida, United States
-pred: LATOKEN - Not Found
-BD4CD50EDEDE148131AEB0A943E9352F_train.txt
-correct: Foster City, California, United States
-pred: Akraya - Akraya
-BD64BF837AA69146CFF373AB61310314_train.txt
-correct: Boston, United States
-pred: Algorand - Not Found
+pred: Salt Lake, US - Not Found
+pred: Salt Lake, United States
+A3B736A04420F859EE6CAFD1F6A69F75_train.txt
+correct: San Francisco, California, United States
+pred: Remote - San Francisco, California, United States
+pred: Remote
+A501EBB853BDDBE574665DFEF703B18A_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
+B006DA0919DA718FCC5B8C1B13701829_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
 BF6EC5C77E0198A87612C30D9308C5DE_train.txt
 correct: New York, United States
-pred: Republic - Not Found
-BFB982B475CF4F17ECE9E4E55ED15A84_train.txt
-correct: Not Found
-pred: Ethereum - Blockgram
+pred: York, New York, United States - Not Found
+pred: York, New York, United States
 C27613BE2F55173506A4A8F516764060_train.txt
 correct: New York, New York, United States
-pred: New - Not Found
+pred: New York, US - Not Found
+pred: New York, United States
 C33B277AC3CD0F82DB271A0AB879D60C_train.txt
 correct: Remote
-pred: remote - San Francisco
-C3413F2B2DC4796501B478729DEBD54C_train.txt
-correct: San Francisco, California, United States
-pred: Francisco - San Francisco, CA, US
+pred: Remote - San Francisco, US
+pred: San Francisco, United States
 C6D2D75A1305CA8F03CDA2A0D753E193_train.txt
 correct: Bay Area
-pred: remote - Novestic
-C8E78A8A93EC23D36D286FBF40470914_train.txt
-correct: San Francisco, California, United States
-pred: Francisco - San Francisco, CA, US
-C91E344A59218C78A26B3D2AB6D493D5_train.txt
-correct: Arlington, Virginia, United States
-pred: Deloitte - Not Found
-C958CAB18500CA817F97DAFEA3AFABBD_train.txt
-correct: San Jose, California, United States
-pred: Jose - Not Found
-D33DE3B12EBBEE6C567C4863D60F6DE6_train.txt
-correct: Remote
-pred: remote - Not Found
-D36CCFD0927953367E45EE899F585511_train.txt
+pred: Draper, US - Novestic
+pred: Draper, United States
+D61A8928FC358CD576155646C6ABF879_train.txt
 correct: Not Found
-pred: remote - Purse
-D835C7C68804DB8A632BE8956A59BE94_train.txt
-correct: San Francisco, United States
-pred: LATOKEN - Not Found
-D8F3CAD8B2583D84665DE5D94860D238_train.txt
-correct: Remote
-pred: remote - Not Found
+pred: Remote - Not Found
+pred: Remote
 DAF28624701169542488C63445C7D33E_train.txt
 correct: Remote
-pred: remote - California, United States
-DC89AF51650F7E9316A42F573893EE2A_train.txt
-correct: Minneapolis, Minnesota, United States
-pred: Minneapolis - Synechron
-DCE5E89985AC21CCC3B3775A1597C9DD_train.txt
-correct: San Francisco, California, United States
-pred: California - Not Found
+pred: Remote - California, United States
+pred: California, United States
 DD2296B8260A74C5E069A9AB82584D85_train.txt
 correct: St Louis, Missouri, United States
-pred: Java - Not Found
-DEAA630945A47EB87193FF1439AB9035_train.txt
-correct: Washington, DC, United States
-pred: Blockchain - Not Found
-DF7DCADB3452A4130E0C5254482D0B2C_train.txt
-correct: Opus Recruitment Solutions
-pred: London - London, England, United Kingdom
-DF8671CE73DA65C316B6F0D501A9B633_train.txt
-correct: Remote
-pred: remote - Not Found
-DFDC11D2B76EC785DD16314D03F54680_train.txt
-correct: Mexico City
-pred: Bitso - Not Found
-E09AF023374828F58BCDD91BC256A266_train.txt
-correct: Remote
-pred: remote - remote
-E0B1B998731FC726D8223817BF542313_train.txt
-correct: South Portland, Maine, United States
-pred: Java - Blockgram
-E2D5F86F898A70EBE8A68D89E31C9EB1_train.txt
-correct: Remote
-pred: remote - San Francisco Bay Area
-E2FBEB7F372F449C9FEE7EDF09328D36_train.txt
-correct: Remote
-pred: remote - Not Found
-E3FC6F9B86E6AC4F7F9A3033F00C1BA5_train.txt
-correct: Remote
-pred: remote - Denver, Colorado, United States
-E7A1DBC7E0A1F7B1BB5FA9A88277D68A_train.txt
-correct: Greater Seattle Area
-pred: Golang - Mandarin in Greater Seattle Area
-E9CEE001360EFA940D1BB34F9BA9BFE3_train.txt
-correct: San Francisco, California, United States
-pred: Francisco - Not Found
-EC3264F554910332DD180473282ADD7E_train.txt
-correct: Remote
-pred: remote - Not Found
+pred: St Louis - Not Found
+pred: St Louis
+E5201E5BBCC91C782BDCFC37B50B3C8D_train.txt
+correct: Not Found
+pred: Remote - Not Found
+pred: Remote
+E720613858464330EFC3801987FC10AA_train.txt
+correct: Amsterdam
+pred: Amsterdam, US - Blockport
+pred: Amsterdam, United States
 EC843CF51391B2EC9FD82BD2C0E62AEF_train.txt
 correct: New York
-pred: New - Not Found
+pred: York, New York, United States - Not Found
+pred: York, New York, United States
 F0F9A84CB6062C483D2EBC640322D699_train.txt
 correct: Madison, Wisconsin, United States
-pred: remote - Not Found
-F8C543F293B66CEF8E7D4B8F57F367D6_train.txt
-correct: San Francisco, California, United States
-pred: Francisco - Not Found
-F96F75AFEBD25048A7B4DC41DE358EC5_train.txt
-correct: Los Angeles, California, United States
-pred: remote - Los Angeles
-F97EF91CE18B4D8B124EC37B42B73504_train.txt
-correct: Atlanta Metroplitan Area
-pred: Bitcoin - Atlanta Metropolitan Area
-FB62902F1AD5DAF71BF90BDED21D14D3_train.txt
-correct: Remote
-pred: remote - Not Found
-FBD303A87793D6F7975D69F037A81396_train.txt
-correct: Vilnius
-pred: Blockchain - Not Found
-FC5DC6FC4039FB4F5CC329CE3F8BE832_train.txt
-correct: Austin, Texas, United States
-pred: New - Not Found
-FE252E7F55DC1321E69E2B315FC6472A_train.txt
-correct: Remote
-pred: remote - Kansas, United States
-FE7D67EEBF8CDE993929FA4039CA7CF7_train.txt
-correct: Zurich
-pred: Sygnum - Not Found
+pred: Madison, US - Not Found
+pred: Madison, United States

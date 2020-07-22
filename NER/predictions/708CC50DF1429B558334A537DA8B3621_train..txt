@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Remote",
+    "body org": "POA",
+    "salary": "Not Found",
+    "date": "20 Oct 2019",
+    "title loc": "Not Found",
+    "title org": "POA Network",
+    "org": "POA Network",
+    "loc": "Remote"
+}

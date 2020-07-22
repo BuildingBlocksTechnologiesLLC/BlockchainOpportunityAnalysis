@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "York, New York, United States",
+    "body org": "Associate",
+    "salary": "Not Found",
+    "date": "30 Apr 2020",
+    "title loc": "Not Found",
+    "title org": "Republic",
+    "org": "Republic",
+    "loc": "York, New York, United States"
+}

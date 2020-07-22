@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Handson",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Bengaluru, Karnataka, India",
+    "title org": "CyberQ Consulting",
+    "org": "CyberQ Consulting",
+    "loc": "Bengaluru, Karnataka, India"
+}

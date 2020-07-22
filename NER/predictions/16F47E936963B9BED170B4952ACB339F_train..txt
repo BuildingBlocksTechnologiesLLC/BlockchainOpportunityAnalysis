@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Responsibilities",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Atlanta, Georgia, United States",
+    "title org": "CIYIS",
+    "org": "CIYIS",
+    "loc": "Atlanta, Georgia, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Bakkt",
+    "body org": "GTM",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Atlanta Metropolitan Area",
+    "title org": "Bakkt",
+    "org": "Bakkt",
+    "loc": "Atlanta Metropolitan Area"
+}

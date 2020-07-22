@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "ViewFin",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Toronto, Ontario, Canada",
+    "title org": "ViewFin?",
+    "org": "ViewFin?",
+    "loc": "Toronto, Ontario, Canada"
+}

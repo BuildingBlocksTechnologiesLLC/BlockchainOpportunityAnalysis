@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Not Found",
+    "body org": "Not Found",
+    "salary": "$250,000",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Real Estate Company",
+    "org": "Real Estate Company",
+    "loc": "Not Found"
+}

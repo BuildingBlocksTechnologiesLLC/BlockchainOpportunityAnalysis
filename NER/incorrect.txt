@@ -1,222 +1,140 @@
 0F5924C9E6FF6B791052D33B8CA846D6_train.txt
 correct: ConsenSys
-pred: Customer - Not Found
-100AD9C9B73907D353AF1BE6CCB977B3_train.txt
-correct: Prime Trust, LLC
-pred: Business - Business Development
+pred: About - Not Found
+pred: About
+1016718CE46185FDF48FAFF3BE70B0C5_train.txt
+correct: Mindsource Inc
+pred: Apply - Financial Services) - Mindsource Inc
+pred: Financial Services) - Mindsource Inc
 110547317AFDDFE05710897D1BD35DDA_train.txt
 correct: Endpass
-pred: Interview - Not Found
-1CF629D22E336CD34ABB36A269934178_train.txt
-correct: Providence Health & Services
-pred: Health - Providence Health & Services | Monster.com
+pred: AirdropAlert - Not Found
+pred: AirdropAlert
 2111DA325AFA7F3ABD69DD54D18DDA44_train.txt
 correct: ICO Disaster
-pred: Interview - Not Found
+pred: Crypto - Not Found
+pred: Crypto
 2133A7D74F95B878A0293ACA4E9A9526_train.txt
 correct: PacketFabric
 pred: Post - Not Found
+pred: Post
 27E6626052BCA1E321C4A0AD5318DDA7_train.txt
 correct: Chorus One
-pred: Interview - Not Found
+pred: AirdropAlert - Not Found
+pred: AirdropAlert
 2B691C8102629C0273ACAD8585E45094_train.txt
 correct: Coinbase
-pred: Bar - Not Found
-2C55857DB599C447A5302D7A43D758BD_train.txt
-correct: Tokensoft Inc
-pred: Global - TokenSoft Inc
-2C7F1A29527B3A1138AE1A1754978CE9_train.txt
-correct: Overstock.com Inc.
-pred: Onsite - Overstock.com
+pred: Nice - Not Found
+pred: Nice
 2F0E31BCD7A6D678B081F5B642CC5EE8_train.txt
 correct: Not Found
-pred: Assistant - Confidential - [Fintech & Startup]
-2FA7B74B9B8F1AF2DAA37854D09C10DC_train.txt
-correct: Infosys
-pred: ICO - Infosys Ltd
-31318F4040D8763C767C518F0B3B47A1_train.txt
-correct: ViewFin
-pred: Canada - ViewFin?
+pred: Executive - Confidential - [Fintech & Startup]
+pred: Confidential - [Fintech & Startup]
 31B20FBA399CE38DF39B49A6742C878E_train.txt
 correct: Consul
 pred: HashiCorp - Not Found
-334CDDE55C4BEE451DA8D650AF826665_train.txt
-correct: IT People Corporation LLC 
-pred: IT - IT People Co
+pred: HashiCorp
 33AE395CAA771D2B262CA544DE03A6DC_train.txt
 correct: Coinbase
-pred: Data - Not Found
-3734783B11BAFD956A0D775653BC9E5A_train.txt
-correct: tZERO Group, Inc.
-pred: Management - tZERO Group, Inc
-396649512B4CA6990D8820FCCF11CB76_train.txt
-correct: J Harlen Group, LLC
-pred: Engineer - J Harlan Group, LLC
+pred: Facebook - Not Found
+pred: Facebook
 3A8D0CDDA42C40918D199C5A60F6B848_train.txt
 correct: Coinbase
-pred: Health - Strategy Associate
-3DAB300423514D262C41F43DDA762576_train.txt
-correct: Smith+Crown
-pred: Not Found - Smith + Crown
+pred: Benefits - Strategy Associate
+pred: Strategy Associate
 426E6288BB026CC20F20E0EDE56EDBB0_train.txt
 correct: Circle
-pred: Capital - Not Found
+pred: USDC - Not Found
+pred: USDC
 44EA7B280D8A987144B79B6774E371E2_train.txt
 correct: Immutable
-pred: Interview - Not Found
-469B82F67E81D62BE6E4B32E6DBD8C99_train.txt
-correct: block.one
-pred: Date - bloc
-49247E0209EF02ABA60C84CC3F517832_train.txt
-correct: Oracle
-pred: Autonomous - Oracle | Monster.com
-496D8CE0096A88519229BAB41BBB944C_train.txt
-correct: MS Maxfield
-pred: Crypto - MS Maxfield Search
-49A6236DAE4F7D522DC2CEF95C5B0DDF_train.txt
-correct: Huxley Banking & Financial Services
-pred: Assets - Huxley Banking & Financial Services | Monster.com
-4BC8673621E213477365C29FB6AC0921_train.txt
-correct: Nutanix
-pred: PKI - Nutanix | Monster.com
-4D6B97953FEF5BFBB2CD258CEB0D1D4A_train.txt
-correct: Coinify
-pred: Customer - Co
-587E68601E936DE144B2D9485883F825_train.txt
-correct: CyberCoders
-pred: Package - CyberCo
-5BD3F9C162441682DED5AF459AF487D6_train.txt
-correct: Watson Health
-pred: IBM - IBM | Monster.com
-5F29F1B286B27A18076FD88C17F45A56_train.txt
-correct: Jobot
-pred: Esports - Jobot | Monster.com
+pred: AirdropAlert - Not Found
+pred: AirdropAlert
+66283722445D13B14673DE9FBBE671C4_train.txt
+correct: Blockstack
+pred: PBC - Not Found
+pred: PBC
+68E6934657A9DCFA04717C700EC35F88_train.txt
+correct: TrustToken
+pred: Facebook - Not Found
+pred: Facebook
 6A7EEB784C5F21DA40C22278EC6D69BD_train.txt
 correct: Red Bull
-pred: Bull - Not Found
-6BC0AE6C6938610A0F25088714B8EB73_train.txt
-correct: Collabera
-pred: Computer - Co
+pred: Red - Not Found
+pred: Red
 6D3D46C091AC90C8B4440B959840E7C3_train.txt
 correct: Information  Information Services Group
 pred: Digital - Information Services Group Digital Enterprise Agility Operating Model
-6E2592422C1A8C98308890C8BB9D95FF_train.txt
-correct: Cyberjaya
-pred: Post - Not Found
+pred: Information Services Group Digital Enterprise Agility Operating Model
 743760DED77667611E3F651396260C29_train.txt
 correct: Zerion
-pred: Interview - Not Found
-74FAD9B9DD7C9CF4C44E9729A95738C3_train.txt
-correct: GoCryp.to
-pred: Not Found - GoCry
-759C8956F4864715A67BD78293447677_train.txt
-correct: Real Estate Company
-pred: Solidity - Real Estate Co
+pred: AirdropAlert - Not Found
+pred: AirdropAlert
 81E7D9DC59D74356D9E08C049219239B_train.txt
 correct: Multis
 pred: Crypto - Not Found
+pred: Crypto
 85FA51732BD0A9CE796C897918AE232F_train.txt
 correct: Not Found
-pred: DLT - ??
+pred: Not Found - ??
+pred: ??
 89A9B398EE960B10153C066BE7FFB962_train.txt
 correct: InvestaCrowd
-pred: Interview - Not Found
+pred: AirdropAlert - Not Found
+pred: AirdropAlert
 8B3889B9C87D9A49F7DD50B7314850FD_train.txt
 correct: EY Careers
-pred: - - Not Found
-8E1E67782DB739C6D36AB62718370059_train.txt
-correct: CyberCoders
-pred: SDK - CyberCo
+pred: Canada - Not Found
+pred: Canada
 8EA7E4345475B6F0E403858F19975C46_train.txt
 correct: CSAA Insurance Group
 pred: CSAA - CSAA Insurance Group, a AAA Insurer
-98205F37E508BEE6ACFF1266B4D925E0_train.txt
-correct: IBM
-pred: SAP - IBM | Monster.com
-9825DCE287CB071D45724543D1D9C147_train.txt
-correct: Sysmind LLC
-pred: Digital - SysMind LLC
+pred: CSAA Insurance Group, a AAA Insurer
+9A0E50FFAD568332F2776638CCE028EB_train.txt
+correct: Not Found
+pred: Post - Not Found
+pred: Post
+9D85005CFD7F3DE4854B8745E6579BF8_train.txt
+correct: AlphaPoint
+pred: PHP - Not Found
+pred: PHP
 A501EBB853BDDBE574665DFEF703B18A_train.txt
 correct: JOP Blockchain
-pred: Interview - Not Found
+pred: AirdropAlert - Not Found
+pred: AirdropAlert
 A817181ACC751CF8ED51E20C503DFB5A_train.txt
 correct: Chainhaus
 pred: Not Found - Not Found
+pred: Not Found
 B006DA0919DA718FCC5B8C1B13701829_train.txt
 correct: Futurama
-pred: Interview - Not Found
-B3E77BDDDE6DF1CFE70449170D5B903C_train.txt
-correct: IBC International Blockchain Consulting
-pred: Compensation - IBC International Blockchain Co
-B882B60CB96AA6E7186B8C145C060884_train.txt
-correct: Keane Soft Int
-pred: USC - Keane Soft Inc
+pred: AirdropAlert - Not Found
+pred: AirdropAlert
 B9A8303692EC67016478A1998C15A807_train.txt
 correct: Tradelab
-pred: Bangalore - Top Solidity Jobs
-B9CCBB356414CF01777A70D9F3E90890_train.txt
-correct: Roberts
-pred: CTO - Roberts Recruiting
-BD4CD50EDEDE148131AEB0A943E9352F_train.txt
-correct: Akraya, Inc.
-pred: Health - Akraya, Inc
-C27613BE2F55173506A4A8F516764060_train.txt
-correct: CyberCoders
-pred: Apple - CyberCo
-C2B88A4AB461F86392250ABEA0B9653A_train.txt
-correct: RoBloX
-pred: BSD - TenX
+pred: Not Found - Top Solidity Jobs
+pred: Top Solidity Jobs
 C33B277AC3CD0F82DB271A0AB879D60C_train.txt
 correct: Tides
-pred: Community - Not Found
-D33DE3B12EBBEE6C567C4863D60F6DE6_train.txt
-correct: Ethereum Community Fund
-pred: Community - Ethereum Co
-D54B535E8E47F9684991CC14C15043B5_train.txt
-correct: J Harlan Group
-pred: Engineer - J Harlan Group, LLC
+pred: Crypto - Not Found
+pred: Crypto
 D61A8928FC358CD576155646C6ABF879_train.txt
 correct: HKEOS
-pred: Interview - Not Found
-DC89AF51650F7E9316A42F573893EE2A_train.txt
-correct: Synechron
-pred: Analyst - Synechron | Monster.com
-DCE5E89985AC21CCC3B3775A1597C9DD_train.txt
-correct: Muse Incorporated
-pred: Business - Muse Inc
-DD2E3C3659E4CEEFCFCD6D559B85E947_train.txt
-correct: Line Corp
-pred: Corp - LINE Corp
-DF7DCADB3452A4130E0C5254482D0B2C_train.txt
-correct: London, England, United Kingdom
-pred: Greenfield - Opus Recruitment Solutions
+pred: AirdropAlert - Not Found
+pred: AirdropAlert
 E09AF023374828F58BCDD91BC256A266_train.txt
 correct: FP&A
-pred: Overflow - Not Found
+pred: Post - Not Found
+pred: Post
 E2FBEB7F372F449C9FEE7EDF09328D36_train.txt
 correct: Circle
-pred: Capital - Not Found
+pred: USDC - Not Found
+pred: USDC
 E9A56683935D4766F3CE0375904F5D6D_train.txt
 correct: Information Services Group
 pred: Digital - Information Services Group Digital Enterprise Agility Operating Model
-E9CEE001360EFA940D1BB34F9BA9BFE3_train.txt
-correct: CyberCoders
-pred: SDK - CyberCo
-F0F9A84CB6062C483D2EBC640322D699_train.txt
-correct: Prism IT Corporation
-pred: About - Prism IT Co
-F35FCDEB1376AFF78105F114DA82E3BC_train.txt
-correct: CHAINWISE
-pred: CSS - CHAINWISE Group GmbH
-F81435DD1A9B778EAE9FA186A860B5C2_train.txt
-correct: ViewFin
-pred: Canada - ViewFin?
-F8C543F293B66CEF8E7D4B8F57F367D6_train.txt
-correct: CyberCoders
-pred: Company - CyberCo
+pred: Information Services Group Digital Enterprise Agility Operating Model
 F96F75AFEBD25048A7B4DC41DE358EC5_train.txt
 correct: Ember Fund
-pred: Ember - Not Found
-FE252E7F55DC1321E69E2B315FC6472A_train.txt
-correct: ?ternity
-pred: Founded - ?ternity blockchain
+pred: Facebook - Not Found
+pred: Facebook

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "PHP",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Jersey City, New Jersey",
+    "title org": "SimplifyVMS",
+    "org": "SimplifyVMS",
+    "loc": "Jersey City, New Jersey"
+}

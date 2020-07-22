@@ -1,0 +1,11 @@
+{
+    "site": "cryptojobslist",
+    "body loc": "Remote",
+    "body org": "Apex",
+    "salary": "Not Found",
+    "date": "3 months ago",
+    "title loc": "Not Found",
+    "title org": "Not Found",
+    "org": "Apex",
+    "loc": "Remote"
+}

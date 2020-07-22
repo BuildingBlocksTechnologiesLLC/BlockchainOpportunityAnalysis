@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Salt Lake, Utah, United States",
+    "body org": "Flexible",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Midvale, Utah, United States",
+    "title org": "Overstock.com",
+    "org": "Overstock.com",
+    "loc": "Midvale, Utah, United States"
+}

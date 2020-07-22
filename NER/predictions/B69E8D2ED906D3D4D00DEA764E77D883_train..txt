@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Munich, DE",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Munich, Bavaria, Germany",
+    "title org": "Fruition IT",
+    "org": "Fruition IT",
+    "loc": "Munich, Bavaria, Germany"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Mannheim, DE",
+    "body org": "SAP",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "K?ln, DE",
+    "title org": "Camelot ITLab",
+    "org": "Camelot ITLab",
+    "loc": "K?ln, DE"
+}

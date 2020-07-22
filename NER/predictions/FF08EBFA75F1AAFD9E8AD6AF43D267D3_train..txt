@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "San Jose, California, United States",
+    "body org": "PayPal",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Singapore",
+    "title org": "PayPal",
+    "org": "PayPal",
+    "loc": "Singapore"
+}

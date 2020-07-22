@@ -1,0 +1,11 @@
+{
+    "site": "simplyhired",
+    "body loc": "Los Angeles, California, United States",
+    "body org": "Facebook",
+    "salary": "$80,000 - $100,000",
+    "date": "3 days ago",
+    "title loc": "Los Angeles, US",
+    "title org": "Not Found",
+    "org": "Facebook",
+    "loc": "Los Angeles, California, United States"
+}

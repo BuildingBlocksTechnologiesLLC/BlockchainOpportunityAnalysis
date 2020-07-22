@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Security",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Morrisville, North Carolina, United States",
+    "title org": "IT People Corporation",
+    "org": "IT People Corporation",
+    "loc": "Morrisville, North Carolina, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, United States",
+    "title org": "Sario Partners",
+    "org": "Sario Partners",
+    "loc": "New York, United States"
+}

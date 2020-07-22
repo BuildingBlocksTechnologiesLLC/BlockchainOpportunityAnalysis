@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Amsterdam, US",
+    "body org": "Blockport",
+    "salary": "Not Found",
+    "date": "23 Jan 2019",
+    "title loc": "Blockport",
+    "title org": "Blockport",
+    "org": "Blockport",
+    "loc": "Amsterdam, United States"
+}

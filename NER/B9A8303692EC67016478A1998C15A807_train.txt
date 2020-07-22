@@ -1,6 +1,6 @@
 {
     "Salary": "Not Found",
-    "Location": "Bangalore",
+    "Location": "Bangalore, IN",
     "Date Posted": "Not Found",
     "Company name": "Tradelab",
     "Body": " Blockchain Developer Tradelab Full Time Tech Bangalore 2744 views \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 posted 650 ",

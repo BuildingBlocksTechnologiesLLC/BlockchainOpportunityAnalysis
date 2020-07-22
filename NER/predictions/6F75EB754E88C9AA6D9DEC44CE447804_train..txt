@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Bluemix",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York City Metropolitan Area",
+    "title org": "80Twenty",
+    "org": "80Twenty",
+    "loc": "New York City Metropolitan Area"
+}

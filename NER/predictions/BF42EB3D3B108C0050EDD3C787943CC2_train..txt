@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Carolina, PR",
+    "body org": "IT",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Morrisville, North Carolina, United States",
+    "title org": "Chainyard",
+    "org": "Chainyard",
+    "loc": "Morrisville, North Carolina, United States"
+}

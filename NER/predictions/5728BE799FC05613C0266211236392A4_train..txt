@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "San",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, CA, US",
+    "title org": "Blockchain.com",
+    "org": "Blockchain.com",
+    "loc": "San Francisco, California, United States"
+}

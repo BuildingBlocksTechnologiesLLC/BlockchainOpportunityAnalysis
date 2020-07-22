@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Amazon",
+    "body org": "Apple",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Mountain View, California, United States",
+    "title org": "Harmony",
+    "org": "Harmony",
+    "loc": "Mountain View, California, United States"
+}

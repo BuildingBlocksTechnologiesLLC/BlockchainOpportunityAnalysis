@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Remote",
+    "body org": "Holochain",
+    "salary": "$80K - $",
+    "date": "5 Aug 2019",
+    "title loc": "Not Found",
+    "title org": "Holo",
+    "org": "Holo",
+    "loc": "Remote"
+}

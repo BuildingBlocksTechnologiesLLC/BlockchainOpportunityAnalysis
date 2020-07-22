@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "New York, US",
+    "body org": "Google",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, New York, United States",
+    "title org": "MadHive",
+    "org": "MadHive",
+    "loc": "New York, New York, United States"
+}

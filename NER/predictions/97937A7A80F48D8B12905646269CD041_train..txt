@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Berlin, DE",
+    "body org": "Glassnode",
+    "salary": "$70K  $1",
+    "date": "5 Dec 2018",
+    "title loc": "Not Found",
+    "title org": "Glassnode Development AG",
+    "org": "Glassnode Development AG",
+    "loc": "Berlin, DE"
+}

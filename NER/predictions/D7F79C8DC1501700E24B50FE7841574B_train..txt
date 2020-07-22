@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Pune, IN",
+    "body org": "Calypso",
+    "salary": "$750+",
+    "date": "Not Found",
+    "title loc": "Jersey City, New Jersey, United States",
+    "title org": "Synechron",
+    "org": "Synechron",
+    "loc": "Jersey City, New Jersey, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Las Vegas, Nevada, United States",
+    "body org": "PHP",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Greater Seattle Area",
+    "title org": "Cornerstone Staffing Solutions, Inc.",
+    "org": "Cornerstone Staffing Solutions, Inc.",
+    "loc": "Greater Seattle Area"
+}

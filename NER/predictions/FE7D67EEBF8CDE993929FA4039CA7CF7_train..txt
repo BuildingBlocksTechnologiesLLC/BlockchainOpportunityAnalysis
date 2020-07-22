@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Zurich",
+    "body org": "Paxful",
+    "salary": "Not Found",
+    "date": "6 Apr 2020",
+    "title loc": "Not Found",
+    "title org": "Sygnum",
+    "org": "Sygnum",
+    "loc": "Zurich"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "simplyhired",
+    "body loc": "Remote",
+    "body org": "Qualifications",
+    "salary": "$24,000 - $34,000",
+    "date": "5 days ago",
+    "title loc": "Chicago, US",
+    "title org": "RedBlock Inc",
+    "org": "RedBlock Inc",
+    "loc": "Chicago, United States"
+}

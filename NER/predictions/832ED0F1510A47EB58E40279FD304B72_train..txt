@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Africa",
+    "body org": "Ferrum",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Ferrum Network",
+    "org": "Ferrum Network",
+    "loc": "Africa"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "San Francisco, US",
+    "body org": "LATOKEN",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, California, United States",
+    "title org": "LATOKEN",
+    "org": "LATOKEN",
+    "loc": "San Francisco, California, United States"
+}

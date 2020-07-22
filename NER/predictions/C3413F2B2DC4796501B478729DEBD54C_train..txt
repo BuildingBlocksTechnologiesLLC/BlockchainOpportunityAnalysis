@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "San Francisco, US",
+    "body org": "Pantera",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, CA, US",
+    "title org": "Pantera Capital",
+    "org": "Pantera Capital",
+    "loc": "San Francisco, California, United States"
+}

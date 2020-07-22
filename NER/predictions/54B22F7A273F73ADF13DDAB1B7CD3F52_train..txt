@@ -1,0 +1,11 @@
+{
+    "site": "simplyhired",
+    "body loc": "Pop, UZ",
+    "body org": "Google",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Boxborough",
+    "title org": "Cisco Systems",
+    "org": "Cisco Systems",
+    "loc": "Pop, UZ"
+}

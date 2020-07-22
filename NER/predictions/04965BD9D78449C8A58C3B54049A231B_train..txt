@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Morgan",
+    "body org": "Institutional",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, New York, United States",
+    "title org": "BlockFi",
+    "org": "BlockFi",
+    "loc": "New York, New York, United States"
+}

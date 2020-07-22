@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "HA",
+    "body org": "Digital",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Antonio, TX, US",
+    "title org": "SysMind LLC",
+    "org": "SysMind LLC",
+    "loc": "San Antonio, Texas, United States"
+}

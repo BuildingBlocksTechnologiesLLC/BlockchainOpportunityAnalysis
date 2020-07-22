@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Richardson, Texas, United States",
+    "body org": "Infosys",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Jersey City, New Jersey, United States",
+    "title org": "HiredAllied.com",
+    "org": "HiredAllied.com",
+    "loc": "Jersey City, New Jersey, United States"
+}

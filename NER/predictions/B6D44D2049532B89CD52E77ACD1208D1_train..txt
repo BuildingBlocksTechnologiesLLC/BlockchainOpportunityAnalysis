@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Orleans, BR",
+    "body org": "Google",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New Orleans, Louisiana, United States",
+    "title org": "Revelry",
+    "org": "Revelry",
+    "loc": "New Orleans, Louisiana, United States"
+}

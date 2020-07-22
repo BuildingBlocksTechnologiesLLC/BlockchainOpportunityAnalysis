@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "San Francisco, California, United States",
+    "body org": "Positive",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, California, United States",
+    "title org": "Coinbase",
+    "org": "Coinbase",
+    "loc": "San Francisco, California, United States"
+}

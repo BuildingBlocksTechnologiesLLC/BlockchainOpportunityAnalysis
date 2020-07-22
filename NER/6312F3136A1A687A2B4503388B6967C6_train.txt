@@ -1,6 +1,6 @@
 {
     "Salary": "Not Found",
-    "Location": "Pune, Indiana, United States",
+    "Location": "Pune, IN",
     "Date Posted": "Not Found",
     "Company name": "Exioms",
     "Body": " Exp: 1-4 years; There has never been a more exciting time to join our Enterprise team. At Exioms, we firmly believe that we are at our best when you are at yours, and that is why our career offer what you love doing the most. Exioms minds are building Next Generation Blockchain solutions happening at a global scale. What We are looking for? Coder, passionate about Blockchain, Cryptocurrency like Bitcoin, Ethereum, Ripple etc. Good Knolwedge about Smart Contract development Work experience in at least one of the blockchain platforms like IBM Hyperledger, Ethereum, Multichain, Stellar, Ripple, Corda etc. Strong understanding of Bitcoin or other crypto currencies At least 1 year relevant experience to blockchain and implementation. Must have hands-on experience on nodejs / angular for web/Experience with modern Javascript/Experience with python/Experience with building APIs developement Understanding of fundamental design principles for building a scalable application. Hands on experience on Development tools Github, JIRA Should have excellent spoken and written English Demonstrated project discipline and experience. Must be organized, focused, and driven toward established deliverable dates. Ability to take client calls independently and clearly articulate and discuss project status and requirements regarding the project. ",

@@ -1,0 +1,11 @@
+{
+    "site": "spider",
+    "body loc": "Toronto, CA",
+    "body org": "Canada",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Not Found",
+    "org": "Canada",
+    "loc": "Toronto, CA"
+}

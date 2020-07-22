@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "United States",
+    "body org": "Fusion",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Woodbridge Township, New Jersey, United States",
+    "title org": "Fusion Health",
+    "org": "Fusion Health",
+    "loc": "Woodbridge Township, New Jersey, United States"
+}

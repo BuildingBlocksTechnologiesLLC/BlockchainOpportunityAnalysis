@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Foster, US",
+    "body org": "Digital",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Hyderabad, Telangana, India",
+    "title org": "Techolution",
+    "org": "Techolution",
+    "loc": "Hyderabad, Telangana, India"
+}

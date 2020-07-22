@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Manchester, GB",
+    "title org": "CONSULT",
+    "org": "CONSULT",
+    "loc": "Manchester, GB"
+}

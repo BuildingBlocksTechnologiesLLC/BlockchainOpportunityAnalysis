@@ -1,6 +1,6 @@
 {
     "Salary": "$24,000 - $34,000",
-    "Location": "Remote",
+    "Location": "Chicago, Illinois, United States",
     "Date Posted": "5 days ago",
     "Company name": "RedBlock Inc",
     "Body": " Marketing intern RedBlock Inc - Chicago, IL Quick Apply Job Details InternshipEstimated: $24,000 - $34,000 a year5 days ago Qualifications Financial Services Communication Skills Marketing Bachelor's Degree Master's Degree Full Job Description Role description Producing quality marketing and promotional materials targeted at financial services and digital currencies Managing social media presence Media outreach and events organisation Assistance with general marketing Remote work Requirements Bachelor\u2019s degree or Master\u2019s degree Previous marketing experience in blockchain or financial services is a bonus Understanding of cryptocurrencies is a bonus Creative thinker and effective written communicator Ability to work independently with minimal supervision Fluency in Mandarin Chinese and any additional languages is a bonus. Job Type: Internship Pay: $1.00 - $10.00 per hour Experience: Writing Skills: 1 year (Preferred) Finance: 1 year (Preferred) Marketing: 1 year (Preferred) Education: Bachelor's (Preferred) Language: English (Required) Chinese (Preferred) Work Location: Fully Remote Internship Compensation: Pay Schedule: Monday to Friday Company's website: www.redblockcap.com Work Remotely: Yes ",

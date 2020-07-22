@@ -1,6 +1,6 @@
 {
     "Salary": "$60K - $80K",
-    "Location": "New York",
+    "Location": "New York, New York, United States",
     "Date Posted": "12 Feb 2020",
     "Company name": "Hydrogen",
     "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Hydrogen The global financial platform of the Web 3.0 Culture Manager New York \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Operations \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Contract \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Part-Time \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 $60K \u2013 $80K Date posted: 12 Feb 2020 Hydrogen is hiring a contract, part-time Culture Manager in New York. Hydrogen - The global financial platform of the Web 3.0. Apply now Hydrogen website non-tech office management recruiter How did you hear about this opportunity? Please let Hydrogen know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates Blockchain jobs you might like Celo Head of People Protocol Labs Recruiting Coordinator Upvest Head of Talent Gemini Recruiter Axiom Zen Senior Manager - People & Culture \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",

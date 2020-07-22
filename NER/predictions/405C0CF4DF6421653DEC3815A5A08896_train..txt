@@ -1,0 +1,11 @@
+{
+    "site": "monster",
+    "body loc": "Minneapolis, Minnesota, United States",
+    "body org": "IBM",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "IBM",
+    "org": "IBM",
+    "loc": "Minneapolis, Minnesota, United States"
+}

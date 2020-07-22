@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Arkius",
+    "body org": "Arkius",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Campbell, California, United States",
+    "title org": "Arkius",
+    "org": "Arkius",
+    "loc": "Campbell, California, United States"
+}

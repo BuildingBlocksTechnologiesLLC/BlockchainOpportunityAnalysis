@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Berlin, DE",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Berlin, Berlin, Deutschland",
+    "title org": "CHAINWISE Group GmbH",
+    "org": "CHAINWISE Group GmbH",
+    "loc": "Berlin, Berlin, Deutschland"
+}

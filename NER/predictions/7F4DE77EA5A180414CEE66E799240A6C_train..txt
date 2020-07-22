@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Tel Aviv, IL",
+    "body org": "ICG",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Mishmar HaNegev, Southern, Israel",
+    "title org": "Citi",
+    "org": "Citi",
+    "loc": "Mishmar HaNegev, Southern, Israel"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "San Francisco, California, United States",
+    "body org": "Muse",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Muse Incorporated",
+    "org": "Muse Incorporated",
+    "loc": "San Francisco, California, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "New York, New York, United States",
+    "body org": "EEO",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, New York, United States",
+    "title org": "KORE1",
+    "org": "KORE1",
+    "loc": "New York, New York, United States"
+}

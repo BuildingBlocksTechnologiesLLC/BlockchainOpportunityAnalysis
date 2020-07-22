@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "DDD",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Morrisville, North Carolina, United States",
+    "title org": "Conduent",
+    "org": "Conduent",
+    "loc": "Morrisville, North Carolina, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Travelers",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Hartford, Connecticut, United States",
+    "title org": "HiredAllied.com",
+    "org": "HiredAllied.com",
+    "loc": "Hartford, Connecticut, United States"
+}

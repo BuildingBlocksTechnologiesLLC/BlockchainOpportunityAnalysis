@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "BSI",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Charlotte, North Carolina, United States",
+    "title org": "BSI Solutions Ltd",
+    "org": "BSI Solutions Ltd",
+    "loc": "Charlotte, North Carolina, United States"
+}

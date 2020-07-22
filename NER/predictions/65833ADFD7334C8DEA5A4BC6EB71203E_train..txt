@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Oakland, US",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, California, United States",
+    "title org": "PolySign, Inc.",
+    "org": "PolySign, Inc.",
+    "loc": "San Francisco, California, United States"
+}

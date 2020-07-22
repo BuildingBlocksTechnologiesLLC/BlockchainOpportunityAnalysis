@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "UK",
+    "body org": "Henderson",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "London, England, United Kingdom",
+    "title org": "Henderson Scott",
+    "org": "Henderson Scott",
+    "loc": "London, England, United Kingdom"
+}

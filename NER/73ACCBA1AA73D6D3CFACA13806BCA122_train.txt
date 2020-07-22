@@ -1,6 +1,6 @@
 {
     "Salary": "Not Found",
-    "Location": "Tel Aviv",
+    "Location": "Tel Aviv, IL",
     "Date Posted": "30 Jan 2019",
     "Company name": "Wemark",
     "Body": " This job listing was recently removed Unfortunately, this job listing is no longer available, but we have more roles open that might interest you. Search blockchain jobs Wemark Blockchain-based marketplace for digital content Operations Manager Tel Aviv \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Operations \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00b7 Full-Time Date posted: 30 Jan 2019 Wemark is hiring a full-time Operations Manager in Tel Aviv. Wemark - Blockchain-based marketplace for digital content. Apply now Wemark website non-tech operations How did you hear about this opportunity? Please let Wemark know you found this position on Cryptocurrency Jobs as a way to support us so we can keep providing you with quality jobs. Apply now Follow @jobsincrypto Subscribe to email updates \u00c3\u0083\u0082\u00c3\u0082\u00c2\u00a9 2020 Cryptocurrency Jobs",

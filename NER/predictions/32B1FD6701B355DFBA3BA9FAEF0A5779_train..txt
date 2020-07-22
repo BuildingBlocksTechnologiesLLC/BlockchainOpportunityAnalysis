@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "San Jose, California, United States",
+    "body org": "IBM",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Greater Boston",
+    "title org": "IBM",
+    "org": "IBM",
+    "loc": "Greater Boston"
+}

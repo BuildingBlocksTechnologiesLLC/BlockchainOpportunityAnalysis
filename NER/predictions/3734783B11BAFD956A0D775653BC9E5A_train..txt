@@ -1,0 +1,11 @@
+{
+    "site": "monster",
+    "body loc": "New York, New York, United States",
+    "body org": "Microsoft",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "tZERO Group, Inc.",
+    "org": "tZERO Group, Inc.",
+    "loc": "New York, New York, United States"
+}

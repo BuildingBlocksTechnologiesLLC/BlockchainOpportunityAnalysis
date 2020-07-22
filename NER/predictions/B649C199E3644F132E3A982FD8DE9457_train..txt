@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Trust",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Sioux Falls, South Dakota, United States",
+    "title org": "BitGo",
+    "org": "BitGo",
+    "loc": "Sioux Falls, South Dakota, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Foster City, California, United States",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Foster City, CA, US",
+    "title org": "Collabera Inc.",
+    "org": "Collabera Inc.",
+    "loc": "Foster City, California, United States"
+}

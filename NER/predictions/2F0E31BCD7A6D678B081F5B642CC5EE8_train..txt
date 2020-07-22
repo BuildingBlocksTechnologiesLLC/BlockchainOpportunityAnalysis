@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Executive",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York City Metropolitan Area",
+    "title org": "Confidential - [Fintech & Startup]",
+    "org": "Confidential - [Fintech & Startup]",
+    "loc": "New York City Metropolitan Area"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "New York, US",
+    "body org": "Biological",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, New York, United States",
+    "title org": "Antler",
+    "org": "Antler",
+    "loc": "New York, New York, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "cryptocurrencyjobs",
+    "body loc": "Mexico City, Mexico",
+    "body org": "Bitso",
+    "salary": "Not Found",
+    "date": "20 Feb 2020",
+    "title loc": "Not Found",
+    "title org": "Bitso",
+    "org": "Bitso",
+    "loc": "Mexico City, Mexico"
+}

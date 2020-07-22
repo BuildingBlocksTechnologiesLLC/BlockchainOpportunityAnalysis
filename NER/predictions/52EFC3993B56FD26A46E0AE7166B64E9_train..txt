@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Remote",
+    "body org": "Linum",
+    "salary": "3000 - 5000",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Linum Labs",
+    "org": "Linum Labs",
+    "loc": "Remote"
+}

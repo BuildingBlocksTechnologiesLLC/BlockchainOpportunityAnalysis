@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Remote",
+    "body org": "Based",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Not Found",
+    "title org": "Synergy CTS",
+    "org": "Synergy CTS",
+    "loc": "Remote"
+}

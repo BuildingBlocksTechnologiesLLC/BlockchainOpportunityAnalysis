@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "AJAX",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Remote",
+    "title org": "Ciberspring",
+    "org": "Ciberspring",
+    "loc": "Remote"
+}

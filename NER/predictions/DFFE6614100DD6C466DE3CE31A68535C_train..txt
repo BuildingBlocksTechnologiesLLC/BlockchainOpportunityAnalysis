@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Menlo Park, US",
+    "body org": "Facebook",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Menlo Park, California, United States",
+    "title org": "Calibra",
+    "org": "Calibra",
+    "loc": "Menlo Park, California, United States"
+}

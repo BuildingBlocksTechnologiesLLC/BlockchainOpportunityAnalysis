@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "New York, US",
+    "body org": "Akuna",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, New York, United States",
+    "title org": "BlockFi",
+    "org": "BlockFi",
+    "loc": "New York, New York, United States"
+}

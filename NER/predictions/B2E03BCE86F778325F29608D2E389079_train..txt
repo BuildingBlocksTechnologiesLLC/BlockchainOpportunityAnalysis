@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Remote",
+    "body org": "Goldman",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Greater Boston",
+    "title org": "Roberts Recruiting, LLC",
+    "org": "Roberts Recruiting, LLC",
+    "loc": "Greater Boston"
+}

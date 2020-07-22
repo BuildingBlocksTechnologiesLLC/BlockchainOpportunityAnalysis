@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Mexico City, MX",
+    "body org": "Facebook",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Mexico City, MX",
+    "title org": "Facebook",
+    "org": "Facebook",
+    "loc": "Mexico City, MX"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Ltd",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Dallas, Texas, United States",
+    "title org": "RM Dayton Analytics",
+    "org": "RM Dayton Analytics",
+    "loc": "Dallas, Texas, United States"
+}

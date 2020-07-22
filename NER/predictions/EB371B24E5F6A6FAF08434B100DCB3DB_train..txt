@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "Compensation",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Lithuania",
+    "title org": "Blockchain.com",
+    "org": "Blockchain.com",
+    "loc": "Lithuania"
+}

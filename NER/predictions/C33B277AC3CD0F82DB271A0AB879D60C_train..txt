@@ -1,0 +1,11 @@
+{
+    "site": "crypto",
+    "body loc": "Remote",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "San Francisco, US",
+    "title org": "Not Found",
+    "org": "Not Found",
+    "loc": "San Francisco, United States"
+}

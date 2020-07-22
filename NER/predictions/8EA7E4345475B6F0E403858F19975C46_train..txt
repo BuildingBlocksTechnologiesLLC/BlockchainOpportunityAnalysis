@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Walnut Creek, California, United States",
+    "body org": "CSAA",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Walnut Creek, California, United States",
+    "title org": "CSAA Insurance Group, a AAA Insurer",
+    "org": "CSAA Insurance Group, a AAA Insurer",
+    "loc": "Walnut Creek, California, United States"
+}

@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Irving, Texas, United States",
+    "body org": "Not Found",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "Irving, Texas, United States",
+    "title org": "InfoVision Inc.",
+    "org": "InfoVision Inc.",
+    "loc": "Irving, Texas, United States"
+}

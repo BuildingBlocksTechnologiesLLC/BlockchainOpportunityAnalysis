@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Not Found",
+    "body org": "NYC",
+    "salary": "Not Found",
+    "date": "Not Found",
+    "title loc": "New York, New York, United States",
+    "title org": "J Harlan Group, LLC",
+    "org": "J Harlan Group, LLC",
+    "loc": "New York, New York, United States"
+}

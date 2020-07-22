@@ -1,0 +1,11 @@
+{
+    "site": "linkedin",
+    "body loc": "Greenwich",
+    "body org": "Workbridge",
+    "salary": "$170k",
+    "date": "Not Found",
+    "title loc": "Greenwich, Connecticut, United States",
+    "title org": "Workbridge Associates",
+    "org": "Workbridge Associates",
+    "loc": "Greenwich, Connecticut, United States"
+}
