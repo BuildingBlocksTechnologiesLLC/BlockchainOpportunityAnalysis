@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Programs
 
-NLP.py - Currently runs on all of the gzipped data and outputs JSONs of predicted NER. Takes in three inputs to be run: path to JSON file, path to Stanfordnlp file, and path to NER tagger file. Download files from stanford-ner-4.0.0 folder
+NLP.py - Currently runs on JSON file and outputs JSONs of predicted NER. Takes in three inputs to be run: path to JSON file, path to Stanfordnlp file, and path to NER tagger file. Download files from stanford-ner-4.0.0 folder
 NLP_acc.py - Takes in JSON with labeled data and Outputs JSON with predicted data. Also prints out accuracy of the NER on labeled data.
 sample_jobs.py - Samples a specific number of jobs from available postings
 Statistics.py - Stemming and Stop Words. Takes in a JSON file path and currently doesn't output anything
