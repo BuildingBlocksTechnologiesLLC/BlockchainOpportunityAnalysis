@@ -2,7 +2,7 @@
     "site": "linkedin",
     "body loc": "Enterprise, Arkansas, United States",
     "body org": "RBL1s",
-    "salary": "Rebel One - RBL1s",
+    "salary": "Not Found",
     "date": "Not Found",
     "title loc": "Remote",
     "title org": "Rebel One - RBL1",

@@ -2,7 +2,7 @@
     "site": "linkedin",
     "body loc": "Pune, IN",
     "body org": "Calypso",
-    "salary": "$750+",
+    "salary": "Not Found",
     "date": "Not Found",
     "title loc": "Jersey City, New Jersey, United States",
     "title org": "Synechron",

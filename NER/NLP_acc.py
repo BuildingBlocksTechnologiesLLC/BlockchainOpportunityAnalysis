@@ -2,6 +2,7 @@
 Created on Wed July 1 2020
 """
 
+
 from geotext import GeoText
 import nltk
 from nltk.tag import StanfordNERTagger
@@ -293,7 +294,7 @@ def nlp_title(text,tagger):
 
     try:
         loc_index = text.rfind(' in ')
-        loc_end = text.index('|',loc_index)
+        loc_end = text.index(r'\|| at ',loc_index)
         location = text[loc_index+4:loc_end-1]
     except ValueError:
         location = 'Not Found'
@@ -323,7 +324,7 @@ def nlp_title(text,tagger):
         location = 'Remote'
 
     find_at = re.compile(r' at ',re.IGNORECASE)
-    punct = re.compile(r'\||\-|\/|\:|\;|\\|\–|\)|\}')
+    punct = re.compile(r'\||\-|\/|\:|\;|\\|\)|\}')
     if find_at.findall(text):
         text_post = text[text.index(' at '):]
         abbr_re = re.compile('Inc |LLC|Co |Ltd|.com|.org|.net')
@@ -332,9 +333,11 @@ def nlp_title(text,tagger):
         if punct.findall(text_post):
             org_name = text_post[4:text_post.index(punct.findall(text_post)[0])-1]
         elif abbrev:
-            org_name = text_post[4:abbrev[0]+len(abb[0])]
+            at_i = text_post[0:abbrev[0]+len(abb[0])].rfind(' at ')
+            org_name = text_post[at_i+4:abbrev[0]+len(abb[0])]
         else:
             org_name = text_post[4:]
+
 
     if org_name == 'Not Found':      
         abbr_re = re.compile(r'(?i)[ |, |,]Inc|[ |, |,]LLC|[ |, |,]Co |[ |, |,]Ltd|\.com|\.org|\.net')
@@ -350,7 +353,6 @@ def nlp_title(text,tagger):
         org = True
     if name and org_name == 'Not Found':
         org_name = name[-1]
-    
     return location.strip(), org_name.strip(),city, org
 
 def check_sal_fp(text):
@@ -375,7 +377,7 @@ def find_sal(text):
     """
     Find salary from posting
     """
-    text = (text.encode('ascii', 'ignore')).decode("utf-8")
+    text = text.replace('\u2013','-')
     text = text.replace('401K','')
     text = text.replace('401k','')
     salary = 'Not Found'
@@ -402,8 +404,12 @@ def find_sal(text):
         for i in indices:
             re_dol = re.compile('\$',re.IGNORECASE) 
             dol = re_dol.findall(text)
-            
-            salary_dol = text[i-10:i+15]
+            fir_t = text[:i-3].rfind(' ') 
+            try:
+                l_t = text[i+4:].index(' ')
+            except ValueError:
+                l_t = 0
+            salary_dol = text[i-(i-fir_t):i+4+l_t]
             end = re.compile(' per ', re.IGNORECASE)
             sal = end.findall(salary_dol)
             if sal:
@@ -537,14 +543,27 @@ def nlp_body(text,tagger):
     salary = 'Not Found'
     date = 'Not Found'
 
-    re_date = re.compile(r'date post|date posted ',re.IGNORECASE) 
+    re_date = re.compile(r'(?i) date post[:| ]|date posted[:| ]| posted[:| ]| post[:| ]') 
     find_date = re_date.findall(re_text)
     if find_date:
-        find_date = re_text[re_text.index(find_date[0]):re_text.index(find_date[0])+30]
+        find_date = re_text[re_text.index(find_date[0])+len(find_date[0]):re_text.index(find_date[0])+30]
+        if extract_dates(find_date):
+            date_time = extract_dates(find_date)[0]
+            date = date_time.strftime("%e %b %Y")
 
-        date_time = extract_dates(find_date)[0]
-        date = date_time.strftime("%e %b %Y")
-        
+    re_date = re.compile(r'20[0-9][0-9]') 
+    find_date = re_date.findall(re_text[:40])
+    indices = [m.start(0) for m in re_date.finditer(re_text)]
+    if find_date:
+        fd = re_text[:indices[0]+4]
+        date_loc_1 = fd[:indices[0]-1].rfind(' ')
+        date_loc = fd[:date_loc_1].rfind(' ')
+        find_date = re_text[date_loc:indices[0]+4]
+
+        if extract_dates(find_date):
+            date_time = extract_dates(find_date)[0]
+            date = date_time.strftime("%e %b %Y")
+
     if date == 'Not Found':
         re_date = re.compile(r'\bmonths ago\b|\bdays ago\b|\bhours ago\b',re.IGNORECASE) 
         dtype = re_date.findall(re_text)
@@ -679,9 +698,7 @@ def index_json(filenames):
             pred['org'] = org
             pred['loc'] = location
 
-            
-
-
+        
 
             if title_loc == correct_loc:
                 title_cor_loc += 1 
@@ -706,7 +723,8 @@ def index_json(filenames):
                 body_cor_org += 1
             if text_date == correct_date:
                 total_cor_date += 1
-            
+            else:
+                incorrect = incorrect+f+'\n'+ 'correct: ' +correct_date +'\n' +'pred: '+text_date+'\n'
             if title_loc.strip() == correct_loc.strip() or text_loc.strip() == correct_loc.strip():
                 total_cor_loc += 1 
             #else:
@@ -718,8 +736,7 @@ def index_json(filenames):
                 to += 1
             if text_sal == correct_sal:
                 total_cor_sal += 1
-            else:
-                incorrect = incorrect+f+'\n'+ 'correct: ' +correct_sal +'\n' +'pred: '+text_sal+'\n'
+
 
             '''
             else:
@@ -729,6 +746,7 @@ def index_json(filenames):
             '''
             if text_date == correct_date and correct_date != "Not Found":
                 nf_tcd += 1
+            
             if text_sal == correct_sal and correct_sal != "Not Found":
                 nf_tcs += 1
 
@@ -757,9 +775,9 @@ Body company Accuracy: 0.1648590021691974
 Total location Accuracy: 0.8980477223427332
 Total company Accuracy: 0.9240780911062907
 Date Accuracy: 0.9869848156182213
-Salary Accuracy: 0.9501084598698482
+Salary Accuracy: 0.9718004338394793
 No Not Found, Date Accuracy: 0.8947368421052632
-No Not Found, Salary Accuracy: 0.6097560975609756
+No Not Found, Salary Accuracy: 0.7560975609756098
 '''
 
 

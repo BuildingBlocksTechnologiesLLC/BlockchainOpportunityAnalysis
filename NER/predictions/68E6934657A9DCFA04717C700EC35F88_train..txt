@@ -2,10 +2,10 @@
     "site": "glassdoor",
     "body loc": "Remote",
     "body org": "Facebook",
-    "salary": "Not Found",
+    "salary": "$134K-$191K",
     "date": "Not Found",
-    "title loc": "San Francisco, CA",
+    "title loc": "San Francisco, California, United States",
     "title org": "Not Found",
     "org": "Facebook",
-    "loc": "San Francisco, CA"
+    "loc": "San Francisco, California, United States"
 }

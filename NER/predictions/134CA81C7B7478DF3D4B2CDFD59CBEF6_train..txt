@@ -3,7 +3,7 @@
     "body loc": "Midvale, Utah, United States",
     "body org": "Overstock",
     "salary": "Not Found",
-    "date": "30 Days Ago",
+    "date": "1 Jan 1930",
     "title loc": "Midvale, Utah, United States",
     "title org": "tZERO Group, Inc",
     "org": "tZERO Group, Inc",

@@ -3,7 +3,7 @@
     "body loc": "Menlo Park, US",
     "body org": "Facebook",
     "salary": "Not Found",
-    "date": "Not Found",
+    "date": "1 Jun 2019",
     "title loc": "Menlo Park, California, United States",
     "title org": "Calibra",
     "org": "Calibra",

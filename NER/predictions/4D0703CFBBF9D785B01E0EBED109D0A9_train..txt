@@ -2,7 +2,7 @@
     "site": "cryptocurrencyjobs",
     "body loc": "York, New York, United States",
     "body org": "New",
-    "salary": "$100K  $",
+    "salary": "$100K - $130K",
     "date": "21 Jun 2019",
     "title loc": "Not Found",
     "title org": "BlockFi",

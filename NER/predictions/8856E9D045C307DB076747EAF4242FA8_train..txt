@@ -2,7 +2,7 @@
     "site": "linkedin",
     "body loc": "London, GB",
     "body org": "FCA",
-    "salary": "Not Found",
+    "salary": "36,000 to 45,000",
     "date": "Not Found",
     "title loc": "London, GB",
     "title org": "ARCADIS United Kingdom",

@@ -1,6 +1,7 @@
 """
 Created on Wed Jun 17 2020
 """
+
 from geotext import GeoText
 import nltk
 from nltk.tag import StanfordNERTagger
@@ -292,7 +293,7 @@ def nlp_title(text,tagger):
 
     try:
         loc_index = text.rfind(' in ')
-        loc_end = text.index('|',loc_index)
+        loc_end = text.index(r'\|| at ',loc_index)
         location = text[loc_index+4:loc_end-1]
     except ValueError:
         location = 'Not Found'
@@ -322,7 +323,7 @@ def nlp_title(text,tagger):
         location = 'Remote'
 
     find_at = re.compile(r' at ',re.IGNORECASE)
-    punct = re.compile(r'\||\-|\/|\:|\;|\\|\–|\)|\}')
+    punct = re.compile(r'\||\-|\/|\:|\;|\\|\)|\}')
     if find_at.findall(text):
         text_post = text[text.index(' at '):]
         abbr_re = re.compile('Inc |LLC|Co |Ltd|.com|.org|.net')
@@ -331,9 +332,11 @@ def nlp_title(text,tagger):
         if punct.findall(text_post):
             org_name = text_post[4:text_post.index(punct.findall(text_post)[0])-1]
         elif abbrev:
-            org_name = text_post[4:abbrev[0]+len(abb[0])]
+            at_i = text_post[0:abbrev[0]+len(abb[0])].rfind(' at ')
+            org_name = text_post[at_i+4:abbrev[0]+len(abb[0])]
         else:
             org_name = text_post[4:]
+
 
     if org_name == 'Not Found':      
         abbr_re = re.compile(r'(?i)[ |, |,]Inc|[ |, |,]LLC|[ |, |,]Co |[ |, |,]Ltd|\.com|\.org|\.net')
@@ -349,7 +352,6 @@ def nlp_title(text,tagger):
         org = True
     if name and org_name == 'Not Found':
         org_name = name[-1]
-    
     return location.strip(), org_name.strip(),city, org
 
 def check_sal_fp(text):
@@ -374,7 +376,7 @@ def find_sal(text):
     """
     Find salary from posting
     """
-    text = (text.encode('ascii', 'ignore')).decode("utf-8")
+    text = text.replace('\u2013','-')
     text = text.replace('401K','')
     text = text.replace('401k','')
     salary = 'Not Found'
@@ -401,8 +403,12 @@ def find_sal(text):
         for i in indices:
             re_dol = re.compile('\$',re.IGNORECASE) 
             dol = re_dol.findall(text)
-            
-            salary_dol = text[i-10:i+15]
+            fir_t = text[:i-3].rfind(' ') 
+            try:
+                l_t = text[i+4:].index(' ')
+            except ValueError:
+                l_t = 0
+            salary_dol = text[i-(i-fir_t):i+4+l_t]
             end = re.compile(' per ', re.IGNORECASE)
             sal = end.findall(salary_dol)
             if sal:
@@ -449,8 +455,8 @@ def nlp_body(text,tagger):
     re_text = regex.sub(' ',text)
 
     re_text = remove_keywords(re_text)
-    l = re_text[:(len(re_text)*8)//10].rfind(' ')
-    re_text = re_text[:]
+    l = re_text[:(len(re_text)*9)//10].rfind(' ')
+    re_text = re_text[:l]
     tokenized_text = word_tokenize(re_text)
     classified_text = tagger.tag(tokenized_text)
     loc = []
@@ -528,22 +534,35 @@ def nlp_body(text,tagger):
     if location == 'Not Found':
         location = decide_loc(np.array(loc))
     
-    if check_remote(re_text[:len(re_text)*9//10]):  
+    if check_remote(re_text):  
         location = 'Remote'
-        if confirm_remote(re_text[:len(re_text)*9//10]):
+        if confirm_remote(re_text):
             remote = True
 
     salary = 'Not Found'
     date = 'Not Found'
 
-    re_date = re.compile(r'date post|date posted ',re.IGNORECASE) 
+    re_date = re.compile(r'(?i) date post[:| ]|date posted[:| ]| posted[:| ]| post[:| ]') 
     find_date = re_date.findall(re_text)
     if find_date:
-        find_date = re_text[re_text.index(find_date[0]):re_text.index(find_date[0])+30]
+        find_date = re_text[re_text.index(find_date[0])+len(find_date[0]):re_text.index(find_date[0])+30]
+        if extract_dates(find_date):
+            date_time = extract_dates(find_date)[0]
+            date = date_time.strftime("%e %b %Y")
 
-        date_time = extract_dates(find_date)[0]
-        date = date_time.strftime("%e %b %Y")
-        
+    re_date = re.compile(r'20[0-9][0-9]') 
+    find_date = re_date.findall(re_text[:40])
+    indices = [m.start(0) for m in re_date.finditer(re_text)]
+    if find_date:
+        fd = re_text[:indices[0]+4]
+        date_loc_1 = fd[:indices[0]-1].rfind(' ')
+        date_loc = fd[:date_loc_1].rfind(' ')
+        find_date = re_text[date_loc:indices[0]+4]
+
+        if extract_dates(find_date):
+            date_time = extract_dates(find_date)[0]
+            date = date_time.strftime("%e %b %Y")
+
     if date == 'Not Found':
         re_date = re.compile(r'\bmonths ago\b|\bdays ago\b|\bhours ago\b',re.IGNORECASE) 
         dtype = re_date.findall(re_text)
@@ -629,7 +648,7 @@ def index_json(file_path,stanfordnlp,ner):
             pred['Location'] = location
             pred['Company Name'] = org
             pred['Salary'] = text_sal
-            pred['Date'] = text_date
+            pred['PostedDate'] = text_date
             json_str = json.dumps(pred, indent = 4) + "\n" 
 
             with open(file_path+'nlp', "w") as w:

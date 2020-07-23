@@ -1,188 +1,39 @@
-10D93931EEBF47D4174AB9C10DBF1882_train.txt
-correct: RTP, North Carolina, US
-pred: NC - Not Found
-pred: NC
-110547317AFDDFE05710897D1BD35DDA_train.txt
+134CA81C7B7478DF3D4B2CDFD59CBEF6_train.txt
+correct: 30+ Days Ago
+pred: 1 Jan 1930
+1A71CE0EFD587A4FA76A7558E63BABB5_train.txt
 correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-177C18C1915DB5CCD78750475E08D239_train.txt
-correct: Ahmadabad, Gujarat, India
-pred: Remote - Ahmadabad, Gujarat, India
-pred: Remote
-2111DA325AFA7F3ABD69DD54D18DDA44_train.txt
+pred: 1 Jan 2020
+2133A7D74F95B878A0293ACA4E9A9526_train.txt
+correct: 1 month ago
+pred: 2 months ago
+29DF19465CB62772CE6EAF0BBEF4DFFE_train.txt
 correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-2593A3E20C96615473598876C7FD4BB0_train.txt
-correct: Frankfurt am Main
-pred: Frankfurt - Not Found
-pred: Frankfurt
-27E6626052BCA1E321C4A0AD5318DDA7_train.txt
+pred: 1 Jan 2013
+31B20FBA399CE38DF39B49A6742C878E_train.txt
+correct: 4 weeks ago
+pred: 3 hours ago
+35FC16ED4DE10B623A7B07824EEC4EEE_train.txt
+correct: 30+ days ago
+pred: 1 Jan 1930
+4C77D57F6B8436A1623FF20AE42ADB3E_train.txt
 correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-2B691C8102629C0273ACAD8585E45094_train.txt
-correct: San Francisco, California, United States
-pred: San Francisco, US - Not Found
-pred: San Francisco, United States
-34BA168381F7372F621A0A847150BE3B_train.txt
-correct: Remote
-pred: Remote - New York, New York, United States
-pred: New York, New York, United States
-3867220AF1799D28D5160E4EE02278BA_train.txt
-correct: New York, United States
-pred: York, New York, United States - Not Found
-pred: York, New York, United States
-388349D3FF70D0E8C776F13D88DA1092_train.txt
-correct: Not Found
-pred: Europe - Not Found
-pred: Europe
-44EA7B280D8A987144B79B6774E371E2_train.txt
-correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-4920F423DC82ECED2AFA3F0CCEE8FEFF_train.txt
-correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-4D0703CFBBF9D785B01E0EBED109D0A9_train.txt
-correct: New York, New York, United States
-pred: York, New York, United States - Not Found
-pred: York, New York, United States
-50EB4868B59AE99F60B8760B5CA84317_train.txt
-correct: New York, United States
-pred: York, New York, United States - Not Found
-pred: York, New York, United States
-5268EBDAB64F2977EB78138F7C400D59_train.txt
-correct: Gdynia, Poland
-pred: Gdynia, PL - Gdynia, PL
-pred: Gdynia, PL
-54B22F7A273F73ADF13DDAB1B7CD3F52_train.txt
-correct: Boxborough, Massachusetts, United States
-pred: Pop, UZ - Boxborough
-pred: Pop, UZ
-607C99E61CA246936CAB57FF25F76139_train.txt
-correct: Remote
-pred: Remote - San Francisco, California, United States
-pred: San Francisco, California, United States
-66283722445D13B14673DE9FBBE671C4_train.txt
-correct: New York, New York, United States
-pred: Remote - Not Found
-pred: Remote
-669A560648854EB749036C3E3D040527_train.txt
-correct: Not Found
-pred: US - Not Found
-pred: United States
-68E6934657A9DCFA04717C700EC35F88_train.txt
-correct: San Francisco, California, United States
-pred: Remote - San Francisco, CA
-pred: San Francisco, CA
-6A7EEB784C5F21DA40C22278EC6D69BD_train.txt
-correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-6B56AE7BD1BC8BFFBB4FCBF35FA72ED6_train.txt
-correct: Chicago, Illinois, United States
-pred: Remote - Chicago, US
-pred: Chicago, United States
-6E2592422C1A8C98308890C8BB9D95FF_train.txt
-correct: Not Found
-pred: Remote - Cyberjaya
-pred: Remote
-6F34CE1BC8325E19DCF008BC863ECF91_train.txt
-correct: Not Found
-pred: Blockchain - Artivatic
-pred: Blockchain
-743760DED77667611E3F651396260C29_train.txt
-correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-81E7D9DC59D74356D9E08C049219239B_train.txt
-correct: San Francisco, California, United States
-pred: San, ML - Not Found
-pred: San, ML
-832ED0F1510A47EB58E40279FD304B72_train.txt
-correct: Not Found
-pred: Africa - Not Found
-pred: Africa
-89A9B398EE960B10153C066BE7FFB962_train.txt
-correct: Not Found
-pred: Remote - Not Found
-pred: Remote
+pred: 1 Jan 2020
+580B12479C4D529CC0027A6034AAD1C7_train.txt
+correct: 3 Days Ago
+pred: Not Found
 8B3889B9C87D9A49F7DD50B7314850FD_train.txt
-correct: Toronto, Ontario, Canada
-pred: Toronto, CA - Not Found
-pred: Toronto, CA
-91DA00364DF083494BD55A04431A60EB_train.txt
-correct: New York, New York, United States
-pred: York City NY - Blockgram
-pred: York City NY
-98205F37E508BEE6ACFF1266B4D925E0_train.txt
-correct: Armonk, New York, United States
-pred: NY - Not Found
-pred: NY
-9C8E892BF2FAE35A3CCD04F900FE5520_train.txt
-correct: Charlotte, North Carolina, United States
-pred: Remote - Not Found
-pred: Remote
-9D85005CFD7F3DE4854B8745E6579BF8_train.txt
-correct: New York, Philadelphia, San Francisco
-pred: Salt Lake, US - Not Found
-pred: Salt Lake, United States
-A3B736A04420F859EE6CAFD1F6A69F75_train.txt
-correct: San Francisco, California, United States
-pred: Remote - San Francisco, California, United States
-pred: Remote
-A501EBB853BDDBE574665DFEF703B18A_train.txt
+correct: May 06, 2019
+pred: Not Found
+8CAE13FBE7F11D849B81F58CA225DE62_train.txt
 correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-B006DA0919DA718FCC5B8C1B13701829_train.txt
+pred: 1 Jan 2020
+A6C8FF7D8A99ED33AC0FDBD084FDE982_train.txt
 correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-BF6EC5C77E0198A87612C30D9308C5DE_train.txt
-correct: New York, United States
-pred: York, New York, United States - Not Found
-pred: York, New York, United States
-C27613BE2F55173506A4A8F516764060_train.txt
-correct: New York, New York, United States
-pred: New York, US - Not Found
-pred: New York, United States
-C33B277AC3CD0F82DB271A0AB879D60C_train.txt
-correct: Remote
-pred: Remote - San Francisco, US
-pred: San Francisco, United States
-C6D2D75A1305CA8F03CDA2A0D753E193_train.txt
-correct: Bay Area
-pred: Draper, US - Novestic
-pred: Draper, United States
-D61A8928FC358CD576155646C6ABF879_train.txt
+pred: 1 Apr 2020
+DFFE6614100DD6C466DE3CE31A68535C_train.txt
 correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-DAF28624701169542488C63445C7D33E_train.txt
-correct: Remote
-pred: Remote - California, United States
-pred: California, United States
-DD2296B8260A74C5E069A9AB82584D85_train.txt
-correct: St Louis, Missouri, United States
-pred: St Louis - Not Found
-pred: St Louis
-E5201E5BBCC91C782BDCFC37B50B3C8D_train.txt
+pred: 1 Jun 2019
+FC5DC6FC4039FB4F5CC329CE3F8BE832_train.txt
 correct: Not Found
-pred: Remote - Not Found
-pred: Remote
-E720613858464330EFC3801987FC10AA_train.txt
-correct: Amsterdam
-pred: Amsterdam, US - Blockport
-pred: Amsterdam, United States
-EC843CF51391B2EC9FD82BD2C0E62AEF_train.txt
-correct: New York
-pred: York, New York, United States - Not Found
-pred: York, New York, United States
-F0F9A84CB6062C483D2EBC640322D699_train.txt
-correct: Madison, Wisconsin, United States
-pred: Madison, US - Not Found
-pred: Madison, United States
+pred: 1 Jan 2020

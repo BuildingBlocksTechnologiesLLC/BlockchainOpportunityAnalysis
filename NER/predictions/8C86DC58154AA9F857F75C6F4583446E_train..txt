@@ -2,7 +2,7 @@
     "site": "cryptocurrencyjobs",
     "body loc": "New York, New York, United States",
     "body org": "Hydrogen",
-    "salary": "$60K  $8",
+    "salary": "$60K - $80K",
     "date": "12 Feb 2020",
     "title loc": "Not Found",
     "title org": "Hydrogen",

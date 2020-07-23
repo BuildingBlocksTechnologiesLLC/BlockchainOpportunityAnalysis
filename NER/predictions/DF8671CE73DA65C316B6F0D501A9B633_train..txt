@@ -2,7 +2,7 @@
     "site": "cryptocurrencyjobs",
     "body loc": "Remote",
     "body org": "Holochain",
-    "salary": "$80K - $",
+    "salary": "$80K - $120K",
     "date": "5 Aug 2019",
     "title loc": "Not Found",
     "title org": "Holo",

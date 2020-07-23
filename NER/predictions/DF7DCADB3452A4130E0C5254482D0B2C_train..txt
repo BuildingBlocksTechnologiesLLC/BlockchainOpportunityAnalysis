@@ -2,7 +2,7 @@
     "site": "linkedin",
     "body loc": "Greenfield, US",
     "body org": "Greenfield",
-    "salary": "90,000",
+    "salary": "Not Found",
     "date": "Not Found",
     "title loc": "London, England, United Kingdom",
     "title org": "Opus Recruitment Solutions",

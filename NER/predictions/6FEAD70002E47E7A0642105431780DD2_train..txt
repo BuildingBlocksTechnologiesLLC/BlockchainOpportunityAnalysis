@@ -2,7 +2,7 @@
     "site": "linkedin",
     "body loc": "Bangalore, IN",
     "body org": "ISO",
-    "salary": "CMMI-L5 as per",
+    "salary": "Not Found",
     "date": "Not Found",
     "title loc": "Bangalore, IN",
     "title org": "Bosch Engineering and Business Solutions",

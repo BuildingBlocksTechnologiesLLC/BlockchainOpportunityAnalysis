@@ -2,7 +2,7 @@
     "site": "cryptocurrencyjobs",
     "body loc": "Berlin, DE",
     "body org": "Glassnode",
-    "salary": "$70K  $1",
+    "salary": "$70K - $100K",
     "date": "5 Dec 2018",
     "title loc": "Not Found",
     "title org": "Glassnode Development AG",

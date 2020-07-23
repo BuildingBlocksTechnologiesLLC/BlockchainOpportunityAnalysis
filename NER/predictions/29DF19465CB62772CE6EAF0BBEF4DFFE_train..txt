@@ -3,7 +3,7 @@
     "body loc": "San Francisco, US",
     "body org": "OK",
     "salary": "Not Found",
-    "date": "Not Found",
+    "date": "1 Jan 2013",
     "title loc": "San Francisco, California, United States",
     "title org": "OKCoin",
     "org": "OKCoin",

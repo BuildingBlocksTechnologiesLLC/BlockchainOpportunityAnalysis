@@ -1,5 +1,5 @@
 {
-    "Salary": "$175-225K",
+    "Salary": "$175-225k",
     "Location": "San Francisco, California, United States",
     "Date Posted": "Not Found",
     "Company name": "CyberCoders",

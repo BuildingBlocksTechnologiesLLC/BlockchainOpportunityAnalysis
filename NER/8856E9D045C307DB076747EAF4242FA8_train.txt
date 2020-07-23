@@ -1,5 +1,5 @@
 {
-    "Salary": "Not Found",
+    "Salary": "36,000 to 45,000",
     "Location": "London, GB",
     "Date Posted": "Not Found",
     "Company name": "ARCADIS United Kingdom",

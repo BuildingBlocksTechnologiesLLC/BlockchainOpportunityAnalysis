@@ -2,7 +2,7 @@
     "site": "monster",
     "body loc": "Minneapolis, Minnesota, United States",
     "body org": "Calypso",
-    "salary": "$500+",
+    "salary": "Not Found",
     "date": "Not Found",
     "title loc": "Synechron",
     "title org": "Synechron",

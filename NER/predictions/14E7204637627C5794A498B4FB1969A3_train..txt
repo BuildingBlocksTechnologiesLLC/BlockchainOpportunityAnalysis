@@ -4,7 +4,7 @@
     "body org": "Development",
     "salary": "Not Found",
     "date": "22 days ago",
-    "title loc": "Long Island City, NY",
+    "title loc": "Long Island, New York, United States",
     "title org": "Stellar Development Foundation Jobs",
     "org": "Stellar Development Foundation Jobs",
     "loc": "Remote"
