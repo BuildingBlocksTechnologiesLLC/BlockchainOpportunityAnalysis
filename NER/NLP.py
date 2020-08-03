@@ -14,7 +14,7 @@ import re
 import string
 from bs4 import BeautifulSoup
 import requests
-from date_extractor import extract_dates
+from collections import Counter
 import datefinder
 from datetime import datetime
 
@@ -452,7 +452,7 @@ def nlp_body(text,tagger):
     """
     r = re.compile(r'\\u')
     s_text = r.sub('',text)
-    text = (text.encode('ascii', 'ignore')).decode("utf-8")
+    #text = (text.encode('ascii', 'ignore')).decode("utf-8")
 
     regex = re.compile('[^a-zA-Z\-\|\,0-9\+]')
     re_text = regex.sub(' ',text)
@@ -630,8 +630,8 @@ def index_json(file_path,stanfordnlp,ner):
     
     with open(file_path,"r") as json_file:
         job = json.loads(json_file.read())
-
-        if job['Language'] == 'English':
+        
+        if 'Language' in job and job['Language'] == 'English':
             pred = job
             
             if job['DomainId'] == 'linkedin':
@@ -688,7 +688,7 @@ def index_json(file_path,stanfordnlp,ner):
             if 'spidered' in job.keys():
                 org = job['DomainId']
             if job['DomainId'] == 'blocktribe':
-                org = blocktribeorg(prev,job['Body'])
+                org = blocktribeorg(org,job['Body'])
             if file_path.rfind('\\') != -1:
                 splitter = file_path[file_path.rfind('\\'):]
                 if splitter.count('_') == 2 and splitter[-4:] == '_.gz':
@@ -699,15 +699,18 @@ def index_json(file_path,stanfordnlp,ner):
                     org = splitter.split('_')[0]
 
 
-            pred['Location'] = location
-            pred['Company Name'] = org
-            pred['Salary'] = text_sal
-            pred['PostedDate'] = text_date
+            pred['Location'] = location.strip()
+            pred['Company Name'] = org.strip()
+            pred['Salary'] = text_sal.strip()
+            pred['PostedDate'] = text_date.strip()
             json_str = json.dumps(pred, indent = 4) + "\n" 
 
             with open(file_path+'nlp', "w") as w:
                 w.write(json_str)
-            
+        else:
+            with open(file_path+'notenglish', "w") as w:
+                w.write(job)
+              
 if __name__ == "__main__":
     file_path =  sys.argv[1]
     stanfordnlp = sys.argv[2]
