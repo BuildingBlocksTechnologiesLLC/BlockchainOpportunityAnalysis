@@ -47,5 +47,5 @@ if __name__ == '__main__':
 
     json_str = json.dumps(job, indent = 4) + "\n"
 
-    with open(Json_path+'new_lang', 'w') as outfile:
+    with open(Json_path, 'w') as outfile:
         outfile.write(json_str)
