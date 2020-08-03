@@ -689,16 +689,14 @@ def index_json(file_path,stanfordnlp,ner):
                 org = job['DomainId']
             if job['DomainId'] == 'blocktribe':
                 org = blocktribeorg(org,job['Body'])
-            if file_path.rfind('\\') != -1:
-                splitter = file_path[file_path.rfind('\\'):]
-                if splitter.count('_') == 2 and splitter[-4:] == '_.gz':
-                    org = splitter.split('_')[0]
-            elif file_path.rfind('/') != -1:
-                splitter = file_path[file_path.rfind('/'):]
-                if splitter.count('_') == 2 and splitter[-4:] == '_.gz':
-                    org = splitter.split('_')[0]
-
-
+            if job['DocumentType'] == 'Careers':
+                if file_path.count('_') == 2:
+                    org = file_path.split('_')[0]
+                    if '/' in org:
+                        org = org.split('/')[-1]
+                    elif '\\' in org:
+                        org = org.split('\\')[-1]
+                
             pred['Location'] = location.strip()
             pred['Company Name'] = org.strip()
             pred['Salary'] = text_sal.strip()
