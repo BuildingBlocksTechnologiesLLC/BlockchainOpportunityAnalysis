@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import os, json
 from sklearn import preprocessing
+import sys
 import time
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -89,7 +90,7 @@ def output(path, predict):
 
 if __name__ == "__main__":
     # file path
-    predict_path = 'Data/Jobs/careers/swazm_BC8818A7EC327C93BC7FFDFA6FE94327_'
+    predict_path = sys.argv[1]
     career_df = open_file(predict_path)
 
     # prediction

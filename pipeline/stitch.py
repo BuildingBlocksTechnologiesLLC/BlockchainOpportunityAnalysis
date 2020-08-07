@@ -9,4 +9,6 @@ if __name__ == "__main__":
 
     os.system('python lang_detect.py '+file_path)
     os.system('python NLP.py '+file_path+' '+stanfordnlp+' '+stanfordner)
+    os.system('python ml_classifier.py ' + file_path+'nlp')
 #C:/Users/Leon/BlockchainOpportunityAnalysis/1A59381DB3930572751963C81E2B6E2D_
+
