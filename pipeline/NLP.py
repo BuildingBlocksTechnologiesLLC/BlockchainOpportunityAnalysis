@@ -553,7 +553,7 @@ def nlp_body(text,tagger):
     find_date = re_date.findall(re_text)
     if find_date:
         find_date = re_text[re_text.index(find_date[0])+len(find_date[0]):re_text.index(find_date[0])+30]
-        if datefinder.find_dates(find_date):
+        if list(datefinder.find_dates(find_date)):
             date_time = list(datefinder.find_dates(find_date))[0]
             date = date_time.strftime("%e %b %Y")
 
@@ -566,7 +566,7 @@ def nlp_body(text,tagger):
         date_loc = fd[:date_loc_1].rfind(' ')
         find_date = re_text[date_loc:indices[0]+4]
 
-        if datefinder.find_dates(find_date):
+        if list(datefinder.find_dates(find_date)):
             date_time = list(datefinder.find_dates(find_date))[0]
             date = date_time.strftime("%e %b %Y")
 
