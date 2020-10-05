@@ -1,0 +1,32 @@
+Sept 13:  
+  -- Thirteen files to get started with.
+  -- Use "CrawledDate" along with "PostedDate" to compute a concrete date.
+     For example, if "CrawledDate" == 2020-09-13 And
+                     "PostedDate"  == 3 Days Ago Then
+                     "ConcreteDate" == 2020-09-10  which is 3 days prior to 2020--0-13
+
+  -- For the first go around, we will keep the original "PostedDate" and add a 
+     "ConcreteDate" for testing purposes.  After we have tested, the final 
+     answer will go into "PostedDate"
+
+  -- The format of the final answer should be 
+     YYYY-MM-DD  --> 4 digit Year, 2 digit Month, 2 digit Day
+     So, dates that are concrete but not in this format should be converted:
+     13 Mar 2020 --> 2020-03-13
+                 
+
+FileName                          , PostedDate
+-----------------------------------------------
+000FE765EC8AE42AFCA3EBC4ED704B8F_ , 10 Days Ago | Crawl Date : 2020-06-07
+00C37C5A55D0C7A117D2E254FB895005_ ,  3 Jul 2020 | Crawl Date : 2020-07-13
+028994F47B76DEF45490195721BBFBD4_ , 20 Days Ago | Crawl Date : 2020-05-01
+053F8D9071CE5123180BA2DD6DC78F2C_ , 20 Apr 2020 | Crawl Date : 2020-07-13
+0858F8E35C765A16E563237C00306659_ , 13 Mar 2020 | Crawl Date : 2020-05-01 22 Mar 2020
+09588D706339B5EB40CFF43DDD31CC24_ , 13 Jun 2019 | Crawl Date : 2020-05-09 22 Jun 2019
+0F41E49A9A4DA7B81413D406CB4E3122_ ,  5 Jun 2020 | Crawl Date : 2020-06-19
+10ECCB27FDCBC0D9DA43CD049FA25D7B_ , 13 Jun 2019 | Crawl Date : 2020-05-01 22 Jun 2019
+13232D9F68D74299CC20CA446F3BB82F_ , 13 Mar 2020 | Crawl Date : 2020-06-07 22 Mar 2020
+134CA81C7B7478DF3D4B2CDFD59CBEF6_ , 30 Days Ago | Crawl Date : 2020-05-09
+153ABAC431B10FD213D8849AB6DE678E_ , 13 Jun 2019 | Crawl Date : 2020-05-01 22 Jun 2019
+186CE4D13ED277FADA3E09D0C656A135_ , 13 Jun 2019 | Crawl Date : 2020-05-21 22 Jun 2019
+1A7D3031B93E13214A388C02AA3E1724_ , 27 Apr 2020 | Crawl Date : 2020-05-09 
