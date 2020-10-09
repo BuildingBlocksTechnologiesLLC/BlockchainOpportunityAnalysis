@@ -560,7 +560,7 @@ def nlp_body(text,tagger,crawlDay):
         find_date = re_text[re_text.index(find_date[0])+len(find_date[0]):re_text.index(find_date[0])+30]
         if list(datefinder.find_dates(find_date)):
             date_time = list(datefinder.find_dates(find_date))[0]
-            date = date_time.strftime("%e %b %Y")
+            date = date_time.strftime("%Y-%m-%d")
 
     re_date = re.compile(r'20[0-9][0-9]') 
     find_date = re_date.findall(re_text[:40])
@@ -573,7 +573,7 @@ def nlp_body(text,tagger,crawlDay):
 
         if list(datefinder.find_dates(find_date)):
             date_time = list(datefinder.find_dates(find_date))[0]
-            date = date_time.strftime("%e %b %Y")
+            date = date_time.strftime("%Y-%m-%d")
 
     if date == 'Not Found':
         re_date = re.compile(r'\bmonths ago\b|\bdays ago\b|\bhours ago\b',re.IGNORECASE) 
@@ -587,7 +587,7 @@ def nlp_body(text,tagger,crawlDay):
 
     print("date: ", date)
     #Check if relative or concrete dates
-    if("Ago" in date or "ago" in date):
+    if("Ago" in date or "ago" in date or "AGO" in date ):
         format = "%Y-%m-%d"
         day = "".join(e for e in crawlDay if e != "-")
         day = datetime.strptime(day, "%Y%m%d").date()
@@ -605,10 +605,10 @@ def nlp_body(text,tagger,crawlDay):
             d = day - timedelta(days=timeDiff)
             print(": This is the new date ",d)
             print(type(d))
-            retdate = d.strftime("%e %b %Y")
+            retdate = d.strftime(format)
             
 
-        elif("hours" in date):
+        elif("hours" in date or "HOURS" in date):
             #check for time difference in hours
             print("Changing hours")
             nums = [e for e in date if e.isnumeric()]
@@ -618,7 +618,7 @@ def nlp_body(text,tagger,crawlDay):
             d = day - timedelta(hours=timeDiff)
             print(": This is the new date ",d)
             print(type(d))
-            retdate = d.strftime("%e %b %Y")
+            retdate = d.strftime(format)
         
         elif("months" in date):
             #check for time difference in months
@@ -634,10 +634,15 @@ def nlp_body(text,tagger,crawlDay):
             d = day - monthdelta.monthdelta(timeDiff) 
             print(": This is the new date ",d)
             print(type(d))
-            retdate = d.strftime("%e %b %Y")
+            retdate = d.strftime(format)
         
         else:
             print("Confused")
+
+    else:
+        retdate = date
+
+        
        
 
         
