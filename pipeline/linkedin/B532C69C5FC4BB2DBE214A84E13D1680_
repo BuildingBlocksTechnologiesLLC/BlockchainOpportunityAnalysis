@@ -1,0 +1,24 @@
+{
+    "Body": " Axoni is a capital markets focused distributed ledger technology firm. Our innovative and unique distributed ledger technology has proven itself successful across multiple asset classes and use cases at the world\u2019s most advanced financial institutions. Our diverse team of capital markets, cryptographic research, and technology development skills focuses every day on our goal of building products that will change and improve how our clients and the markets will interact. We are building the next generation of capital markets technology and we are seeking talented, motivated professionals that want to be part of this once-in-a-career opportunity to not only see, but also drive the incredible changes coming to global capital markets. Headquartered in New York City, Axoni has a rich analytics platform for analyzing and understanding blockchain transactions and smart contracts, as well as an integrated development environment for developing new contracts. Our Full Stack Engineers design and implement web applications ranging from complex analytics and realtime charts, to detailed transaction explorers and custom views for different asset classes, and the logic behind assets processed on the blockchain network. Relevant Skills And Experience Front-end Javascript and MVC frameworks (React preferable) Building APIs to serve front end data, especially in Django, Flask, or Express.js Building front-end testing suites (e.g. Jasmine, selenium) Continuous integration and automated deployment using Ansible, Docker, etc. Deployment and instance management on AWS a plus Best practices for facilitating Agile and Test Driven Development Knowledge of D3.js or canvas a plus Experience with one or more of the following: Python, Java, Scala ", 
+    "CompanyName": "Axoni", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "B532C69C5FC4BB2DBE214A84E13D1680", 
+    "KeyTerms": "continuous integration, front end, python, frameworks, scala, financial, react, web applications, capital markets, dlt, javascript, ansible, docker, django, java, tdd, smart contract, full stack, agile, aws", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20javascript", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20javascript", 
+    "TackIt": "true", 
+    "Title": "Axoni hiring Full-Stack Engineer in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-axoni-1755400250?refId=085b9ef8-0c20-4b54-9bb9-1a4ac0942bf2&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

@@ -1,0 +1,25 @@
+{
+    "Body": " Location: Reno, Nevada, USA OR Remote Work possible Summary???? This position will develop backend components for blockchain applications, including high security components and IT infrastructure. The developer must be able to create and maintain public API according to best practices. Knowledge on how to operate blockchain-based services, databases, and microservice infrastructures is needed as well as the ability to interact with such systems. Significant experience in (IT) process automation is mandatory. The candidate must possess the ability to assess whether everyday tasks can be automated or require human input and act as a consultant for workflow and project management issues. The candidate in this role will analyze internal processes and suggest improvements, train developers in proper tool usage and best coding practices, and ensure the company\u2019s software and products are developed in accordance with our corporate vision. ???? Essential Duties and Responsibilities The essential functions include, but are not limited to, the following: Maintain and enhance developer services Maintain, improve, and set-up IT infrastructure systems Automate recurring tasks Support our diverse development teams by: Building CI/CD pipelines Setting up project policies Defining best practices for development workflows Setting up automated deployments Giving guidance on backend architecture design Improve IT monitoring and application instrumentation Develop backend components (e.g. key management, policy management, data storage, etc.) Develop microservice infrastructures ???? Minimum Qualifications (Knowledge, skills, and abilities)???????? CI/CD Pipelines (preferably GitLab) Linux server administration Understanding of IPv4 networks Knowledge of basic network protocols (HTTP, SSH, IPSec) Docker Shell scripting (bash/zsh) One major programming language (C++ / C# / Rust / Go) Git VCS on shell Structured on-the-spot problem solving Net Core/gRPC/protobuf Prometheus/Grafana Run Ethereum clients (Parity, gEth, Nethermind) Basic blockchain understanding Site reliability engineering (SRE) experience On-premise Kubernetes Rancher orchestration Ansible GitOps Education/Experience MS/MA in Computer Science or a related field or bachelor\u2019s degree with equivalent work experience >3 years work experience (for senior) Fluency in English both written and verbal German language skills a plusShow moreShow less ", 
+    "CompanyName": "slock.it GmbH", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "23E7DF6250F1307F018069DB5D03C195", 
+    "KeyTerms": "kubernetes, geth, parity, remote, docker, ansible, scripting, rust, ethereum, back end, git, linux, rancher, ci cd, nethermind, protocols", 
+    "Language": "English", 
+    "Location": "Reno, Nevada, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux", 
+    "TackIt": "true", 
+    "Title": "slock.it GmbH hiring Back-End-Entwickler in Reno, Nevada, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/back-end-entwickler-at-slock-it-gmbh-1907730918?refId=bcc246a9-b667-4e42-b6bb-29207fb4e759&position=20&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

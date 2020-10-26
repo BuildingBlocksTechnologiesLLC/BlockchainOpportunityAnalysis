@@ -1,0 +1,25 @@
+{
+    "Body": " Business Unit WHO WE ARE Blockgraph, a new joint venture startup focused on ushering in a new way of using audience data for advertising, is hiring an Engineering Manager in New York City to help build our technology platform from the ground up. Blockgraph is a decentralized identity and insights platform built using distributed systems and blockchain technology. We have been featured in Business Insider, AdWeek, AdExchanger, and CoinTelegraph among others. We are working with the biggest names in media, TV and advertising and are only getting started. Why work for Blockgraph? First Ad-Tech Peer to Peer Enterprise network Blockchain for ledger/accounting First open data platform to share/use data across all media channels Platform as a service (PaaS) model Distributed and microservice architecture Fast paced startup culture backed by power of Comcast/Freewheel and other leading media giants Exposure to advanced cryptography and algorithms About The Role Lead a team of talented engineers Spearhead the development of a massively scaled, cloud native P2P platform Oversee and contribute to projects while maintaining deep technical knowledge Serve as a point of escalation for making technical decisions Partner with Product Management and other development teams to build world class software solutions Contribute to BlockGraph's long-term strategy of peer to peer computing and decentralization Drive optimization, testing, and tooling to improve the performance, availability, and scalability of the platform Mentor junior team members Requirements For The Position Bachelor's or Master's Degree in Computer Science or similar field of study 8+ years of software engineering experience building micro-service applications in AWS (or a similar cloud) Managed high performance team Excellent programming skills in one of the following: Java, Golang, C++ Experience in SQL and NoSQL Databases Experience in streaming technologies like kafka/kinesis Excellent data structures and algorithms skills Understanding and knowledge of modern security tools, development patterns, and best practices Excellent interpersonal and communication skills Demonstrated ability to present complex topics effectively Strong analytical thinking skills and results driven personality Optional Experience in blockchain technology or cryptography Experience in microservices/orchestration Experience in CI/CD (Jenkins) and Terraform Experience, interest or industry knowledge of advertising technology e.g. ad servers, SSPs, DSPs, DMPs etc. Comcast is an EOE/Veterans/Disabled/LGBT employer ", 
+    "CompanyName": "Comcast", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-19", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "C953DFF37DA0B6F0C76226E31821134B", 
+    "KeyTerms": "algorithms, analytical, golang, cryptography, advertising, decentralized, sql, nosql, microservices, cloud, java, peer to peer, startup, kafka, ci cd, distributed systems, terraform, software engineer, data structures, aws", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20terraform", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "decentralized", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20terraform", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Comcast hiring Senior Manager, Engineering in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-manager-engineering-at-comcast-1848893534?refId=84f42c29-a75e-4514-a2ce-6ebf12a26b40&position=7&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20enterprise",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20enterprise",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Ankr hiring Senior Product Manager (Remote) in California, United States | LinkedIn",
+    "Hash": "5F310385AA1627324D85B58C7CBCCF1C",
+    "Url": "https://www.linkedin.com/jobs/view/senior-product-manager-remote-at-ankr-1878801212?refId=b2ba4e40-e95b-41f5-9433-4586a335de7a&position=3&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-07",
+    "DomainId": "linkedin",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Posted by: Chandler Song Chandler Song CEO of Ankr | Forbes 30 Under 30 | Hiring, DM open We are looking for a Senior Product Manager with a background in blockchain and knowledge of cloud infrastructure. The role will be responsible for overseeing the overall product strategy, blockchain/DeFi offering, pricing, monitoring, enterprise client onboarding experience, etc. Responsibilities - Oversee the entire integration process of blockchain-node/DeFi applications - Propose, document and formalize new product directions; Identify new growth opportunities - Structure and optimize the work processes of the integrations team, utilizing tools such as Confluence, Slack, Telegram - Gather and evaluate user requirements in collaboration with the integrations team and engineers - Contribute to documentation such as technology summaries, tutorials, pricing comparisons and other node integration related documentation - Identify and troubleshoot UX problems from a users\u2019 perspective - Integrate with various blockchain communities to gather feedback on our applications - Provide feedback to improve the sales proposition and user experience Qualifications - Proven work experience in blockchain, DeFi or cloud is a must - Solid experience with Google Analytics, Mixpanel, Hubspot, etc. - Understand industry requirements, product specifications, and user psychology. - Ability to recognize sales opportunities as well as constraints - Fluent/native in English - Good communication skills - Team spirit; strong communication skills to collaborate with various stakeholders What we offer - A competitive salary and bonus arrangement - Payment in cryptocurrency - Possibilities to grow together with the company - A worldwide, innovative and dynamic work environment - The possibility to work at home or anywhere else in the world "
+}

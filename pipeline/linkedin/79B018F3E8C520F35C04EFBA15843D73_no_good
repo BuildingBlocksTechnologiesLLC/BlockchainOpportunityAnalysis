@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20validator",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20validator",
+    "DocumentType": "JobBoards",
+    "Title": "Tejon Ranch Company hiring GIS: Hiring All Levels in Lebec, California, United States | LinkedIn",
+    "Hash": "79B018F3E8C520F35C04EFBA15843D73",
+    "Url": "https://www.linkedin.com/jobs/view/gis-hiring-all-levels-at-tejon-ranch-company-1931728288?refId=22b80ae6-b10a-4360-ba09-89b54b9ed1ce&position=20&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-07-13",
+    "DomainId": "linkedin",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": " GIS: Hiring All Levels Do you have a profound respect and love for nature and the great outdoors? Imagine having the unique opportunity to contribute to the continued legacy and rich history of a State landmark; a place where vast stretches of land remain in their natural state, protected by Californias largest and most significant private conservation agreement. Imagine working for a company whose historic principles of conservation and good stewardship are at its core and still live on today. Tejon Ranch Company (NYSE: TRC) is a growth-oriented, diversified real estate development and agribusiness company whose principal asset is its 270,000-acre land holding located approximately 60 miles north of Los Angeles and 25 miles south of Bakersfield tucked between the beautiful Tehachapi and San Emigdio mountain ranges. The company is currently seeking applicants for GIS positions at all levels to provide spatially accurate and intelligence based geographic information and analysis to support in business-critical decision-making efforts centered around its five major operations, Commercial/Industrial Real Estate Development, Resort/Residential Real Estate Development, Mineral & Water Resources, Farming, and Ranch Operations. Essential Functions And Responsibilities Job Summary As a member of the GIS team, this positions primary roll will be to support and assist in the development, maintenance, and mapping of GIS data using ESRIs ArcGIS Enterprise suite of products, SQL Server, Portal, and ArcGIS mobile apps Explorer & Collector, as well as ArcGIS Online. The position involves database entry, digitizing, imagery interpretation, coordinate geometry (COGO) input of survey data, and high-end map production; use of survey maps and construction drawings, as well as interacting with employees and outside consultants while maintaining strict confidentiality. Participation in professional organizations and/or conferences to keep abreast of developments in Geographic Information Systems (GIS) technology & equipment is also supported. Job Requirements: Create, edit, and maintain GIS databases using ArcGIS Pro 2.4 and/or ArcGIS Desktop 10.7 Feature and raster analysis using Geoprocessing functions, scripts, Structured Query Language (SQL) and other analytical tools Create cartographic maps & graphic exhibits for reports, presentations, and meetings Read technical plans, blueprints, legal descriptions, and engineering drawings Decipher and convert AutoCAD drawings & other sources of digital data to GIS COGO entry of metes & bounds tabular data using coordinate geometry GPS & data collection utilizing Collector and/or Trimble productsShow moreShow less ",
+    "Location": "Lebec, California, United States",
+    "CompanyName": "Tejon Ranch Company",
+    "Salary": "270,000-",
+    "PostedDate": "Not Found"
+}

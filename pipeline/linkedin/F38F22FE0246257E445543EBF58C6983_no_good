@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-08-01",
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20html",
+    "DomainId": "linkedin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20html",
+    "DocumentType": "JobBoards",
+    "Title": "Karsun Solutions, LLC hiring Intern in Herndon, Virginia, United States | LinkedIn",
+    "Hash": "F38F22FE0246257E445543EBF58C6983",
+    "TackIt": "true",
+    "Body": " Defy assumptions and enable transformation as an IT modernization expert at Karsun Solutions. Our innovation and performance driven culture provides our employees autonomy to innovate, accountability to take ownership and advancement opportunities for personal growth. You will be challenged to \u201cDo Extraordinary\u201d every day and deliver high quality software development, cloud and advanced analytics solutions to our customers. Enjoy easy access to decision makers, nimbleness and agility of a small company, with the stability, experience and scalability of a large firm. Do you get excited writing code? Do you think of yourself as a problem solver, solving business problems with your code? Do you look at code you wrote last month and go, \u2018I now know a better way to write that!\u2019? Do you like to learn and hone your developer skills, while contributing to the team? Then, we have a great job for you to learn as you go! Primary responsibility will be prototyping using modern technologies on AWS cloud Build prototypes to test one of the three hypothesis using technologies (such as Machine Learning, ChatBot & Blockchain) Quickly learn new products and technologies. Work with Senior Developers/Architect to implement the solutions required for clients. Document a reusable library of the solution implemented. Required Skills Strong understanding of Java, JavaScript, Python, SQL, HTML/CSS or any scripting language Strong understanding in applying data structures Excellent communication skills Desired Skills US Citizen Knowledge on use of AWS Cloud for development. Experience applying one or more modern programming languages and/or Open Source technology that is at least 3 years or newer Pursuing BS in fully accredited Universities or Colleges GPA 3.4 or above Ability to secure Public trust clearanceShow moreShow less ",
+    "Url": "https://www.linkedin.com/jobs/view/intern-at-karsun-solutions-llc-1964573704?refId=fb19406f-d16c-43ad-898c-055d2f602e50&position=25&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Location": "Herndon, Virginia, United States",
+    "CompanyName": "Karsun Solutions, LLC",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

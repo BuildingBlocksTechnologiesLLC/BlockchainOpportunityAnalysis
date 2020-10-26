@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-08-01",
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20bitcoin",
+    "DomainId": "linkedin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20bitcoin",
+    "DocumentType": "JobBoards",
+    "Title": "Heroic Music Group hiring Security Engineer - Penetration Tester (Whitehat Hacker) in Provo, Utah, United States | LinkedIn",
+    "Hash": "4240B29FFECC85C5402B3411AEE3EDC7",
+    "TackIt": "true",
+    "Body": " HEROIC is looking for driven professionals with strong technical aptitude to join us as Security Engineers. Your job will be to ensure that our company and our clients services, applications, and websites are secured against the latest threats.You will be responsible for conducting manual penetration testing, creating/maintaining automated penetration testing solutions, documenting penetration testing methodologies and helping software development teams by adding penetration testing tools to their development processes. HEROIC offers a fast-paced, innovative environment where you will be provided the tools, resources and leadership to help take your career to the next level! Principal Responsibilities Penetration testing & vulnerability research Recommendation of threat mitigations Produce high quality penetration testing reports Projects and research work as needed Security training and outreach to internal development teams Security guidance documentation Security tool development Security metrics delivery and improvements Minimum Qualifications Passion for Cybersecurity Proven experience testing, auditing and securing servers and web applications Bachelor\u2019s degree in Computer Science, Computer Engineering, or similar technical major is strongly preferred. Work experience may be substituted for a Bachelors degree. Excellent English communication skills, both written and verbal Strong communication skills with the ability to understand and explain complex technical issues to a non-technical audience. Knowledge of security analysis tools and full understanding of static, dynamic, and forensic testing and analysis. Knowledge of TCP/IP networking (proxies, firewalls, etc.), and common web technologies (HTTP, REST, Web Services, XML/XPath, etc. Ability to prioritize, and manage time efficiently Preferred Qualifications Comfortable working in a fast-paced and dynamic environment Competitive mindset and eagerness to win One of more cybersecurity related certifications About Heroic HEROIC Cybersecurity (https://HEROIC.com) is building the future of cybersecurity, powered by artificial intelligence and the blockchain. Unlike traditional cybersecurity solutions, HEROIC takes a predictive and proactive approach to intelligently secure our users before an attack or threat occurs. Our work environment is fast-paced, challenging and exciting. At HEROIC, you\u2019ll work with a team of passionate, engaged individuals dedicated to intelligently securing the technology of people all over the world. Keywords: Kali Linux, Wireshark, Metasploit, Burp Suite, NMap, Whitehat, Blackhat, Antivirus, Cybersecurity, Infosec, Blockchain, Artificial Intelligence, AI, Big Data, Ethereum, Bitcoin, Cryptocurrency, CryptoShow moreShow less ",
+    "Url": "https://www.linkedin.com/jobs/view/security-engineer-penetration-tester-whitehat-hacker-at-heroic-music-group-1946604753?refId=d234e767-d300-40ee-9a6c-edf699c67712&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Location": "Provo, Utah, United States",
+    "CompanyName": "Heroic Music Group",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

@@ -18,6 +18,7 @@ from collections import Counter
 import datefinder
 from datetime import datetime, timedelta
 import monthdelta
+import Location #location file
 
 def decide_loc(locations):
     """
@@ -585,62 +586,41 @@ def nlp_body(text,tagger,crawlDay):
     
     salary = find_sal(s_text)
 
-    print("date: ", date)
     #Check if relative or concrete dates
     if("Ago" in date or "ago" in date or "AGO" in date ):
         format = "%Y-%m-%d"
         day = "".join(e for e in crawlDay if e != "-")
         day = datetime.strptime(day, "%Y%m%d").date()
-        print(day, ": This is the date displayed")
-        print(type(day))
         #check if time difference in days, hours or months, ?
 
         if ("days" in date or "Days" in date):
             #check for time difference in days
-            print("Changing days")
             nums = [e for e in date if e.isnumeric()]
             nums = "".join(nums)
             timeDiff = int(nums)
-            print("time difference: ", timeDiff, " Days")
             d = day - timedelta(days=timeDiff)
-            print(": This is the new date ",d)
-            print(type(d))
             retdate = d.strftime(format)
             
 
         elif("hours" in date or "HOURS" in date):
             #check for time difference in hours
-            print("Changing hours")
             nums = [e for e in date if e.isnumeric()]
             nums = "".join(nums)
             timeDiff = int(nums)
-            print("time difference: ", timeDiff, " Hours")
             d = day - timedelta(hours=timeDiff)
-            print(": This is the new date ",d)
-            print(type(d))
             retdate = d.strftime(format)
         
         elif("months" in date):
             #check for time difference in months
             #time delta does not have month function.. approximating month as 4 weeks, needs editing
-            print("Changing months")
             nums = [e for e in date if e.isnumeric()]
             nums = "".join(nums)
             timeDiff = int(nums)
-            print("time difference: ", timeDiff, " months")
-            #timeDiff *= 4
-            #print("weeks = ", timeDiff)
-            #d = day - timedelta(weeks=timeDiff)
             d = day - monthdelta.monthdelta(timeDiff) 
-            print(": This is the new date ",d)
-            print(type(d))
             retdate = d.strftime(format)
-        
-        else:
-            print("Confused")
-
     else:
         retdate = date
+
 
         
        
@@ -763,6 +743,13 @@ def index_json(file_path,stanfordnlp,ner):
                         org = org.split('/')[-1]
                     elif '\\' in org:
                         org = org.split('\\')[-1]
+
+            print("This is location: ", location)
+            print(type(location))
+            print("This is location stripped: ", location.strip())
+
+            locobject = Location.Location(location.strip())
+            locobject.concreteLocation()
                 
             pred['Location'] = location.strip()
             pred['CompanyName'] = org.strip()

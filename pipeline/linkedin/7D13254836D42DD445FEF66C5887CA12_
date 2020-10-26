@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20application",
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20application",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Voice hiring Software Engineer, Mobile (Android Developers) in New York City Metropolitan Area | LinkedIn",
+    "Hash": "7D13254836D42DD445FEF66C5887CA12",
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-android-developers-at-voice-1835314401?refId=f8eb3711-e158-46b5-a197-bd999fa9eaae&position=22&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-01",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Melinda Norris, SHRM-CP Melinda Norris, SHRM-CP Talent Acquisition Specialist at Voice Get to Know Voice Voice is a rewards-based social media network for content creation, discovery and discussion. Built by and for its users, Voice aims to rebuild public trust in media by focusing on transparency, authenticity, and alignment.?? Spun out of Block.One and built on the EOSIO protocol, Voice leverages the inherent characteristics of blockchain technology to architect integrity into the platform. ?? Description Voice is seeking a Software Engineer, Mobile (Android,) to design, code, and modify our Android public facing application that supports our product offering.?? ?? This is an exciting opportunity to join a thriving, well-funded startup with big ambitions. In addition to doing ground breaking work, this role will be pivotal in establishing a culture of openness, positive communication, and continuous learning. We are looking for the best and brightest to take our platform to the next level. Are you it? Let\u2019s talk.?? The ideal candidate will have a proven record of strong leadership with high team engagement, a history of leading large initiatives through collaboration, and a passion for architecting with integrity.?? ?? Responsibilities:?? ?? Write well-designed, high-performance code and tests using best software development practices. Gather and refine specifications and requirements based on technical needs. Stay up to date on emerging technologies/industry trends and apply them into operations and activities. Cooperate with designers to match visual design intent. Help maintain build pipeline by assisting with deployment automation. Work independently with minimal guidance on tasks. Ensuring quality and performance of application to specification. Identifying potential problems and resolving application issues.?? Other duties as assigned. Qualifications:?? 5+ years of software development experience and 3+ years of experience developing mobile applications for Android. Bachelor\u2019s degree in Computer Science or Software Engineering.?? Strong understanding of mobile application design. Experience publishing mobile apps via the Google Play Store.?? Experience publishing mobile apps via the Apple App Store. "
+}

@@ -1,0 +1,26 @@
+{
+    "Body": " Business Unit Why work for Blockgraph? First Ad-Tech Peer to Peer Enterprise network First open data platform to share/use data across all media channels Platform as a service (PaaS) model Distributed and microservice architecture Fast paced startup culture lead by media giants Exposure to advanced cryptography and algorithms Blockchain for ledger/accounting About The Role Lead and guide teams in designing, building, testing and deploying changes Maintain infrastructure for dev, test, stage and prod Enhance the cloud infrastructure and security protocols Enable automation and continuous integration Enable optimal solutions for packaging and deployment for PaaS solution Enable solution for building and monitoring of High Availability systems and services Help maintain Change Controls and Security patches Help teams in software releases and patch management Help security assessments and continuously address vulnerabilities Lead operational support and instrument monitoring alerts, logging etc Requirements For The Position Bachelor's or Master's Degree in Computer Science or similar field of study 8+ years of devops experience with atleast 2+ years of management experience Experience in CI/CD (Jenkins/CircleCI) and Terraform/Cloudformation Experience with containerized applications, Kubernetes constructs, and managing with Helm Scripting language experience such as Bash, Csh, etc. Proficient in linux/unix Experience in SQL or NoSQL database Experience in streaming technologies like kafka/kinesis Experience in AWS (and other cloud technologies) and distributed systems Detail oriented, flexible in the way that a startup requires, comfortable in a very collaborative and team-oriented environment Understanding and knowledge of modern security tools, development patterns, and best practices Excellent interpersonal, management and decision making skills Optional Experience, interest or industry knowledge of advertising technology e.g. ad servers, SSPs, DSPs, DMPs etc. Excellent programming skills in one of the following: Java, Golang Experience in blockchain technology or cryptography Comcast is an EOE/Veterans/Disabled/LGBT employerShow moreShow less ", 
+    "CompanyName": "Comcast", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "60F9ED84C45582169917F3C1C38BFC3E", 
+    "KeyTerms": "algorithms, kubernetes, continuous integration, golang, cryptography, advertising, sql, nosql, cloud, scripting, java, startup, devops, peer to peer, linux, kafka, ci cd, distributed systems, terraform, protocols, aws", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20sql", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20sql", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Comcast hiring Sr. Manager, Dev. Ops in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/sr-manager-dev-ops-at-comcast-1907707646?refId=82c9c02a-f6fd-42aa-87a6-f71e1fc11c62&position=8&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

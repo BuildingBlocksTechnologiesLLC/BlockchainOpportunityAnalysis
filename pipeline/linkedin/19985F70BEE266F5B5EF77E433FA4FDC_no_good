@@ -1,0 +1,23 @@
+{
+    "CrawledDate": "2020-08-01",
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20spark",
+    "DomainId": "linkedin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/jobs/view/externalApply/1822888551?url=http%3A%2F%2F9nl.es%2FaWXbKc%3Fjz%3D32mjs40265003AIAKUAAAAACAQFAAAAAAA%26tracking-details%3DYmlkPTAuMDAmYmlkdHlwZT1wcHAmc3JjPUxpbmtlZEluLVBvc3RpbmdzJmpJZD02ZGJkYzM5ODM4ZjdjYTFjM2Q2Mzg1MjZkNDg3MzU1YSZlbWQ9MC4wMCZwaElkPTJtanM&urlHash=pA9L&refId=d94b3618-f663-4b39-865a-2dc4adef81eb&trk=public_jobs_apply-link-offsite",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20spark",
+    "DocumentType": "JobBoards",
+    "Title": "Bloomberg LP hiring Senior Software Engineer - Derivatives Team in New York, New York, United States | LinkedIn",
+    "Hash": "19985F70BEE266F5B5EF77E433FA4FDC",
+    "TackIt": "true",
+    "Body": " Bloomberg is the global leader in financial data and analytics. Financial derivatives instruments across several asset classes (foreign exchange, fixed income, equity, index, commodity, credit, etc) trade millions of times a day both as listed products on exchanges and as bespoke over-the-counter products in a multi-trillion dollar market throughout the world. The Derivatives Engineering team brings transparency to the complex world of derivatives. We enable our clients to generate trade ideas, structure deals, connect to electronic trading platforms, capture market movements, and assess and hedge portfolio risk for derivatives instruments. This team is right at the intersection of finance and technology. We work directly with product managers, financial engineers, and quantitative analysts to understand the client and market needs. We use cutting edge big data technologies, distributed computing, functional programming and machine learning to build software solutions that help us implement complex financial and quantitative models to facilitate derivatives pricing and analytics in real-time. What's in it for you? As a member of the Derivatives Engineering team, you will have the opportunity to work with a variety of open source technologies including Blockchain, Apache Spark, Apache Kafka, Apache Cassandra, Redis, and more, to design and implement full-stack software solutions that serve billions of calculations a day. You'll gain hands-on experience in writing data analytics, distributed algorithms, and performance optimized code, all while gaining an advanced knowledge of the derivatives domain. If the idea of building sophisticated software solutions for financial data and analytics excites you, we would love to hear from you! You'll need to have: BA, BS, MS, PhD in Computer Science, Engineering or relevant experience in a technology field 2+ years of programming experience in C++, Python, Javascript, Scala, or OCaml Knowledge of data structures and understanding of algorithms Pragmatic problem-solving skills Strong verbal and written communication skills An interest in the financial domain We'd love to see: A background in data analytics A background in finance Experience in distributed systems Experience with functional programming Experience with open source technologies Bloomberg is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. Show moreShow less ",
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-derivatives-team-at-bloomberg-lp-1822888551?refId=d94b3618-f663-4b39-865a-2dc4adef81eb&position=3&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Location": "New York, New York, United States",
+    "CompanyName": "Bloomberg LP",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

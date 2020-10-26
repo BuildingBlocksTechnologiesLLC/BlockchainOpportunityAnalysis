@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20scripting",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20scripting",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Amazon Web Services (AWS) hiring Sr. Software Development Engineer \u2013 New AWS Service in Palo Alto, California, United States | LinkedIn",
+    "Hash": "47AF37708606B29F9CF3D0CF7D868142",
+    "Url": "https://www.linkedin.com/jobs/view/sr-software-development-engineer-%E2%80%93-new-aws-service-at-amazon-web-services-aws-1836186805?refId=73bd0969-6add-4648-88a3-d32712fcd3a6&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Description Sr. Software Development Engineer - Sr. SDE The DBAA team is looking for an experienced engineer, who is passionate about web technologies and building services. We are the team that develops AWS consoles for the Big Data, Data Lakes, and Blockchain such as Redshift, EMR, Athena, Glue, Lake Formation, and Managed Blockchain. Also, we built CloudWatch Synthetics service from ground up, which supports End-User Experience Monitoring (EUEM\u2014Synthetic Monitoring), Web Services Monitoring (REST APIs), URL Monitoring, and Website Content Monitoring (protection from unauthorized changes in your websites from phishing, code injection, and cross-site scripting). Our Responsibilities Will Include Innovate and simplify the process of creating user interfaces for all Amazon Web Services. Design, implement, and operate new web services on server-less technology. Solve problems that span multiple layers of the application. Closely collaborate with engineering teams around the globe. Automate all the things. Research web technology trends. Help the team grow professionally.As an engineer on our team, you'll have the freedom to set the future direction of this platform. We'd love to see how your solutions will help both AWS customers and AWS service teams build user interfaces even more efficiently and be follow the best engineering practices to be operationally healthy. If you have a passion for how monitoring solutions should be built, care about making other developers\u2019 lives better and want to work with excellent engineers to solve interesting technology problems, you'll fit right in. Our team is located in the Seattle,WA & Palo Alto, CA Basic Qualifications Basic Qualifications 10+ years of professional software development experience Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design Bachelor's in Computer Science or related field 2+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems. Experience building cloudAPI's preferred Experience with Full-Stack development preferred. Preferred Qualifications Bachelor's in Computer Science or related field Experience with large-scale systems distributed systems Proven ability to design, develop, and deploy software in production as an individual contributor in an early-stage of product lifecycle Expertise in C/C++, Java, or Python Preferred Qualifications -M.S. in Math, Computer Science or related field. Experience in machine learning Company - Amazon.com Services LLC Job ID: A1034960 "
+}

@@ -1,0 +1,24 @@
+{
+    "Body": " The Challenge With the proliferation of digital content, the ability to provide proper content attribution for creators is critical to ensure transparency, understanding, and ultimately, trust. The Content Authenticity team at Adobe believe that creating a long-term solution is a shared responsibility among creators, technology companies, and media companies, and that we will succeed only by joining together to develop an industry-wide standard. Adobe, The New York Times Company, and Twitter kicked off the Content Authenticity Initiative in 2019 with this as our goal. We\u2019re building a team to implement authenticity solutions across the Adobe portfolio of tools as well as open-source reference code for emerging standards. We are looking for an experienced Backend Software Engineer to join our team and make an impact to our service designs and highly-scalable implementation. You will work in a collaborative environment where you will interact with innovative product teams across Adobe. You'll be expected to prototype, build features, test and maintain new and existing code. The perfect candidate will have a keen eye for details, deep awareness of tradeoffs and very high standards for code quality and efficiency. What you\u2019ll do Build APIs to support multiple clients (web, mobile, desktop and plugins) Take a product from architecture, development, QA testing through to production Write and test interactive, clean, secure and efficient solutions using mature programming patterns and techniques Solve non-trivial coding and architecture problems with simple and readable solutions Integrate with third party services and APIs for use in identity, cryptographic signing and interoperability Required Experience Extensive server-side programming experience in multiple languages (Go, Python, Java) including at least one functional language Working knowledge of Docker, Kubernetes and AWS SQL and Document database experience Experience with various concurrency models for scaling across cores and clusters Fluency with Git and GitHub Reverence for great documentation and excitement to produce it where sensible An appreciation for well-tested code and pragmatism about when and where to build test infrastructure Passion for solving problems of any scope elegantly every day! Ability to embrace constructive criticism from your colleagues Demonstrated drive to improve your skills and knowledge Plusses Expert knowledge of the Go language and its ecosystem Experience programming in one or more functional languages Experience with instrumentation and tools like Splunk and New Relic Familiarity with Jenkins, CircleCI other continuous integration platforms Enthusiasm tempered with pragmatism for emerging blockchain technologies A Bachelor\u2019s and/or advanced degree in a related field At Adobe, you will be immersed in an exceptional work environment that is recognized throughout the world on Best Companies lists. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. If you\u2019re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer. Adobe is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, religion, age, sexual orientation, gender identity, disability or veteran status. ", 
+    "CompanyName": "Adobe", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-01", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "56B00FCBFFA754D0E02D51455BE46EC2", 
+    "KeyTerms": "kubernetes, continuous integration, back end, python, github, java, git, interoperability, software engineer, aws, docker, sql", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20java", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20java", 
+    "TackIt": "true", 
+    "Title": "Adobe hiring Back End Engineer in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/back-end-engineer-at-adobe-1820510881?refId=0355471c-0e0d-44dd-9c32-fe203d219a99&position=11&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

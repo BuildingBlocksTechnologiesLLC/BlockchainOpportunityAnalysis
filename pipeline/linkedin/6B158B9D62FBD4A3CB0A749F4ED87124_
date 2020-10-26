@@ -1,0 +1,21 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cryptocurrencies",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs-san-francisco-ca?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cryptocurrencies",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Skyrocket Ventures hiring Sr. to Lead Front End Engineer - top tier Blockchain startup in San Francisco, California, United States | LinkedIn",
+    "Hash": "6B158B9D62FBD4A3CB0A749F4ED87124",
+    "Url": "https://www.linkedin.com/jobs/view/sr-to-lead-front-end-engineer-top-tier-blockchain-startup-at-skyrocket-ventures-892763655?refId=f3a00586-e865-45e6-8b38-22470b89a829&position=15&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-13",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Bobby Kim Bobby Kim Client Relations Director at Skyrocket Ventures Sr. to Lead Front End Engineer - top tier Blockchain startup San Francisco, CA (you can work from home up to 2x/week) The company's Cofounders and team of Advisors include some of the biggest names in the blockchain and cryptocurrency realm, including payments domain experts, the Cofounder of a highly valued cryptocurrency, world-class cryptography theorists, and well-known cryptocurrency investors. The company is developing technology designed from the ground up to address issues currently limiting adoption and practical use of cryptocurrencies for payments. Its blockchain-based payments platform will enable seamless use of its cryptocurrency for e-commerce as well as p2p environments. In addition to competitive salary, the company is offering significant equity in the company which would translate into tokens of their cryptocurrency. Those tokens could be highly lucrative (refer to the market caps of the many existing cryptocurrencies). Job Responsibilities: - Implementing initial prototypes and proofs of concept, and taking them all the way to production code interfacing with millions of users - Working with a large degree of autonomy and heavy impact on the product roadmap - Shipping a prototype as well as slick production versions of various products features - Writing the javascript wallet library and integration with metamask Qualifications: - Solid xperience building and maintaining high performance web applications targeting both desktop and mobile using HTML5, CSS3, and client-side JavaScript - Experience with at least one modern JavaScript framework such as React, Angular, etc. - Strong Attention to detail, especially around the user experience. The application needs to work smoothly under all conditions in order to establish user trust - Passion for providing the best possible experience to users through every interaction. Strong empathy for users and desire to ensure their needs are met as effectively as possible - Solid understanding of security and privacy, awareness of the privacy implications of systems, and ability to preserve privacy wherever possible - Great communication skills. Ability to explain exactly what your code does to colleagues whether in engineering, sales, or executive leadership - Passion for disrupting technology and making a difference - Creativity and ability to generate new and innovative approaches to solving problems - Tenacity and desire to go the distance to get things done right "
+}

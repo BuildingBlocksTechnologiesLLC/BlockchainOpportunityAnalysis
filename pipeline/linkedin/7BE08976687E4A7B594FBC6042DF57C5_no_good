@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20sql",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20sql",
+    "DocumentType": "JobBoards",
+    "Title": "Medical Science & Computing (MSC) hiring Python/C++ Developer in Bethesda, Maryland, United States | LinkedIn",
+    "Hash": "7BE08976687E4A7B594FBC6042DF57C5",
+    "Url": "https://www.linkedin.com/jobs/view/python-c%2B%2B-developer-at-medical-science-computing-msc-1911040404?refId=82c9c02a-f6fd-42aa-87a6-f71e1fc11c62&position=23&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-07-13",
+    "DomainId": "linkedin",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": " Medical Science & Computing (MSC) is an exciting growth oriented company, dedicated to providing mission critical scientific and technical services to the Federal Government. We have a distinguished history of supporting the National Institutes of Health (NIH) and other government agencies. MSC offers a dynamic and upbeat work environment, excellent benefits and career growth opportunities. We attract the best people in the business with our competitive benefits package that includes medical, dental and vision coverage, 401k plan with employer contribution, paid holidays, vacation, Medical and Flexible Spending Accounts, Pre-Tax Transit Assistance and tuition reimbursement. If you enjoy being a part of a high performing, professional service and technology focused organization, please apply today! We are currently searching for a Python/C++ GUI-Client/Server Programmer to provide support to the National Institutes of Health (NIH). This opportunity is a permanent, full-time position with MSC and it is on-site in Bethesda, Maryland. The Python/C++ Developer reports to the Branch Chief and has the following duties: Revamping NLM-Scrubber (written in Perl) using Cython; Integrating NLM-Scrubber algorithms with various machine learning algorithms (including neural networks) Working with a small group of developers on site Developing new data structures, algorithms, and information flow architectures for increased efficiency and effectiveness Daily briefing using existing reporting templates (incl. descriptions of what to do and what has been done) Attending weekly group meetings Python3 (2+ years professional development experience) C++17 (2+ years professional development experience) Able to interpret (read/understand) Perl programs Demonstrable skills on developing algorithms with advanced data structures GUI development both on Windows and Linux platforms using Python3/C++17 Client/Server architecture based application development Developed multithreaded applications on Windows and Linux applications with multiple processes accessing shared memories Unit testing Excellent communication and interpersonal skills Excellent problem solving skills Degree: Bachelors Major(s): Computer Science Desired Skills Python/C++ programming using relational database interfaces communicating with Oracle, MS-SQL Server, and/or MySQL NLP, Machine Learning Tensorflow Encryption, Blockchains Developed applications communicating via SSL or similar protocols Developed applications and adhered deadlines in a high-pressured research environment Developed math-heavy software applications Open source software publication on GitHub or elsewhere Medical Science & Computing is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.Show moreShow less ",
+    "Location": "Bethesda, Maryland, United States",
+    "CompanyName": "Medical Science & Computing (MSC)",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

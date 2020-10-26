@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20javascript",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20javascript",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Salt hiring Senior Full Stack Engineer - Blockchain in California, United States | LinkedIn",
+    "Hash": "581E30BBD3203941ECAEA619C6A5A9AC",
+    "Url": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-blockchain-at-salt-1880128943?refId=4a87c58c-104a-4d98-90b9-2a450b497452&position=22&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-07",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Bea Casey Bea Casey Director @ Salt - Partnering with disruptive technology companies and digital talent across the US *** 100%??permanently??remote ***Decentralized Finance (DeFi) *** Salt is working with a start-up who is being incubated by one of the most successful investors in cutting edge technology in the data-rich world of finance. Along with many highly successful VC firms. This meaningful venture is passionately driven by equality for all people to have universal access to the financial market. ?? The founders of this innovative startup are Ex-google and Goldman Sachs, who have already built startups that were successfully acquired. ??This role will be a key addition to the fast-growing team and will assist this elite team of engineers in the next stage of development for this promising Crypto leader. ?? If you have a passion or interest in blockchain technology, cryptonomic, protocol design, game theory, and decentralized finance; this could be the right career opportunity for you. Tech Stack : React, Solidity, JavaScript, Node.JS, Drizzle, Truffle. "
+}

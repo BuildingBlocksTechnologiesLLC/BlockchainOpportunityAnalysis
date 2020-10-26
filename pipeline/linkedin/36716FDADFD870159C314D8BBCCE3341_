@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20python",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20python",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": ".seed hiring Platform Architect in Brooklyn, New York, United States | LinkedIn",
+    "Hash": "36716FDADFD870159C314D8BBCCE3341",
+    "Url": "https://www.linkedin.com/jobs/view/platform-architect-at-seed-1855338385?refId=5b194813-6235-4369-93f5-9453b4487967&position=24&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-07",
+    "DomainId": "linkedin",
+    "Language": "Estonian",
+    "TackIt": "true",
+    "Body": " Posted by: Rob Rothman Rob Rothman Founder at .seed Platform Architect ?? Job Location Brooklyn (Williamburg/Bushwick) - Remote till COVID-19 is managed Company Blockchain/Crypto/Social Media Start-up Financially Backed by one of the largest players in Crypto/Blockchain Team of 20~ ; growing to 100+ by end of year $100M+ in funding Job Description We are seeking a Platform Architect to help guide architecture, direction and technical decisions for voice\u2019s platform and cloud infrastructure. This will be completed through a combination of hands on engineering, written communication, discussion, planning and collaboration across all teams within voice engineering in conjunction with the VP of Engineering. This particular role will have a primary focus on web application, api, general back end systems and cloud infrastructure, including blockchain integration, data distribution, processing, aggregation, storage, and access. Therefore you will be a major contributor to the architecture and technical roadmap for the voice platform which powers its digital products.?? Tech Stack GO, Python, C++, Kubernetes, Docker, and AWS Requirements?? 5-7+ Years Software Engineering Experience 3+ Years Experience as an Architect or Hands-on Lead Experience with one of these: GO, Python, or C++. Infrastructure/Cloud Experience 2-3 of these: AWS, GCP, Azure, Kubernetes, Docker, etc. A degree in Computer Science or Computer Engineering highly preferred Great communication skills ?? Compensation?? $180k - $230k Base Salary + $150k - $200k in Equity Value "
+}

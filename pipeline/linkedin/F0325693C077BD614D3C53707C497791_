@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20node",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20node",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Collabera Inc. hiring Software Engineer in Baltimore, Maryland, United States | LinkedIn",
+    "Hash": "F0325693C077BD614D3C53707C497791",
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-at-collabera-inc-1870082666?refId=8590a519-aa25-4fbd-a5bd-bc47e83b3737&position=16&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-07",
+    "DomainId": "linkedin",
+    "Language": "Italian",
+    "TackIt": "true",
+    "Body": " Posted by: Bhumika (Booms) Patel Bhumika (Booms) Patel Senior Direct Hire Recruiter at Collabera Inc. Full stack mid-level software engineer position with the opportunity to work with Blockchain technologies. There will be more of an emphasis working on backend data and analytics. Responsibilities Accountable for all parts of the software development lifecycle for their projects Design and develop practical APIs and abstractions Accountable for technical debt in their own software As needed, capable of leading a small team of developers for a specific project Research and recommend technical solutions to fit business needs Participate in scrum ceremonies Qualifications Strong analytical ability, true problem solver A solid understanding of professional service firms is a plus Ability to take ownership of projects and see them through to completion Ability to communicate well across the organization by: Communicating work progress and issues within an agile team Communicating pros and cons of technical solutions within the development team Can articulate business needs and translate them into technology solutions Excellent opportunity to join a growing IT team and a collaborative work environment. Education and Experience Requirements Bachelor's Degree in Computer Science, Computer Engineering, or related field 3-5 years of experience Desired skills In-depth RDBMS development experience (i.e., MySQL, SQL Server) Python development experience Solid understanding of and experience implementing data analytics (e.g., metrics, forecasting, projections, modelling) Experience with Other Tools/Technologies a plus VS Code Visual Studio or similar (Eclipse/IntelliJ) Git Azure DevOps or similar (Jira/Rally) Typescript Vuejs (Vuetify, Vuex, Vue Router, Nuxt) or similar JavaScript framework (Angular/React) Nodejs Expressjs Micro-service architecture Blockchain technologies Intersted? send me an updated copy of a your resume at bhumika.kpatel@collabera.com Blockchain,C++,MYSQL,SQL,Azure,Python,Vue.js,Node,Express.js,microservices "
+}

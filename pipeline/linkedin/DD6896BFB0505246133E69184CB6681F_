@@ -1,0 +1,24 @@
+{
+    "Body": " SENIOR DEVOPS ENGINEER We are seeking a Senior DevOps Engineer to implement and manage our cloud based infrastructure. In this role you will support the AWS/Kubernetes platform that our public and internal functionality is built on, as well as be responsible for rigorous security controls across all company networks. This is a great opportunity for a seasoned DevOps Engineer to shape the infrastructure of a dynamic, cloud-based, blockchain company. This job is in Cambridge, MA, and applicants will be expected to commute here daily. Relocation is not currently available for this position. Responsibilities Lead the design and implementation of our cloud infrastructure including AWS EC2 instances, Kubernetes, CI/CD, provisioning, sizing, infrastructure as code, etc. Provide thought-leadership on various engineering topics. Adhere to budgets and consider cost tradeoffs when implementing changes. Manage and secure the application networks. Implement and manage monitoring platforms across infrastructure, applications and networks. Manage Kubernetes clusters and containers using tools such as Ansible, Terraform, etc. Support the engineering teams across multiple products in an Agile environment. Engage in Scrum ceremonies. On-call rotation for 24/7 support. Skills and Qualifications Great communication skills. End-to-end understanding of modern application architectures is required A Bachelor's degree in Computer Science or related field is required. Big picture orientation with strong attention to detail is required. AWS, Kubernetes, Docker experience is required. Git experience is required. Sentry, Kibana, Datadog or equivalent monitoring tools experience is required. Python, bash, other scripting language experience is required. Ansible, Terraform, or equivalent tooling experience is required. Contact: Shelley Dyer?? shelley.dyer@contextlabs.com ", 
+    "CompanyName": "Spherical Analytics", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "DD6896BFB0505246133E69184CB6681F", 
+    "KeyTerms": "kubernetes, python, ansible, docker, cloud, scripting, git, devops, ci cd, scrum, containers, terraform, agile, aws", 
+    "Language": "English", 
+    "Location": "Cambridge, Massachusetts, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud", 
+    "TackIt": "true", 
+    "Title": "Spherical Analytics hiring DevOps Engineer in Cambridge, Massachusetts, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/devops-engineer-at-spherical-analytics-1834204644?refId=fce1a88a-09c8-41f7-9efb-36ba508f41c7&position=12&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

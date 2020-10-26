@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-08-01",
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20c++",
+    "DomainId": "linkedin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20c++",
+    "DocumentType": "JobBoards",
+    "Title": "PamTen Inc hiring Node.Js Developer/ Lead in Kansas City, Kansas, United States | LinkedIn",
+    "Hash": "F73D8AF59B4C19E67B8E7E24005DC548",
+    "TackIt": "true",
+    "Body": " Required Skills: ( Blockchain/Cryptography , Java Backend Development, Code review ) +9 years exp in IT industry /Banking/Financial domain with Back End development. Extensive experience with the following technologies and frameworks: Node.JS, C, C++, Java, Data Structures, NoSQL, data bases, GIT. Extensive experience developing and supporting shared web service platforms, including SOAP and RESTful API's. Experience developing solutions using Information Security-related concepts: Cryptography, Hardware Security Modules, PKCS11, AMQP. Significant advanced code development, code review.Show moreShow less ",
+    "Url": "https://www.linkedin.com/jobs/view/node-js-developer-lead-at-pamten-inc-1972937984?refId=a0999918-dd15-4f8e-bccc-69db27de6906&position=20&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Location": "Kansas City, Kansas, United States",
+    "CompanyName": "PamTen Inc",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

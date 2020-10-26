@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20java",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20java",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Vivid Resourcing Ltd hiring Software Engineer in Greater Boston | LinkedIn",
+    "Hash": "921C34594657B8C66929A99660F92A63",
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-at-vivid-resourcing-ltd-1865102516?refId=20a4366b-02a3-4576-8008-d627181257e8&position=12&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-21",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Daniel Gaughan Daniel Gaughan Emerging Technology | Talent Acquisition Software Engineer \u2013 Boston?? Employment Type: Full Time?? Start date: ASAP Package: Base, Bonus, Equity, 401K Contribution, Relocation Assistance where required Location: Boston (MA)?? ?? One of my clients a emerging technology brand who are creating a unique application of blockchain technologies are currently looking to make multiple hires in their engineering teams.?????? The client are agnostic to stack but have a high bar on computer science fundamentals.?? Interviews for this position are currently taking place fully remotely with video tours of the clients premises availble.?? Essential Skills / Experience The team are looking for a computer science generalist / polyglot programmer?? The current technology stack includes?? Golang Java?? Python?? AWS?? Node?? Software Engineer \u2013 Boston "
+}

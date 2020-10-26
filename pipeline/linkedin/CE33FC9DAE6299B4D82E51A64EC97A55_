@@ -1,0 +1,24 @@
+{
+    "Body": " Description Symbiont Assembly is a decentralized application platform, allowing developers to write complex financial business logic in our own domain-specific smart contract language. We look to improve the developer experience with rich IDE plugins, powerful language features, smart contract visualizers, and much more. Our goal is to simplify development in a highly complex domain, blockchain smart contracts. We focus on developing not only a purpose-built smart contract language, but all of the associated user-friendly tooling appropriate for a mature platform. This is no small task, and we expect a wide variety of challenges working on a mix of projects in various languages, though with a primary focus being Python and/or TypeScript. Required At least two years professional software development experience Familiarity with Git/GitHub (or similar DVCS) Familiarity with Linux/BSD Desire to build a great experience for developer Recommended Experience building plugins for Visual Studio Code, IntelliJ/PyCharm, Eclipse, or other IDEs Expertise in Python Expertise in JavaScript or TypeScript Familiarity with functional programming Knowledge of financial markets, especially the back office, is a plus ", 
+    "CompanyName": "Symbiont", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-07", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "CE33FC9DAE6299B4D82E51A64EC97A55", 
+    "KeyTerms": "python, github, financial, intellij, decentralized, javascript, git, smart contract, linux, software engineer, typescript, sdk, functional program", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20typescript", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "decentralized", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20typescript", 
+    "TackIt": "true", 
+    "Title": "Symbiont hiring Software Engineer - SDK in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-sdk-at-symbiont-1877902421?refId=ae6256a9-2b06-46ae-9e65-cebdaddc70df&position=11&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

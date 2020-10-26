@@ -1,0 +1,25 @@
+{
+    "Body": " Position Description:AVA's Security Engineer will analyze the security of the AVA protocol, and develop solutions to address any vulnerabilities found in its systems, architectures, and code.AVA Labs makes it simple to launch finance applications using blockchain technology-with highly scalable and efficient networks, customizable public and private blockchains, the capability to create any digital asset, and more. We are empowering people to build an open, simple, and democratic internet of finance.We are looking for an individual who not only aims to identify vulnerabilities, but also wants to help shape and design the development of the protocol.Responsibilities:* Identify vulnerabilities where they exist and influence our system's design to prevent them from occurring* Be a key member of the development team designing and building the protocol architecture* Help grow and mature the security engineering team* Proactively develop security guidance and practices for future implementations across the engineering teamWhat You'll Bring:* 5+ years of experience in security engineering for fintech, blockchain, or cryptocurrency projects* Can work effectively in Go, Python, sh/bash, Java, C/C++* Competent with software architecture, designing scalable abstractions for high- and low-level components* Effective at debugging, including external dependencies down to low-level toolchains* Critical and analytical approach to evaluating and designing end-to-end secure protocols systems* High understanding of security architecture of decentralized storage networks and blockchains, how user-level applications are built on top of these, and the unsolved hard problems in these areas* Familiar with high-level security properties of cryptographic protocols, threat models, and how to apply them* Comfortable with networking and distributed systems topicsAbout AVAAVA Labs was founded by Cornell computer scientists who brought on talent from Wall Street to execute their vision. The company has received funding from Andreessen Horowitz, Initialized Capital, and Polychain Capital, with angel investments from Balaji Srinivasan and Naval Ravikant.https://www.avalabs.org/Show moreShow less ", 
+    "CompanyName": "Avalanche", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "C68D0D4AFA572D1E436BB952CCAF6931", 
+    "KeyTerms": "cryptocurrency, python, java, cryptographic protocols, digital asset, analytical, financial, distributed systems, decentralized, protocols", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20c#", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20c#", 
+    "TackIt": "true", 
+    "Title": "Avalanche hiring Security Engineer in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/security-engineer-at-avalanche-1944499755?refId=522a5b70-3051-46d1-b0ba-1420c19c51cb&position=16&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

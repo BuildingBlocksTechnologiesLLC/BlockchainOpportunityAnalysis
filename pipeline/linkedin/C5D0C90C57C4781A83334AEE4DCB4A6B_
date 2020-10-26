@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20blockchain",
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Chainlink hiring Blockchain Engineer, Integrations - Remote in Austin, Texas Metropolitan Area | LinkedIn",
+    "Hash": "C5D0C90C57C4781A83334AEE4DCB4A6B",
+    "Url": "https://www.linkedin.com/jobs/view/blockchain-engineer-integrations-remote-at-chainlink-1835333207?refId=09fe11e2-3122-45b1-813a-16a0a864a0cb&position=10&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-01",
+    "DomainId": "linkedin",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Posted by: Becky Bajan Becky Bajan People and talent leader growing the SmartContract team! *This role is location agnostic anywhere in the world. Though we ask that you overlap some working hours with Eastern Standard Time (EST).* About the Role You will lead integrations with upcoming blockchains into the Chainlink platform, working directly and building relationships with the founding engineers and learning about each new innovative blockchain platform. Today, most blockchains are their own ecosystems, but this is about to change: cross-blockchain connectivity is set to be the next growth opportunity, with network effects compounding when leveraging the strengths of each blockchain. Be the driving force for owning this initiative and make a large impact on the growth of a critical piece of blockchain infrastructure.?? Responsibilities Interface with leadership, customers, users, and the community to implement seamless integrations to allow for exponential growth of the network Manage the technical aspects of integrating Chainlink with blockchains Build token bridges between blockchains utilizing the Chainlink network Work closely with node operators to connect their Chainlink nodes to other blockchains Develop best practices and documentation to scale integrations Requirements 3+ years of professional experience working in a product-driven environment Experience in Golang or Rust; otherwise experience in JS, Ruby, Python, C++, C, or Solidity and a willingness to learn Resourceful developer and fast learner constantly striving to discover more environments Ability to write and communicate effectively Eagerness to work openly and collaboratively with a diverse team Experience in blockchain and other Web 3.0 technologies Comfort and/or experience working as a remote employee as a part of a distributed team Smart contracts are on track to revolutionize how all agreements work, through an entirely new system of technologically enforced contract guarantees. Chainlink enables next-generation smart contracts that can be written about any/all events in the real world, the details of our approach can be found in our whitepaper. We are well recognized for providing highly secure and reliable blockchain connectivity to the world's largest enterprises such as Google, Oracle, SWIFT, and many more. This is a unique opportunity to join one of the top companies developing cutting-edge blockchain technology while working closely together with a team of experienced senior developers. This role is location agnostic anywhere in the world. Though we ask that you overlap some working hours with Eastern Standard Time (EST). *Chainlink is an Equal Opportunity Employer.* "
+}

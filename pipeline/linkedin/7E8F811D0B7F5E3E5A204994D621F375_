@@ -1,0 +1,24 @@
+{
+    "Body": " Systems Engineers work with a talented team of systems and research engineers and architects as Findora builds out its core infrastructure and specific applications. The core engineering team\u2019s primary focus is to build out the Findora platform, a highly performant distributed system incorporating significant innovations in cryptography, storage/authenticated data structures, and consensus/state machine replication. Additionally, as the platform is implemented, a growing number of ecosystem applications will be developed atop the Findora infrastructure, requiring a full stack engineering effort. Engineers must collaborate effectively with the research team to bring theoretical breakthroughs into practice and collectively make architectural and engineering decisions alongside the researchers, architects, and fellow engineers. Responsibilities Building the underlying core Findora infrastructure, a state-of-the-art distributed system primarily implemented in Rust Creating the interface and integration process for new and existing financial service products to move their operations onto the Findora platform Integrating our cryptographic library (written in Rust), which enables new privacy/compliance tools, with a blockchain base layer for assets, accounts, transfers, smart contracts, etc. Development of specialized financial apps such as lending platforms, exchanges, and investment funds on the underlying blockchain Architecting the process of large-scale deployment of the entire stackMinimum Qualifications Meaningful computer science and software development experience with awareness of engineering and security best practices Great communication skills and energyPreferred Experience with software development for enterprise consumers Experience with distributed systems and/or databases in a production environment Experience with cryptography and/or blockchain systems Experience with Rust and/or C++ in a production environment Experience designing and implementing scalable and high performance platforms Openness to travel and potentially international relocationPerks Work on new problems in an emerging field Learn from systems engineering, cryptography, and finance domain experts in a mentorship-oriented work culture Make a big impact as an early contributor ", 
+    "CompanyName": "Findora", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "7E8F811D0B7F5E3E5A204994D621F375", 
+    "KeyTerms": "financial, lending platforms, exchanges, cryptography, privacy, privacy compliance, consensus, rust, smart contract, compliance, full stack, distributed systems, data structures, investment funds", 
+    "Language": "English", 
+    "Location": "Menlo Park, California, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20rust", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "rust", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20rust", 
+    "TackIt": "true", 
+    "Title": "Findora hiring Systems Engineer in Menlo Park, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/systems-engineer-at-findora-1823001488?refId=ea17c446-0cd6-4200-96de-440c8c4b8a20&position=16&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

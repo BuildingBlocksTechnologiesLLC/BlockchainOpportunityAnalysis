@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux",
+    "DocumentType": "JobBoards",
+    "Title": "Celsius Network hiring DevOps Engineer in Hoboken, New Jersey, United States | LinkedIn",
+    "Hash": "C1867ECCAA696E7B6760758CE59CA69E",
+    "Url": "https://www.linkedin.com/jobs/view/devops-engineer-at-celsius-network-1929413178?refId=bcc246a9-b667-4e42-b6bb-29207fb4e759&position=21&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-07-13",
+    "DomainId": "linkedin",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": " Direct message the job poster from Celsius Network Nuke Goldstein Co-Founder & CTO of Celsius Network The ideal candidate has killer DevOps skills with passion for blockchain, security and financial disruption. Â  Â  Responsibilities Deploy, maintain and manage sandbox environments and production within the Amazon Web Services and Azure ecosystems Improve current system flow,Â  build processes and overall architecture.Â  Work closely with engineering professionals and developers within the company to maintain the needed infrastructure, hardware and software Work alongside project management teams to successfully monitor progress and implementation of initiatives Qualifications 3+ years hands-on experience automating infrastructure in a cloud environment, preferably Amazon Web Services (EC2 instances, Load Balancers, RDS Databases, AWS Fargate, AWS security controls such as WAF, and more)Â  Experience with scripting languages (like Bash, PowerShell) Understanding of REST APIs Knowledge of relational database systems and concepts (SQL Server, PostgreSQL, etc.) Experience administering both Linux and Windows servers as well as Docker based orchestrators (like Kubernetes etc.) in a highly available environment Familiarity with agile software development methodology and tooling, including continuous integration and continuous delivery A strong desire to automate processes, build software tools, and create infrastructure-as-code solutions in a DevOps environment Exceptional troubleshooting and analytical abilities Current understanding of best practices regarding system security controls - hardening of servers and infrastructure based on CIS for exampleÂ  Bachelor's degree in Computer Science or Software Engineering is preferred Benefits Competitive salary, commensurate with experience Heath, dental and vision insurance, paid 80% by the company 401k retirement plan with safe harbor matchÂ  Additional compensation in the form of the CEL token Participation in the Employee Stock Option Plan Ability to work from home Flexible scheduleShow moreShow less "
+}

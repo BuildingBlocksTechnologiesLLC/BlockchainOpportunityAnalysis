@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-08-01",
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20mysql",
+    "DomainId": "linkedin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20mysql",
+    "DocumentType": "JobBoards",
+    "Title": "Hopjump hiring Operations Engineer in Cambridge, Massachusetts, United States | LinkedIn",
+    "Hash": "7F62F4787EB9BFBE4E5C89486BC5C8E6",
+    "TackIt": "true",
+    "Body": " The Platform Engineering team's mission is to deliver internal software solutions that drive revenue and improve the traveler experience provided by Hopjump's externally-facing products. All members of this team take ownership and provide technical leadership across all of the internal software platforms and tools that power our traveler-facing applications. Ultimately, an ideal candidate will be able to align platform engineering activities with business objectives to ensure consistent and predictable delivery of valuable internal software solutions. A successful engineer on the Platform Team at Hopjump will: Build cloud-based (AWS) micro-services \u2013 primarily in Java and Python Implement well-defined features with good test coverage and peer reviews. Take a growth-oriented approach, aggressively seeking opportunities to maximize business value delivered. Be able to handle the entire feature lifecycle on your own within three months, including requirements gathering, implementation, testing, deployment and ensuring business goal achievement. Be ready & able to use Java and Python on a daily basis! Strike a balance between pragmatic, timely short-term solutions and technical debt avoidance. Must Haves Experience with: Java, Python Version control experience (e.g Git, SVN, Mercurial - this may not be present on resumes) Level of education: Either a minimum of a Bachelor's in Computer Science/Software Engineering/Robotics/Something-involving-programming OR lots of work experience demonstrating competency in the field (5+ years) Work experience: 3-7 years of relevant experience Willingness to work in Java and Python. Willingness to learn new technologies as needed. The ability to plan out a process and execute on it on a daily basis with an emphasis on achieving measurable results A passion for personal growth and a demonstrated ability to learn quickly Linux/UNIX fluency (look for \"bash\", \"sysadmin\") Willingness to be local No large gaps in resume Does not jump between jobs (pattern of leaving after 6-12mo) Business awareness \u2013 descriptions of impact of their work Ownership of systems/projects/teams Not fixated on (Big)Data Science, AI, blockchain, or other \"sexy\" engineering problems Has worked on a team with other developers Nice To Have Experience with the technologies commonly used in our environments, including: Spring Boot, JUnit, Kubernetes, Jenkins, Redis, Apache Kafka, MySQL, PostgreSQL, Amazon Redshift, InfluxDB, uWSGI, Akamai Media Delivery and Airflow Examples of leadership/mentorship Experience with JavaScript/TypeScript/React Things You'll Like About Hopjump We value and encourage creative thinking & intellectual curiosity. You'll have a very clear understanding of how your work matters to the company. You'll find interesting new challenges every day on the forefront of online marketing. You'll be given the responsibility to have a big impact on and opportunities for leadership within our business from early on. You'll be part of a passionate team with broad skills and interests. We have fun! Frequent company outings, lunches, and parties. We offer competitive salaries, excellent benefits, and a relaxed work environment with plenty of perks.Show moreShow less ",
+    "Url": "https://www.linkedin.com/jobs/view/operations-engineer-at-hopjump-1965704829?refId=4589008e-853e-404c-b678-5388f2545243&position=19&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Location": "Cambridge, Massachusetts, United States",
+    "CompanyName": "Hopjump",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

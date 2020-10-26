@@ -1,0 +1,25 @@
+{
+    "Body": " Messari is a fast growth startup in New York that is building the next generation data layer for the global cryptoasset community. We believe data is knowledge, and with knowledge, you can invest with confidence. But getting information you can trust in the crypto world is hard. Our mission is to drive factual crowd-sourced information and data transparency across every corner of the emerging token ecosystem by building an open data library for blockchain projects and cryptoassets. We are applying ideas of open data and crowdsourcing to financial services, giving investors the tools they need to separate the wheat from the chaff, and helping enable smarter regulation along the way. Are you passionate about crypto finance? Do you daydream in the overlap between open-source coding and Freakanomics? Do you want to help change the world and build the core data infrastructure for the next 100 years? Then we want to talk to you. We\u2019re looking for a dedicated, methodical, and versatile engineer with experience and passion for working with blockchain data and scalable high performance code. We need someone who can quickly adapt to shifting approaches, situations, and priorities. Working with a strong team of engineers, you will build highly scalable tools that will help people parse data from every relevant crypto network into actionable real time information. About The Job Spin up nodes and clients to tap into relevant blockchain networks, work with the business to parse valuable insights, and design output APIs. Build and deploy our core platform, data, and infrastructure services working in a combination of Web3JS, NodeJS, Java, and Go. Design microservices to support scalable architecture working with Kubernetes, Postgres, and BigQuery. A deep knowledge of blockchain architecture is helpful, and our ideal candidate has strong opinions on a variety BIPs, EIPs, ZIPs, etc.About you You write killer well-structured Java, Go and Node.js code. You have experience architecting and developing large scale distributed systems with seamless concurrency, multithreading and synchronization. You are a passionate Mission First, Team Always person with a strong drive to do important and valuable work. You ship. You take ownership, you move with a sense of purpose, and you deliver results. You measure twice and cut once. You think carefully about a problem, plan how to execute it, and then make it happen. Whether you are cryptocurious or a Slashdot OG, you are excited to learn more about the industry and level up with us. You know how to take a break, and are passionate about your life both inside and outside the office. ", 
+    "CompanyName": "Messari", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-19", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "8DB26E85663E4CFAD27449AE70312F9D", 
+    "KeyTerms": "kubernetes, cryptoasset, financial, nodejs, microservices, blockchain architecture, java, startup, distributed systems, cryptoassets, multithreading, software engineer, postgres", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20node", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20node", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Messari hiring Software Engineer - Blockchain Infrastructure in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-blockchain-infrastructure-at-messari-1545126880?refId=bb6d1504-226f-44fa-8a9f-2d93294108c3&position=18&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

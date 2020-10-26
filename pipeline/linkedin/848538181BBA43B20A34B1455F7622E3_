@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20java",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20java",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "InfoVision Inc. hiring Java Techno-Functional Consultant w/ Blockchain in Irving, Texas, United States | LinkedIn",
+    "Hash": "848538181BBA43B20A34B1455F7622E3",
+    "Url": "https://www.linkedin.com/jobs/view/java-techno-functional-consultant-w-blockchain-at-infovision-inc-1812141706?refId=6cfe8830-2350-432d-9010-549c9035fac3&position=20&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-13",
+    "DomainId": "linkedin",
+    "Language": "Estonian",
+    "TackIt": "true",
+    "Body": " Posted by: Nasir Ahmed Nasir Ahmed Resource Development Manager at InfoVisionHQ A mid level developer (5+ years of dev experience) who has worked on?? GoLang Javascript (JEST) AWS CLOUD???? Basics of Blockchain (not mandatory) and who has experience interfacing with different stakeholders in capturing requirements, leading data analysis, assisting solutions team and be a key liaison??with customer A Developer who is willing to work with the Business team/Eng team as well as do some hands on development. "
+}

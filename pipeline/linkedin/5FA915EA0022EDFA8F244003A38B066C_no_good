@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20html",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20html",
+    "DocumentType": "JobBoards",
+    "Title": "MadHive hiring Senior Front End Engineer in New York, New York, United States | LinkedIn",
+    "Hash": "5FA915EA0022EDFA8F244003A38B066C",
+    "Url": "https://www.linkedin.com/jobs/view/senior-front-end-engineer-at-madhive-1545325808?refId=65597eac-9719-4efb-9154-ca016e87ef3b&position=25&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-07-13",
+    "DomainId": "linkedin",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": " About Madhive MadHive is an end-to-end advanced advertising solution for digital video that leverages cryptography, blockchain, and AI to deliver evidence-based business outcomes. MadHive\u2019s next- generation advertising suite provides precision targeting, audience verification, as well as the first OTT-first device graph and cross-device attribution, while addressing the biggest threats to the advertising industry -- the issues of trust, transparency, fraud and brand safety. We challenge ourselves daily to build products that are easy to use, deliver exceptionally effective campaigns, and increase the power of valuable ad dollars. From game-changing cryptography to the latest in cloud engineering, Madhive uses powerful new technologies coupled with world-class design to deliver evolved solutions. Join us in transforming the \u201cguess\u201d economy to the overdue \u201cevidence\u201d economy. We\u2019re looking for Engineers with a passion for what they do, who want to help shape and scale an application that will change the future of the AdTech industry. Expert knowledge of Javascript, HTML and CSS Solid understanding of React, or at least one of the other major Javascript frameworks (Angular/Vue). Previous experience or the willingness to learn data visualization libraries like D3 or Highcharts. Expert knowledge of CSS preprocessors (SCSS/SASS, LESS). Proficiency writing modular code aimed at efficiency, scalability, and legibility. Proficiency designing and writing Javascript unit tests (Jest, Mocha, Chai). Proficiency with build tools (Webpack, Babel, Gulp, etc.). Working knowledge of RESTful APIs. Fundamental understanding of Version Control (GitHub, Bitbucket).Experience that would be great for you to have (or you'd be excited about acquiring) Experience working in TypeScript, Go, or other statically typed languages Experience building data visualizations in Javascript (D3) Experience with end-to-end testing platforms (e.g. Selenium, Cypress) Experience with OAuth 2.0 and/or Single-Sign-On (SSO) Google's Firebase, particularly Firestore, NoSQL Google's GCP Suite including Google Endpoints The Perks! MadHive is a dynamic, diverse, innovative and friendly place to work. We embrace our differences and believe they fuel our creativity. We come from varied backgrounds and think that\u2019s important. But whether it\u2019s taking ideas from previous lives and applying them in different ways or creating something completely new, we are all trail-blazing team players who think big and want to make an impact. Here are just some of the many benefits of becoming a MadHive employee: Health, Dental & Vision Insurance: Your health is number 1, so we offer 100% company-paid health, dental, and vision insurance starting on day 1, with additional plan options available with minimal employee contribution. 401K: Want to retire one day? We do too. That\u2019s why we have a 401K plan. Commuter Benefits: Madhive offers Wageworks commuter benefits. Plus, we\u2019re centrally located just a couple blocks from New York City\u2019s Penn Station. Unlimited Vacation: We offer Unlimited PTO, plus additional paid company holidays. Parental Leave: We believe that family comes first, so we provide parental leave to all new parents. Food All Day: Fully stocked refrigerator, and an actual gourmet chef prepares lunch for the office 2-3x per week. Centrally located: Office is a stone\u2019s throw from Penn Station & Hudson Yards in Chelsea.Show moreShow less ",
+    "Location": "New York, New York, United States",
+    "CompanyName": "MadHive",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

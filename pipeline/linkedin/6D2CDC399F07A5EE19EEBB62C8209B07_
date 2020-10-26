@@ -1,0 +1,25 @@
+{
+    "Body": " Overview Job Description As a Site Reliability Engineer you will be an integral part of a team working to strategically apply blockchain technologies to new and innovative business areas, resulting in high-throughput transaction systems at global scale. As an SRE you will be responsible for- Developing, improving and operating the deployment and orchestration of a complex distributed system Managing on premises resources through infrastructure, code frameworks and declarative configuration management Implementing and improving monitoring, alerting and emergency response procedures and maneuvers Diagnosing system performance and reliability Partnering with development and test groups to create rapid cycles of feedback and improvement About The Team Akamai Labs is expanding its team with a mission to strategically apply blockchain technology to business requirements for a highly available, high throughput, highly secure transaction system. Job Qualification Qualifications Required Education and Experience Applicants must meet one of the following education and experience requirements- Bachelor\u2019s degree in computer science/engineering or its equivalent Required Skills Experience with 1 or more of the following languages - Python, Golang, C/C++, Java Experience with 1 or more configuration management solutions such as Ansible, Puppet, Chef, or SaltStack Experience working on Linux/Unix platforms Desired Skills Bare metal deployment and operational experience Experience with Rspec/Serverspec and Dockerspec Designing, implementing and deploying continuous build/deployment frameworks Experience with Jenkins Groovy DSL Experience with distributed systems Linux kernel development and/or performance tuning SQL experience Experience with Content Distribution Networks Site reliability engineering and/or related work including service performance Experience building scalable servers or distributed systems Proven track record of delivering large amounts of high quality, complex code Highly responsible, self-disciplined, self-managed, self-motivated, able to work with little or no supervision Extensive experience working on multiple projects at a time in a fast paced, results oriented environment Excellent written and verbal communication skills ", 
+    "CompanyName": "Akamai Technologies", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-01", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "6D2CDC399F07A5EE19EEBB62C8209B07", 
+    "KeyTerms": "puppet, python, java, frameworks, golang, linux, chef, distributed systems, ansible, sql", 
+    "Language": "English", 
+    "Location": "Cambridge, Massachusetts, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/jobs/view/externalApply/1802141582?url=https%3A%2F%2Fakamaicareers.inflightcloud.com%2Fcareersection%2Fjobdetail.ftl%3Fjob%3D020647%26lang%3Den%26src%3DJB-10220&urlHash=gL_w&refId=1af02d66-ffe4-4e22-af37-1b56b763d311&trk=public_jobs_apply-link-offsite"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20c#", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20c#", 
+    "TackIt": "true", 
+    "Title": "Akamai Technologies hiring Site Reliability Engineer in Cambridge, Massachusetts, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-akamai-technologies-1802141582?refId=1af02d66-ffe4-4e22-af37-1b56b763d311&position=24&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

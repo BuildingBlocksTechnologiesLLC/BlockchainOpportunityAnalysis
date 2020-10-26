@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20kotlin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20kotlin",
+    "DocumentType": "JobBoards",
+    "Title": "Amazon hiring Software Development Engineer - New Database Service in Seattle, Washington, United States | LinkedIn",
+    "Hash": "D11D0208722C70EEDEFDA404FC71F752",
+    "Url": "https://www.linkedin.com/jobs/view/software-development-engineer-new-database-service-at-amazon-1839214011?refId=ba3742d4-123d-457e-af18-532b91e52363&position=20&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Description Want to make database history? Come and join the Amazon Database services team \u2013 the creators of DynamoDB, Redshift and Amazon Relational Database (RDS) services. Thousands of customers run managed databases on Amazon\u2019s industry leading cloud computing platform. Whether you need a SQL database or NoSQL datastore (DynamoDB, ElastiCache, DocumentDB, Neptune, QLDB) or Managed Blockchain, Amazon DB Services team makes it easier for you to set up, operate, and scale databases in the cloud. The DB services team is growing rapidly and we are looking for a software engineer to work on a new database service. We are building new AWS services and features from the ground up, offering a unique opportunity for engineers who want to help define, design, build, and operate cloud services that are changing the world and enabling our customers. Additionally, you will get to collaborate with some of the best and brightest minds in the industry and join a fast-paced and growing team in one of the most innovative technology companies. Come join us to Work Hard, Have Fun, and Make History! As a Member Of The Team You will design, implement, test, document, and provide operational support for the database service. You will develop and help launch of core features and products You will participate in all stages of the software development cycle, including estimation, sprint planning, design and development of significant new architectural systems and improvements You will produce comprehensive software documentation You will help evolve the technical direction of the service You will follow software development and operational best practices. You will help hire and mentor junior developers Basic Qualifications Bachelor\u2019s degree or higher in Computer Science, Engineering or related field 5+ years of professional software engineering experience Excellent Computer Science fundamentals in algorithm design, data structures, problem solving, and complexity analysis Strong proficiency in developing objected-oriented software in one or more relevant languages (Java, Kotlin, C, C++, C#) Strong analytical skills, with excellent problem-solving abilities Proven track record of delivering high quality software on time Good written and verbal communication skills, be a fast learner and have the ability to adapt quickly to a fast-paced development environment. Preferred Qualifications Master\u2019s Degree in Computer Science or related field Experience on a UNIX or Linux platform Experience with distributed (multi-tiered) systems, algorithms, databases and optimization Thorough understanding of distributed systems, concurrency, asynchronous architectures Experience working in an agile software development organization Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us Company - Amazon.com Services LLC Job ID: A1131479 ",
+    "Location": "Seattle, Washington, United States",
+    "CompanyName": "Amazon",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

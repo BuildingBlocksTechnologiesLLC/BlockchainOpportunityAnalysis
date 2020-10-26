@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20dapps",
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20dapps",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Qubicles hiring React/Node/Blockchain Developer in Atlanta Metropolitan Area | LinkedIn",
+    "Hash": "A364DE4E3247C32FD7F1B4B09C3A06E7",
+    "Url": "https://www.linkedin.com/jobs/view/react-node-blockchain-developer-at-qubicles-1841740991?refId=8b2c3d29-c806-474f-b56d-f5750e9b17ba&position=2&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-01",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Marlon Williams Marlon Williams Founder & CEO at Qubicles We are looking for a skilled ReactJS/Node Developer with blockchain development experience to join our development team. In this role, you will be responsible for developing and implementing software components using ReactJS concepts and workflows such as Redux, Flux, and Webpack, as well as NodeJS (Express, EJS, Routing, etc) and Blockchain (Ethereum/EOSIO [e.g. Telos/EOS]). You will also be responsible for profiling and improving front-end performance and documenting our codebase. To ensure success in this role, you should have in-depth knowledge of JavaScript and React/NodeJS concepts, excellent coding skills, and a good understanding of progressive web applications. You should also have experience working with blockchain decentralized applications (dapps). Our product suite include: Qubicles for Contact Centers: https://fenero.io/contact-center-software Qubicles CRM: https://fenero.io/crm Qubicles Flow: https://flowscripts.io Qubicles: https://qubicles.io (in development) RESPONSIBILITIES: Meeting with the development team to discuss UI/UX ideas and applications. Reviewing application requirements and interface designs. Identifying web-based user interactions. Developing and implementing highly-responsive user interface components using React concepts. Writing application interface codes using JavaScript following React.js/Blockchain workflows. Troubleshooting interface software and debugging application codes. Developing and implementing front-end architecture to support user interface concepts. Monitoring and improving front-end performance. Documenting application changes and developing updates. REQUIREMENTS: Previous experience working with ReactJS, Node, Blockchain In-depth knowledge of JavaScript, Node and front-end languages. C++ is a + Knowledge of framework tools including React.js, Webpack, Express, EJS, Enzyme, Redux, and Flux. Experience with user interface design. Knowledge of performance testing frameworks including Mocha and Jest. Experience with browser-based debugging and performance testing software. Excellent troubleshooting skills. Good project and time management skills. "
+}

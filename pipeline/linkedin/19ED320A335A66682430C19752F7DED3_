@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20json-rpc",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20json-rpc",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Lease On The Block hiring Software Engineer in New York, New York, United States | LinkedIn",
+    "Hash": "19ED320A335A66682430C19752F7DED3",
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-at-lease-on-the-block-1846557671?refId=79261e2c-e1c8-4875-a4fd-9c002b8441a8&position=4&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-21",
+    "DomainId": "linkedin",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Posted by: Redwan M. Redwan M. Blockchain & Affordable Housing Software Engineering - Blockchain Infrastructure Intern Program Duration: June 1st - August 1st, 2020 Organization Summary: Our goal is to build modern governance tools using innovative technology to preserve affordable housing in New York City. There are about 1 million affordable housing apartments in New York and everyday there are between 27 to 60 units that are illegally deregulated. The city and the state use a constellation of antiquated systems that make the whole process very inefficient. Tenants, Government agencies and Landlords have little to not trust between each other. More recently the COVID-19 outburst in New York City pushed for government services accessible remotely. We see blockchain as a force for social innovation. We are not crypto traders. Under the hood, LOTB uses a private Ethereum service to safely record and track rent regulated apartments in New York City. We are in the process of being funded and need interns to build the next chapter of the company. We are looking for: A highly motivated, currently enrolled, recently graduated Computer Science student or equivalent. A strong curiosity, you love working in a fast paced environment. Previous software engineering intern experience required, blockchain (Ethereum/ Web3) development experience preferred. Show us what you\u2019ve done! A strong social conscience and/or previous volunteer experience, and an understanding of the socio-economic implications of software-based government processes. Responsibilities: Under the supervision of the CTO and Product Manager you will develop Solidity smart contracts and NFTs (non-fungible tokens) for our proprietary Ethereum blockchain. Assist in migrating existing public housing records into this blockchain. Significantly contribute to our open-source GovTech platform using industry best-practices in security, documentation, and testing. Your experience at Lease on the Block: Work alongside industry experts in GovTech, PropTech, and enterprise blockchain. Gain a deep knowledge of enterprise blockchain applications, cloud infrastructure, and government technology. Our CEO will provide one on one coaching sessions to support your growth. Your fulfillment is our success. Technology and tools we use: Ethereum, Solidity, Parity, Kaleido, React, Gatsby, Node.js, Express, Docker, GraphQL, JSON-RPC G Suite, Slack, Zoom, WhatApps, Monday, Github, GCP, Azure, AWS Our internship program will run 2 months from June to August 2020. Our team is 100% remote. Although we cannot offer salary to our interns at this time, bounties may be awarded for work on high priority projects. We are driven by the desire to make a difference in the affordable housing landscape. At Lease on the Block, we take pride in providing a safe, comfortable work environment for all. Thank you for your interest! https://internship.leaseontheblock.care "
+}

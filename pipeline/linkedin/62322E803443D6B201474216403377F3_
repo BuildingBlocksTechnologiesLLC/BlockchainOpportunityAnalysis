@@ -1,0 +1,24 @@
+{
+    "Body": " Summary Of Job Duties (Note: This summary will be used for keyword search) Under the supervision of the faculty directors of the Distributed Systems Laboratory, the Staff Research Associate has the complete responsibility for developing the experimental prototypes and platforms for blockchain-based database systems. The blockchain-based database systems will also require the building of a scalable distributed caching layer in the cloud computing substrate. Is also responsible for the implementation and integration of such a distributed caching layer developed in the laboratory. Responsible for supervising the algorithmic research work of the two new doctoral students in the laborator; in particular bringing them up-to-speed with both the permissioned and permission-less blockchain technologies. Is also be responsible for assisting the Faculty co-Directors in the development of research funding proposals. The Staff Research Associate will lead a team of undergraduate and graduate students to provide engineering programming and system support for the investigation of blockchain infrastructure that span public and private cloud computing infrastructure. Duties include software design, development, testing, and empirical evaluation of the system. The work includes repetitive, specialized experimental procedures in database systems, distributed algorithms, transaction processing, concurrency control, and cloud computing (but not requiring detailed technical supervision). Minimum Requirements Bachelor of Science (BS) in Computer and Systems Engineering and/or equivalent education and experience. Advanced software development experience. Large scale software infrastructure configuration and management. Resource-constrained computing. Distributed systems deployment, testing, experimentation, and empirical evaluation. Desirable Requirements Master of Science (MS) degree in computer science. Special Conditions of Employment A little help? Go to Driver's License Requirements or Background Check Guidelines Satisfactory criminal history background check Other Special Conditions of Employment Other Recruitment Notes Position currently funded through 09/30/2021. Continuation of position dependent on funding. Optional Applicant Documents Resume Cover Letter Required Applicant Documents Resume Cover Letter Job Duties Total Percentage of Duties:100 4 Records Order of Imp Essen Duty % Freq. Function Duties 1 Yes 50 Daily Software Design and Development Supervises The Software Design And Development On MMA pub-sub system AWS pricing system Data visualization systems IoT operating system 2 Yes 20 Daily Software Testing and Evaluation Leads unit, integration, and user testing of blockchain software interfaces and embedded software systems. Automates testing (triggered upon software commit to a shared repository). Reports testing outcomes to all parties impacted (other developers, researchers, users of the system). 3 Yes 20 Daily Research Support Leads experimental analysis and develops system prototypes. Written drafts and reports of the IoT and cloud systems. 4 Yes 10 Daily System Support Monitors and manages system uptime and response and resolves issues (outages, loss of connectivity, failures). ", 
+    "CompanyName": "UC Santa Barbara", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-01", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "62322E803443D6B201474216403377F3", 
+    "KeyTerms": "cloud, algorithms, visualization, internet of things, permissioned, distributed systems, aws, cloud computing, embedded, substrate", 
+    "Language": "English", 
+    "Location": "Santa Barbara, California, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20embedded", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20embedded", 
+    "TackIt": "true", 
+    "Title": "UC Santa Barbara hiring Staff Research Associate in Santa Barbara, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/staff-research-associate-at-uc-santa-barbara-1758778869?refId=6078f6ca-2b56-4f99-aefb-b8968959729d&position=6&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

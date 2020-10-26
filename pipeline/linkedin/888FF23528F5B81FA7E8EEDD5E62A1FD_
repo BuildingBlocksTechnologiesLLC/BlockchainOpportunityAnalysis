@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20proof",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20proof",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "CertiK - We're Hiring! hiring Summer Research Internship in New York, New York, United States | LinkedIn",
+    "Hash": "888FF23528F5B81FA7E8EEDD5E62A1FD",
+    "Url": "https://www.linkedin.com/jobs/view/summer-research-internship-at-certik-we-re-hiring%21-1857098981?refId=dcc1121f-9924-4262-be4a-ae738d70d409&position=6&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-13",
+    "DomainId": "linkedin",
+    "Language": "Italian",
+    "TackIt": "true",
+    "Body": " Posted by: CertiK CertiK CertiK CertiK Administrator at CertiK Summer Research Internships at CertiK CertiK is a world-leading cybersecurity firm based in NYC that focuses on smart contract analysis and blockchain auditing. It was founded by prof. Ronghui Gu (Columbia) and prof. Zhong Shao (Yale), drawing on their research about formal verification. Currently the CertiK research department is developing an operating system kernel (CertiKOS) and a certified compiler (DeepSEA), both of them verified using the Coq proof assistant. We are looking for summer interns to help us transition these from academic research projects into production-ready software.?? Available project include adding new system calls needed to run useful applications on CertiKOS; adding new language features, optimizations, or new verified backends to DeepSEA; and laying the foundations for decentralized proof-checking. The internship is suitable for current master/phd students, or strong undergraduates looking for research experience. Because of the current Covid-19 epidemic, these positions are completely remote. Qualifications You should be familiar with one of the following areas: Formal verification using an interactive proof assistant (e.g. from taking the Software Foundations textbook or similar). [Preferred] Experience with non-trivial projects written in Coq. OR Basic familiarity with Operating Systems implementation (e.g. from taking an OS class), and able to program in C. [Preferred] Previous experience working on an OS kernel or low-level libraries. OR Familiar with compiler implementation (e.g. from taking an Compilers class), and experience with functional programming (e.g. Ocaml, Gallina). [Preferred] Previous experience working on a big compiler; or experience specifying programming languages using operational semantics; or experience working with WASM, LLVM, or EVM. "
+}

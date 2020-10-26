@@ -22,9 +22,16 @@ These instructions will get you a copy of the project up and running on your loc
 ### Programs
 
 NLP.py - Currently runs on JSON file and outputs JSONs of predicted NER. Takes in three inputs to be run: path to JSON file, path to english.all.3class.distsim.crf.ser.gz which should be under classifiers in stanford-ner-4.0.0, and path to stanford-ner.jar which is under stanford-ner-4.0.0. Download files from stanford-ner-4.0.0 folder
+
+notes:
+Currently working on Enhancing Location capabilities. Date capabilities were enhanced but need to be looked at for anomalies. 
+
 NLP_acc.py - Takes in JSON with labeled data and Outputs JSON with predicted data. Also prints out accuracy of the NER on labeled data.
 sample_jobs.py - Samples a specific number of jobs from available postings
 Statistics.py - Stemming and Stop Words. Takes in a JSON file path and currently doesn't output anything
+
+Location.py - Takes string locations as input from NLP.py and returns JSON object of formatted location. 
+    City, State, Country format for each location. Abbreviations should be lengthened. 
 
 #### Note for using NLP_acc.py
 

@@ -1,0 +1,24 @@
+{
+    "Body": " As a member of the Data Engineering Team at Flipside Crypto, you'll work closely with the world's leading blockchain protocols, developing real-time data pipelines to ingest their data, and identify actionable insights that will help them grow. In this role, you will also play a leading part in continuing to build out our unique blockchain parsing technology, Chainwalkers. We're Looking For a Data Engineer With Experience working with data pipelining tools such as Apache Spark, Apache Kafka, and Apache Airflow Strong knowledge of SQL and relational database concepts Knowledge of analytic databases, such as AWS Redshift Proficiency with multiple programming languages, such as Python and Go. Blockchain technology is often uncharted territory, but if you're comfortable applying your skills in unknown problem spaces, you'll fit right in to our fast-moving team. Regular Work On The Data Engineering Team Includes Ingesting data in real-time from a vast network of blockchain nodes Developing integrations with our partner blockchain protocols into the Chainwalkers infrastructure Productionalizing time-series metrics for partners and products Working alongside the Data Science team to curate and prototype new data-sets to tackle emerging problems Managing and monitoring existing data pipelines Improving data visibility for other teams at Flipside Here is a recent example of how we monitor the data pipelines that feed our custom analytics framework: https://medium.com/flipsidecrypto/pipeline-progress-at-a-glance-71ae0d8b2347 About Flipside Flipside Crypto provides unparalleled analytics and business intelligence to blockchain organizations. Their suite of analytics tools provides insights into user behaviors, developer activities, and financial activities, as well as FCAS, a relative value for measuring the fundamental health of cryptocurrency projects. Flipside provides analytics to more than 50 blockchain organizations and distributes FCAS via partners such as CoinMarketCap, Messari, MarketWatch and TheStreet. Flipside Crypto is backed by True Ventures, Founder Collective, CoinBase Ventures, Digital Currency Group, Galaxy Digital, and other investors. ", 
+    "CompanyName": "Flipside Crypto", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-21", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "3F7639024174D38C056687B8D7B75DD8", 
+    "KeyTerms": "cryptocurrency, python, data science, spark, financial, kafka, protocols, aws, business intelligence, sql", 
+    "Language": "English", 
+    "Location": "Greater Boston", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20spark", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "crypto", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20spark", 
+    "TackIt": "true", 
+    "Title": "Flipside Crypto hiring Data Engineer in Greater Boston | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/data-engineer-at-flipside-crypto-1871879050?refId=d3a65048-f953-4982-9241-7400eec7179b&position=4&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

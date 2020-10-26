@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20rust",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20rust",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Telcoin hiring Senior Software Engineer in Santa Monica, California, United States | LinkedIn",
+    "Hash": "0C44A3C53E4F173C71D8CB308A9C01B3",
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-telcoin-1903891851?refId=41c3ccfc-cc01-47a6-8c61-dd7ea61b432d&position=10&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Parker Spann Parker Spann USA at Telcoin Telcoin is a consumer finance company focused on providing customers with low cost, high quality financial services via blockchain technology, legacy banking, and mobile financial services infrastructure. We are currently searching for a Senior Software engineer in the greater Los Angeles area to serve as a core contributor to the backend development of Telcoin\u2019s existing core remittance platform and digital wallet. Key Responsibilities: Contribute to the backend development of Telcoin\u2019s existing core remittance platform and digital wallet. Contribute to the solution\u2019s end-to-end architecture (primarily involving Rust development) Interface with blockchain, UI, Android, iOS, and partner API integrations. Required Experience: At least 3 years of production experience in Rust and/or C++ (including at least one year in Rust) High level of proficiency with Rust programming language, paradigms, constructs, and idioms.Â  Clojure (or other lisp) experience Solidity experience welcomed but not required. Strong ability to meet project milestones and ability to work with teams in different time zones Translating software requirements into stable, working, high-performing software Writing scalable, robust, testable, efficient, and easily maintainable code Good written and oral communication skills "
+}

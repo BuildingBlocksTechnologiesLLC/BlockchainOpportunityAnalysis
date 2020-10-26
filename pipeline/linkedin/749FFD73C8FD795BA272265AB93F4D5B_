@@ -1,0 +1,24 @@
+{
+    "Body": " About Spring Labs Spring Labs is redefining how data is exchanged for the new age of data sharing, security, and consumer privacy through decentralization. Our Spring Protocol Tech Stack, which includes the use of Blockchain and Cryptography, allows institutions to share information among themselves to verify identities and reduce fraud - all while protecting consumer data. Working at Spring Labs is about being part of a collaborative team, comprised of some of the most talented people in the industry. You would be welcomed into a fun, inclusive environment where we care as much about our employees as we do about our product. At Spring Labs, our DevOps Engineers are responsible for deploying product updates, identifying production issues and implementing integrations that meet the needs of the business. The goal is to automate operational processes fast, accurately and securely. Spring Labs is an in office culture (remote work during Covid-19) that supports a creative and collaborative work environment. If you are motivated by solving real world problems with a highly talented, accomplished team and want to learn, from some of the most accomplished Engineers in the area, please apply. What You'll Do Configuration and management of internal AWS services needed to run the site: Route 53, ELB, Elasticache, RDS, EC2, ECR, IAM, SQS, etc. Supporting role for CI+CD pipeline Deploy updates and fixes Provide Level 2 technical support Build tools to reduce occurrences of errors and improve the product Develop software to integrate with internal back-end systems Perform root cause analysis for production errors Investigate and resolve technical issues Develop scripts to automate visualization Design procedures for system troubleshooting and maintenance About You CS, Engineering, or Mathematics bachelor\u2019s degree preferred DevOps 2+ years expertise in configuration and operations of AWS infrastructure Proven experience in Azure and Google Cloud Working knowledge of networking and configuration Experience with Docker, Python, Kubernetes, Ansible and Terraform (professional and/or educational) Knowledge of Itsio Knowledge of on/off chain blockchain infrastructure Driven to learn and develop into a next level engineer Motivated by a fast paced, team environment Proactive and creative problem solving skills Thrives in a highly collaborative environment Perks Casual Work Environment Fully Stocked Kitchen Free Gym Weekly Office Events Unlimited PTO Comprehensive Medical/Dental/Vision Flexible Savings Accounts 401(k) Equal Opportunity Statement We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. ", 
+    "CompanyName": "Spring Labs", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "749FFD73C8FD795BA272265AB93F4D5B", 
+    "KeyTerms": "kubernetes, visualization, python, privacy, cryptography, remote, off-chain, docker, ansible, cloud, ecr, fraud, devops, ci cd, terraform, aws, azure", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20python", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20python", 
+    "TackIt": "true", 
+    "Title": "Spring Labs hiring DevOps-Engineer I in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/devops-engineer-i-at-spring-labs-1849782404?refId=b44620e3-98e3-4d16-a0f8-8562e055497a&position=20&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

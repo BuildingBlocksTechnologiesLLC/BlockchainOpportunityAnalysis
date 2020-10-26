@@ -1,0 +1,24 @@
+{
+    "Body": " Who are we? Audius is a decentralized, community-owned, and artist-controlled music-sharing protocol. Audius provides a blockchain-based alternative to SoundCloud to help artists monetize their work and distribute it directly to fans. Audius launched it's public beta at the end of September and within the first week over 30,000 users listened to 13,000 tracks from artists that signed up to use Audius including Deadmau5, 3LAU, Brownies and Lemonade, Zeds Dead, with exclusive content from Rezz, Lido and others. Who we are looking for? We are looking for a backend engineer to help us design, build, and architect the Audius protocol. You are a collaborative, team player that enjoys working with a small team to solve big problems that need innovative solutions. Key Responsibilities Design, architect and build the Audius protocol Develop a set of services that run on the decentralized Audius ecosystem Help finish the product for public launch later in the coming months Skills and Experience Knowledgable about node.js, python, postgres, redis, docker, kubernetes An understanding of distributed systems Experience with system design and architecture Great interpersonal and communication skills within a small team Bonus Points Experience working with a start-up Previous experience with Blockchain Interest in music ", 
+    "CompanyName": "Audius", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-19", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "96919014C6AE2CFDF138895FF70C262E", 
+    "KeyTerms": "kubernetes, back end, python, distributed systems, nodejs, decentralized, postgres, docker", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20node.js", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "decentralized", 
+    "Salary": "13,000", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20node.js", 
+    "TackIt": "true", 
+    "Title": "Audius hiring Backend Engineer in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/backend-engineer-at-audius-1821267608?refId=60db71e5-f14f-452c-9d09-c849e8747f2b&position=18&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

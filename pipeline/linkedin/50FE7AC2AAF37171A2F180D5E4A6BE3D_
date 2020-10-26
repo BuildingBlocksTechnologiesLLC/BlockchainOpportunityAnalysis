@@ -1,0 +1,25 @@
+{
+    "Body": " Senior Technologist Boston, MA Job # 8481BK Our client company is searching for Senior Technologists with experience in designing, architecting and developing world-class code along a full stack across clouds (AWS, IBM and Azure). You will serve in a senior capacity as an individual contributor who focuses on development and architecture in the most sophisticated and complex streams of work in a blockchain-based marketplace trading platform. The role is suited for technical talent focused on engineering and problem solving - it is for those who love hands-on coding. Over his/her career the senior technologist will have run the gamut of roles in the development lifecycle and has evolved from developer to technical architect and now operates as both architect (20-30%) and developer (70-80%). However, the individual should be able to serve as, if necessary, purely a Principal level architect (100%) working either on one or across a range of projects or as a pure developer (100% hands-on coding) of exceptionally unique engineering solutions. Responsibilities Main responsibility is \u2018simply\u2019 to build exceptional software in a highly rewarding and strategically differentiated environment while operating at the most seasoned and senior levels in a pure technology development team. Serving as a senior technical subject matter expert in application development. This includes owning the end-to-end delivery of assigned blocks of work and also the more abstract activities required to craft sophisticated solutions at the level of technical/infrastructure complexity at which the team works/operates. Qualifications Front-end/Web SPA-Experiences: Angular 6, Typescript, React, JQuery, other JS frames but Angular is essential and deepest (ideally with React as a fast-follow) in 2020. Various libraries and open-source add-ons are essential to designing and building a highly flexible and scalable web framework that is coupled to a fine-grained entitlements system. Mid-Tier/App: Lambda/Azure functions in a serverless cloud application coupled with traditional VM\u2019s running .NET/C# and/or Java/Javascript/NodeJS. Other mid-tier services include: Hyperledger, Corda, Quorum, Ethereum, Mulesoft, Camel, Informatica, Dapper, Entity Frame, etc. Data Tier: Postgres / SQL Azure with deep relational skills and also No SQL/Doc Database such as Mongo, Couchbase, Cosmos, Aurora, etc.\u2026 Other high performance data solutions such as Memcache, Reddis, etc. and other use-case specific data stores such as Azure blob and/or AWS blob stores. Cloud Services: AWS Lambda, Azure Fabric/Logic Apps, Azure Logic Apps, IBM Hyperledger Fabric, various IaaS/PaaS/Saas (cloud messaging, claims-based authentication services such as Azure AD and AWS Cognito as well as other open auth platforms (JWT, Okta, etc.) Dev Tools & Devops: Create intelligent and adaptable release scripts and configurations for use everywhere from local development through dev/qa CI and into production using any combination of Chef, Maven, Munin, Ant, Fabric or shell scripts driven by Jenkins. Others such as Git, Ops Genie, Jetbrains, Bash/Shell scripts, PHP, Python, Visual Studio, TeamCity, Octo Deploy, Sonarqube, etc. Applicants must be authorized to work in the United States legally. Apply For this PositionShow moreShow less ", 
+    "CompanyName": "New Dimension", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "50FE7AC2AAF37171A2F180D5E4A6BE3D", 
+    "KeyTerms": "trading, react, nodejs, jquery, sql, cloud, ethereum, java, git, devops, typescript, mongodb, postgres, azure, python, cloud services, hyperledger, marketplace, corda, maven, quorum, chef, cosmos, javascript, application development, angular, fabric, full stack, aws", 
+    "Language": "English", 
+    "Location": "Greater Boston", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20pgp", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "hyperledger", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20pgp", 
+    "TackIt": "true", 
+    "Title": "New Dimension hiring Senior Technologist in Greater Boston | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-technologist-at-new-dimension-1945775572?refId=184c5bbc-bfda-49a3-bf10-b057d9c98159&position=24&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

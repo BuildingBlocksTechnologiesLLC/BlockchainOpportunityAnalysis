@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20nodejs",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20nodejs",
+    "DocumentType": "JobBoards",
+    "Title": "Broadridge hiring Front End Developer in Greater Boston | LinkedIn",
+    "Hash": "A967305881D9CBE6AD4C39421FB9761A",
+    "Url": "https://www.linkedin.com/jobs/view/front-end-developer-at-broadridge-1678769911?refId=90712a67-d6ee-4fff-a14b-d9662ef9963b&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Job Description Are you looking for a great opportunity with a growing company? Broadridge is hiring! As a Senior Front-End developer, you will collaborate with other developers, product managers, and QA to build a system for managing private equity investments. You will be part of a team responsible for implementing the full private equity investment lifecycle, using modern technologies including cloud infrastructure and blockchain, and supporting clients with a global scope. This will involve a mix of supporting existing logic and clients in production, while having many \u201cgreenfield\u201d chances to create and implement new functionality in the system. We are looking for well-rounded developers who work well in a development team using iterative development methodologies to build robust, high-quality production systems. Responsibilities You will develop new user-facing features You\u2019ll troubleshoot, test and maintain the core product software Build reusable code and libraries for future use You will ensure the technical feasibility of UI/UX designs Optimize application for maximum speed and scalability Contribute in all phases of the development lifecycle Follow industry best practices Qualifications 5+ years of front-end development experience. Experience developing cloud-hosted, responsive, single page web applications Experience with at least one of object oriented Node.js/Python/Java/Scala/.Net High proficiency with client-side JavaScript frameworks (preferably React/Redux and Angular) Experience writing REST APIs and GraphQL Experience using AWS or other cloud infrastructure provider Additional Information Broadridge is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other protected status. \"Our Associates Matter. Everyone Benefits from Diversity & Inclusion. Diverse & Inclusive Teams Drive Growth.\" US applicants: Click here to view the \"EEO is the Law\" poster. ",
+    "Location": "Greater Boston",
+    "CompanyName": "Broadridge",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

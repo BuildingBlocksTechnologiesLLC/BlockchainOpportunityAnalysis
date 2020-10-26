@@ -1,0 +1,31 @@
+{
+    "CrawledDate": "2020-02-11",
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?geoId=92000000&keywords=blockchain&location=Worldde&start=340",
+    "DomainId": "linkedin",
+    "OutLinks": [
+        "https://www.linkedin.com/?trk=guest_job_details_nav-header-logo",
+        "https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fblockchain-developer-at-v-l-s-systems-inc-1607508176%3FrefId%3D38c7f43a-0974-4cde-a524-ca6c62ff3701&amp%3BemailAddress&amp%3BfromSignIn&trk=guest_job_details_sign-in-hidden-module",
+        "https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy",
+        "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fblockchain-developer-at-v-l-s-systems-inc-1607508176%3FrefId%3D38c7f43a-0974-4cde-a524-ca6c62ff3701&fromSignIn=true&trk=guest_job_details_nav-header-signin",
+        "https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/blockchain-developer-jobs-pittsburgh-pa?trk=guest_job_details_jd_jserp_more_jobs_link",
+        "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fblockchain-developer-at-v-l-s-systems-inc-1607508176&amp%3BfromSignIn=true&trk=guest_job_details_ellipsis-menu-sign-in-redirect",
+        "https://www.linkedin.com/help/linkedin/answer/34593?lang=en&trk=d_jobs_guest_details_footer-community-guide",
+        "https://www.linkedin.com/start/join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fblockchain-developer-at-v-l-s-systems-inc-1607508176%3FrefId%3D38c7f43a-0974-4cde-a524-ca6c62ff3701&trk=guest_job_details_nav-header-join",
+        "https://press.linkedin.com/about-linkedin?trk=d_jobs_guest_details_footer-about",
+        "https://www.linkedin.com/jobs/view/blockchain-developer-at-v-l-s-systems-inc-1607508176?refId=38c7f43a-0974-4cde-a524-ca6c62ff3701",
+        "https://in.linkedin.com/in/koti-podila-4a0a8926?trk=guest_job_details_profile-result-card_result-card_full-click",
+        "https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy",
+        "https://www.linkedin.com/start/join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fblockchain-developer-at-v-l-s-systems-inc-1607508176&source=jobs_registration&refId=38c7f43a-0974-4cde-a524-ca6c62ff3701&trk=guest_job_details_apply_link_onsite"
+    ],
+    "Parent": "https://www.linkedin.com/jobs/view/blockchain-developer-at-v-l-s-systems-inc-1607508176?refId=38c7f43a-0974-4cde-a524-ca6c62ff3701&position=9&pageNum=0&trk=guest_job_search_job-result-card_result-card_full-click",
+    "DocumentType": "JobBoards",
+    "Title": "V.L.S Systems Inc hiring Blockchain Developer in Pittsburgh, Pennsylvania, United States | LinkedIn",
+    "Hash": "0BB71003D034E736C29008E66AFBDC00",
+    "TackIt": "true",
+    "Body": " Posted by: Koti Podila Koti Podila Business Development Executive - Talent Acquisition at V.L.S Systems Inc Minimum 2 years of experience Exposure to at least one of the blockchain platforms like Ethereum, Stellar, Ripple, Hyperledger. Developed Proof of Concepts using blockchain technology. Desirable: \u2022Active demonstrable interest in Bitcoin/Blockchain, distributed applications (Daaps), cryptography. \u2022Contributed to establishing best practices and published blogs or papers on Blockchain and bitcoins. ",
+    "Url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-v-l-s-systems-inc-1607508176?refId=38c7f43a-0974-4cde-a524-ca6c62ff3701"
+}

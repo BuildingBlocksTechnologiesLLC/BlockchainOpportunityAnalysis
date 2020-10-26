@@ -1,0 +1,25 @@
+{
+    "Body": " Software Engineer, Platform - Boston We are a disruptive, venture-backed fintech business working to revolutionize consumer finance with simple, free technology for storing and using money. Our product enables people worldwide to transfer money, easily and securely, free of charge, and in the same way we share content and media, express ourselves, and message our friends and family on mobile devices. We believe money should work the way media and messaging work on the Internet: free, global, safe, mobile, and delightful. With US Dollars, British Pounds and Euros support, and connection to the Bitcoin blockchain, we are transforming this vision into reality. We are passionate about building social payments experiences that our users (and friends) love. Circle\u2019s platform engineering team enables us to do that at scale, supporting customers all over the world and processing millions of transactions across multiple currencies in a reliable, secure and fast way. What You Will Do As a key member of platform engineering, you will build and own highly scalable front-end and back-end services that are core to our consumer finance technology You will be part of self-organizing agile teams, collaborating with product engineering and multiple other functions to design, develop, test and ship great features for our customers Write and maintain a multitude of services to deliver great payment experiences, including data sources (SQL or NoSQL), messaging systems, APIs and integration components Collaborate with different external partners to connect their capabilities into our platform, ensuring the integration is built in a secure, reliable and scalable way You will take pride in writing high-quality and elegant solutions that can process millions of transactions in elastic environments, supporting our customers all over the world About You 5+ years professional experience across multiple programming languages, design patterns, operating systems and architectures. Self-starter, you enjoy moving at a fast pace, shipping quality software and constantly improving your work with little supervision Deployed production-quality, scalable software as a service Experienced with transactional SQL, NoSQL databases and message queues. Experienced with asynchronous and synchronous programming techniques and architectures. Experienced with card processing or banking systems Excellent communication skills, able to collaborate with remote teams, share ideas and present concepts effectively Desire to constantly learn new technologies and implement elegant, well-tested solutions You love to teach and learn from your colleagues Technologies We Use And Teach Java, Dropwizard, Jetty, Jersey, Jackson JavaScript, Node.js Postgres, Redis, DynamoDB AWS lambda, S3, SQS, SNS We are backed by $136 million from investors including Goldman Sachs, Baidu, CreditEase, IDG China, Breyer Capital, Accel and General Catalyst. With offices in Boston, San Francisco, Dublin, and London, we are building mobile apps aimed at enabling greater ease-of-use in online and in-person payments, with enhanced security and privacy, and the convenience of free, instant, global digital money transfers. ", 
+    "CompanyName": "Roberts Recruiting, LLC", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "6F2384C5E75C46EDA99096D49F659C90", 
+    "KeyTerms": "mobile apps, financial, privacy, nodejs, remote, javascript, sql, nosql, banking, java, disruptive, design patterns, software engineer, agile, aws, bitcoin, postgres", 
+    "Language": "English", 
+    "Location": "Greater Boston", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20elastic", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "bitcoin", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20elastic", 
+    "TackIt": "true", 
+    "Title": "Roberts Recruiting, LLC hiring Software Engineer, Platform in Greater Boston | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-platform-at-roberts-recruiting-llc-1225328444?refId=465ec26e-ee2e-4d21-8205-be2f31b06fc1&position=11&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

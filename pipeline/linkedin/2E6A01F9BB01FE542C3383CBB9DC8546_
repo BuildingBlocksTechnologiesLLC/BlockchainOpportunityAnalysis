@@ -1,0 +1,25 @@
+{
+    "Body": " About Us At Tendermint Inc., we build, maintain, and promote critical state-of-the-art infrastructure for decentralized applications, such as Tendermint Core & Cosmos SDK. We are the team who designed and implemented the gold standard of proof of stake protocols and got it launched on a public blockchain network, Cosmos. We\u2019re passionate, self-driven, industry leaders whose vision is to empower every human to contribute to solving the world\u2019s most urgent and complex problems. We believe that the technology we're building will have a major impact on how humans connect and coordinate on a global scale. Join our growing team and plug into the most powerful blockchain ecosystem. How We Work We have team members working from across North America, Europe, and Asia. We leverage agile methodologies to move quickly and stay focused. Communication is important to us and we rely heavily on Slack, Zoom, and GitHub to help us stay in sync. All the technology we build is open source. This is a full-time remote position and you\u2019re free to work from anywhere. Be advised that most team meetings occur between 8am and 12pm Pacific Time (UTC-8/-7). If you're applying from a location where these hours are outside your usual working hours, you\u2019ll be expected to adapt to our meeting times. What You Will Be Doing Develop the Cosmos SDK and related tools and products. Work on technically challenging blockchain state machines. Work with the multi-stakeholder SDK and Gaia teams to triage tickets and move the project forward. Optimize the Cosmos-SDK to make development on the platform best-in-class. Research, design, and implement UX and protocol improvements to the Cosmos SDK. Review pull requests and provide valuable feedback to members of the team and open source contributors We're looking for someone who has: At least 2 years of software engineering experience with open source contributions. Experience developing, releasing, and maintaining production software. Significant experience writing Golang or the ability and desire to become proficient in new languages. A strong grasp of computer science fundamentals. Experience working in an agile development environment. Experience working with distributed teams. Exceptional communication skills. Nice To Have The ability to take ownership and see initiatives through. Worked with and mentored junior engineers. Knowledge of fault tolerant consensus protocols like PBFT or Raft. Familiarity with open source P2P networking protocols like BitTorrent, Kademlia, etc. Cosmos-SDK app development experience. Experience running validators for Cosmos Hub or other applications built on Tendermint/Cosmos-SDK. What We Offer The opportunity to be part of building the future of the Internet Flexible work schedule Excellent benefits like educational budget, fitness and wellbeing spend At least 4 weeks of paid vacation Competitive salary package, including equity Tendermint In The News https://techcrunch.com/2019/03/17/welcome-to-the-hub-of-all-hubs/ https://cointelegraph.com/news/cross-platform-blockchain-project-cosmos-launches-first-hub-after-17-million-ico https://www.coindesk.com/a-blockchain-to-connect-all-blockchains-cosmos-is-now-officially-live https://www.coindesk.com/how-to-turn-a-17-million-ico-into-104-million-the-cosmos-storyShow moreShow less ", 
+    "CompanyName": "Tendermint", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "2E6A01F9BB01FE542C3383CBB9DC8546", 
+    "KeyTerms": "github, golang, decentralized, cosmos, proof of stake, remote, full time, consensus, peer to peer, dapps, software engineer, sdk, agile, tendermint, protocols", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20multi", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "proof of stake", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20multi", 
+    "TackIt": "true", 
+    "Title": "Tendermint hiring SDK Engineer in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/sdk-engineer-at-tendermint-1940928886?refId=bd3e19aa-211f-472d-9b99-d323fe4795f1&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20crypto",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20crypto",
+    "RequiredMatch": "bitcoin",
+    "DocumentType": "JobBoards",
+    "Title": "CREBACO Global Inc. hiring Research Intern in New York, New York, United States | LinkedIn",
+    "Hash": "AAEDD518937CD9209073D608019DAE08",
+    "Url": "https://www.linkedin.com/jobs/view/research-intern-at-crebaco-global-inc-1858242902?refId=8741efbb-6f29-4792-9348-b21729541758&position=18&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-21",
+    "DomainId": "linkedin",
+    "Language": "Italian",
+    "TackIt": "true",
+    "Body": " Posted by: Sidharth Sogani Sidharth Sogani CEO - CREBACO Global Inc | Sogani Nexus Pvt Ltd | Certified Bitcoin Professional | Research and intelligence we are looking for interns in NY must be a student JD -Conducting research for blockchain and crypto projects - coordinating with senior research team "
+}

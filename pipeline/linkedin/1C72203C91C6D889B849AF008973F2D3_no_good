@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20functional",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20functional",
+    "DocumentType": "JobBoards",
+    "Title": "Axelon Services Corporation hiring Tech Lead in Tampa, Florida, United States | LinkedIn",
+    "Hash": "1C72203C91C6D889B849AF008973F2D3",
+    "Url": "https://www.linkedin.com/jobs/view/tech-lead-at-axelon-services-corporation-1909771911?refId=88abf3d6-e3a7-48ca-88bd-bd6a2a5e56b1&position=16&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Global Financial Firm located in Tampa, FLhas an immediate contract opportunity for an experienced Tech Lead \"This role is currently work-from-home and will move to the office environment after the COVID-19 restrictions are lifted. must have reliable internet, computer and android or iphone for remote access The Technology Lead Applications Developer is a senior level position responsible for building and implementing new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to lead applications systems analysis, programming and support activities. It is the ideal position for professional as well as technical growth within the team. Day to day job responsibilities will focus primarily on core and enterprise Java, Spring, Hibernate or equivalent frameworks, good knowledge of applying Design Patterns, Oracle PL/SQL, Container Microservices, and knowledge of other technologies such as Big Data, BlockChain, and Kafka. Key Responsibilities Write excellent-quality code based on functional requirements, while meeting agile implementation deadlines. Partner with multiple management teams to ensure appropriate integration of functions to meet process improvements Resolve variety of high impact problems/projects through in-depth evaluation of complex business processes, system processes, and industry standards Provide expertise in area and advanced knowledge of applications programming and ensure application design adheres to the overall architecture blueprint Utilize advanced knowledge of system flow and develop standards for coding, testing, debugging,and implementation Develop comprehensive knowledge of how areas of business, such as architecture and infrastructure, integrate to accomplish business goals Provide in-depth analysis with interpretive thinking to define issues and develop innovative solutions Serve as advisor or coach to mid-level developers and analysts, allocating work as necessary Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Banking, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding persona- behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency. Required Technical Skills Core Java , Spring, Hibernate, Messaging, multi-threaded processes and solid understanding of design patterns Exposure to building light weight components as micro services APIs onto container deployment Exposure to big data related technologies; Hadoop, HBASE/SPARK, ETL, Machine Learning Exposure to relational and NO-SQL database technologies Oracle, MongoDB and performance tuning Exposure to block chain technologies would be a plus Very good written and verbal communication skills, requiring interactions with C level management stakeholders 10+ years of software design and development experience Hands on core development, systems analysis and identifying root cause for application issues Creating Architecture and product design representations in Visio Exposure to technical solution design and development of highly scalable applications ",
+    "Location": "Tampa, Florida, United States",
+    "CompanyName": "Axelon Services Corporation",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

@@ -1,0 +1,27 @@
+{
+    "Body": " We are currently recruiting for an engineering lead for our client in New York. Here are an overview of the details: Company: Our client is an end-to-end advanced advertising solution for digital video that leverages cryptography, blockchain, and AI to deliver evidence-based business outcomes. Their next- generation advertising suite provides precision targeting, audience verification, as well as the first OTT-first device graph and cross-device attribution, while addressing the biggest threats to the advertising industry -- the issues of trust, transparency, fraud and brand safety. They challenge themselves daily to build products that are easy to use, deliver exceptionally effective campaigns, and increase the power of valuable ad dollars. From game-changing cryptography to the latest in cloud engineering, Our client uses powerful new technologies coupled with world-class design to deliver evolved solutions. Key responsibilities: At least 3-5 years experience as a developer, with strong Go (Golang or similar language) Build out a scalable backend system. Deep understanding of design patterns, software development methodologies and principles. Working knowledge of multi-threaded asynchronous systems Strong understanding of cloud infrastructure and cloud computing. concepts. You're passionate about close collaboration with design, product, and marketing to craft the best experience possible throughout the entire customer journey. Current stack: Ethereum (blockchain), Go, Google Cloud (especially App Engine, Stackdriver, BigTable, BigQuery, Cloud Functions and Firestore) Compensation packages $250k+ and an opportunity to pick up all areas of the stack. ", 
+    "CompanyName": "Intelletec", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-21", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "5F065320CB834B7FD31424F9F6ABD999", 
+    "KeyTerms": "cloud, ethereum, back end, fraud, collaboration, design patterns, golang, cryptography, software engineer, advertising, cloud computing, artificial intelligence", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/jobs/michael-page-jobs-new-york-ny?trk=public_jobs_related_jserp_link", 
+        "https://www.linkedin.com/jobs/michael-page-jobs-philadelphia-pa?trk=public_jobs_related_jserp_link", 
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "$250k", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud", 
+    "TackIt": "true", 
+    "Title": "Intelletec hiring Lead Software Engineer Utilizing ML & Blockchain || NYC in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/lead-software-engineer-utilizing-ml-blockchain-nyc-at-intelletec-1770262044?refId=f085133d-4279-4cb1-b63a-6ca9e48125ad&position=14&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

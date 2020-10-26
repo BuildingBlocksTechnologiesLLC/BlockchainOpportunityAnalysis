@@ -1,0 +1,26 @@
+{
+    "Body": " JumpStart Client: Axuall Location: Cleveland, OH WHY AXUALL? Axuall is an early-stage startup - we just closed our $3mm Seed Round - based in Downtown, Cleveland, and we're building a digital proof network for verifying credentials, identity, and authenticity and looking for people who are interested in joining our founding engineering team and building something awesome together! We're addressing a multibillion-dollar need to meet the demand for new delivery channels, products, and services in healthcare and other industries where proof matters. Axuall chose healthcare (where we have multiple committed pilots scheduled over the coming months) as our first market because it faces considerable challenges related to increasing practitioner shortages, delivery channel expansion, and the growing demands of an aging population. Together, these challenges drive the urgency to reduce the administrative burden on its practitioners, reduce delays in hiring, accelerate revenue capture, and improve access to care. About The Role In this role, you will work within a cross-functional team to deliver cutting edge software that utilizes a modern technology stack including Vue, JavaScript, CSS, Bulma, AWS S3 and PostgreSQL, as well as Python, AWS Lambda and Hyperledger Indy blockchain. Requirements Just like every role at Axuall, leadership is an integral expectation of this job. You will be expected to work with your peers, often taking the lead in interpreting requirements, designing workflow, creating wireframes, coding prototypes, testing and developing all aspects of the user web and mobile experience. To qualify for this role, we will need to see you demonstrate your production-level experience and/or working knowledge of a high percentage of the following technologies and skillsets\u2026 About You You have at least 2 years of experience building cross-browser compatible websites You\u2019ve built responsive applications using a combination of CSS3 and CSS frameworks such as Bootstrap or Bulma You are familiar with CSS preprocessors like SASS or LESS You understand how a component-based SPA is built in a modern JavaScript framework (we use Vue + Vuex) You\u2019re comfortable with build tools such as webpack, gulp, and custom npm scripts You have experience using source control tools (preferably Git) You\u2019ve written unit, integration, and functional tests for your code Additional Qualifications Include B.S. or equivalent experience in Computer Science A solid experience building and testing applications on top of RESTful APIs UX design and user testing knowledge Experience building accessible applications Performance optimization techniques Continuous integration and automated deployment systems Knowledge of agile methods and concepts A strong desire to learn, push the envelope, and share knowledge with others Must be authorized to work in the United States Axuall is an equal opportunity employer.Show moreShow less ", 
+    "CompanyName": "Jumpstart", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "633FFCC95DF09D04CBCBB27D2D4D6453", 
+    "KeyTerms": "continuous integration, front end, css, python, hyperledger, frameworks, npm, javascript, git, restful apis, webpack, startup, functional test, wireframes, sass, agile, aws, health care", 
+    "Language": "English", 
+    "Location": "Cleveland, Ohio, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20css", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "hyperledger", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20css", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Jumpstart hiring Front End Application Engineer in Cleveland, Ohio, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/front-end-application-engineer-at-jumpstart-1897781326?refId=248c31f1-0183-472f-b66d-93b24311f42c&position=15&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-08-01",
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20sql",
+    "DomainId": "linkedin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20sql",
+    "DocumentType": "JobBoards",
+    "Title": "Heroic Music Group hiring Data Preparation Developer in Provo, Utah, United States | LinkedIn",
+    "Hash": "8082A67704C20DE90D44B3F68E539045",
+    "TackIt": "true",
+    "Body": " ABOUT HEROIC Cybersecurity HEROIC Cybersecurity (https://HEROIC.com) is building the future of cybersecurity, powered by artificial intelligence and the blockchain. Unlike traditional cybersecurity solutions, HEROIC.com takes a predictive and proactive approach to intelligently secure our users before an attack or threat occurs. Our work environment is fast-paced, challenging and exciting. At HEROIC.com, you\u2019ll work with a team of passionate, engaged individuals dedicated to intelligently securing the technology of people all over the world. Job Description HEROIC.com is looking for high-energy, driven professionals with a strong technical aptitude to join us as a Data Preparation Developer. Your job will be to prepare unique datasets to be cleaned and entered into our data warehouse. This data is then used to help secure our hundreds of thousands of users. HEROIC.com offers a fast-paced, innovative environment where you will be provided the tools, resources, and leadership to help take your career to the next level! Responsibilities Work closely with staff through regular and ongoing communication and effective follow-up. Format, clean, and prepare unique data-sets to be entered into our data warehouse Continually research, test and implement readily available software to speed up the data preparation and verification process. Develop custom processes and software tools to augment readily available software to speed up the data cleansing process Research and document detailed information about the data collected Ensure accuracy and integrity of data through continued analysis, documentation and problem resolution. Collaborate with Database Administrator to help with solution architecture, design, and troubleshooting. Prepare Daily Reports on metrics, and continually find ways to improve on those metrics through testing and new initiatives. Qualifications Excellent English communication skills, both written and verbal Experience with Linux, Grep, Shell scripts and command line tools Development experience using some of the following technologies, Python, PHP, SQL, MySQL, ETL, Java, Trifacta, Ability to prioritize, and manage time efficiently Capacity for independent and autonomous work within a team environment Competitive mindset and eagerness to win Job Type:Full-time Work Location: Flexible Work Schedule:Flexible (40 - 50 hours per week) Other Titles Data Integration Specialist, Data Integration Associate, Data Preparation Developer, ETL DeveloperShow moreShow less ",
+    "Url": "https://www.linkedin.com/jobs/view/data-preparation-developer-at-heroic-music-group-1946609130?refId=c5dc96ff-8e7c-4725-ba65-b0d4089ce870&position=24&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Location": "Provo, Utah, United States",
+    "CompanyName": "Heroic Music Group",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

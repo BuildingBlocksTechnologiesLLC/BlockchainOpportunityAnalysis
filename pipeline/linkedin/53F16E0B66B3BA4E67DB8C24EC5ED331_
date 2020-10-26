@@ -1,0 +1,24 @@
+{
+    "Body": " Responsibilities Work with business development and sales to meet with key clients in artificial intelligence and blockchain to architect solutions and design roadmaps for customer delivery. Take a key role in communications between the executive team and the customer on timelines and deliverables. Experience with GPU and FPGA technology and the ability to match certain workloads with the appropriate technology pairing. Experience with various storage technologies (including Pure Storage, NetApp and DDN) and their effects on various AI workloads. Experience with technologies like SQream, Omnisci, Kinetica, and other GPU-related technologies focused on big data analytics, or the willingness to learn after hours to catch up to the competition. An understanding of database management systems, including RDBMS, Object Orientated, and Relational. Take ownership of working with customers to load their data on our AI-ready infrastructure. Be comfortable working in the field and from behind the keyboard. Enthusiasm around optimizations in both storage and applications, and an obsession around customer experience. Be willing to expand your toolset and be consistently willing to help in other verticals of the organization (even if they don't match your job description)! Requirements 4+ years of experience with GPU technology, including NVIDIA's SDK and AMD's ROCm. Comfortable with various build environments and kernel debugging in a GPU-based environment. Comfortable with PXE-based systems. 2+ years of experience with FPGA technology (PCIe architecture preferred). NICE TO HAVES Experience with systems administration. Experience with Linux-related operating systems (including RedHat and Ubuntu). Experience with orchestration tools (Ansible, Puppet, Salt, Terraform, and Kubernetes). ", 
+    "CompanyName": "1872 Consulting", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "53F16E0B66B3BA4E67DB8C24EC5ED331", 
+    "KeyTerms": "puppet, kubernetes, rdbms, data analytics, fpga, terraform, business development, sdk, big data, artificial intelligence, ansible", 
+    "Language": "English", 
+    "Location": "Bellevue, Washington, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20fpga", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20fpga", 
+    "TackIt": "true", 
+    "Title": "1872 Consulting hiring GPU Solutions Engineer/Architect in Bellevue, Washington, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/gpu-solutions-engineer-architect-at-1872-consulting-1852355285?refId=d76b8a2d-666b-4d59-99d3-71aa491b24a5&position=4&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

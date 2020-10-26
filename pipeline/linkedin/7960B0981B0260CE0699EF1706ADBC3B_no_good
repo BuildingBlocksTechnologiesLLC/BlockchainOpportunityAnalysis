@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20functional",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20functional",
+    "DocumentType": "JobBoards",
+    "Title": "Pozent Corporation hiring Technology Lead Applications Developer in Clearwater, Florida, United States | LinkedIn",
+    "Hash": "7960B0981B0260CE0699EF1706ADBC3B",
+    "Url": "https://www.linkedin.com/jobs/view/technology-lead-applications-developer-at-pozent-corporation-1929604276?refId=732901a3-089a-4c2a-9dcb-d59442377d4d&position=19&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-07-13",
+    "DomainId": "linkedin",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": " Description The Technology Lead Applications Developer is a senior level position responsible for building and implementing new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to lead applications systems analysis, programming and support activities. It is the ideal position for professional as well as technical growth within the team. Day to day job responsibilities will focus primarily on core and enterprise Java, Spring, Hibernate or equivalent frameworks, good knowledge of applying Design Patterns, Oracle PL/SQL, Container Microservices, and knowledge of other technologies such as Big Data, BlockChain, and Kafka. Key Responsibilities Write excellent-quality code based on functional requirements, while meeting agile implementation deadlines. Partner with multiple management teams to ensure appropriate integration of functions to meet process improvements Resolve variety of high impact problems/projects through in-depth evaluation of complex business processes, system processes, and industry standards Provide expertise in area and advanced knowledge of applications programming and ensure application design adheres to the overall architecture blueprint Utilize advanced knowledge of system flow and develop standards for coding, testing, debugging, and implementation Develop comprehensive knowledge of how areas of business, such as architecture and infrastructure, integrate to accomplish business goals Provide in-depth analysis with interpretive thinking to define issues and develop innovative solutions Serve as advisor or coach to mid-level developers and analysts, allocating work as necessary Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Major Financial Institution, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding persona- behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency. Required Technical Skills Core Java , Spring, Hibernate, Messaging, multi-threaded processes and solid understanding of design patterns Exposure to building light weight components as micro services APIs onto container deployment Exposure to big data related technologies; Hadoop, HBASE/SPARK, ETL, Machine Learning Exposure to relational and NO-SQL database technologies Oracle, MongoDB and performance tuning Exposure to block chain technologies would be a plus Very good written and verbal communication skills, requiring interactions with C level management stakeholders 10+ years of software design and development experience Hands on core development, systems analysis and identifying root cause for application issues Creating Architecture and product design representations in Visio Exposure to technical solution design and development of highly scalable applicationsShow moreShow less ",
+    "Location": "Clearwater, Florida, United States",
+    "CompanyName": "Pozent Corporation",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

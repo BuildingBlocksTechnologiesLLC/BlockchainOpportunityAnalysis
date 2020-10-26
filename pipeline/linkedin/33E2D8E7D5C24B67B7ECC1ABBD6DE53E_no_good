@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20spark",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/jobs/michael-page-jobs-new-york-ny?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs-philadelphia-pa?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20spark",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs via eFinancialCareers hiring Senior Software Engineer - Derivatives Team in New York, New York, United States | LinkedIn",
+    "Hash": "33E2D8E7D5C24B67B7ECC1ABBD6DE53E",
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-derivatives-team-at-jobs-via-efinancialcareers-1887468604?refId=67593502-9aa8-4e66-99ef-145ad4c42946&position=6&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-07-13",
+    "DomainId": "linkedin",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": " Bloomberg is the global leader in financial data and analytics. Financial derivatives instruments across several asset classes (foreign exchange, fixed income, equity, index, commodity, credit, etc) trade millions of times a day both as listed products on exchanges and as bespoke over-the-counter products in a multi-trillion dollar market throughout the world. The Derivatives Engineering team brings transparency to the complex world of derivatives. We enable our clients to generate trade ideas, structure deals, connect to electronic trading platforms, capture market movements, and assess and hedge portfolio risk for derivatives instruments. This team is right at the intersection of finance and technology. We work directly with product managers, financial engineers, and quantitative analysts to understand the client and market needs. We use cutting edge big data technologies, distributed computing, functional programming and machine learning to build software solutions that help us implement complex financial and quantitative models to facilitate derivatives pricing and analytics in real-time. What's in it for you? As a member of the Derivatives Engineering team, you will have the opportunity to work with a variety of open source technologies including Blockchain, Apache Spark, Apache Kafka, Apache Cassandra, Redis, and more, to design and implement full-stack software solutions that serve billions of calculations a day. You'll gain hands-on experience in writing data analytics, distributed algorithms, and performance optimized code, all while gaining an advanced knowledge of the derivatives domain. If the idea of building sophisticated software solutions for financial data and analytics excites you, we would love to hear from you! You'll Need To Have BA, BS, MS, PhD in Computer Science, Engineering or relevant experience in a technology field 2+ years of programming experience in C++, Python, Javascript, Scala, or OCaml Knowledge of data structures and understanding of algorithms Pragmatic problem-solving skills Strong verbal and written communication skills An interest in the financial domain We'd Love To See A background in data analytics A background in finance Experience in distributed systems Experience with functional programming Experience with open source technologies Bloomberg is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.Show moreShow less ",
+    "Location": "New York, New York, United States",
+    "CompanyName": "Jobs via eFinancialCareers",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

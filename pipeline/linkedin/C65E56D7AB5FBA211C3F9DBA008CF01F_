@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20android",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20android",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": ".seed hiring Mobile Engineer in New York, New York, United States | LinkedIn",
+    "Hash": "C65E56D7AB5FBA211C3F9DBA008CF01F",
+    "Url": "https://www.linkedin.com/jobs/view/mobile-engineer-at-seed-1886434132?refId=f843399f-c995-4766-8a4c-75aaa0397e2d&position=3&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-07",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Rob Rothman Rob Rothman Founder at .seed Mobile Engineer (Android or iOS) Native iOS/Android or React Native Mobile Engineers ?? Job Location: New York (Remote till COVID-19 is managed) We understand these are tough times for a lot of individuals and families. Our hope is to keep the engine oil of our economy fine tuned--the engine oil being the employees of America. We are working with 5-7 tech companies here in NYC who are still growing their teams remotely, as we all overcome the COVID-19 pandemic as one. These roles are with start-ups, blockchain companies, non-profits, and larger companies. Please apply to learn more. Requirements?? 3-5+ Years Software Engineering Experience 3+ Years Experience with Native Android/iOS Development (Java, SWIFT, Obj-C, or React Native) A degree in Computer Science or Computer Engineering highly preferred Great communication skills ?? Compensation?? $125k - $200k + Equity "
+}

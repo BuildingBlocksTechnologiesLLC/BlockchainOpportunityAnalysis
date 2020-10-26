@@ -1,0 +1,24 @@
+{
+    "Body": " DFINITY is reimagining the Internet as a public network that hosts secure software and services. The Internet Computer is a new technology stack that is unhackable, fast, scales to billions of users around the world, and supports a new kind of autonomous software that promises to reverse Big Tech\u2019s monopolization of the internet. DFINITY was founded in 2016 by Dominic Williams and is backed by top-tier institutions including Polychain Capital and Andreessen Horowitz. DFINITY is looking for a full-time Cryptography Researcher specialized in practical and provably secure cryptographic protocols for blockchains. The main task is to design, develop, and prove secure, efficient cryptographic protocols for a distributed system. You will contribute in creating a high-performance blockchain computer. We offer a flexible work style with the chance to work in a very dynamic team alongside top talented people from all around the world. Responsibilities: Identify functional and security requirements of cryptographic protocols for the DFINITY platform Design provably secure, scalable and practical cryptographic protocols Design security models, capturing requirements and adversarial model Provide full implementation specification of cryptographic protocols Collaborate with a team of Researchers and Developers across our global research centers Participate in software architecture decision, providing necessary information in a clear fashion Collaborate with engineers to implement cryptographic protocols Write high-quality research papers targeted at the top conferences and journals Represent the company in academic and industry conferences and share technical information with the public Requirements: PhD in Cryptography, emphasis on efficient and provably secure protocols Excellent record of peer-reviewed publication, in particular at IACR, ACM, and IEEE conferences Experience in implementation of cryptographic protocols in C or Rust Working well in a team Good understanding of practical systems and their security Experience as a postdoctoral researcher or industry researcher is a plus Experience with distributed protocols and blockchain protocols is a plus Experience in fast multiparty computation protocols is a plus. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. ", 
+    "CompanyName": "DFINITY", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-19", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "798F4A44BA03599D82D5188111750BFF", 
+    "KeyTerms": "rust, cryptographic protocols, cryptography, protocols, full time", 
+    "Language": "English", 
+    "Location": "San Francisco Bay Area", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20identity", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20identity", 
+    "TackIt": "true", 
+    "Title": "DFINITY hiring Researcher - Cryptographic Protocol Design in San Francisco Bay Area | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/researcher-cryptographic-protocol-design-at-dfinity-1879487233?refId=2051efc0-5870-4381-8622-5e022b8b6066&position=21&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

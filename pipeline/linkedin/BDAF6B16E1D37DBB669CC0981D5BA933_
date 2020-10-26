@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20ico",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20ico",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Salt hiring Blockchain Software Engineer (Remote) in New York, United States | LinkedIn",
+    "Hash": "BDAF6B16E1D37DBB669CC0981D5BA933",
+    "Url": "https://www.linkedin.com/jobs/view/blockchain-software-engineer-remote-at-salt-1858269968?refId=132506e8-2530-42ad-aab3-c661c2b4215c&position=2&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-07",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Edmund Cuthbert Edmund Cuthbert Recruitment Manager connecting software engineers with scaling startups in NYC Join a VC backed blockchain startup seeking to decentralize financial markets. Use your expertise with fullstack JavaScript (Node + React) and knowledge of Ethereum Smart Contracts to democratize fintech. The Company Their founding team comes from Google and Goldman Sachs, and share a vision of Decentralized Finance (DeFi). They are backed by VC's including Two Sigma and Coinbase Ventures with an ICO in the pipeline. Their core product allows the price of any financial asset to be tokenized, and has been completely open-sourced. While their HQ is in NYC, they have enjoyed great success working remotely recently, and will continue to offer 100% remote work even after Covid-19. What You\u2019ll Do Develop dApps with Solidity Build automated testing in Truffle Create slick, responsive web3 UIs Create Smart contracts that run on Ethereum The ideal candidate: 2+ years working fullstack in JavaScript (Node and React) Exposure to Solidity and Truffle Knowledge of Smart Contracts Passionate about Decentralized Finance (DeFi) Nice to Haves Bachelor's Degree or higher in Computer Science or related field Open source contributions to blockchain projects "
+}

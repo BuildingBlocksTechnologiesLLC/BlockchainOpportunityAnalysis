@@ -1,0 +1,24 @@
+{
+    "CrawledDate": "2020-08-01",
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20embedded",
+    "DomainId": "linkedin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/solomon-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20embedded",
+    "DocumentType": "JobBoards",
+    "Title": "Moseley Technical Services, Inc. hiring Senior Full Stack Java Developer in Hanover, Maryland, United States | LinkedIn",
+    "Hash": "0AA98400E64839DBF7461C42717E36E2",
+    "TackIt": "true",
+    "Body": " Senior Principle Full Stack Java Developer Job ID # 2020-11374 Direct Hire Opportunity Location: Hanover, MD Industry: Defense Clearance Requirement: TS/SCI w/ Poly Minimum Education: Bachelor\u2019s Degree Minimum Experience: 10 years What You\u2019ll Do Develop mission-critical systems that help keep people safe is what we do. Apply advanced technologies such as Artificial Intelligence, Blockchain, AR/VR, Cloud Native and Quantum Physics to solve our customers\u2019 missions in cyber, RF, undersea, interstellar space and everything in between. Design, development and implementation of countermeasures, system integration, and tools specific to Cyber and Information Operations, the Embedded Developers will analyze, decompose, disassemble code, perform static code analysis, kernel-level debugging, and debug and modify software. Protocol Analysis, Vulnerability Assessment, Security Research, Rapid Prototyping of proof of concept capabilities. What You\u2019ll Need TS/SCI with Full Scope Polygraph Minimum of 7 years developing object oriented software applications in Java (version 1.8 or higher) Minimum of 3 years of Web Development in Angular 2+ or ReactJS Minimum of 3 years with MongoDB or relational databases Familiarity with Java Frameworks (i.e. Spring, Spring Data, Spring Boot) Seasoned, experienced professional with a broad range of expertise and a wide range of professional experience, possessing a substantial understanding of software engineering concepts, principles, and theories; expert at applying technical standards and methodologies to resolve a wide range of issues in creative ways Team player who thrives in collaborative environments and revels in team success, meeting and exceeding personal and team commitments Ability to serve as company technical spokesperson with subject matter expertise (SME) Active contributor to the achievement of financial and business objectives by resolving complex issues in creative, effective and financially favorable ways Contributes to the development of innovative principles and ideas Effectively leads complex assignments, interacting with both customers and end-users U.S. Citizenship is required by law, regulation, executive order, or government contract. Education & Experience Bachelor\u2019s Degree in Software Engineering or related technical field combined with 10 + Years of relevant experience; or Master\u2019s Degree combined with 8 + years of relevant experience. A Relocation Package may be available to qualified individuals. Moseley Technical Services, Inc. is an AA/EEO/Veterans/Disabled Employer. Resources For questions about benefits visit: http://www.moseleytechnical.com/job-seekers/ For more information about Moseley visit: http://www.moseleytechnical.com/about-us/ Andrea@moseleytechnical.comShow moreShow less ",
+    "Url": "https://www.linkedin.com/jobs/view/senior-full-stack-java-developer-at-moseley-technical-services-inc-1893429298?refId=0db92457-48b7-47b6-a1c3-2c6551948add&position=10&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Location": "Hanover, Maryland, United States",
+    "CompanyName": "Moseley Technical Services, Inc.",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Orbis Consultants hiring Cloud Security Engineer | Exciting Fin-Tech Start-up | FTE | San Francisco | $150k-$180k in San Francisco Bay Area | LinkedIn",
+    "Hash": "A86742F90ACA213F3F700000B1EBF682",
+    "Url": "https://www.linkedin.com/jobs/view/cloud-security-engineer-exciting-fin-tech-start-up-fte-san-francisco-%24150k-%24180k-at-orbis-consultants-1743572529?refId=f085133d-4279-4cb1-b63a-6ca9e48125ad&position=17&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-21",
+    "DomainId": "linkedin",
+    "Language": "Estonian",
+    "TackIt": "true",
+    "Body": " Cloud Security Engineer | Exciting Fin-Tech Start-up | FTE | San Francisco | $150k-$180k ?? This Fin-Tech company are utilizing blockchain technology for the issuance, investing, trading and spending of digital assets. This is an incredible opportunity to join a high potential start-up on the ground floor of a company planning on changing the world of financial services. If building innovative and impactful products motivates you then this could be for you! ?? They are looking to hire an experienced cloud security engineer to help with the design, buildout, and operation of their cloud-based trading platform. You will have much hands-on experience and exposure to a wide variety of security technologies. ?? Experience required: - ?? ?? ?? Experience building, operating and securing AWS Infrastructure - ?? ?? ?? Experience deploying and managing Palo Alto Firewalls, ideally in a cloud environment ?? ?? Additional notes \u2013 Jenkins, Docker, Kubernetes, Splunk, Aqua Security, Twistlock, EDR, MDM, HashiCorp Vault, Python, C++, Incident response, SOC2, ISO27001, Linux, Financial Services ?? ?? Get in touch today if you\u2019d like to discuss this role further ?? ?? "
+}

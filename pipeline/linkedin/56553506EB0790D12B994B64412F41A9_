@@ -1,0 +1,25 @@
+{
+    "Body": " Who We Are PolySign is a startup in downtown Oakland working on institutional custody for cryptocurrencies. Cryptocurrencies are an exciting emerging market, but the lack of institutional grade custody solutions is a major obstacle in the way of mainstream adoption. As a member of a small, world-class technical team, you can have a huge impact on our solution and the success of cryptocurrencies. PolySign is co-founded by Arthur Britto, a co-founder of Ripple, a recognized leader in payments technology. What You'll Do As the third member of the DevOps team, you will have a key role in designing and coding our digital asset services in AWS. Our team builds the DevOps assembly pipeline, which is a foundational service for other engineering teams. As such, our team is essential to the overall success of PolySign engineering. Our team owns all aspects of our cloud deployments, including provisioning, monitoring, security, high availability, disaster recovery and connectivity. Our team has a strong engineering culture committed to high quality architecture and design. Candidates should have a solid computer science engineering background with an eye towards practical coding, experience with AWS, as well as modern DevOps tools such as Docker and Kubernetes. Requirements Strong coding abilities, preferably in Python, on enterprise class production systems Experience with modern DevOps tools such as Docker and Kubernetes container orchestration Experience with AWS services, such as: RDS, ElastiCache, EC2, EKS, CloudFormation Nice to have A good grasp of distributed systems: performance and scalability Understanding of cloud high availability and disaster recovery facilities Experience with secure systems, especially financial or payments Interest in cryptography or blockchain Significant experience with a compiled language Our Key Technologies Backend: Python, gRPC, C, PostgreSQL, Redis CI/CD: CircleCI, TestCafe, pytest Infrastructure: AWS, Kubernetes, Docker, Infrastructure as Code (CloudFormation, Terraform, etc.) OS: Linux, macOS What We Offer The opportunity to join a well-funded, cutting-edge financial technology company at an early stage Competitive salary and equity Competitive medical benefits 401k Flexible working policies: we work twice a week from home Smart coworkers who are world class experts in the field of cryptocurrency ", 
+    "CompanyName": "PolySign, Inc.", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-21", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "56553506EB0790D12B994B64412F41A9", 
+    "KeyTerms": "kubernetes, python, digital asset, financial, cryptography, cryptocurrencies, docker, cloud, cryptocurrency, back end, ripple, startup, devops, linux, ci cd, distributed systems, terraform, aws", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20terraform", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "cryptocurrencies", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20terraform", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "PolySign, Inc. hiring Senior Site Reliability Engineer in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-site-reliability-engineer-at-polysign-inc-1597774623?refId=4ada6a82-2f32-4a96-ac8f-b7c07780ce94&position=5&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

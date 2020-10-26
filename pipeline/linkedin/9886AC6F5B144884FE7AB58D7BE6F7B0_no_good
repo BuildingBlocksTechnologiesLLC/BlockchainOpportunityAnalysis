@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20spark",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20spark",
+    "DocumentType": "JobBoards",
+    "Title": "HEROIC Cybersecurity hiring Senior PHP/ Laravel Software Developer - Remote in Lehi, Utah, United States | LinkedIn",
+    "Hash": "9886AC6F5B144884FE7AB58D7BE6F7B0",
+    "Url": "https://www.linkedin.com/jobs/view/senior-php-laravel-software-developer-remote-at-heroic-cybersecurity-1904412868?refId=67593502-9aa8-4e66-99ef-145ad4c42946&position=8&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-07-13",
+    "DomainId": "linkedin",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": " HEROIC Cybersecurity (HEROIC.com) is looking for an experienced Senior PHP Developer with strong skills in Laravel, and/or other PHP Frameworks, to join our growing team. As a Senior Developer, you will be responsible for helping to drive the development of sophisticated saas based cybersecurity solutions. The right candidate will possess senior level PHP experience with a well-rounded software development background. We expect this position to spend their time in the following manner: 80% coding, 10% architecting, and 10% team communication. Principal Responsibilities And Duties Ensure that a secure software development lifecycle is followed to develop our SAAS based cybersecurity platforms Work closely with management and our development team to implement our software solutions Take ownership in the development of HEROIC\u2019s software applications, and technical environments. Research and evaluate third-party solutions to integrate into the HEROIC platform. Assist with all other HEROIC projects and Development needs Continually be learning and increasing your development capabilities Qualifications Excellent English communication skills Bachelor's degree in an engineering or technology related field or equivalent work experience 5+ years of PHP experience, with a background in Laravel or other PHP frameworks 3+ years of full-stack development experience. Expert knowledge and understanding of PHP, Laravel, MySQL, Javascript, Git, Jira, API development, and Amazon web services. Experience communicating with technical and non-technical stakeholders. Experience securing software applications or working in the cybersecurity field preferred. About Heroic HEROIC Cybersecurity (HEROIC.com) is building the future of cybersecurity, powered by artificial intelligence and the blockchain. Unlike traditional cybersecurity solutions, HEROIC takes a predictive and proactive approach to intelligently secure our users before an attack or threat occurs. Our work environment is fast-paced, challenging and exciting. At HEROIC, you\u2019ll work with a team of passionate, engaged individuals dedicated to intelligently securing the technology of people all over the world. LOCATION: Remote - Work from wherever you please! Your home, the beach, our offices, etc. Although the majority of this position is remote, You may be required to travel periodically, attend business meetings and conferences or meet with the team in person. POSITION TYPE: Full-time KEYWORDS & TECHNOLOGIES USED: PHP, Laravel, MySQL, Cassandra, Linux, HTML, Javascript, AWS, Jira, Git, Blockchain, AI, Big Data, Artificial Intelligence, Spark, DynamoDB, Lambda, Angular, NodeJS, Crypto, Cryptocurrency, Solidity, Web3, IPFS, Hyperledger, Cryptography, Smart Contracts, token economics, game theory, Bitcoin, Ethereum, Tron, Ripple, Digital Currencies, C++Show moreShow less ",
+    "Location": "Remote",
+    "CompanyName": "HEROIC Cybersecurity",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

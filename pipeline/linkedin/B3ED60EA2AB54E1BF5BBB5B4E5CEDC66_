@@ -1,0 +1,25 @@
+{
+    "Body": " Job Summary We are looking for an experienced and detail-oriented frontend software engineer to join our team who can help us grow. You will be responsible for development of IoTeX blockchain related products, including SDK, wallets, websites, chatbot, exchange, etc. Required Skills Experience with fullstack development and a strong sense of responsibility and ownership Experience with UI/UX and common design tools TypeScript, JavaScript (React/Redux/koa, or experiences with similar frameworks) Excellent knowledge of scalable and sustainable system design, patterns and best practices, clean code and architecture Deployment / Dev pipeline: Docker compose, Github, Jenkins, Kubernetes + GCP Fast iteration on product Required Experiences SW Internship in IT industry or participated in a large scaled (open sourced) project. Bonus Experience or interest in Web3.js Implementing and maintaining high-throughput APIs Implementing and maintaining SDKs Experience with an early-stage startup and ability to serve cross functional roles in a young company; strong presentation and communication skills Good experience writing concise, clear, and detailed engineering documentation ", 
+    "CompanyName": "Iotex Systems", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-07", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "B3ED60EA2AB54E1BF5BBB5B4E5CEDC66", 
+    "KeyTerms": "kubernetes, front end, github, frameworks, web-3, react, javascript, docker, ui ux, startup, design patterns, full stack, software engineer, sdk, typescript", 
+    "Language": "English", 
+    "Location": "Menlo Park, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20ui", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20ui", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Iotex Systems hiring Software Engineer (Intern) in Menlo Park, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-iotex-systems-1877689237?refId=c4396ec9-bf24-4fa9-b670-adefabdce990&position=19&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

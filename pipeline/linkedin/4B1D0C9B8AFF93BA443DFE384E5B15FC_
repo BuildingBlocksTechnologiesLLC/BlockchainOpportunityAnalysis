@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20decentralized",
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20decentralized",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Ziontech Solutions Inc hiring Python Developer in Milpitas, California, United States | LinkedIn",
+    "Hash": "4B1D0C9B8AFF93BA443DFE384E5B15FC",
+    "Url": "https://www.linkedin.com/jobs/view/python-developer-at-ziontech-solutions-inc-1652645812?refId=20fb96df-9bd6-4e8c-9a0c-de679944d1ae&position=14&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-01",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Sravan R Sravan R Hiring Sailpoint Developer- Remote to start (Austin, TX)- Direct client- Good pay \u2022 Developer to help me design the flows and help code the solution \u2022 Experience with designing/managing a blockchain like application platform \u2022 Using unstructured data, encrypted/secure, and decentralized "
+}

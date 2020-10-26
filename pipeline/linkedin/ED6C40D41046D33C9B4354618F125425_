@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux",
+    "RequiredMatch": "bitcoin",
+    "DocumentType": "JobBoards",
+    "Title": "Intelletec hiring Senior Security Engineer | Red Team | Leading Digital Asset Platform (Remote) in Austin, Texas Metropolitan Area | LinkedIn",
+    "Hash": "ED6C40D41046D33C9B4354618F125425",
+    "Url": "https://www.linkedin.com/jobs/view/senior-security-engineer-red-team-leading-digital-asset-platform-remote-at-intelletec-1880455415?refId=e3e6f979-a54e-47ae-ac31-73f6b58ccf6c&position=15&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Posted by: Kiel O'Mara Kiel O'Mara Managing Consultant, Security & Emerging Technologies Recruitment @ Intelletec My client is a well-funded, successful Institutional Digital Asset Platform. They are the market-leader in digital asset financial services, providing clients with security, custody, and liquidity solutions. They are the world's largest processor of on-chain bitcoin transactions, processing 20% of all global Bitcoin transactions, and $15 billion per month across all cryptocurrencies. The company has over $2 billion in assets in wallet, and a customer base that includes the world's largest cryptocurrency exchanges and spans more than 50 countries. They have raised over $20m, Series B, and made several acquisitions of rival startups. Intelletec has been working with them since their conception and continues to help them scale. Responsibilities: Perform penetration tests, code reviews, and document threat models Plan and lead red team (hacking) exercise operations against the corporation for the purpose of training incident response teams Plan and lead purple team (attack/defend) exercises in collaboration with the broader Security and DevOps teams Develop tools and maintain the red team's operational infrastructure Track and research the latest attacks and how they might apply to our environments Develop the red team roadmap and drive the direction for the red team program as a whole Participation in on-call security rotation Required Skills & Experience: 10+ years' experience - ESSENTIAL Proven working experience in installing, configuring and troubleshooting UNIX /Linux based environments Proficiency with cloud technology and deployments - AWS/GCP Proficiency with at least three (3) or more of the following: mobile security, telecom protocols, operating systems, reverse engineering, forensics, network analysis, vulnerability assessment or malware Working knowledge of at least one scripting or coding language - Java, NodeJS, Ruby, Go, Python Familiarity with container technologies to include container orchestration and microservices - Docker, Kubernetes, Mesos, CI/CD Experience in drafting reports, documenting case details, and able to summarize findings and recommendations based on system analysisExperience with automation software. (e.g., Drone, Puppet, Chef) Solid networking knowledge. (OSI network layers, TCP/IP) You are a fan of blockchain technology and cryptocurrency Security Certification: OSCP, OSCE, OSEE On Offer: Competitive salary Strong equity in a profitable, successful company Awesome benefits and working culture "
+}

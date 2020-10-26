@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20hyperledger",
+    "OutLinks": [
+        "https://www.linkedin.com/jobs/michael-page-jobs-new-york-ny?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://www.linkedin.com/jobs/michael-page-jobs-philadelphia-pa?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20hyperledger",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "iSmartRecruit - Best Applicant Tracking System hiring BlockChain Developer in Bridgewater, New Jersey, United States | LinkedIn",
+    "Hash": "D81289D3FA72ECB5CCA031A3ABEE0B00",
+    "Url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-ismartrecruit-best-applicant-tracking-system-1822697779?refId=2f090d8c-82db-4fc1-8ca0-8f7023b7aca2&position=11&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-01",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " BlockChain Developer Company:iSmartRecruit Location:Ahmedabad Other Job Category: Other Posted:08.04.2020 Job Description Job Responsibilities: Should have good command in English. 2+ years of experience as a Blockchain developer in the IT Industry. Strong software development background & experience working with large codebases. Think out of the box and don't give up easily as BlockChain is a fairly complex concept and there isn't much help available over Stack Overflow. Collaborate with the team to create integrated systems. Candidate has a knowledgeable in distributed computing, RPC methods and patterns, networking fundamentals and optimization, and industry-standard network architecture Mandate: - Blockchain concepts, Hyperledger Fabric and one programming language, preference Go Lang. Has a strong understanding of continuous integration and blockchain test tools Research, design, develop, and test blockchain Experience in using Truffle and other toolchains to develop dApps are a huge bonus. Job Requirements blockchain, it software development, software engineer, hyperledger, hyperv, Ahmadabad, itjobs, git, MNC, looking for change, urgent hiring, go lang, go , Blockchain concepts Company Info Address Location:Bridgewater, NJ Web Email: "
+}

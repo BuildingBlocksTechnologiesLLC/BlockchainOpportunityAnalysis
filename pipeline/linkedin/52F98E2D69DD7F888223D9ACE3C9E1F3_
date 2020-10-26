@@ -1,0 +1,24 @@
+{
+    "Body": " Location Palo Alto, CA Exp 8+ years. Mandatory Skills Experience in developing andor testing large scale distributed systems. E.g. distributed storage, compute, networking and messaging Experience integrating complex set of services or product at scale. Testing stability, reliability, scalability and availability, of complex distributed systems. Experience in developing automation infrastructure and automated regression test suite for distributed systems. Experience with virtualization and container orchestration technologies. E.g. ESXi, vSphere, Docker, Kubernetes, Helios Proficiency in programming and scripting languages - Python, Java, C++. Experience with Linux based systems Desirable Skills Blockchain technology is desirable Experience with public cloud technologies (AWS, Azure, GCP) Customer centric testing experience ", 
+    "CompanyName": "Saibber", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-19", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "52F98E2D69DD7F888223D9ACE3C9E1F3", 
+    "KeyTerms": "cloud, kubernetes, scripting, python, java, linux, distributed systems, aws, docker, azure", 
+    "Language": "English", 
+    "Location": "Palo Alto, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud", 
+    "TackIt": "true", 
+    "Title": "Saibber hiring SDET Lead - Blockchain Program in Palo Alto, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/sdet-lead-blockchain-program-at-saibber-1910861898?refId=602a29e1-c27e-42fe-b223-887f69bdb2db&position=9&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

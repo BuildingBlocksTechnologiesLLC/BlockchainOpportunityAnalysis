@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20web",
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20web",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Intelletec hiring Full Stack Engineer in San Francisco Bay Area | LinkedIn",
+    "Hash": "F847D8FB737B5CE9317EDE5123E50CD4",
+    "Url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-intelletec-1845989920?refId=833a963c-194a-4954-9acf-12e64f12038a&position=11&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-09",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Jemma Buckle Jemma Buckle Senior Recruitment Consultant at Intelletec We are partnered with a market-leading Cryptocurrency investment services company based in Palo Alto/San Francisco. The platform provides security, compliance and custodial solutions for Blockchain-based currencies.??Their platform is currently processing 20% of all Bitcoin transactions, accounting for over $15 billion per month across all Cryptocurrencies. Due to the high volume of transactions, the applications need to be fast, accurate, scalable and secure. A full stack Engineer is needed to join the team to continue building these powerful applications, using the best technologies the industry offers. The company was founded in late 2012 and acts as one of the leading processors of Bitcoin transactions in the world. They are backed by Craft Ventures, DRW, Galaxy Digital Ventures, Goldman Sachs, Redpoint Ventures and Valor Equity Partners. Responsibilities: Lead financial services client facing web application features, covering the entire product lines from inception to launch Work across the entire stack using modern tech frameworks and tools; own execution Collaborate across product, design, and engineering teams to rapidly iterate on the product Skills and experience needed:?? At least 5 years of professional experience developing full stack web applications Fluency in any of these: JavaScript, TypeScript, React/Angular, Node.JS, Golang, PostgreSQL Experience in Git/GitHub and branching methodologies, code review tools, CI tools, etc. Comfortable working full-stack Solid engineering fundamentals and passion for high quality code Product intuition, user empathy, ability to make sound UX decisions Interest in cryptocurrency and blockchain Bachelor's degree in Computer Science or Computer Engineering or related field Advantageous: Familiarity with developing enterprise web applications in the financial space (B2B) Fluency in any of these: GraphQL, Apollo, Kubernetes Docker Familiarity with blockchain and cryptocurrency space On offer: Competitive base salary Strong Equity Awesome benefits "
+}

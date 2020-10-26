@@ -1,0 +1,21 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20solidity",
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://www.linkedin.com/jobs/michael-page-jobs-san-francisco-ca?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20solidity",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Skyrocket Ventures hiring Sr. to Lead Software Engineer - up to $250k - IoT & Blockchain Startup in San Francisco, California, United States | LinkedIn",
+    "Hash": "52E01155DB11DC8AC2A58CA793555219",
+    "Url": "https://www.linkedin.com/jobs/view/sr-to-lead-software-engineer-up-to-%24250k-iot-blockchain-startup-at-skyrocket-ventures-892779958?refId=b28278e9-6629-4d78-bee3-67ede08fc806&position=5&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-09",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Bobby Kim Bobby Kim Client Relations Director at Skyrocket Ventures Sr. to Lead Software Engineer - up to $250k - IoT & Blockchain Startup Palo Alto, CA This company is working at the intersection of Blockchain, Cryptocurrency, and Internet of Things (IoT) technology. The team is is made of world class technologists from leading companies such as Google, Facebook, Uber, and more. The company has raised a large round of funding and is growing rapidly. In addition to very competitive salary, the company is offering equity and cryptocurrency tokens which may be very lucrative. Qualifications: - At least 3 years (preferably more) of industry experience - Expertise in at least one of: C, C++, Golang, or Python - Knowledge on scalability challenges and solutions - A passion for learning and solving problems that have not been solved before - Experience building large scale software systems Nice to have: - Startup experience - Passion for cryptocurrency and blockchain technology - Experience with blockchain technologies such as Ethereum, Smart Contracts, and Solidity "
+}

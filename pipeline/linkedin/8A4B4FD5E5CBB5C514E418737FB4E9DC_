@@ -1,0 +1,24 @@
+{
+    "Body": " We are looking for several Software Engineers, Mobile (Android) to join our team in Blacksburg, VA. Mobile Android Software Engineers will be responsible for architecting, designing, coding and modifying Block.one LLC\u2019s Android applications and libraries that support our product offerings and the EOSIO blockchain. You will work closely with the Block.one development team and the EOSIO community at large to help build one of the largest blockchain and distributed application ecosystems in the world. Responsibilities Write well designed, testable, high performance code by using best software development practices Gather and refine specifications and requirements based on technical needs Stay up to date on emerging technologies/industry trends and apply them into operations and activities Cooperate with designers to match visual design intent Help maintain build pipeline by assisting with deployment automation Work independently with minimal guidance on tasks Qualifications At least 5 years of software development experience and 3 years of experience developing mobile applications for Android OS Strong understanding of mobile application design Experience publishing mobile apps via Google Play Technologies we currently use Kotlin and Java for Android Knowledge Of The following skills are highly desired Android Architecture Components (LiveData, Paging Library, ViewModels, Room, Data Binding, Navigation Components) Development Patterns (Repository, MVVM, Factory, Singleton, Persistent Data Model\u2026) Understanding of life cycles for activities and fragments Experience with Android Keystore and TEEs (Trusted Execution Environment) Working knowledge of cryptography and third-party encryption libraries like Bouncy Castle Experience with modularization Awareness of clean architecture design concepts and S.O.L.I.D. principles Experience with unit testing and UI testing tools like Espresso and Mockito Experience working on open source projects or social networking applications General understanding of information security principles on mobile platforms Experience with libraries like Retrofit, GSON, Glide Experience with SQLite and SQL queries Experience working with REST and GraphQL Experience with the Android Studio and Intellij IDEs Experience with domain modeling (UML, sequence diagrams, use case modeling) Powered by JazzHR ", 
+    "CompanyName": "Block.one", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-01", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "8A4B4FD5E5CBB5C514E418737FB4E9DC", 
+    "KeyTerms": "emerging technologies, mobile apps, android, kotlin, cryptography, intellij, distributed application, sql, unit test, social network, java, encryption, software engineer, graphql", 
+    "Language": "English", 
+    "Location": "Blacksburg, Virginia, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20android", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20android", 
+    "TackIt": "true", 
+    "Title": "Block.one hiring Software Engineer, Mobile (Android) in Blacksburg, Virginia, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-android-at-block-one-1822794391?refId=75b93782-f96a-4f34-8bd8-2dec8b910b6d&position=20&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

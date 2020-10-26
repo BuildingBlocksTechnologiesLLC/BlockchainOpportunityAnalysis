@@ -1,0 +1,25 @@
+{
+    "Body": " Axoni develops novel blockchain solutions while focusing on the capital markets industry. In various production implementations, we have demonstrated that our blockchain software can serve multiple asset classes and use cases at the world\u2019s most advanced financial institutions. Join us in our mission to further strengthen and scale our system and develop new blockchain solutions. We\u2019re excited to have you become part of our high-performing team of software engineers. Axoni\u2019s Infrastructure Engineering-focused Site Reliability Engineers (SRE) are responsible for automating the deployment, configuration, and monitoring of our corporate infrastructure, including cloud-provisioned infrastructure as well as the third-party and internally developed services running on them. We are most heavily utilizing AWS, but as our customer base is growing and diversifying, our Azure and GCP footprints are rapidly expanding. As a Cloud Infrastructure SRE, you\u2019ll be deeply involved in developing and automating operational controls for our entire corporate cloud infrastructure, DevOps pipeline tools, and operational security systems, relying heavily on Infrastructure as Code (IaC) best practices for defining secure and resilient systems and processes. Evangelizing operational efficiencies, cost savings, and DevOps practices across various parts of the system will make you an effective member of the SRE team. We\u2019re looking for candidates who love to learn and are able to adapt quickly. If you are passionate about IaC, cybersecurity, and problem solving in a collaborative and modern technical environment, then this role is a great fit for you. Responsibilities Develop and manage IaC code and templates for secure and resilient cloud and tool management Develop operational controls for cloud infrastructure Develop operational controls and automations for security infrastructure (e.g. IAM, PKI) Administer and maintain development tools at the user, service, and infrastructure levelSkills Unix shell scripting Unix administration/troubleshooting IaC Orchestration (Terraform [preferred], Ansible, Chef, Puppet, SaltStack/Heat, CloudFormation) Cloud Orchestration (AWS preferred) Monitoring tools (Prometheus, Grafana, ELK, Cloudwatch, ...) Access and Identity Management (Okta, Kerberos, IdP, ...) PKI (CSR, CA, Vault, ...) Build/packaging tech (glide, dep, ?make, Gradle, Maven, ...) CI coding (Jenkinsfile, .gitlab-ci.yml, .travis.yml, ...) Any OO or functional programming language ", 
+    "CompanyName": "Axoni", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-21", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "F1813378E470A51863FF55EE51C13158", 
+    "KeyTerms": "financial, maven, chef, capital markets, ansible, cloud, puppet, gradle, scripting, identity management, devops, terraform, software engineer, aws, functional program, azure", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-gsoba-test-page-test-page-1859156346?trk=public_jobs_job-result-card_result-card_full-click", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux", 
+    "TackIt": "true", 
+    "Title": "Axoni hiring SRE - Infrastructure Engineer - Cloud - DevOps in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/sre-infrastructure-engineer-cloud-devops-at-axoni-1615864077?refId=cc77e827-76de-44dd-b3b7-71b7b0987c28&position=18&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

@@ -1,0 +1,26 @@
+{
+    "Body": " Scala Engineer RELEVANT SKILLS AND EXPERIENCE 3+ years of non-internship professional software development experience Well versed in functional programming in Scala Experience with Akka Experience building REST API services Comfort with large data sets, preferably experience with Redis PostgreSQL, MySQL, Oracle, or DB2 Knowledge of security best practices for application architecture, communication protocols, and AWS infrastructure Comfort with workflows in Gitlab, Jira, and Confluence Experience with Docker / Kubernetes a plus Experience with gRPC/protobuf, Play Framework or Spring Boot a plus Experience with Java / overall JVM ecosystem a plus Experience working with OAuth and Authorization providers a plus Experience with AWS infrastructure Familiarity with network protocols (http/2, tcp) a plus Knowledge of Solidity, Ethereum and Bitcoin blockchains a plus Best practices for facilitating Agile and Test Driven Development ", 
+    "CompanyName": "Resource 1 LLC", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "73208DEED4E666FB51A683B23044B5B3", 
+    "KeyTerms": "kubernetes, scala, docker, ethereum, spring boot, java, tdd, mysql, agile, protocols, aws, bitcoin, functional program, jira, solidity", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://uk.linkedin.com/company/michael-page?trk=public_jobs_job-result-card_result-card_subtitle-click", 
+        "https://www.linkedin.com/jobs/view/cdn-engineer-at-michael-page-1804940324?trk=public_jobs_job-result-card_result-card_full-click", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20mysql", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "ethereum", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20mysql", 
+    "TackIt": "true", 
+    "Title": "Resource 1 LLC hiring Scala Engineer in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/scala-engineer-at-resource-1-llc-1671597396?refId=a96ab101-7d9e-4b3a-b050-e7cb71bac740&position=19&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

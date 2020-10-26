@@ -1,0 +1,24 @@
+{
+    "Body": " What is Harmony? Harmony intends to build an open marketplace at global scale for the decentralized economy. This project aims to provide a consensus protocol over the open Internet at 10 million transactions per second with 100-millisecond latency. Harmony's goal is to be 1,000+ times faster and cheaper than Bitcoin and Ethereum. We are rebuilding the decentralized economy with 10x innovations in all components: transport network consensus protocol and system tooling. Why work for Harmony? You will have the opportunity to work with team of exceptionally talented engineers and colleagues (see our founding story ( in a team that cares about values of empathy, passion and excellence ( * You will be developing exciting cutting-edge technology! We are still at the early stage of blockchain or decentralized ledger technologies. If you strongly believe in this space, this is the unique opportunity to become the pioneer in the field by working and building a high performance blockchain. What are we looking for? We are looking for hard working, talented and passionate software engineers who will help us build the decentralized future! Fast learner with ability to take ownership from specs to production Demonstrate solid software engineering practices such as modular, extensible code with understanding of testing methodology and ability to write good documentation. Experience in building scalable infrastructure or distributed systems or compiler or kernels desired. Experience in Go, Rust is a major plus, but not necessary. Passionate about decentralized ledger technologies (Bitcoin, Ethereum, etc..). Familiarity with public cloud platforms AWS, Azure, Google Cloud Platforms is a plus. Contribution to open source project highly desired. What you will do? As an early stage engineer you would be involved in planning, execution that help deliver a scalable, high performance, low latency blockchain (our vision ( This is an exciting opportunity to be at the ground floor of delivering something potentially revolutionary! (While learning a lot and having fun! Some Specific Projects You Would Be Involved In Scale Omniledger ( consensus protocol to 50k-tps/50k-node testnet with 1-sec latency Simulating and defend against attacks and security models ( on blockchain to make it robust Architecting robust, scalable, secure infrastructure Develop testing tools, attack simulation tools. Developing Rust 244-core demo ( on Bitcoin historical data ( Validating Google QUIC ( saturated at 10Gbps Engage community for development and benchmarks. Great Benefit Packages Competitive Compensation + equity. We would beat everyone (Google, Facebook, etc..) to hire the best people. Medical, Dental, Vision Meals everyday! Company retreat Macbook Pro (Mac) and other accessories included. Gym, yoga class covered. Ping-pong table, VR games. 401K matchup. ", 
+    "CompanyName": "Harmony", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-07", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "75B1E3F7F84411CC9DD6C11D0061768C", 
+    "KeyTerms": "marketplace, decentralized, dlt, consensus, cloud, ethereum, rust, distributed systems, software engineer, aws, testnet, bitcoin, azure", 
+    "Language": "English", 
+    "Location": "Mountain View, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20decentralized", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "decentralized", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20decentralized", 
+    "TackIt": "true", 
+    "Title": "Harmony hiring Software Engineer in Mountain View, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-at-harmony-1890959294?refId=59684008-57fa-40d6-8da2-dd34984afb5e&position=4&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

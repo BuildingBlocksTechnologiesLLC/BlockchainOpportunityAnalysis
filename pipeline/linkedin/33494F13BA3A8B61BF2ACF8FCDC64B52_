@@ -1,0 +1,25 @@
+{
+    "Body": " What You\u2019ll Do Are you excited to be part of a new team? Does the thought of building a new, highly secure cloud infrastructure excite you? Are you ready to tackle the challenge of ensuring system security from development to deployment? Do you want to become an expert in the system and undertake new challenges? This is an opportunity for you to join the security team within Cisco AMP for Endpoints, one of the world\u2019s leading security products. The AMP team ships security software for Windows, Mac, Linux, iOS, and Android operating systems. The web console team uses Ruby, Cassandra, Mongo, MySQL, RabbitMQ etc., all managed by Chef. We deploy to multi-region AWS cloud and also ship as an on-premise appliance. Who You\u2019ll Work With This is an exciting opportunity to work with the Cisco AMP engineering group based in Canada to maintain, grow and scale the AMP infrastructure. The successful candidate will play a key role in supporting our AWS footprint through Terraform and Chef. In addition, the selected applicant will be responsible for monitoring our production environment and resolving issues. Who You Are You are a Site Reliability Engineer who has a background maintaining a fast-growing infrastructure. You love working with an Operations team in building services for engineers and customers, improving build and testing pipelines and working on advanced orchestration systems. Minimum Qualifications Experience in the administration of enterprise-grade AWS infrastructures Enterprise-grade experience with Chef Very strong Linux system administration skills Proficiency in infrastructure, service and application monitoring tools Experience in managing a team of 2-4 people to complete projects Ability to participate in a 24/7/365 on-call rotation Desired Skills Experience in Datadog Familiarity with Terraform Familiarity with ElasticSearch, Logstash and Kibana Software development background Must be able to obtain a US government security clearance Why Cisco #WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference. Here\u2019s how we do it. We embrace digital, and help our customers implement change in their digital businesses. Some may think we\u2019re \u201cold\u201d (30 years strong!) and only about hardware, but we\u2019re also a software company. And a security company. A blockchain company. An AI/Machine Learning company. We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do \u2013 you can\u2019t put us in a box! But \u201cDigital Transformation\u201d is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.) Day to day, we focus on the give and take. We give our best, we give our egos a break and we give of ourselves (because giving back is built into our DNA.) We take accountability, we take bold steps, and we take difference to heart. Because without diversity of thought and a commitment to equality for all, there is no moving forward. So, you have colorful hair? Don\u2019t care. Tattoos? Show off your ink. Like polka dots? That\u2019s cool. Pop culture geek? Many of us are. Passion for technology and world changing? Be you, with us ", 
+    "CompanyName": "Cisco", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "33494F13BA3A8B61BF2ACF8FCDC64B52", 
+    "KeyTerms": "cloud, elasticsearch, linux, android, chef, mysql, terraform, aws, machine learning, mongodb, artificial intelligence, ruby", 
+    "Language": "English", 
+    "Location": "Raleigh, North Carolina, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/jobs/view/externalApply/1831715601?url=https%3A%2F%2Fjobs.cisco.com%2Fjobs%2FProjectDetail%2FSite-Reliability-Engineer%2F1288991%3Fsource%3DLinkedIn&urlHash=nCft&refId=a96ab101-7d9e-4b3a-b050-e7cb71bac740&trk=public_jobs_apply-link-offsite", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20mysql", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "terraform", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20mysql", 
+    "TackIt": "true", 
+    "Title": "Cisco hiring Site Reliability Engineer in Raleigh, North Carolina, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-cisco-1831715601?refId=a96ab101-7d9e-4b3a-b050-e7cb71bac740&position=23&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

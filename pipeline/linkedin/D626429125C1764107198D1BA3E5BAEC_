@@ -1,0 +1,25 @@
+{
+    "Body": " We are looking for a talented, meticulous, and productive person who loves working in an energetic and free-thinking environment, feels comfortable challenging opinions, and most importantly who shares with us the same desire to make the web free again. You are going to be working on the execution side of our blockchain, which is responsible for executing transactions and running smart contracts written in various languages and executed on various virtual machines. This area requires deep understanding of WebAssembly and compilation backends, but it also requires developing a broad knowledge of the virtual machines used in the blockchains. Your immediate responsibility will be working on the code generation tools and the compiler backends for WebAssembly, and in the long run you might be responsible for working on developing or extending a WebAssembly interpreter and virtual machines used in the blockchain space, like EVM and RISC-V VM. This is a high productivity and highly dynamic startup environment so you will need to be comfortable operating quickly but precisely amidst changing needs. There is also lots of opportunity to inject your creativity in almost any aspect of blockchain development, starting from the math components and finishing with user experience. While energy and enthusiasm are key, this is a position for **well-experienced developers only**. ## Qualifications: Have one or both of the following: Experience with WebAssembly and tools for WebAssembly compilation; Experience with code generation, compiler backends, JIT compilation; Also The candidate should either know Rust or be able to learn it fast; Experience with C/C++ is a plus; Proficiency with multi-threading and distributed systems is a plus. ## Responsibilities: Extending various WebAssembly compiler backends and tooling provided by Wasmer and Wasmtime; Implementing code generation and code transformation tooling for WebAssembly; In the future, you might also be working with virtual machines from the blockchain space, like EVM and RISC-V VMs; In the future, you might also be developing or extending a WebAssembly interpreter. ## Ideal Candidate: Worked 10+ years on the compilers, worked with WebAssembly, able to write Rust. ## Get to Know Near Near is building the infrastructure of the decentralized web, including the NEAR Protocol smart contract platform and a variety of supporting tools. NEAR is a scalable blockchain designed to provide the performance and user experience necessary to bridge the gap to mainstream adoption of decentralized applications. Unlike other next generation blockchains, this network has been built from the ground up to be the easiest in the world for both developers and their end users while still providing the scalability necessary to serve those users. ## Working at Near At Near, you have the chance to become an early member of a world-class team with significant upside. The opportunity we are tackling will completely reshape the landscape of the web for decades to come and potentially affect billions of people. We are funded by the top names in the industry and have attracted the best technical minds in the world to create a technology that will directly change the lives of billions of people. This is a performance culture where you'll be working alongside -- and learning from -- other top quality teammates executing at their best. We value boldness, ownership, transparency, curiosity and experimentation. We pay competitively plus we offer all employees full health benefits, daily lunch and a fully stocked office within walking distance of BART in SOMA. If you're excited by the challenge of winning in the fastest moving ecosystem as a member of its best team, this might be a good fit. ", 
+    "CompanyName": "NEAR Protocol", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-21", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "D626429125C1764107198D1BA3E5BAEC", 
+    "KeyTerms": "rust, wasm, smart contract, startup, dapps, distributed systems, software engineer, decentralized", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20rust", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20rust", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "NEAR Protocol hiring Software Engineer, Expert in WebAssembly and Compilers in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-expert-in-webassembly-and-compilers-at-near-protocol-1644195078?refId=c0ab22e0-14ab-4d73-be18-7a2a4cfd5a22&position=12&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

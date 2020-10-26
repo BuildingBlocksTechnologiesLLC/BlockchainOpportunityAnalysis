@@ -1,0 +1,21 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20typescript",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs-san-francisco-ca?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20typescript",
+    "RequiredMatch": "cryptocurrencies",
+    "DocumentType": "JobBoards",
+    "Title": "Intelletec hiring Senior Software Engineer | Leading Enterprise Digital Asset Platform in Palo Alto, California, United States | LinkedIn",
+    "Hash": "4351AE13195A68CE3A6615FADEFCFFA0",
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-leading-enterprise-digital-asset-platform-at-intelletec-1855321856?refId=85a1600e-7036-4168-93be-0cbe91020e2f&position=3&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-21",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Kiel O'Mara Kiel O'Mara Managing Consultant, Security & Emerging Technologies Recruitment @ Intelletec My client is a well-funded, successful Institutional Digital Asset Platform. They are the market-leader in digital asset financial services, providing clients with security, custody, and liquidity solutions. They have raised over $15m, Series B and made several acquisitions of rival startups. Intelletec has been working with them since their conception and continues to help them scale. What You'll Bring: At least 5 years of back-end, server-side software development Strong experience with NodeJS or Java Strong experience with RESTful API design Great with unit and functional testing and debugging Experience in Git/GitHub and branching methodologies, code review tools, CI tools, JIRA, Confluence, etc. Bachelor\u2019s degree in computer science, applied mathematics, or another technical discipline Great at algorithm design, problem-solving and complexity analysis Bonus Points: Deep understanding and experience working in the financial industry Understanding and a strong interest in cryptocurrencies and blockchain industry Familiarity with any of the following: API and SDK services, digital wallets, clearing and settlement, lending, etc. Familiarity with Kubernetes, Goland, Typescript, etc. Experience with large-scale, real-time, and distributed applications On Offer: Base to $180k Strong Equity Awesome Benefits Visa transfers available for H-1b "
+}

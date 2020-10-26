@@ -1,0 +1,25 @@
+{
+    "Body": " Senior Software Architecture and Engineer, Edge and Cloud Computing Software Engineer V R2014840 Moffett Field, California NASA Ames Research Center HX5 is an award-winning provider of engineering, research and development, and technical services to clients such as NASA and the Department of Defense. Founded in 2004, HX5 is a fast-growing veteran-owned and woman-owned company with locations nationwide. HX5 is currently seeking a Senior Software Architecture and Engineer for Edge and Cloud Computing to join our team at NASA\u2019s Ames Research Center in Mountain View, California. As a Senior Software Architecture and Engineer, Edge and Cloud Computing you will: Drive development of the s/w air traffic management system architecture that aims to support vertically isolated, latency sensitive Urban Air Mobility (UAM) applications by providing ubiquitous, scalable, federated, and distributed computing, storage, communication, and data management. Provide subject matter expertise in cloud and edge computing technologies. Explore and develop approaches to migrate application and data along the edge computing network. The approach should also take into consideration predictions of vehicle mobility over a given time horizon and proximity of data storage to the application throughout the migration process. Explore and develop approaches where vehicles request services that require data from airspace, IoT sensors, neighboring vehicles, and smart-city infrastructure to be processed at edge nodes under low-latency conditions. Work with system engineers to develop requirements Develop a prototype of the concept using appropriate cloud and simulation technologies Education Experience and Traits: Significant expertise in cloud and edge computing technologies that have helped fuel the mobile and IoT revolution. Expertise is specifically required in systems that address location-aware, low-latency, geographically distributed computational nodes; scaling and coordination of networks; heterogeneity, interoperability; end-point mobility; interplay between client, edge, and cloud layers; optimal placement of storage and computation along the cloud continuum. Significant experience with Edge/Cloud simulation tools Experience working on large s/w projects that involve cloud computing technologies Preferred: Strong s/w development fundamentals such as test-driven and behavior-driven development Experience with an object-oriented programming language such as JAVA or C#. Relational and Non-Relational Database experience AWS or Azure cloud experience Knowledge of blockchain technologies Must be able to obtain and maintain the appropriate level of security clearance for the position. HX5 offers a competitive salary and benefits package to include: Medical/dental/vision insurance 401(k) plan with company match Paid holidays Accrued Paid Time Off HX5, LLC is an equal opportunity (M/F/D/V) and a Drug Free Workplace employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, or disability status. ACCESSIBILITY NOTICE: If you need a reasonable accommodation for any part of the employment process due to a physical or mental disability, please send an email to: employment@hxfive.com or call (850) 362-6551.Show moreShow less ", 
+    "CompanyName": "HX5, LLC", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "B6F5664B2565346B35F8741E2FBCF5CA", 
+    "KeyTerms": "cloud, cloud experience, java, internet of things, interoperability, software engineer, aws, cloud computing, azure", 
+    "Language": "English", 
+    "Location": "Mountain View, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20off", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "362-6551.", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20off", 
+    "TackIt": "true", 
+    "Title": "HX5, LLC hiring Senior Software Architecture and Engineer, Edge and Cloud Computing in Mountain View, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-architecture-and-engineer-edge-and-cloud-computing-at-hx5-llc-1942287226?refId=534323cb-f452-44e4-8572-1be4c141e33a&position=21&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

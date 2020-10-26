@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20quorum",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20quorum",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Synechron hiring Lead Java Developer in Jersey City, New Jersey, United States | LinkedIn",
+    "Hash": "65DBB88E80E379BCA7D1042071DBE158",
+    "Url": "https://www.linkedin.com/jobs/view/lead-java-developer-at-synechron-1891518511?refId=dd480f3a-2313-4c62-a71b-1f2910069fb2&position=7&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Lithuanian",
+    "TackIt": "true",
+    "Body": " Posted by: Rajeev Kaushik [LION] Rajeev Kaushik [LION] Global Recruiting Leader at Synechron / Vice President - Membership at Synechron NY Toastmasters International Looking for strong Java resource with hands on experience with DevOps technologies - Spring/SpringBoot JPA/Hibernate Spring Security (OAuth/OpenIDC/SAML) Java 8/Java 11 features Concurrency/Networking Rest API design and development JUnit DevOps Jenkins GitHub Actions Automation Scripting (Python/Ansible/Bash) Cloud IaaS setup (CLI, CloudFormation/ TerraForm) NGINX/Apache (Routing/LoadBalancing/FailOver) API Gateways (APIGEE/NGINX/Nutanix) Monitoring (Prometheus/Nagios/Cloudwatch) Optional (Plus) Hadoop/Spark/Pandas/Scala/Python ML (PyTorch/Tensorflow/Keras) - Blockchain (Ethereum/Quorum/Corda/Hyperledger) UI Development (React/Angular) - Authn & Authz (Octa/Keycloak/PingFederate/AWS IAM) "
+}

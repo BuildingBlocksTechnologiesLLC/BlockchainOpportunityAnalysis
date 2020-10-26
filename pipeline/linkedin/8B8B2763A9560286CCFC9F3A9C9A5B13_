@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20nodejs",
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20nodejs",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Infovision hiring Senior Blockchain Developer in Irving, Texas, United States | LinkedIn",
+    "Hash": "8B8B2763A9560286CCFC9F3A9C9A5B13",
+    "Url": "https://www.linkedin.com/jobs/view/senior-blockchain-developer-at-infovision-1802140255?refId=67b09320-676a-4ae3-9d9b-4db12218a4ea&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-09",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Charan Varanasi Charan Varanasi RDM @ InfoVision Inc Title:????????????????????????????????????????BlockChain??Developer Location:????????????????????????Irving, TX Description: ????????????????????Hands on Sr Block chain??developer ????????????????????Experience with Hyper ledger (Must) ????????????????????Must have experience with at least 2 languages - Go Lang Node Js,Python, Java ????????????????????Proven track record of implementing Hyper ledger based block chain systems Regards Charan Varanasi Resource Development Manager InfoVision Inc. Cell: 972-792-9969 Email : charan@infovision.com Website : www.infovision.com Winner of Inc 500, Deloitte Fast 500, MBN 100 "
+}

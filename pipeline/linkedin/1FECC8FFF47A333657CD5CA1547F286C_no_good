@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cryptography",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cryptography",
+    "DocumentType": "JobBoards",
+    "Title": "MadHive hiring Back End Engineer (blockchain group) in Columbus, Ohio, United States | LinkedIn",
+    "Hash": "1FECC8FFF47A333657CD5CA1547F286C",
+    "Url": "https://www.linkedin.com/jobs/view/back-end-engineer-blockchain-group-at-madhive-1653526589?refId=51616a57-640d-4240-a95d-35869cb1095d&position=25&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-07-13",
+    "DomainId": "linkedin",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": " About Madhive MadHive\u2019s next-generation advertising suite is a data management platform that leverages cryptography, blockchain, and AI to optimize business outcomes and deliver evidence-based accountability. We challenge ourselves daily to build products that are easy to use, deliver exceptionally effective campaigns, and increase the power of valuable ad dollars. Responsibilities From game-changing cryptography to the latest in cloud engineering, Madhive uses powerful new technologies coupled with world-class design to deliver evolved solutions. Write clear code that matches design specifications. Ensure proper operation of code through detailed testing. Design and implement highly concurrent client/server systems. Follow best security practices at all times. Never be afraid to propose the better idea. Requirements You have at least 3-5 years experience as a developer, and are a strong developer in Go or similar languages Knowledge and hands on experience with Github and Linux. You have a passion for programming and a desire to write clean concise code. Deep understanding of design patterns, software development methodologies and principles. You have experience developing JSON-based api endpoints. Knowledge of Peer to Peer Networking is a plus.Show moreShow less ",
+    "Location": "Columbus, Ohio, United States",
+    "CompanyName": "MadHive",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

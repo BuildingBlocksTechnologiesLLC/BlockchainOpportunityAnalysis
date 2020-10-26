@@ -1,0 +1,25 @@
+{
+    "Body": " Messari is a fast growth startup in New York that is building the next generation data layer for the global cryptoasset community. We believe data is knowledge, and with knowledge, you can invest with confidence. But getting information you can trust in the crypto world is hard. Our mission is to drive factual crowd-sourced information and data transparency across every corner of the emerging token ecosystem by building an open data library for blockchain projects and cryptoassets. We are applying ideas of open data and crowdsourcing to financial services, giving investors the tools they need to separate the wheat from the chaff, and helping enable smarter regulation along the way. Are you passionate about crypto finance? Do you daydream in the overlap between open-source coding and Freakanomics? Do you want to help change the world and build the core data infrastructure for the next 100 years? Then we want to talk to you. We\u2019re looking for a dedicated, methodical, and versatile backend engineer with the experience and passion to solve tough problems with scalable high performance code. We need someone who can quickly adapt to shifting approaches, situations, and priorities. You will work in a team with fellow engineers to create highly scalable, distributed web services that serves millions of requests a day. About The Job Build and deploy our core data platform, and infrastructure services working in a combination of Java, Go, and NodeJS. Design and implement a fleet of microservices backed by Kubernetes supporting a dynamically scalable architecture. Integrate real-time data feeds from exchanges, compute real-time metrics, and deliver to strict SLA requirements with a robust API, under the hood working closely with Postgres, BigQuery, and other data stores. Experience working with crypto exchange APIs is a plus.About you You write killer well-structured Java, Go and Node.js code. You have experience architecting and developing large scale distributed systems. Experience in concurrency, multithreading and synchronization is a plus. You are a passionate Mission First, Team Always person with a strong drive to do important and valuable work. You ship. You take ownership, you move with a sense of purpose, and you deliver results. You measure twice and cut once. You think carefully about a problem, plan how to execute it, and then make it happen. You know how to take a break, and are passionate about life both inside and outside the office. ", 
+    "CompanyName": "Messari", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-21", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "EB8B20531DA2A61434EF143284A51B12", 
+    "KeyTerms": "kubernetes, cryptoasset, financial, exchanges, nodejs, microservices, back end, java, startup, distributed systems, cryptoassets, multithreading, software engineer, postgres", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cryptoassets", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "cryptoasset", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cryptoassets", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Messari hiring Software Engineer - Markets Infrastructure in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-markets-infrastructure-at-messari-1545126881?refId=0e48acaf-121b-48d4-a2f2-59d49d7aea98&position=1&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

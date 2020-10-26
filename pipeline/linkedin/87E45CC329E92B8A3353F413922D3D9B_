@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20crypto",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20crypto",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "SFOX hiring Product Manager: Trading Platform in Los Angeles, California, United States | LinkedIn",
+    "Hash": "87E45CC329E92B8A3353F413922D3D9B",
+    "Url": "https://www.linkedin.com/jobs/view/product-manager-trading-platform-at-sfox-1591666258?refId=4b9c187a-e8e7-439f-832d-5aa45c605361&position=14&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Founded in 2014, we're a cryptocurrency prime dealer for pro investors such as funds, family offices, and high-net-worth individuals, with over $9 billion in transaction volume to date. We just raised our Series A and are backed by top investors including Tribe Capital, Y Combinator, Khosla Ventures, DCG, and Blockchain Capital. At SFOX, we believe the evolution of blockchain-based technologies will fundamentally shift the nature of financial products in the future. We're at the beginning of this process and we're looking for our first product manager who will work cross-functionally with our product, engineering, sales and trading teams to solve the design problem of the century - make crypto currency and blockchain easy to use. Given the exploratory nature of our space, you'll do best if you get excited about rapidly prototyping, and productizing a wide range of unconventional and creative solutions that both acknowledge but also reimagine the status quo. Responsibilities Own, drive, and execute the SFOX trading platform's product roadmap, delivering edge in a compliant manner to SFOX's customers. Identify and execute new growth opportunities, from products, to distribution channels, to partnerships. Lead a team of engineers and product designers through the product development lifecycle end-to-end. Collaborate with business development leads to add new assets to the SFOX trading platform. Build deep partnerships with external vendors, liquidity partners, and institutions in the crypto trading space. Work with leads to provide thought leadership and storytelling around how we may support the evolution of blockchain technologies through product Qualifications 5+ years leading and shipping products that have materially impacted their users Significant trading experience with a deep understanding of client facing trading tools (price discovery, execution, workflow and post trade) and electronic trading/aggregation platforms. Demonstrated expertise designing new products Demonstrated expertise distilling complex challenges down to their core components and dependencies Familiarity with Wall Street Systems and crypto currencies is value add "
+}

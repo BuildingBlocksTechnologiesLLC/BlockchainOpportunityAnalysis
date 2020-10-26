@@ -1,0 +1,24 @@
+{
+    "Body": " At dYdX you'll have an opportunity to build state-of-the-art decentralized technology that will redefine global financial markets. By joining us at this early stage you will make fundamental decisions that will shape the course of dYdX. We prefer passionate quick learners with a history of excellence at top companies and/or universities. Take our coding challenge here. We'll reach out if it's a good fit! About DYdX We've built the world's leading decentralized exchange for lending, borrowing and margin trading Ethereum based assets dYdX is founded by an ex-Coinbase, ex-Uber engineer, with Princeton CS background. Our team has previous experience at Google, Bloomberg, Amazon, Bain, NerdWallet and other top companies We're a world-class team with top backers and advisors, including Andreessen Horowitz, Polychain Capital, Brian Armstrong, Fred Ehrsam, Naval Ravikant, Elad Gil and more Responsibilities Write low latency financial software that will process millions of dollars a day worth of trading volume, including order book matching engines, trading algorithms, API endpoints for placing / canceling / retrieving orders Integrate directly with the Ethereum blockchain to efficiently process and store on-chain information Build high performance REST & WebSocket APIs to power our frontend app as well as programmatic traders Write open source TypeScript & Python clients that allow users to interact directly with our on-chain smart contracts Build and enhance the web application for our decentralized exchange Work efficiently and timely across the stack: this role is 50% backend and 50% frontend focused Create user experiences that are simple, performant and reliable Requirements 4-6 years experience working as a full-time developer You write secure, efficient, high quality code and have a good understanding of CS fundamentals You have experience with or are open to learning JavaScript, TypeScript, Node.Js, PostgreSQL, Redis, Kafka, Express, WebSockets, Docker You are a fast learner who can quickly master new technologies Nice To Haves You've worked on high quality products in the finance or security space Experience building Web Services, SQL, CSS, React, Redux You have an strong interest in decentralized finance CS Degree or equivalent experience SDL2019-32 ", 
+    "CompanyName": "dYdX", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "47474387F202B8DBA3EFBFCE941A2964", 
+    "KeyTerms": "trading, algorithms, front end, python, css, financial, defi, react, nodejs, decentralized, full time, javascript, docker, sql, ethereum, back end, smart contract, websocket, kafka, software engineer, typescript", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20typescript", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "decentralized", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20typescript", 
+    "TackIt": "true", 
+    "Title": "dYdX hiring Senior Software Engineer - Full-stack in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-dydx-1841743142?refId=010dbd7b-cf50-41bd-bb53-1dd3dc80a819&position=10&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

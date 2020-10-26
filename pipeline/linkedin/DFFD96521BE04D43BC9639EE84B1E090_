@@ -1,0 +1,24 @@
+{
+    "Body": " We are looking for Software Engineers, Blockchain to join our team in Blacksburg, Virginia. You will be responsible for helping design and develop the open source EOSIO blockchain software and other future decentralized projects, and to coordinate with the rest of the team working on various layers of infrastructure. You will have the opportunity to work on novel consensus algorithms, high performance p2p networking algorithms, databases, and high-throughput virtual machines to meet the needs of the EOSIO platform. Responsibilities Design, build, and maintain efficient, reusable, and reliable C++ code Develop blockchain solutions and provide support for blockchain development Implement performance and quality modules Identify bottlenecks and bugs, and devise solutions to these problems Help maintain code quality, organization, and automatization Able to work independently with minimal guidance on tasks Qualifications Strong proficiency in C++, with solid knowledge of language specification. Experience with C++ 11 or 14 required, particularly mastery of STL, Boost and Lambdas. 4+ years of experience, preferably in an environment where latency and speed are factors (e.g., finance) BA/MS degree in Computer Science or related degree Familiarity with blockchain a plus, but not required About Block.one LLC Block.one is the global leader in high-performance blockchain software. In 2018, it published the EOSIO software, a free, open-source protocol designed to be adapted and utilized by the developer community and companies to create a more secure and transparent back-end system. EOSIO is regarded as the fastest, most scalable, most active blockchain software in the world. It addresses the limitations of first-generation blockchain platforms while retaining the core benefits of the technology: security, accountability, and immutability. Block.one\u2019s latest product, Voice, aims to redefine social media by cultivating creation, sharing, discovery and promotion of content by real users. Block.one further encourages a robust blockchain ecosystem through developing and supporting projects built on EOSIO via its venture capital unit, EOS VC. For further information, please visit block.one. About EOSIO Published by Block.one, EOSIO is a blockchain protocol that enables horizontal scaling of decentralized applications, allowing developers to efficiently create high performance distributed applications. The EOSIO software provides accounts, authentication, databases, and the scheduling of applications across multiple CPU cores and/or clusters. This allows for horizontal scalability, replaces user fees with an ownership model, and powers simple deployment of decentralized applications. Check out the EOSIO GitHub repository to read our source code and, for more information, visit the resources section of the EOSIO website. Powered by JazzHR ", 
+    "CompanyName": "Block.one", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-01", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "DFFD96521BE04D43BC9639EE84B1E090", 
+    "KeyTerms": "consensus, algorithms, github, blockchain platforms, financial, peer to peer, consensus algorithms, dapps, software engineer, decentralized, distributed application", 
+    "Language": "English", 
+    "Location": "Blacksburg, Virginia, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20distributed", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20distributed", 
+    "TackIt": "true", 
+    "Title": "Block.one hiring Software Engineer, Blockchain in Blacksburg, Virginia, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-blockchain-at-block-one-1822791675?refId=9f9793db-f6c7-40f5-8eb7-b0c75568e798&position=17&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

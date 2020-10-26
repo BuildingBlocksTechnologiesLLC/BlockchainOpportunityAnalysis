@@ -1,0 +1,26 @@
+{
+    "Body": " Job Description We are looking for a person who loves automating manual work, solving complicated problems, says no to downtime, working in an energetic and free-thinking environment, feels comfortable challenging opinions, and most importantly who shares with us the same desire to build the distributed Web. The NEAR Protocol Engineering team is looking for a Site Reliability Engineer to work as part of all core engineering teams to help cope with the operational load of a fast growing team. At NEAR Protocol, we must deliver availability, performance, efficiency, monitoring and emergency response, all while enabling decentralization of the NEAR Protocol's Open Web infrastructure. We are looking for a person to join our distributed on-call rotational team and help us create a self-sustaining blockchain infrastructure. This is a high-productivity and highly dynamic startup environment so you will need to be comfortable operating quickly but precisely amidst changing needs. There is opportunity to inject your creativity in almost any aspect of blockchain development. Qualifications Excellent written and verbal communication skills in English Proven ability to be effective on a distributed team Passion for open source Advanced Python coding skills Solid understanding of UNIX internals Sharp troubleshooting skills, no problem is impossible to solve Experience with cloud provisioning tooling like Terraform, Packer, Ansible, Docker Experience with monitoring infrastructure like Grafana, Prometheus, Datadog Experience with CI infrastructure such as Travis, CircleCI, or Jenkins Experience in keeping services up 24/7 Expertise in large-scale distributed systems. Nice To Have Experience with the Rust programming language Experience with multiple cloud providers AWS, Azure and Google Cloud Platform Knowledge of blockchain technologies. Responsibilities Together with the engineering team you will share the 24/7 oncall rotation Help build self-driving services which run and repair themself Help define SLOs and mission critical metrics Drive our incident management response processes Build an emergency response playbook with monitoring and alerting Work with our core blockchain, middleware, and apps teams to deliver secure and high availability services Collaborate with a geographically distributed team, work in the open as part of the NEAR Protocol open source project, and engage with NEAR Protocol's global communityShow moreShow less ", 
+    "CompanyName": "NEAR Protocol", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "B5907C5D4D05B018A531AB967B6546D2", 
+    "KeyTerms": "cloud, rust, python, startup, distributed systems, terraform, aws, ansible, docker, azure, middleware", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20terraform", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20terraform", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "NEAR Protocol hiring Site Reliability Engineer in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-near-protocol-1929933847?refId=875dcc5d-7a20-4a33-ab22-cddfcd145183&position=6&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

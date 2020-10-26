@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20react",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20react",
+    "DocumentType": "JobBoards",
+    "Title": "WinningEdge Solutions LLC hiring React JS Lead in Glendale, Arizona, United States | LinkedIn",
+    "Hash": "24CDA3D3DCC5ABBEE4EF2BDE5C156C26",
+    "Url": "https://www.linkedin.com/jobs/view/react-js-lead-at-winningedge-solutions-llc-1886292306?refId=584c6c82-5153-46aa-82bb-984c02369712&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Romanian",
+    "TackIt": "true",
+    "Body": " Company Description Winning Edge Solutions is a IT Staffing and Consulting firm headquartered in Maryland, USA. We specialize in EAI, SOA, Microservices, ESB, API Security & Management, BPM, Cloud & B2B Integration, AWS, Blockchain, ETL/BI, Master Data Management solutions. Job Description Required Skills:- UI developers with minimum 10+ years of overall experience and minimum 2 years of hands-on ReactJS/Redux experience. The resource needs to be - very good in development skills using Java and REACTJS Mandatory Skills: ReactJS, Redux Other Skills: ag-grid, jest, webpack, bootstrap, CSS, Reactstrap, Express.js, Axe, HTML5 IDE -Visual Code Studio Great communication skills Hands on Coding Experience is required Web Accessibility \u2013 ADA/ARIA Knowledge and experience in web accessibility. Unit Testing Through understanding of ES6, ES7, ES8/newer specifications of ECMAScript. Strong knowledge in core web fundamentals (HTML, CSS, JS). Qualifications null Additional Information All your information will be kept confidential according to EEO guidelines. ",
+    "Location": "Glendale, Arizona, United States",
+    "CompanyName": "WinningEdge Solutions LLC",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

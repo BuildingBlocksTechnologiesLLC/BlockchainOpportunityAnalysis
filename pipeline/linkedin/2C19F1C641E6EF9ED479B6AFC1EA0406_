@@ -1,0 +1,24 @@
+{
+    "Body": " Automation Engineer (Python) Permanent NYC, NY Position:Automation Engineer (Python) Location: NYC, NY Duration: Full time Job Description We are looking for an Automation Engineer to develop and execute exploratory and automated tests to ensure application quality. Automation Engineer responsibilities include designing and implementing tests, debugging and defining corrective actions. The work can span from automating Smart Contract tests to our front-end portal to creating full end to end performance tests. This role plays an important part in our company\u2019s application development process. Our ideal candidate will be responsible for developing automated tests in Python, bash, and leveraging tooling to ensure application quality. Responsibilities Design, develop and execute automation suite using python, go and bash Work with application and business teams to understand the end to end flow and data needed to test the application Identify, record, thoroughly document and track bugs adding to our automation suite Perform thorough regression testing when bugs are resolved Requirements 3+ years\u2019 experience in an engineering role (software, QA, Automation) Solid Knowledge of Python Solid knowledge of Bash programming Experience with one or more performance testing tools (Gatling, NewRelic, AppDynamics) Experience with one or more Automation tools (Selenium, TestComplete, ..) Possess a working understanding of APIs BS/MS degree in Computer Science, Engineering or a related subject Knowledge of working with CI/CD pipelines and jobs Strong verbal and written communication skills High attention to detail Good to have Knowledge of blockchain is a plus Experience with Solidity and Truffle is a huge plus Knowledge of api testing tools is a plus Knowledge of deploying applications to cloud (AWS preferred) Experience using Docker is a plus Familiarity NodeJS/npm ", 
+    "CompanyName": "Endure Technology Solutions", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-07", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "2C19F1C641E6EF9ED479B6AFC1EA0406", 
+    "KeyTerms": "cloud, python, smart contract, ci cd, npm, truffle, nodejs, aws, full time, solidity, docker, application development", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20solidity", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20solidity", 
+    "TackIt": "true", 
+    "Title": "Endure Technology Solutions hiring Automation Engineer (Python) in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/automation-engineer-python-at-endure-technology-solutions-1877846499?refId=95f2fe39-0823-4d65-9769-1bac6de99a44&position=19&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

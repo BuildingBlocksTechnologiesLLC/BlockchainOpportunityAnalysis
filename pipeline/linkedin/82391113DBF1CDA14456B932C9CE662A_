@@ -1,0 +1,24 @@
+{
+    "Body": " Position Description We need an experienced Technical Lead, DevOps/Site Reliability Engineer to join our team to help us build a global payment system on the Libra Blockchain. As a DevOps/Site Reliability Engineer, you\u2019ll work to deeply understand our current state and roadmap. You\u2019ll use your extensive experience in DevOps, blockchain technology, and cryptocurrency to help optimize the Libra network for growth and adoption by members and end consumers. You will monitor, manage, and maintain the Libra network; work with our members to ensure efficient deployment, operations, performance, and SLAs of validator nodes; coordinate responses to critical incidents; and coordinate planned new releases. Responsibilities Manage and maintain network health, including: Monitor top-level network statistics, including finality time, transaction costs, and mempool backlog Coordinate response to critical incidents, including incidents that impact all validators, possible hard forks, and ongoing exploits Ensure each validator is meeting performance and availability SLAs Coordinate planned new releases, including defining release frequency, coordinating pre-release testing, and coordinating release timing and expectations with validators Manage validator deployment and operations, including ensuring up-to-date documentation for validator hardware requirements, validator deployment across all environments, validator key management, and common validator operations Build services and infrastructure that monitor the health, uptime, and reliability of our blockchain infrastructure Work closely with other engineers and team members; our team is highly collaborative and we strive to create shared understanding of systems Contribute to architecture discussions; we need a strong technical leader that can help drive and own whole systems Incorporate monitoring, alerting, and observability into systems so that we can debug, diagnose, and fix problems Be part of an on-call rotation for production events or outages Qualifications 10+ years of Site Reliability Engineering / DevOps experience Expertise with deployment on AWS, GCP, Azure, and on-premises Excellent knowledge of blockchain technology and experience deploying blockchain infrastructure Cryptocurrency knowledge Excellent written and oral communication skills, especially in a matrixed-type organization Self-motivated and able to thrive in rapidly evolving and entrepreneurial environments Detail oriented with strong ability to analyze strategically at a high level Resourceful and creative thinker with strong problem-solving skills Desire to build something that will positively impact billions of people To apply, please visit https://libra.org/en-US/careers/. The Libra Association is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, or veteran or disability status. ", 
+    "CompanyName": "Libra Association", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-07", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "82391113DBF1CDA14456B932C9CE662A", 
+    "KeyTerms": "cryptocurrency, devops, validator, libra network, aws, azure", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20libra", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20libra", 
+    "TackIt": "true", 
+    "Title": "Libra Association hiring Technical Lead, Site Reliability Engineer in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/technical-lead-site-reliability-engineer-at-libra-association-1769128080?refId=049617ca-efa1-4ee8-bb0f-2f553eb03470&position=14&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

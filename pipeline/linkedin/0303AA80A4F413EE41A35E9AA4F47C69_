@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20bitcoin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20bitcoin",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Intelletec hiring Senior Software Engineer in San Francisco Bay Area | LinkedIn",
+    "Hash": "0303AA80A4F413EE41A35E9AA4F47C69",
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-intelletec-1882539392?refId=ee6f4e86-ae44-4d73-9bfd-3567c16908a1&position=22&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Jemma Buckle Jemma Buckle Senior Consultant | Software Engineering, USA We are partnered with a market-leading Cryptocurrency investment services company who have offices in San Francisco, Palo Alto and can also consider remote candidates.Â  The platform provides security, compliance and custodial solutions for Blockchain-based currencies. Their platform is currently processing 20% of all Bitcoin transactions, accounting for over $15 billion per month across all Cryptocurrencies. Due to the high volume of transactions, the applications need to be fast, accurate, scalable and secure. A Senior Software Engineer is needed to join the team to continue building these powerful applications, using the best technologies the industry offers. The company was founded in late 2012 and acts as one of the leading processors of Bitcoin transactions in the world. They are backed by Craft Ventures, DRW, Galaxy Digital Ventures, Goldman Sachs, Redpoint Ventures and Valor Equity Partners. Responsibilities: Design and build strong, resilient, and robust APIs, libraries, and services to power the financial services: clearing and settlement, digital asset lending, liquidity Own functionality and scalability features by taking responsibility from inception to deployment and customer integration Expose and document functionality to the UI, third-party developers, and internal and external tooling Collaborate closely with all engineering teams to ensure consistency in understanding of technical requirements and overall work quality Provide mentorship to your peers in the broader engineering team through code reviews and education on best practices Skills and experience needed:Â  At least 5 years of back-end, server-side software development Strong experience with server-side languages like Golang, TypeScript/Node.JS, Java, etc. Strong experience with SQL databases like MySQL or Postgres Confident with RESTful API design Great with unit and functional testing and debugging Experience with microservices and service-oriented architectures Experience in Git/GitHub and branching methodologies, code review tools, CI tools, etc. Bachelor\u2019s degree in computer science, applied mathematics, or another technical discipline from a top university Great at algorithm design, problem solving, and complexity analysis Advantageous: Understanding of and experience working in the financial industry Understanding of and strong interest in cryptocurrencies and blockchain Familiarity with any of the following: digital wallets, clearing and settlement, lending, trading, accounting systems, etc. Ability to work full-stack and familiarity with React and GraphQL Familiarity with Docker and Kubernetes Experience with large-scale, real-time, and distributed applications On offer: Competitive base salary Strong Equity and bonus Awesome benefits If you're interested in this role please click apply and send through your resume!Â  "
+}

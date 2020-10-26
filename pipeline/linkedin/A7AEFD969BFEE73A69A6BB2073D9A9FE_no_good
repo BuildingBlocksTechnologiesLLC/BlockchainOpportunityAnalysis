@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20react",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20react",
+    "DocumentType": "JobBoards",
+    "Title": "Findora hiring Front-End Engineer in Menlo Park, California, United States | LinkedIn",
+    "Hash": "A7AEFD969BFEE73A69A6BB2073D9A9FE",
+    "Url": "https://www.linkedin.com/jobs/view/front-end-engineer-at-findora-1823001491?refId=584c6c82-5153-46aa-82bb-984c02369712&position=11&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Front-end Engineers work with a talented team of systems, research, and full stack engineers and architects as Findora builds out its core infrastructure and specific applications. The core engineering team\u2019s primary focus is to build out the Findora platform, a highly performant distributed system incorporating significant innovations in cryptography, storage/authenticated data structures, and consensus/state machine replication. Additionally, as the platform is implemented, a growing number of ecosystem applications will be developed atop the Findora infrastructure, requiring a full stack engineering effort. Front-end engineers must collaborate effectively with graphic designers and UI/UX designers to make Findora applications as frictionless as possible. We are looking for talented front-end engineers to implement fluid interfaces for our products. Responsibilities Front-end web and mobile application development using a variety of languages, tools, and frameworks, including React, Node.js, HTML/CSS/JavaScript, Prisma/GraphQL, Docker, etc. Implement pixel-perfect mock-ups and designs Collaborate with product, design, and business teams to define feature specifications, design mockups, and implement a wide suite of tools built on FindoraMinimum requirements B.S. degree in Computer Science or similar field; or equivalent practical experience 2+ years of programming experience UX/design experience Great communication and teamwork skills to plan and meet product milestones Understanding of best security practices Ability to create clean and modular codePreferred Experience with enterprise software development Experience with/understanding of cryptography, blockchain, and/or financial services Familiarity with full stack development and deployment best practices Design intuition and skillPerks Work on new problems in an emerging field Learn from systems engineering and cryptography domain experts in a mentorship-oriented work culture Make a big impact as an early contributor ",
+    "Location": "Menlo Park, California, United States",
+    "CompanyName": "Findora",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

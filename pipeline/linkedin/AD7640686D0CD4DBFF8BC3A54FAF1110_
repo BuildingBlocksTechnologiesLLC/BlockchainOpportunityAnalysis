@@ -1,0 +1,24 @@
+{
+    "Body": " Axoni is a capital markets focused distributed ledger technology firm. Our innovative and unique distributed ledger technology has proven itself successful across multiple asset classes and use cases at the world\u2019s most advanced financial institutions. Our diverse team of capital markets, cryptographic research, and technology development skills focuses every day on our goal of building products that will change and improve how our clients and the markets will interact. We are building the next generation of capital markets technology and we are seeking talented, motivated professionals that want to be part of this once-in-a-career opportunity to not only see, but also drive the incredible changes coming to global capital markets. Headquartered in New York City, the Senior Scala Engineer will be responsible for coordinating technical development of our infrastructure. This hands-on role will be responsible for coordinating tasks across other developers, managing pull requests, as well direct software development. Candidates should have a strong understanding of algorithm development, networking components, and implementing secure protocols. Relevant Skills And Experience 5+ years of non-internship professional software development experience Minimum of 2+ years of functional programming in Scala Experience with Akka Experience building REST API services Comfort with large data sets, preferably experience with Redis PostgreSQL, MySQL, Oracle, or DB2 Knowledge of security best practices for application architecture, communication protocols, and AWS infrastructure Comfort with workflows in Gitlab, Jira, and Confluence Experience with Docker / Kubernetes a plus Experience with gRPC/protobuf, Play Framework or Spring Boot a plus Experience with Java / overall JVM ecosystem a plus Experience working with OAuth and Authorization providers a plus Experience with AWS infrastructure Familiarity with network protocols (http/2, tcp) a plus Knowledge of Solidity, Ethereum and Bitcoin blockchains a plus Best practices for facilitating Agile and Test Driven Development ", 
+    "CompanyName": "Axoni", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "AD7640686D0CD4DBFF8BC3A54FAF1110", 
+    "KeyTerms": "kubernetes, algorithms, scala, financial, capital markets, dlt, docker, ethereum, spring boot, java, tdd, mysql, agile, protocols, aws, bitcoin, functional program, jira, solidity", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20mysql", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "ethereum", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20mysql", 
+    "TackIt": "true", 
+    "Title": "Axoni hiring Senior Scala Engineer in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-scala-engineer-at-axoni-1635387296?refId=a96ab101-7d9e-4b3a-b050-e7cb71bac740&position=22&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

@@ -1,0 +1,20 @@
+{
+    "Body": " Direct message the job poster from GCS Recruitment Specialists Cory Dickson Technical Talent Partner | Tech Enthusiast | Career Match-Maker | Unicorn Hunter GCS is currently looking to hire (Direct) for a Sr/Lead Software Engineer\u00c2\u00a0 who will join an Engineering Team to help build new features and applications for enterprise clients. The end client processes a significant amount of cryptocurrency transactions so the applications need to be fast, accurate, scalable and secure. The integrated platforms interact with a number of exchanges, agencies, and governments around the world. Remote work is possible for candidates with 10+ years of experience post COVID (whenever that may be) Responsibilities: Build strong, resilient, and robust APIs and libraries to power our financial services: custody, clearing and settlement, digital asset lending, digital wallets and API and SDK services Own functionality and scalability features by taking responsibility from inception to deployment and customer integration Provide mentorship to your peers in the broader engineering team through code reviews and education on best practices Skills & Experience: Required 7+ years of back-end, server-side software development Strong experience with Node.JS, JavaScript, PostgreSQL and MongoDB Strong experience with RESTful API design Exxceptional with unit and functional testing and debugging Experience in Git/GitHub and branching methodologies, code review tools, CI tools, JIRA,\u00c2\u00a0 Bachelor\u2019s degree in computer science, applied mathematics, or another technical discipline from a top university Great at algorithm design, problem solving and complexity analysis Preferred \u00c2\u00a0 Understanding and experience working in the financial industry Understanding and/or strong interest in cryptocurrencies and blockchain industry Familiarity with any of the following: API and SDK services, digital wallets, clearing and settlement, lending, etc. Familiarity with Kubernetes, Docker, Golang, TypeScript, GraphQL, ReactShow moreShow less ", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "AC728FE977D59CF5C9623C17163772E0", 
+    "Language": "English", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20typescript", 
+    "RequiredMatch": "cryptocurrency", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20typescript", 
+    "TackIt": "true", 
+    "Title": "GCS Recruitment Specialists hiring Senior Lead Software Engineer in Palo Alto, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-lead-software-engineer-at-gcs-recruitment-specialists-1910357782?refId=3e0d680c-590f-4fc4-8f27-02174e556eab&position=7&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

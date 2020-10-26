@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20quorum",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20quorum",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Synechron hiring Blockchain Developer in Jersey City, New Jersey, United States | LinkedIn",
+    "Hash": "EB7D6CFC519B6A5A10A59A662A8E7D16",
+    "Url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-synechron-1888130501?refId=dd480f3a-2313-4c62-a71b-1f2910069fb2&position=1&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Posted by: Rajeev Kaushik [LION] Rajeev Kaushik [LION] Global Recruiting Leader at Synechron / Vice President - Membership at Synechron NY Toastmasters International Looking for Strong Blockchain Developer for one of our project in Jersey city, NJ Â  Minimum 10-15 years of experience in IT Strong Blockchain developer with good experience other technologies Blockchain - Ethereum/Quorum or Hyperledger Thorough understanding of blockchain principles Understanding of mining, block formation, validation Blockchain data types and structures (Possibilities/Limitations) Event driven design - Performance Optimization - Network creation/managment/trouble shooting Core Technologies Java/NodeJS/Go/Python - Docker/Kubernetes - Cloud (IaaS/PaaS) - Automation (Python/Ansible/CloudFormation/Terraform/Bash) - Strong on Linux "
+}

@@ -1,0 +1,25 @@
+{
+    "Body": " Test, monitor, secure, and stabilize our growing cryptocurrency network. Role Overview Mainstream cryptocurrencies handle large amounts of value exchange each day. As a result, rigorous security practices, thorough testing, and rock-solid infrastructure are of paramount importance. We're seeking a DevOps engineer who wants to use modern tools like Terraform, Kubernetes, and Docker to develop the core tooling we use to test, monitor, secure, and stabilize our growing cryptocurrency network. We are hiring engineers to work on a bunch of exciting projects, including: Advancing our testing environment that can simulate network performance with thousands of machines across variable network conditions Creating the core machine images we use to streamline onboarding new network nodes Developing sophisticated diagnostic systems that continuously monitor network performance and provide visibility into network health Designing robust, self-healing systems that ensure the health and stability of a fledgling cryptocurrency network under intense network loads or highly adversarial environments No Cryptocurrency Experience Is Necessary. __ ** This is a chance to join a small, collaborative team and gain a ton of independence while working on fascinating cross-disciplinary problems in computing. We also offer competitive compensation both in salary and equity as well as top-of-the-market benefits. Ideal Candidates Will Be Interested In Any Of Docker AWS/Google Cloud Distributed systems Functional programming Testing Security Cryptography Cryptocurrency Kubernetes Terraform Ansible Nix package management MirageOS About Us O(1) Labs is aiming to develop the first cryptocurrency protocol that can deliver on the promise of supporting real-world applications and widespread use. Our team is based in San Francisco, and we are funded by top investors (including Polychain, Metastable, Max Levchin, and Naval Ravikant). We're bringing Coda Protocol to market, a cryptocurrency that compresses the blockchain from hundreds of gigabytes down to the size of a few tweets. It can scale to thousands of transactions per second and millions of users while remaining decentralized enough for cellphones to be fully verifying nodes. We're working on technologies with the potential to reimagine social structures. We believe it's important to incorporate diverse perspectives from conception through realization. This is a chance to join a small, collaborative team and have a ton of independence while working on fascinating cross-disciplinary problems that span cryptography, engineering, product design, economics, and sociology. We also offer competitive compensation both in salary and equity as well as top-of-the-market benefits. Job Type: Full-time Salary: $98,016.00 to $150,000.00 /year Experience aws: 1 year (Preferred) devops, system admin: 1 year (Preferred) devops: 1 year (Preferred) Benefits Health insurance Dental insurance Vision insurance Paid time off Work from home Flexible schedule Work Remotely Temporarily due to COVID-19 ", 
+    "CompanyName": "O Labs", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "2369C9372A7F9D9749E86F2667E13FB7", 
+    "KeyTerms": "kubernetes, cryptography, decentralized, full time, cryptocurrencies, docker, ansible, cryptocurrency, cloud, devops, distributed systems, terraform, aws, functional program", 
+    "Language": "English", 
+    "Location": "Brooklyn, New York, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/jobs/view/externalApply/1851067703?url=https%3A%2F%2Fwww.adzuna.com%2Fdetails%2F1533612875%3Fv%3D8F21C87CD6531103650E6D418DBBD6890661F681%26utm_source%3Dlinkedin5%26utm_medium%3Dorganic%26partnerb%3D1%26chnlid%3D696&urlHash=YjPG&refId=a3b73d5e-5d06-45c7-a6fe-29af036fa434&trk=public_jobs_apply-link-offsite", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20decentralized", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "cryptocurrency", 
+    "Salary": "$98,016.00 to $150,000.0", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20decentralized", 
+    "TackIt": "true", 
+    "Title": "O Labs hiring Infrastructure Engineer in Brooklyn, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/infrastructure-engineer-at-o-labs-1851067703?refId=a3b73d5e-5d06-45c7-a6fe-29af036fa434&position=21&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

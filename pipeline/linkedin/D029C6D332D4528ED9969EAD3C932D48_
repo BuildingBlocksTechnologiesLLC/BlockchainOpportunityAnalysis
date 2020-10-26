@@ -1,0 +1,24 @@
+{
+    "Body": " This job posting is for a role in our Tribeca office in downtown Manhattan. We are looking for talented backend engineers to join our rapidly growing team in New York. At BlockFi, we are focused on providing financial products - like interest bearing accounts and low-cost credit products - to the blockchain ecosystem. Who We Need We're building out the products and infrastructure that powers our business. Our stack is largely Elixir on the backend, so if you have Elixir or Erlang experience it would be a *huge* plus. That said, if you are a polyglot developer with a diverse background that includes *serious* Functional Programming chops, and you're interested in learning you some elixir, then yes, please *do* apply! Regardless, you've definitely built out complex applications, both by yourself, and as part of a larger team, and have an (obsessive?) desire for maintainability. What You'll Do The product teams at BlockFi encompass UX, UI, Design, and Engineering in a seamless cohesive whole. As part of that product team, you will Own the entire lifecycle for the components that you build, with these components ranging from features through products. Guide and coach your fellow engineers in your areas of expertise, and learn from them in theirs. Write code that - a year from now - you'll be able to look at and *not* wonder what on earth you were thinking. Promote Reliability across all aspects of the system, and use the \"Continuous Testing\" part of CI/CD/CT to its fullest to help get there. Above all, you should enjoy the journey. Our engineers are creative, technical, smart, and genuinely like each other. They enjoy the work they do, and so should you! Keywords CI/CD/CT, RESTful APIs, Distributed Systems, Linux, AWS, Testing, Elixir, Erlang, Functional Programming ", 
+    "CompanyName": "BlockFi", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-01", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "D029C6D332D4528ED9969EAD3C932D48", 
+    "KeyTerms": "back end, restful apis, financial, linux, ci cd, erlang, distributed systems, aws, functional program", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20erlang", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20erlang", 
+    "TackIt": "true", 
+    "Title": "BlockFi hiring Backend Engineer - Elixir in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/backend-engineer-elixir-at-blockfi-1565083411?refId=fe341c7c-a1b8-4c91-aafe-df0d7058bdf0&position=1&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

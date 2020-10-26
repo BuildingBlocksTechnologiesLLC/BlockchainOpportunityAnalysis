@@ -1,0 +1,21 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20sql",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs-san-francisco-ca?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20sql",
+    "RequiredMatch": "cryptocurrencies",
+    "DocumentType": "JobBoards",
+    "Title": "Intelletec hiring Senior Software Engineer | Leading Enterprise Digital Asset Platform | Bay Area or REMOTE in Palo Alto, California, United States | LinkedIn",
+    "Hash": "9D0A023B6C63BA33FC8CE8B7C47D1641",
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-leading-enterprise-digital-asset-platform-bay-area-or-remote-at-intelletec-1847120002?refId=ab9e6fcf-4253-4aba-a8fc-7a1152bb6694&position=24&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-21",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Kiel O'Mara Kiel O'Mara Managing Consultant, Security & Emerging Technologies Recruitment @ Intelletec My client is a well-funded, successful Institutional Digital Asset Platform. They are the market-leader in digital asset financial services, providing clients with security, custody, and liquidity solutions. They have raised over $15m, Series B, and made several acquisitions of rival startups. Intelletec has been working with them since their conception and continues to help them scale. We are looking for a Senior Software Engineer who will join to help us build new features and applications for our enterprise clients. Their integrated platforms interact with a number of exchanges, agencies, and governments around the world, and use the best technology the industry offers to build them. Remote work??is possible for candidates with 10+ years of experience. What You'll Do: Design and build strong, resilient, and robust APIs, libraries, and services to power our financial services: clearing and settlement, digital asset lending, liquidity Own functionality and scalability features by taking responsibility from inception to deployment and customer integration Expose and document functionality to the UI, third-party developers, and our internal and external tooling Collaborate closely with all engineering teams to ensure consistency in understanding of technical requirements and overall work quality Provide mentorship to your peers in the broader engineering team through code reviews and education on best practices What You'll Bring: Required: At least 5 years of back-end, server-side software development Strong experience with server-side languages like Golang, TypeScript/Node.JS, Java, etc. Strong experience with SQL databases like MySQL or Postgres Confident with RESTful API design Great with unit and functional testing and debugging Experience with microservices and service-oriented architectures Experience in Git/GitHub and branching methodologies, code review tools, CI tools, etc. Bachelor\u2019s degree in computer science, applied mathematics, or another technical discipline from a top university Great at algorithm design, problem-solving, and complexity analysis ??Nice to have: Understanding of and experience working in the financial industry Understanding of and a strong interest in cryptocurrencies and blockchain Familiarity with any of the following: digital wallets, clearing, and settlement, lending, trading, accounting systems, etc. Ability to work full-stack and familiarity with React and GraphQL Familiarity with Docker and Kubernetes Experience with large-scale, real-time, and distributed applications On Offer: ?? Very competitive comp package Market-leading benefits package Sizable equity "
+}

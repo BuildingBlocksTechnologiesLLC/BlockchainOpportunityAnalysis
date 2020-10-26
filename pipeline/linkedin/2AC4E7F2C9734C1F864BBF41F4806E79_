@@ -1,0 +1,25 @@
+{
+    "Body": " Oasis Labs is building a privacy-first, high-performance cloud computing platform on blockchain. Oasis\u2019s integrated hardware-software technologies aim to enable cloud-scale, real-world applications, including machine learning, for the first time on blockchain. Oasis Labs is led by a team of academic and entrepreneurial leaders and backed by a diverse range of investors including a16zcrypto, Accel and Binance. For more information, visit: https://www.oasislabs.com/ Our engineering team is responsible for the platform and tools to empower the next generation of dApp developers. We also build a number of dApps in-house to show off our unique strengths and test our own tools. We are looking for engineers who bring fresh ideas from all areas, including distributed systems, secure hardware, networking, security, cryptography, machine learning, and UI design. While not all of our engineers start with having experience in blockchain, they all appreciate the challenge of designing large-scale global distributed systems in a high-security setting. As an engineer at a dynamic startup, you will be focused on delivering critical projects, while staying versatile to adapt to our evolving needs. Responsibilities Design, develop, test, deploy, maintain, and improve the backend systems of our application ecosystem, including the core network protocol, distributed systems architecture, cryptosystems, and developer tools. Our ecosystem must be highly-robust, while operating over a large network that we mostly don't control. We enjoy the challenge. Manage project priorities, fast-paced deadlines, and concrete deliverables. Participate in design and code reviews, including from the Oasis Labs team and the broader open-source community. We <3 our engaged supporters. We work mostly in Rust and Go. However, languages can be learned; we care much more about general engineering skill rather than knowledge of a particular language or framework. A dversarial thinking when designing secure systems. Our system must be robust to malicious actors in the network. Improve engineering standards, tooling, and processes. Requirements BS degree in Computer Science or a similar technical field of study 3+ years of Software development experience Experience working with two or more of the following: Distributed systems; networked systems Operating systems; kernel/firmware Web/mobile application development Machine learning systems Security and/or applied cryptography Ability to lead projects to timely milestones Ability to communicate and work with other teams in the company. Preferred Experience Master\u2019s or PhD degree in computer science or other technical related field Experience with Rust, Go, JavaScript, and/or Solidity Familiarity with existing dApp standards (e.g. Web3) and tools (e.g. Solidity/Truffle/MetaMask) Experience with Ethereum Oasis Labs is committed to diversity in its workforce and is proud to be an equal opportunity employer. Oasis Labs does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. SDL2019-32 ", 
+    "CompanyName": "Oasis Labs", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "2AC4E7F2C9734C1F864BBF41F4806E79", 
+    "KeyTerms": "metamask, web-3, cryptography, truffle, machine learning, javascript, application development, cloud, rust, ethereum, back end, startup, dapps, distributed systems, code review, software engineer, cloud computing, solidity", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20dapps", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "dapps", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20dapps", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Oasis Labs hiring Software Engineer, Full-Stack in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-oasis-labs-1824958923?refId=c58c0383-8891-46e6-a1c8-3f8c3210335c&position=4&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

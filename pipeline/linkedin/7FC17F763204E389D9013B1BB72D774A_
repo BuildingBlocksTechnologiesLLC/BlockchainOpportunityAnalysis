@@ -1,0 +1,21 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20data",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs-waltham-ma?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20data",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Huxley hiring Senior Data Scientist - Boston in Boston, Massachusetts, United States | LinkedIn",
+    "Hash": "7FC17F763204E389D9013B1BB72D774A",
+    "Url": "https://www.linkedin.com/jobs/view/senior-data-scientist-boston-at-huxley-1755183274?refId=35459e7b-2f8d-46d1-a7a8-a53d320fcc6b&position=14&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-21",
+    "DomainId": "linkedin",
+    "Language": "Italian",
+    "TackIt": "true",
+    "Body": " Posted by: Frazer Spackman Frazer Spackman Data Scientist & Quantitative Recruiter at Huxley Associates A Senior Data Scientist with strong understanding of Machine Learning techniques is required for an international startup company based in Boston that focus on Blockchain software platform solutions. ?? The Senior Data Scientist will need prior research experience in developing algorithms and techniques such as Decision trees, Na??ve Bayes, SVM etc. The Data Scientist will also need good engineering/ programming skills as they will ingest and analyze data from a wide variety of data sources. ?? The company are not able to sponsor or transfer visas at this time. ?? Key Qualifications/ Responsibilities: Master's Degree/ Ph.D. in either Statistics, Computer Science, Engineering, Math, Physical Science. 4-8 years industry experience in Data Science Strong Machine learning knowledge/ understanding and implementation experience Strong Python programming experience (Production level coding) Data skills in SQL desirable for Data mining and ingesting Good communication skills ?? If interested in the role, please apply using the link. If you have questions, please reach out to Frazer Spackman for a confidential conversation. Sthree US is acting as an Employment Agency in relation to this vacancy. "
+}

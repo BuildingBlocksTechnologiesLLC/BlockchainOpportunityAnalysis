@@ -1,0 +1,20 @@
+{
+    "Body": " Founded in 2014, Ledger is a leader in security and infrastructure solutions for cryptocurrencies and blockchain applications. Headquartered in Paris, Vierzon and New York, Ledger has a team of 200+ professionals developing a variety of products and services to safeguard cryptocurrency assets for individuals and companies \u2013 including the Ledger hardware wallets line already sold in 165 countries . To sustain the company's growth, Ledger is looking for a new talent to work in the embedded firmware team (in charge of the hardware wallets\u2019 Bolos Operating System) in order to take care of existing products' firmware evolution and next products\u2019 firmware development, as well as existing simulator tools\u2019 evolutions. Missions Implement secure and documented source code, Implement the associated SDK aimed at firmware applications development, Support and evolutions of the external Speculos and internal simulators, Ensure the quality of the implemented features with tests, Ensure the security of the source code regarding security certifications constraints. Main interactions Security team for software vulnerabilities analysis and corrections, Firmware Applications team for SDK evolutions, Innovation team for Operating System history and knowledge, Product team for requirements definition, Customer Success team for end users issues analysis and corrections. Requirements Required - Diploma in Computer Sciences, Engineering or related discipline, Required - Good communication skills, Required - Interest in software and hardware attacks and their countermeasures, Desired - Blockchain knowledge. Technical Requirements Required - Embedded C software development, Preferred - Embedded development on secure elements, Preferred - Qemu knowledge, Desired - Embedded Rust software development. Competitive compensation package, and BSPCE / Share warrants for entrepreneurs options in Series B (2018) startup, Flexible working hours, remote friendly environment, Strong focus on personal development, including internal and external trainings, and attendance to conferences, Internal talks, technical meetups, and hackathons, High performance equipment for your work,5 weeks of paid vacation + 10 days of RTT, Comprehensive health insurance with medical, dental, and vision coverage, Meal Vouchers with Swile (ex Lunchr), Reimbursement for sports and cultural activities, Annual company outing for Ledgerdary Days, plus frequent parties, snacks and drinks,Show moreShow less ", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "85767229242D62A2978C9FDC263684FE", 
+    "Language": "English", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20embedded", 
+    "RequiredMatch": "cryptocurrencies", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20embedded", 
+    "TackIt": "true", 
+    "Title": "Ledger hiring Senior Firmware Engineer in Paris, Texas, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-firmware-engineer-at-ledger-1937734791?refId=8e052ac1-6fc1-4cf0-9818-b66c1f024f64&position=3&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

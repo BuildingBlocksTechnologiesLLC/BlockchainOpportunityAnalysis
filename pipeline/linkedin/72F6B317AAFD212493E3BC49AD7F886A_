@@ -1,0 +1,24 @@
+{
+    "Body": " Job Description The Cloud Developer will represent the Digital Asset Innovation development team and participate and contribute to setting the pace, path, and standards for all programming activities. Based on direction provided by the architects and lead developers, will implement and deliver projects which meet specified requirements, timelines and budgets. The ideal candidate will have strong hands-on development experience using the very latest technology. He or she should be a self-starter who is able to pick up new technologies and implement technology solutions. The candidate should be highly adaptable and able to work with new technologies in a rapidly changing landscape. The role will have a strong technology focus and requires excellent communication skills. Technical/Functional Skills Experienced in programming languages such as Java, Python, Scala, Go, JavaScript/NodeJS Experience building distributed / service oriented / microservice-style and cloud based architectures Have an understanding of - or implementation experience in - building Twelve-Factor applications, and using Domain Driven Design Should have good exposure to Spring Framework (Spring MVC, Spring Boot, Spring Integration, Spring Batch, Spring Cloud), REST web services, Should have middle ware messaging knowledge Solace Queue/Rabbit MQ/Kafka Hands-on Experience on Azure application Development ,Kubernetes, Docker, Mircoservices, CI, CD, Spring boot Framework and Java. Developed and deployed applications on Pivotal Cloud Foundry (PCF) Agile practitioner, familiar with extreme programming, test driven development, pairing, continuous integration, continuous delivery, and related techniques Familiarity with AI platforms like TensorFlow, Nia, Python, R is a bonus Familiarity with Blockchain platforms - Hyperledger, Ethereum, DAH etc. is a bonus Job Responsibilities Delivers technology solutions that support business goals. Supports technical initiatives and provides input into best practices to team. Delivering working software frequently - ability to Innovate within a fast paced, frequent change environment Values the art of simplicity - recognizes where to apply effort to meet tight business deadlines Maintains application software and systems. Ensures all projects and releases are appropriately tested and risks are mitigated ", 
+    "CompanyName": "Oliver James Associates", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-19", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "72F6B317AAFD212493E3BC49AD7F886A", 
+    "KeyTerms": "kubernetes, continuous integration, python, hyperledger, blockchain platforms, digital asset, scala, nodejs, remote, artificial intelligence, javascript, docker, rabbit mq, application development, cloud, ethereum, spring boot, java, tdd, kafka, ci cd, agile, azure", 
+    "Language": "English", 
+    "Location": "Remote", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20ethereum", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20ethereum", 
+    "TackIt": "true", 
+    "Title": "Oliver James Associates hiring Lead Cloud Engineer - 100% Remote in Chicago, Illinois, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/lead-cloud-engineer-100%25-remote-at-oliver-james-associates-1875968702?refId=9172c251-e2fa-4c66-9330-7c3034f25461&position=21&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

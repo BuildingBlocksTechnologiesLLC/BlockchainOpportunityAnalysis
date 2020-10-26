@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20private",
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20private",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "DFG (Dynamic Fintech Group LLC) hiring Full Stack Software Engineer in Burlingame, California, United States | LinkedIn",
+    "Hash": "297EFF8DD6FEDA61F92B8CD9E90EFB90",
+    "Url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-dfg-dynamic-fintech-group-llc-1847606005?refId=6c82beeb-6c08-4d18-a526-ced1db1803ca&position=22&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-09",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: James Hao James Hao CEO & Founder at DFG (Dynamic Fintech Group LLC) About Us: Dynamic Fintech Group LLC (DFG) was founded in 2018 in Silicon Valley (Registered in Delaware, USA), and mainly operates in Burlingame, California and China. Its main business includes: Blockchain startup investment & incubation - Invests in tech startups in blockchain technology; Virtual Currencies Trading - Trades in secondary crypto market & market making; Virtual Currencies OTC - Provides Crypto OTC trading services. DFG is building a trading desk that offers a private, efficient, and compliant pathway for institutional investors and high net-worth individuals to start engaging with blockchain assets. Brokerages, exchanges, miners and funds worldwide trust DFG for its professional, high-touch services and deep cryptocurrency liquidity. Job Description: We are looking for an entry-level (T1) Full Stack Software Engineer in Technology Department. The position will be based in Burlingame and will work directly with CTO and Compliance team. You will help with the building compliance program and maintain our internal trading system. Duties include, but are not limited to: Work closely with the CTO and compliance team to design DFG\u2019s internal compliance system, which ensures DFG meet all the AML/CFT requirements; Integrate various sanctions screening databases and blockchain enhanced due diligence tools into the DFG\u2019s compliance system; Develop mathematical models and analytical methods and apply them to existing and developing products to improve the project performance of new product designs and developments; Build customized heuristics that operate upon such inputs to produce valuable and actionable AML/CFT intelligence, and store, retrieve, and manipulate data for analysis of system capabilities and requirements; Develop and direct software system testing and validation procedure, programming, and documentation to evaluate the efficacy, efficiency, functions. Skill Requirements: Bachelor\u2019s degree in the field of Electrical Engineering, Computer Science, or in a related field; Technical understanding of C, Python and MATLAB; General engineering knowledge about front-end coding and API documents; Logical thinking and effective organizational skills to elaborate step by step instruction; Effective communication skills to facilitate any technical or non-technical challenges or questions our compliance team may face while using our compliance system. DFG is an equal opportunity employer. All employees of DFG must undergo customary background checks. Employee Benefits: 100% company-paid health insurance premiums (medical, dental, vision, life, and STD) for you and your family; Paid vacation and company holidays; Fully stocked kitchens with drinks, snacks, and candy; A new laptop and the option of an adjustable standing desk. "
+}

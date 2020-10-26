@@ -1,0 +1,24 @@
+{
+    "Body": " Cryptography Engineers work with a talented team of systems and research engineers and architects to build out Findora's core infrastructure and specific applications. The core engineering team\u2019s primary focus is to build out the Findora platform, a highly performant distributed system incorporating significant innovations in cryptography, storage/authenticated data structures, and consensus/state machine replication. Additionally, as the platform is implemented, a growing number of ecosystem applications will be developed atop Findora, requiring a full stack engineering effort. Engineers must collaborate effectively with the research team to bring theoretical breakthroughs into practice and collectively make architectural and engineering decisions alongside the researchers, architects, and peer engineers. Cryptography engineers must translate the core cryptography concepts developed by our researchers into clean, maintainable, and correct code. Responsibilities Building the underlying core Findora infrastructure, a state-of-the-art distributed system primarily implemented in Rust Developing our cryptographic library (written in Rust), which enables new privacy/compliance tools, with a blockchain base layer for assets, accounts, transfers, smart contracts, etc. Optimizing Findora's core cryptography to be efficient enough for practical use Evaluate emerging cryptography practices and research and apply them to our platformMinimum qualifications Experience with practical cryptography implementation Deep understanding of security best practices Understanding of zero-knowledge proofs concepts Great communication skills and energyPreferred Experience with Rust in a production environment Experience with blockchain systems Experience with management and planning of key product milestones (for leads/managers only) Openness to travel and potentially international relocationPerks Work on new problems in an emerging field Learn from systems engineering, cryptography, and finance domain experts in a mentorship-oriented work culture Be part of a strong cryptography research team Make a big impact as an early contributor ", 
+    "CompanyName": "Findora", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-19", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "121976439782063542D693DD436C5563", 
+    "KeyTerms": "consensus, rust, smart contract, compliance, financial, full stack, cryptography, privacy, data structures, privacy compliance", 
+    "Language": "English", 
+    "Location": "Menlo Park, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20layer", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "rust", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20layer", 
+    "TackIt": "true", 
+    "Title": "Findora hiring Cryptography Engineer in Menlo Park, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/cryptography-engineer-at-findora-1823000633?refId=ee581509-48af-4930-8f8c-fa640808b1b7&position=12&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

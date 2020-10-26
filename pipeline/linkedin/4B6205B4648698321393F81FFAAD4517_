@@ -1,0 +1,24 @@
+{
+    "Body": " Cloud Infrastructure Site Reliability Engineer/DevOps Engineer required by a New York based Blockchain infrastructure firm. The role Work in a small DevOps/SRE Team Develop and maintain IaC Cloud & tool management Automation of deployment, configuration & monitoring of infrastructure Manage cloud infrastructure (primarily AWS) Develop pipeline tools Skills Experience in a DevOps/Site relaibility Engineer role IAC (Terraform or other) Cloud Orchestration (AWS) Monitoring (Prometheus, Grafana, ELK, Cloudwatch etc) CI/CD (Jenkins, Git, Travis) AIM (Access and Identity Management (Okta, Kerbero) PKI experience a -plus Salary up to $200k + equity (can be flexible) Interview slots are available throughout next week, so if this Senior DevOps Engineer position could be of interest, please apply through this advert, or send a copy of your resume to A.Deery@X4Staffing.com X4 Technology is a leading specialist recruitment business operating out of New York City. We are part of the X4 Group, a multi-award winning international recruitment agency recognized by Virgin Fast Track & the Sunday Times as one of the leading agencies to work for. Founded in 2008 we quickly became a global leader in specialist & innovative recruitment solutions within engineering & IT and last year had a turnover of $25mil. ", 
+    "CompanyName": "X4 Technology", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-07", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "4B6205B4648698321393F81FFAAD4517", 
+    "KeyTerms": "cloud, identity management, git, devops, ci cd, terraform, aws", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20terraform", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "$200k", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20terraform", 
+    "TackIt": "true", 
+    "Title": "X4 Technology hiring Senior DevOps Engineer in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-x4-technology-1858374626?refId=0b25d723-55c3-43a0-b6fc-059707c75bbf&position=4&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

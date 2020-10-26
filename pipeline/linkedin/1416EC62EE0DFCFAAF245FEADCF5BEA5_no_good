@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20cloud",
+    "DocumentType": "JobBoards",
+    "Title": "Omega Solutions, Inc. hiring Embedded Developer in Santa Clara, California, United States | LinkedIn",
+    "Hash": "1416EC62EE0DFCFAAF245FEADCF5BEA5",
+    "Url": "https://www.linkedin.com/jobs/view/embedded-developer-at-omega-solutions-inc-1873937650?refId=82e94f91-d980-48b9-9f4e-254dad8c785b&position=14&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-07-13",
+    "DomainId": "linkedin",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": " Embedded Developer Hanover MD Full time US Citizen only ( need to able to get Security clearance before joining) Salary Range: up to $200K per annum + Benefits + Joining bonus + Relocation Client: General Dynamics Job Description You will have the opportunity to develop low-level software, identify vulnerabilities and adapt features into a larger embedded platform using cutting-edge technologies. Get the opportunity to understand, manage and own new development features from the research design phase to test and integration for a real-time operating system. Developing mission-critical systems that help keep people safe is what we do. At General Dynamics Mission Systems, you'll be part of the team that helps heroes make a true impact. The work we do is important. The challenges we face are career-defining. The opportunity we can offer is one-of-a-kind. We apply advanced technologies such as Artificial Intelligence, Blockchain, AR/VR, Cloud Native and Quantum Physics to solve our customers' missions in cyber, RF, undersea, interstellar space and everything in between. Contributing to the design, development and implementation of countermeasures, system integration, and tools specific to Cyber and Information Operations, the Mid-Level Embedded Developer will analyze, decompose, disassemble code, perform static code analysis, kernel-level debugging, and debug and modify software. You'll be involved in Protocol Analysis, Vulnerability Assessment, Security Research, Rapid Prototyping of proof of concept capabilities. It's your chance to step up to the challenge and prove you're ready to lead the world. Additional Qualifications The Mid-Level Embedded Developer shall have a minimum of a Bachelor of Electrical Engineering or Computer Science or Computer Engineering or Mathematics and a minimum of six (6) years of software/system development work experience (Four (4) years of equivalent related military experience may be substituted for Bachelor degree); or a Master's of Electrical Engineering or Computer Science or Computer Engineering with a minimum of four (4) years of experience; and have technical expertise in two (2) or more of the following areas: Systems Requirements Analysis Software System Design Software System Development Software System Integration Software System Testing The Mid-Level Embedded Developer Shall Have At Least Five (5) Years Of Work Experience In Three (3) Or More Of The Following Developing embedded software systems in assembly, C and/or C++ Protocol analysis such as TCP/IP, SDH/SONET, ATM, MPLS/GMPLS, Ethernet, Carrier Grade Ethernet Developing embedded software systems in one or more of the following operating system environments: Unix, Linux, VxWorks Experience with operating system internals with one or more of the following operating systems: Unix, Linux, VxWorks Experience with reverse engineering and analysis of software Experience with Ida Pro or Ghidra Low-level programming of device drivers in a Unix, Linux or Windows environment Working knowledge of common protocols/standards such as TCP/IP, SDH/SONET, ATM, MPLS/GMPLS, Ethernet, Carrier Grade Ethernet Bit-level data analysis Hands-on experience with integrating hardware and software systems Experience with Python or similar scripting languages Proof of concept tools Systems engineering of large scaled embedded systems.Show moreShow less ",
+    "Location": "Santa Clara, California, United States",
+    "CompanyName": "Omega Solutions, Inc.",
+    "Salary": "$200K",
+    "PostedDate": "Not Found"
+}

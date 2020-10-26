@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20react",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20react",
+    "RequiredMatch": "crypto",
+    "DocumentType": "JobBoards",
+    "Title": "Flipside Crypto hiring Frontend Developer in Boston, Massachusetts, United States | LinkedIn",
+    "Hash": "C2F912888DA06206FF424C0011E2FFE8",
+    "Url": "https://www.linkedin.com/jobs/view/frontend-developer-at-flipside-crypto-1862648497?refId=758672bd-add5-434c-b44f-d8bd4fbad2b2&position=7&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-07",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Matt Bridges Matt Bridges Chief Operating Officer at Flipside Crypto As a member of the frontend engineering team at Flipside Crypto, you\u2019ll work closely with our product team to develop visualizations and tools for the world\u2019s leading blockchain protocols. Our tools help these organizations derive insights about their networks and take actions that allow them to grow. Flipside Crypto is located in Boston, MA, but remote applicants will also be considered. We're looking for a Frontend Engineer with: A high bar for the quality of the user experience, the quality of code and ultimately a high attention to detail. Experience building UIs with modern tools such as Typescript/ES6, React, and Webpack. Knowledge of data visualization frameworks such as D3 is a plus Blockchain technology is often uncharted territory, but if you're comfortable applying your skills in unknown problem spaces, you'll fit right in to our fast-moving team. Regular work on the Frontend Engineering Team includes: Building products & tools that allow Blockchain protocols to explore their data. Developing novel ways to visualize unique data sets. Collaborating with our backend engineering team to design APIs Working closely with design to build delightful user experiences About Flipside: Flipside Crypto provides unparalleled analytics and business intelligence to blockchain organizations. Their suite of analytics tools provides insights into user behaviors, developer activities, and financial activities, as well as FCAS, a relative value for measuring the fundamental health of cryptocurrency projects. Flipside provides analytics to more than 50 blockchain organizations and distributes FCAS via partners such as CoinMarketCap, Messari, MarketWatch and TheStreet. Flipside Crypto is backed by True Ventures, Founder Collective, CoinBase Ventures, Digital Currency Group, Galaxy Digital, and other investors. "
+}

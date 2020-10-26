@@ -1,0 +1,25 @@
+{
+    "Body": " BitGo is the market leader in institutional-grade cryptocurrency investment services providing security, compliance, and custodial solutions for blockchain-based currencies. BitGo is the world's largest processor of on-chain bitcoin transactions, processing 15% of all global Bitcoin transactions, and $15 billion per month across all cryptocurrencies. The company has over $2 billion in assets in wallet, and a customer base that includes the world's largest cryptocurrency exchanges and spans more than 50 countries. In 2018, it launched BitGo Trust Company, the first qualified custodian purpose-built for storing digital assets. BitGo is backed by Craft Ventures, DRW, Galaxy Digital Ventures, Goldman Sachs, Redpoint Ventures, and Valor Equity Partners. BitGo is looking for a?? Software Engineer??who will join our Blockchain team in Palo Alto. Responsibilities: Integrate with various blockchains to add support for new coins within BitGo's wallet platform Own functionality and scalability features by taking responsibility from the inception to deployment and customer integration Build integration libraries and SDKs to interface with our server and APIs Expose and document functionality to the UI, third-party developers, and our internal and external tooling Collaborate closely with all engineering teams to ensure consistency in understanding of technical requirements and overall work quality Provide mentorship to your peers in the broader engineering team through code reviews and education on best practices Skills & Experience Requirements:?? BitGo is looking for people who are passionate about their craft, take full ownership for their work and projects, and believe in transparent and collaborative culture with the goal of making BitGo successful. Required 4+ years of server-side, back-end web development Strong programming skills in Java?? Knows at least 2 other languages; language agnostic (Node.JS, Golang, etc.)?? Experience with RESTful API design Strong unit and functional testing and debugging skills Deep understanding of algorithm design Excellent problem solving skills; complexity analysis Nice to have Understanding or experience with??Typescript, Mongo, Docker, and Kubernetes?? Understanding, interest and experience with cryptocurrencies and blockchains ?? Why Join BitGo? Disrupting an industry takes vision, innovation, passion, technical chops, drive to deliver, collaboration, and execution. Join a team of great people who strive for excellence and personify our corporate values of ownership, craftsmanship, and open communication. We are looking for new colleagues who bring innovative ways of thinking and problem solving, and who want risks to be part of the team that changes the world\u2019s financial markets. Here are some of the benefits of working at BitGo: Competitive base salary, bonus and stock options 100% company paid??health insurance for employee, partner and dependents 5% 401k company match Paid parental leave, paid vacation Free commuter/parking pass; 5 min from Caltrain Free custom lunches, dinners and snacks?? Computer equipment and workplace furniture to suit your needs Great colleagues and inspiring startup environment Benefits vary based on location Cryptocurrencies are the most disruptive change the financial services industry has seen in years. Join us and you\u2019ll be able to look back and say you were part of the team that transformed investing. ?? ", 
+    "CompanyName": "BitGo", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "81BFDC03E4D23CBDB29C97D798203319", 
+    "KeyTerms": "kubernetes, algorithms, wallet, digital asset, financial, custodial, golang, exchanges, nodejs, cryptocurrencies, docker, cryptocurrency, java, disruptive, startup, compliance, collaboration, functional test, code review, software engineer, typescript, unit and functional test, mongodb, bitcoin", 
+    "Language": "English", 
+    "Location": "San Francisco, California, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20bitcoin", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20bitcoin", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "BitGo hiring Software Engineer - Blockchain Team in San Francisco, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/software-engineer-blockchain-team-at-bitgo-1651560623?refId=4824aede-4902-4a10-935c-d8e00caa6095&position=11&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

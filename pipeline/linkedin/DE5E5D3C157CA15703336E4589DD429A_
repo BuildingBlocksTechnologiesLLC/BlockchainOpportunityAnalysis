@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20data",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20data",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Integra FEC LLC hiring Data Analyst FT/Intern in Austin, Texas, United States | LinkedIn",
+    "Hash": "DE5E5D3C157CA15703336E4589DD429A",
+    "Url": "https://www.linkedin.com/jobs/view/data-analyst-ft-intern-at-integra-fec-llc-1893164563?refId=16fecf32-cdad-4bc5-a3e5-ac24edcbfbbf&position=23&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-07",
+    "DomainId": "linkedin",
+    "Language": "Lithuanian",
+    "TackIt": "true",
+    "Body": " Posted by: David Lam David Lam Forensic Data Analytics *** Please only apply if you have a degree in a quantitative field such as statistics, mathematics, engineering, physics, economics, etc. or at least 1 year of experience in a data analyst position.*** ?? Integra is an economic and financial research firm located next to UT Austin that seeks to tackle complex financial fraud cases using data science, econometrics, and advanced analytics. ?? We work with government agencies and law firms in their efforts to combat a wide array of financial fraud, in areas ranging from securities to healthcare to cryptocurrency and blockchain technologies. ?? We are looking to hire strong candidates with quantitative backgrounds who have a natural curiosity to analyze data. ?? Main responsibilities include: Working with our team to examine potentially fraudulent patterns Conducting background research to develop hypotheses of where fraud occurs Data extraction and processing: writing scripts to retrieve and organize data Data mining: parsing free-form text fields, images and spreadsheets to derive insights Data analysis: analyzing large datasets to find insights and fraudulent patterns, by thoughtfully applying the appropriate tools and algorithms ?? Qualifications: Completion of degree in statistics, mathematics, engineering, physics, economics, or other quantitative field, or at least 1 year of experience in a data science position Demonstrated experience with R, Python, and SQL Attention to detail Intellectual curiosity and interest in fraud analysis Highest ethical standards Strong teamwork abilities "
+}

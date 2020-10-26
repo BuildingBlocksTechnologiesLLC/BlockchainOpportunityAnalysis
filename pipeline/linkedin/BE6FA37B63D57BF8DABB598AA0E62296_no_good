@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-08-01",
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20restful",
+    "DomainId": "linkedin",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20restful",
+    "DocumentType": "JobBoards",
+    "Title": "Mercury Systems, Inc. hiring NodeJs Lead Developer in Kansas City, Kansas, United States | LinkedIn",
+    "Hash": "BE6FA37B63D57BF8DABB598AA0E62296",
+    "TackIt": "true",
+    "Body": " Required Skills : (Blockchain/Cryptography , Backend Development, Code review ) Expert understanding of software engineering concepts and methodologies. 10 years exp in IT industry /Banking/Financial domain with Back End development. Extensive experience with the following technologies and frameworks: Node.JS, C, C++, Java, Data Structures, NoSQL, data bases, GIT Extensive experience developing and supporting shared web service platforms, including SOAP and RESTful API's Experience developing solutions using Information Security-related concepts: Cryptography, Hardware Security Modules, PKCS11, AMQP Plan, design and develop technical solutions and alternatives that meet business requirementsShow moreShow less ",
+    "Url": "https://www.linkedin.com/jobs/view/nodejs-lead-developer-at-mercury-systems-inc-1959426911?refId=921bc323-2458-438c-b8f4-1d635c7f768d&position=24&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "Location": "Kansas City, Kansas, United States",
+    "CompanyName": "Mercury Systems, Inc.",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}

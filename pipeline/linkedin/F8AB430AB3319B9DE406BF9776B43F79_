@@ -1,0 +1,24 @@
+{
+    "Body": " Principal Firmware Engineer Summary As a Principal Firmware Engineer, you will lead out the development of our universal operating system for blockchain hardware. We're looking for someone who is excited about low-latency, high-speed systems that are optimized for execution. You will work closely with the Chief Technology Officer, driver and embedded engineering team to architect, design, build and ship enterprise products. Responsibilities Design, development and production of firmware packages for mining-specific devices. Design, development and production of firmware packages for a wide variety of embedded devices. Design and develop testing frameworks and simulations for our operating system to enable application team, networking team and development operations team to simulate load on our datacenter environment. Develop utilities, scripting, and library porting in the embedded system development process. Provide guidance in technology decisions when implementing performance and safety-critical parts of the software stack. Architect and develop high performance asynchronous components - including network code. Lead out the development and tooling around system firmware (non-embedded such as GPU, FPGA, Storage). Lead out the design, development and implementation of RocksDB or similar embedded database technology for key-value data. THE DNA WE'RE LOOKING FOR We're looking for obsessive curiosity. We are working in an industry where there is a lot of ambiguity and very little documentation - you must be comfortable thinking about challenging problems and setting your own direction. We're looking for someone who has an obsession with optimization: whether it's in terms of instruction sets, clock skew scheduling, or shaving power, you must be constantly thinking about how to push the boundaries of power tradeoffs. We're looking for someone who has an eye for security. You should have a knowledge of basic networking concepts and protocols, network security, low-level computer languages (e.g. assembly), and knowledge of code analysis tools. This is a heavy programming role. You should be comfortable prototyping code, producing code, and shipping code. We're looking for engineers who are passionate about their skills, and are looking to show them off! We're looking for a Rust champion. You should be passionate about the Rust programming language and believe that it is critical for a space that cannot afford memory leaks, race conditions, or bugs. TECHNICAL REQUIREMENTS Rust - 2+ Years. Proficiency in C, C++ (5+ Years) A BS Degree in Electrical Engineering, Computer Science or Computer Engineering. 10+ Years general engineering experience. 7+ Years enterprise embedded engineering experience. Experience developing boot code and power-on. Knowledge and experience with in-circuit emulators and logic analyzers. Experience with product specifications, systems analysis, microprocessor based systems and firmware design. Experience with Embedded RTOS & Linux, with 32-bit microprocessor architecture. Strong organizational and documentation Skills Proficient problem-solving skills. Working knowledge of disassemblers and debuggers (IDA Pro, Ghidra). Working knowledge of profilers. An intimate understanding of communication protocols (SPI, I2C) and transmission protocols (UART) and standards (DMX512). An intimate understanding of digital design. Ability to work independently or as part of a team. ", 
+    "CompanyName": "1872 Consulting", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-21", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "F8AB430AB3319B9DE406BF9776B43F79", 
+    "KeyTerms": "scripting, rust, fpga, network security, frameworks, linux, protocols, embedded", 
+    "Language": "English", 
+    "Location": "Bellevue, Washington, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20embedded", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20embedded", 
+    "TackIt": "true", 
+    "Title": "1872 Consulting hiring Principal Firmware Engineer in Bellevue, Washington, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/principal-firmware-engineer-at-1872-consulting-1852355258?refId=c9871da1-3aef-42c9-ad39-8d90425b139e&position=5&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

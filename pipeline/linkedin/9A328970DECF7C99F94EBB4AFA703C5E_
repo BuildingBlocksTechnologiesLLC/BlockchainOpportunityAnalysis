@@ -1,0 +1,25 @@
+{
+    "Body": " DROON est une startup qui a d??velopp?? une plateforme logicielle permettant d\u2019int??grer la blockchain dans des solutions applicatives pour l\u2019industrie, les services et l\u2019administration. La technologie DROON peut ??t?? utilis??e dans diff??rents cas d\u2019usage comme l\u2019identit?? digitale, la cybers??curit??, la tra??abilit?? de l\u2019information, le partage d\u2019information, etc.. D??veloppeur PHP/Java Nous avons d??velopp?? un d??monstrateur autour de la tra??abilit?? et la certification des ??uvres d\u2019art, en PHP, et souhaitons ?? pr??sent faire migrer ce d??monstrateur et en cr??er de nouveaux dans un environnement Java. L\u2019objet du stage est d\u2019int??grer notre plateforme Blockchain dans le d??monstrateur existant, dans un environnement Java et de participer ?? son d??veloppement et ?? son am??lioration. Nous cherchons donc un(e) stagiaire capable de comprendre et reprendre le d??monstrateur existant, avec une bonne connaissance du PHP et une tr??s bonne connaissance du d??veloppement en Java. Une connaissance des m??canismes et du fonctionnement de la blockchain (Ethereum, Hyperledger, Corda, \u2026) serait un plus. Dans le cadre de ce stage vous participerez au d??veloppement de la plateforme de d??monstration de notre plateforme Droon, ?? l\u2019analyse de l\u2019existant et ?? la modification ou la migration vers Java. Vous int??grerez, dans un environnement jeune et dynamique de startup, une ??quipe de 3 personnes encadr??e par un directeur technique. Votre stage comportera une part de recherche et d??veloppement et vous serez impliqu??(e) sur des d??fis techniques innovants. Du fait du confinement actuel, ce stage pourra s\u2019effectuer en t??l??-travail. Si le confinement actuel se termine avant la fin du stage nous pr??f??rerions une pr??sence physique au bureau ?? Paris, mais cela n\u2019est pas une obligation. Vous devez disposez des moyens informatiques n??cessaires ?? l\u2019ex??cution de ce stage. ", 
+    "CompanyName": "DROON", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "9A328970DECF7C99F94EBB4AFA703C5E", 
+    "KeyTerms": "ethereum, java, hyperledger, corda, startup", 
+    "Language": "French", 
+    "Location": "Paris, Maine, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20corda", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20corda", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "DROON hiring D??veloppeur PHP/Java in Paris, Maine, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/d%C3%A9veloppeur-php-java-at-droon-1836882939?refId=1c96ed4d-4bec-488c-af06-381bf0fc3996&position=18&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

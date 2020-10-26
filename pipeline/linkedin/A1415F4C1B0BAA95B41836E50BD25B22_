@@ -1,0 +1,24 @@
+{
+    "Body": " Who We Are ?? Bakkt is building an open, seamless global network to enable you to buy, sell, store and spend digital assets simply, safely and efficiently.?? Formed with the purpose of bringing trust, efficiency and commerce to digital assets, Bakkt seeks to develop open technology to connect existing market and merchant infrastructure to the blockchain. ?? Mission Expanding access to the global economy by building trust in and unlocking the value of digital assets Responsibilities As a Cloud Engineer at Bakkt you will directly impact the emerging cryptocurrency, digital asset and blockchain ecosystem. You will leverage your experience to design, build and implement a growing cloud environment supporting global products. This role will require working across geographically distributed product engineering and security teams. ?? To succeed in this role, you will: ?? Have extreme attention to detail without sacrificing execution rigor. Bias towards action and own tasks end-to-end. Work through friction and tactfully navigate the organization driving towards the objective. Be thoughtful and analytical - ask why and challenge preconceived notions. Lead the design, build and implementation of hybrid cloud infrastructure projects with a focus on balancing security controls and business requirements. Be a doer that can get things done, unblock tasks and make build deep organizational relationships along the way. Partner directly with internal and external development and security teams to understand requirements, map them to solutions and balance timelines for implementation. Ability to work independently with minimal supervision. Own the team\u2019s problems like they are your own. ?? Requirements ?? Extensive experience with the Microsoft Azure cloud environment for regulated industries (i.e. financial services, healthcare, DoD/IC, etc.) or top tier software companies. Experience as an SRE, software developer, systems engineering, systems administrator or similar is required. Experience with Microsoft Azure is required. Specifically, Azure Key Vault, Azure Kubernetes Service, Azure Dedicated HSM, Blob Storage, Azure Backup, Azure Functions, Virtual Machines, Service Fabric and Container Instances. Experience with Python, Bash, and/or PowerShell with a focus on automation and infrastructure as code. Experience with JS, Java, C# is preferred. Experience writing Terraform and Ansible code. Understanding of Linux operating systems at a detailed level including processes, memory allocation, subsystems and networking. Expert-level troubleshooting skills. Experience designing, building, and implementing continuous integration pipelines using Jenkins, Azure DevOps, TeamCity or similar. Comfortable with Git, Jira, and similar tools. Experience with cloud and on-premises TCP/IP networking. Experience with managing databases, specifically MySQL and Oracle. Bakkt is devoted to having diversity in its workforce and is proud to be an equal opportunity employer. Bakkt does not make any employment decisions based on race, color, religion, sex, national origin, veteran status, disability, age, sexual orientation, gender identity of any other characteristic protected by law ", 
+    "CompanyName": "Bakkt", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "A1415F4C1B0BAA95B41836E50BD25B22", 
+    "KeyTerms": "kubernetes, continuous integration, python, digital asset, analytical, financial, ansible, cloud, cryptocurrency, java, git, fabric, devops, linux, terraform, mysql, health care, azure, jira", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux", 
+    "TackIt": "true", 
+    "Title": "Bakkt hiring Cloud Infrastructure Engineer - DevOps in New York, New York, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/cloud-infrastructure-engineer-devops-at-bakkt-1638192069?refId=c1446715-aff5-4aba-a893-550b8844ea35&position=18&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

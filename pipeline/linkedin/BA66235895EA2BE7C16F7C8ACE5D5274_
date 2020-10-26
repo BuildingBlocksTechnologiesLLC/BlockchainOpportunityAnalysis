@@ -1,0 +1,26 @@
+{
+    "Body": " Our client is the market leader in institutional-grade cryptocurrency investment services providing security, compliance, and custodial solutions for blockchain-based currencies. They are the world's largest processor of on-chain bitcoin transactions, processing 20% of all global Bitcoin transactions, and $15 billion per month across all cryptocurrencies. The company has over $2 billion in assets in wallet, and a customer base that includes the world's largest cryptocurrency exchanges and spans more than 50 countries. They are looking for a Senior Software Engineer who will join their Engineering Team and help us build new features and applications for our enterprise clients. Our client processes a significant amount of cryptocurrency transactions so our applications need to be fast, accurate, scalable, and secure. Our integrated platforms interact with a number of exchanges, agencies, and governments around the world, and we use the best technology the industry offers to build them. Remote work is possible for candidates with 10+ years of experience Responsibilities: Design and build strong, resilient, and robust APIs, libraries, and services to power our financial services: clearing and settlement, digital asset lending, liquidity Own functionality and scalability features by taking responsibility from inception to deployment and customer integration Expose and document functionality to the UI, third-party developers, and our internal and external tooling Collaborate closely with all engineering teams to ensure consistency in understanding of technical requirements and overall work quality Provide mentorship to your peers in the broader engineering team through code reviews and education on best practices Skills & Experience: They are looking for teammates who share and practice our values: open communication, transparency, taking ownership, and high level of craftsmanship. They are looking for coworkers who share their vision and mission: deliver trust in digital assets. Required At least 5 years of back-end, server-side software development Strong experience with server-side languages like Golang, TypeScript/Node.JS, Java, etc. Strong experience with SQL databases like MySQL or Postgres Confident with RESTful API design Great with unit and functional testing and debugging Experience with microservices and service-oriented architectures Experience in Git/GitHub and branching methodologies, code review tools, CI tools, etc. Bachelor\u2019s degree in computer science, applied mathematics, or another technical discipline from a top university Great at algorithm design, problem solving, and complexity analysis Nice to have Understanding of and experience working in the financial industry Understanding of and strong interest in cryptocurrencies and blockchain Familiarity with any of the following: digital wallets, clearing and settlement, lending, trading, accounting systems, etc. Ability to work full-stack and familiarity with React and GraphQL Familiarity with Docker and Kubernetes Experience with large-scale, real-time, and distributed applications Compensation circa $200,000 + equity ", 
+    "CompanyName": "Intelletec", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "BA66235895EA2BE7C16F7C8ACE5D5274", 
+    "KeyTerms": "trading, kubernetes, algorithms, financial, golang, react, nodejs, remote, distributed application, cryptocurrencies, sql, microservices, docker, java, git, mysql, code review, software engineer, typescript, graphql, unit and functional test, postgres, github, wallet, digital asset, custodial, exchanges, cryptocurrency, compliance, functional test, bitcoin", 
+    "Language": "English", 
+    "Location": "Remote", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://www.linkedin.com/jobs/michael-page-jobs-san-francisco-ca?trk=public_jobs_related_jserp_link", 
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20bitcoin", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "cryptocurrency", 
+    "Salary": "$200,000", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20bitcoin", 
+    "TackIt": "true", 
+    "Title": "Intelletec hiring Senior Software Engineer w/ Leading FinTech Start-up (Crypto) || Palo Alto [Remote Considered] in Palo Alto, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-w-leading-fintech-start-up-crypto-palo-alto-remote-considered-at-intelletec-1847621608?refId=4824aede-4902-4a10-935c-d8e00caa6095&position=10&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

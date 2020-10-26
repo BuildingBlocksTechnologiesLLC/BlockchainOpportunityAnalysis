@@ -1,0 +1,25 @@
+{
+    "Body": " Calibra is a Facebook subsidiary whose goal is to provide financial services for Libra, a new global currency powered by blockchain technology. The first product Calibra will introduce is a digital wallet, which will be available in Messenger, WhatsApp and as a standalone app. The first version of Calibra will support peer-to-peer payments and a few other ways to pay such as QR codes which customers can use to accept transfers of Libra. Over time, there will be many other use-cases for Calibra including in-store payments, integrations into Point-of-Sale systems, and more. When launched, Calibra will have strong fraud and privacy protections. The Calibra digital wallet is expected to launch in 2020. The engineer would lead the effort on developing our peer to peer network layer to support our near term goal of building a performant and reliable blockchain system, and long term goal of growing blockchain to global scale. Handling topics such as membership management, network identity, message routing, gossip/broadcast in dynamic, trustless environment. NETWORKING ENGINEER LEAD, CALIBRA (BLOCKCHAIN) RESPONSIBILITIES Design and deploy new peer to peer network architectures Define, and develop optimized network monitoring systems Develop automated methods to mitigate and remediate network events Analyze and debug data to diagnose and address root causes to system level network issuesMINIMUM QUALIFICATIONS 5 or more years of experience with engineering Experience in the network stack Experience with linux/unix, TCP/IP, and various network layer protocols and libraries Experience in L4-L7 layer optimization Experience and track record building large scale network infrastructure and deliver into production Experience using code primarily C/C++, Java, or RustPREFERRED QUALIFICATIONS PhD research on scaling peer to peer networking Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities \u2014 we're just getting started. Facebook is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-ext@fb.com. ", 
+    "CompanyName": "Calibra", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "5582DB83D899426DB1D4ED8254E30E62", 
+    "KeyTerms": "wallet, java, financial, fraud, peer to peer, linux, privacy, protocols", 
+    "Language": "English", 
+    "Location": "Menlo Park, California, United States", 
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls", 
+        "https://www.linkedin.com/jobs/view/externalApply/1842500245?url=https%3A%2F%2Fwww.adzuna.co.uk%2Fjobs%2Fdetails%2F1438989014%3Fv%3D7D65A2E4D5805821F09B7B479653FB7200500FBC%26utm_source%3Dlinkedin2%26utm_medium%3Dorganic%26chnlid%3D780&urlHash=XQ-5&refId=ec11cef5-694d-4af4-9e90-cdab968da39c&trk=public_jobs_apply-link-offsite", 
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20peer", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20peer", 
+    "TackIt": "true", 
+    "Title": "Calibra hiring Networking Engineer Lead, Calibra (Blockchain) in Menlo Park, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/networking-engineer-lead-calibra-blockchain-at-calibra-1842500245?refId=ec11cef5-694d-4af4-9e90-cdab968da39c&position=16&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

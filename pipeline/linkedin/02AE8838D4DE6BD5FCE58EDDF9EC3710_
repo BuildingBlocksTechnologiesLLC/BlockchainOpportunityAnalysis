@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20peer",
+    "OutLinks": [
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls",
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20peer",
+    "RequiredMatch": "solidity",
+    "DocumentType": "JobBoards",
+    "Title": "Hypernet Labs hiring Solidity Application Developer in Palo Alto, California, United States | LinkedIn",
+    "Hash": "02AE8838D4DE6BD5FCE58EDDF9EC3710",
+    "Url": "https://www.linkedin.com/jobs/view/solidity-application-developer-at-hypernet-labs-1566340769?refId=ec11cef5-694d-4af4-9e90-cdab968da39c&position=9&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-09",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Todd Chapman Todd Chapman Cofounder and CTO at Hypernet Labs Hypernet Labs is pioneering a novel, open-source, micro-transaction framework for metered services hosted on the Ethereum blockchain. The ideal candidate will be responsible for developing high-quality smart contract logic and supporting off-chain infrastructure for interfacing with the Ethereum blockchain. ?? Responsibilities Develop quality software and distributed, peer-to-peer applications Analyze and maintain existing software applications Design highly scalable, testable code Discover and fix programming bugs Qualifications Development experience JavaScript & React, Typescript, and Solidity Experience with Open Zepplin and Truffle frameworks Frontend/UI development experience Experience with container orchestration is a big plus "
+}

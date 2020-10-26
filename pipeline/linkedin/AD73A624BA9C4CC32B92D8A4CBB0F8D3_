@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20pow",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20pow",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Skyrocket Ventures hiring Distributed Systems / Blockchain Engineer (up to $200k - Virtual Reality Startup) in San Francisco, California, United States | LinkedIn",
+    "Hash": "AD73A624BA9C4CC32B92D8A4CBB0F8D3",
+    "Url": "https://www.linkedin.com/jobs/view/distributed-systems-blockchain-engineer-up-to-%24200k-virtual-reality-startup-at-skyrocket-ventures-892766900?refId=fa1cb3f5-e5be-47cb-b2ec-01284a6b6631&position=1&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-07",
+    "DomainId": "linkedin",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Posted by: Bobby Kim Bobby Kim Client Relations Director at Skyrocket Ventures Distributed Systems / Blockchain Engineer (up to $200k - Virtual Reality Startup) Los Altos, CA This company is in the virtual reality space, has secured a large round of funding, and is rapidly growing. In this position, you will be using Golang (no experience required) and building the company's blockchain (not just an app on top of the blockchain). You don't need experience with blockchain technology, but must be experienced in distributed systems. The company will pay $150-200k base salary, plus significant equity and cryptocurrency tokens that could be very lucrative. Job Responsibilities: - Designing and building the backend architecture and functionality for a new native blockchain - Designing and developing low level peer-to-peer network protocols - Developing smart contracts on blockchains (including but not limited to Ethereum smart contracts) - Documenting best practices and acting as a knowledgeable resource for blockchain engineering problem solving Qualifications: - Experience building applications with either Go, C, or C++ - Understanding distributed systems and P2P Networking - Experience building distributed system software using technologies such as NoSQL databases, Kafka, Apache Spark, BitTorrent, etc.) - Knowledge of various distributed systems and algorithms as well as distributed/decentralized consensus methodologies (such as PoW, PoS, Paxos, Raft, PBFT, etc) Nice to have: - Experience with Go - Experience with cryptography, including asymmetric (pub/priv key), hash functions, encryption/signatures - Knowledge of blockchain technology. Understanding of the source code of Bitcoin, Ethereum, and/or Tendermint, etc. - Knowledge of blockchain scaling solutions such as sharding, state channel, side-chain, off-chain payment network, etc. - Experience building a native blockchain "
+}

@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20javascript",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs-new-york-ny?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs-philadelphia-pa?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20javascript",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Intelletec hiring Senior Front-End Software Engineer | Profitable AI Tech Startup in New York, New York, United States | LinkedIn",
+    "Hash": "0EB4AC9A610681336D9AF39F6C104F66",
+    "Url": "https://www.linkedin.com/jobs/view/senior-front-end-software-engineer-profitable-ai-tech-startup-at-intelletec-1859740904?refId=f4e24739-5cbf-4b6e-9c2b-1b3a4050fef0&position=10&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-21",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Kiel O'Mara Kiel O'Mara Managing Consultant, Security & Emerging Technologies Recruitment @ Intelletec My client is one of the most different and Unique ad-tech Companies around are continuing to grow. They are 50+ people now, looking grow significantly again in 2020. Initially funded by a $25m raise, they are growing fast, and very profitable with a low burn rate. ?? For Background, the Company has developed a unified video ad platform with a real-time A.I. The platform is a solution allowing Brands and Publishers to measure Customer Intent Data across TV, Mobile, and Web while integrating secure blockchain technology. From game-changing cryptography to the latest in cloud engineering, you will be working with powerful new technologies coupled with world-class design to deliver evolved solutions. What You'll Bring: 4+ years' experience working in an advanced environment, less if you can hold your own :) Strong??Javascript expertise - React Knowledge and hands-on experience with Github and Linu Deep understanding of design patterns, software development methodologies, and principles You have experience developing protobuf and JSON-based API endpoints Strong understanding of cloud infrastructure and cloud computing. concepts, especially on Google Cloud Platform You're passionate about close collaboration with design, product, and marketing Stack: Back End: Golang, Python, Google Cloud (especially App Engine, Stackdriver, BigTable, BigQuery, Cloud Functions and Firestore) Front End: React, Redux The Rest: Google's Firebase, particularly Firestore, NoSQL Google's GCP Suite web3.js, solidity On Offer: Bbase salary is one of the strongest in the market - Up to $250k Unlimited Vacation, plus additional paid company holidays. Health, Dental & Vision Insurance Commuter Benefits Parental Leave Lots of other perks! "
+}

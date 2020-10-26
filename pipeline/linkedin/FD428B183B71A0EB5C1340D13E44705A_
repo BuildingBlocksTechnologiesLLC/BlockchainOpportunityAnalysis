@@ -1,0 +1,25 @@
+{
+    "Body": " Who We Are PolySign is a startup in downtown Oakland working on institutional custody for cryptocurrencies. Cryptocurrencies are an exciting emerging market, but security (custody) is the major problem preventing its mainstream adoption. As a member of a small, world-class technical team, you can can have a huge impact on our solution and the success of cryptocurrencies. PolySign is co-founded by Arthur Britto, a co-founder of Ripple, a recognized leader in payments technology. What You'll Do You'll be in charge of multiple microservices that form the core of the PolySign custody platform. You'll build a highly secure, and scalable distributed system that is reliable, and fault-tolerant. We have a high bar for code quality, and would expect the same from you. You will also have opportunities to mentor junior members of the team, and help shape the engineering culture of the team as it grows. Requirements Experience with designing, building, and maintaining microservices (or big functional pieces in a monolithic system) Deep experience with at least one of message queues, task queues, and caching Solid experience in at least one compiled and one interpreted language Nice to have Experience with Python Experience with RPC systems Experience with AWS and Kubernetes Experience with user identity/cryptography/public blockchains Our Key Technologies Backend: Python (gRPC, Tornado), C, Postgresql, Redis, HSMs Infrastructure: AWS, Kubernetes, Docker OS: Linux What We Offer The opportunity to join a well-funded, cutting-edge financial technology company at a very early stage Competitive salary and equity Competitive medical benefits 401k Flexible working policies: we work twice a week from home Smart coworkers who are world class experts in the field of cryptocurrencies ", 
+    "CompanyName": "PolySign, Inc.", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-21", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "linkedin", 
+    "Hash": "FD428B183B71A0EB5C1340D13E44705A", 
+    "KeyTerms": "kubernetes, python, rpc, financial, cryptography, cryptocurrencies, microservices, docker, back end, ripple, startup, linux, distributed systems, software engineer, aws", 
+    "Language": "English", 
+    "Location": "Oakland, California, United States", 
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy", 
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ], 
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "cryptocurrencies", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20linux", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "PolySign, Inc. hiring Senior Software Engineer - Distributed Systems in Oakland, California, United States | LinkedIn", 
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-distributed-systems-at-polysign-inc-1599822255?refId=cc77e827-76de-44dd-b3b7-71b7b0987c28&position=13&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click"
+}

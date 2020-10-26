@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20nodejs",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/jobs/michael-page-jobs?trk=public_jobs_related_jserp_link",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20nodejs",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Intelletec hiring Senior Software Engineer | Profitable AI Tech Startup in New York, United States | LinkedIn",
+    "Hash": "2D468BF3EBFBBDC535C6EC9FF7590735",
+    "Url": "https://www.linkedin.com/jobs/view/senior-software-engineer-profitable-ai-tech-startup-at-intelletec-1879777679?refId=90712a67-d6ee-4fff-a14b-d9662ef9963b&position=15&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "linkedin",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": " Posted by: Kiel O'Mara Kiel O'Mara Managing Consultant, Security & Emerging Technologies Recruitment @ Intelletec **THIS ROLE CAN BE FULLY-REMOTE, OR NYC HQ** My client is one of the most different and Unique ad-tech Companies around are continuing to grow. They are 50+ people now, looking grow significantly again in 2020. Initially funded by a $25m raise, they are growing fast, and very profitable with a low burn rate. Â  For Background, the Company has developed a unified video ad platform with a real-time A.I. The platform is a solution allowing Brands and Publishers to measure Customer Intent Data across TV, Mobile, and Web while integrating secure blockchain technology. From game-changing cryptography to the latest in cloud engineering, you will be working with powerful new technologies coupled with world-class design to deliver evolved solutions. What You'll Bring: 4+ years' experience working in an advanced environment, less if you can hold your own :) StrongÂ Javascript expertise - ReactÂ (preferred) Back-End experience with Golang, Python, Ruby, NodeJS Knowledge and hands-on experience with Github and Linux Deep understanding of design patterns, software development methodologies, and principles You have experience developing protobuf and JSON-based API endpoints Strong understanding of cloud infrastructure and cloud computing. concepts, especially on Google Cloud Platform - Firebase, Firestore You're passionate about close collaboration with design, product, and marketing Stack: Back End: Golang, Google Cloud (especially App Engine, Stackdriver, BigTable, BigQuery, Cloud Functions, and Firestore) Front End: React, Redux The Rest: Google's Firebase, particularly Firestore, NoSQL Google's GCP Suite web3.js, solidity On Offer: Base salary is one of the strongest in the market - Up to $275k Unlimited Vacation, plus additional paid company holidays. Health, Dental & Vision Insurance Commuter Benefits Parental Leave Lots of other perks! "
+}
