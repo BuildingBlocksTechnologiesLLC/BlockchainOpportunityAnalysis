@@ -750,6 +750,14 @@ def index_json(file_path,stanfordnlp,ner):
 
             locobject = Location.Location(location.strip())
             locobject.concreteLocation()
+            JSLocation = json.dumps(locobject.__dict__)
+            print(locobject)
+            print(type(JSLocation))
+            print("This is JsLocation: ", JSLocation)
+            
+            #print("location city: ", JSLocation[1:7])
+            #print("location State: ", JSLocation{'state'})
+            #print("location Country: ", JSLocation{'Country'})
                 
             pred['Location'] = location.strip()
             pred['CompanyName'] = org.strip()
