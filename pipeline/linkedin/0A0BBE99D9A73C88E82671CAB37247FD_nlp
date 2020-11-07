@@ -6,7 +6,11 @@
     "DomainId": "linkedin",
     "Hash": "0A0BBE99D9A73C88E82671CAB37247FD",
     "Language": "English",
-    "Location": "Salt Lake City, Utah, United States",
+    "Location": {
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "country": "United States"
+    },
     "OutLinks": [
         "https://www.linkedin.com/?trk=guest_job_details_nav-header-logo",
         "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fcryptographer-at-evernym-inc-1727649747%3FrefId%3De07ae8da-2cf5-49fd-af3c-d22079d3f751%26position%3D11%26pageNum%3D0%26trk%3Dguest_job_search_job-result-card_result-card_full-click&fromSignIn=true&trk=guest_job_details_nav-header-signin",

@@ -29,10 +29,60 @@ class Location:
 class Location:
     #parse through text of region to identify specific areas
     def __init__(self,region):
-        self.reg = region
+        #self.reg = region
         self.city = ""
         self.state = ""
         self.country = ""
+
+
+         #need to decide on efficient lookup method for each location
+        #Parse through first part of string to see if US city? 
+
+        extra = []
+        city = []
+        #Extract all city names from csv file
+        #Put all us cities in city variable
+        with open('us_cities_states.csv',mode='r') as uscities:
+            cities  = csv.reader(uscities)
+
+        #print("is NY in cities? ", "New York" in cities)
+            for line in cities:
+                #print(line," : ",type(line)," : ",line[0])
+
+                city.append(line[0].split("|")[0])
+            #print("is NY in lines? ", "New York" in cities)
+
+        
+        #print("Here are the cities: ", sorted(set(city)))
+        #print('Dallas' in city)
+
+
+        #testing for locator
+        print(region)
+        for elem in region.split(", "):
+            print("Looking up", elem)
+            if(elem in city and self.city == ""):
+                self.city = elem
+                print("elem in city list")
+                continue
+
+            try:
+                print(pycountry.countries.lookup(elem))
+                self.country = (pycountry.countries.lookup(elem)).name
+            except:
+                print("Could not find: ",elem)
+                extra.append(elem)
+                
+            print(elem in city, ". ",elem, " in city?")
+
+        if(self.country != 'United States of America' and self.city == ""):
+            self.city = " ".join(extra)
+
+        elif(self.country != 'United States of America' and self.state == ""):
+            self.state = " ".join(extra)
+
+
+        '''
 
     def concreteLocation(self):
         #need to decide on efficient lookup method for each location
@@ -61,6 +111,11 @@ class Location:
         print(self.reg)
         for elem in self.reg.split(", "):
             print("Looking up", elem)
+            if(elem in city and self.city == ""):
+                self.city = elem
+                print("elem in city list")
+                continue
+
             try:
                 print(pycountry.countries.lookup(elem))
                 self.country = (pycountry.countries.lookup(elem)).name
@@ -68,12 +123,15 @@ class Location:
                 print("Could not find: ",elem)
                 extra.append(elem)
                 
-        print(elem in city, ". ",elem, " in city?")
+            print(elem in city, ". ",elem, " in city?")
 
         if(self.country != 'United States of America' and self.city == ""):
             self.city = " ".join(extra)
 
-        
+        elif(self.country != 'United States of America' and self.state == ""):
+            self.state = " ".join(extra)
+
+        ''' 
                 
 
 

@@ -749,7 +749,7 @@ def index_json(file_path,stanfordnlp,ner):
             print("This is location stripped: ", location.strip())
 
             locobject = Location.Location(location.strip())
-            locobject.concreteLocation()
+            #locobject.concreteLocation()
             JSLocation = json.dumps(locobject.__dict__)
             print(locobject)
             print(type(JSLocation))
@@ -759,7 +759,9 @@ def index_json(file_path,stanfordnlp,ner):
             #print("location State: ", JSLocation{'state'})
             #print("location Country: ", JSLocation{'Country'})
                 
-            pred['Location'] = location.strip()
+            #pred['Location'] = location.strip()
+            #pred['Location'] = JSLocation.strip()
+            pred['Location'] = locobject.__dict__
             pred['CompanyName'] = org.strip()
             pred['Salary'] = text_sal.strip()
             pred['PostedDate'] = text_date.strip()
