@@ -6,7 +6,12 @@
     "DomainId": "linkedin",
     "Hash": "003F203D8D1565FC1C4432A5B1E7B634",
     "Language": "English",
-    "Location": "Hyderabad, IN",
+    "Location": {
+        "city": "Hyderabad",
+        "state": "",
+        "country": "India",
+        "Remote": false
+    },
     "OutLinks": [
         "https://be.linkedin.com/jobs/view/senior-blockchain-engineer-at-client-1676476604?trk=guest_job_details_job-result-card_result-card_full-click",
         "https://www.linkedin.com/company/civil-maps?trk=guest_job_details_job-result-card_result-card_subtitle-click",
