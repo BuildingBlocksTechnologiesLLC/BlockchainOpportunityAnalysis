@@ -33,11 +33,14 @@ class Location:
         self.city = ""
         self.state = ""
         self.country = ""
+        self.Remote = False
 
 
          #need to decide on efficient lookup method for each location
         #Parse through first part of string to see if US city? 
 
+        if("Remote" in region or "remote" in region):
+            self.Remote = True
         extra = []
         city = []
         #Extract all city names from csv file
@@ -60,20 +63,20 @@ class Location:
         #testing for locator
         print(region)
         for elem in region.split(", "):
-            print("Looking up", elem)
+            #print("Looking up", elem)
             if(elem in city and self.city == ""):
                 self.city = elem
-                print("elem in city list")
+                #print("elem in city list")
                 continue
 
             try:
-                print(pycountry.countries.lookup(elem))
+                #print(pycountry.countries.lookup(elem))
                 self.country = (pycountry.countries.lookup(elem)).name
             except:
-                print("Could not find: ",elem)
+                #print("Could not find: ",elem)
                 extra.append(elem)
                 
-            print(elem in city, ". ",elem, " in city?")
+            #print(elem in city, ". ",elem, " in city?")
 
         if(self.country != 'United States of America' and self.city == ""):
             self.city = " ".join(extra)
