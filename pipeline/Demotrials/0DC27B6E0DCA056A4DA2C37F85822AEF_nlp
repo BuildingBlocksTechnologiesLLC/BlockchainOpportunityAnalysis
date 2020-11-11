@@ -1,0 +1,42 @@
+{
+    "Body": "Remote Woman Remote jobs at trusted companies Close Search for: Search Remote Jobs Marketing Design Developer Product Sales Support Success Stories Community Podcast Post Jobs Menu Software Engineer, Terraform Cloud Full Time Anywhere Posted 5 days ago Hashicorp Overview Why work at HashiCorp? At HashiCorp we have a set of principles that give us a shared understanding so we can act collectively and in a consistent manner. Our core principle is one of integrity. Integrity builds trust, upon which the strongest relationships are built. When we trust others, we are more willing to be open and engage. We must foster relationships internally to create a friendly, productive, and positive environment and externally with our users, partners, and customers to drive the adoption of our tools and products. We also value top-notch collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise level customers. Engineering at HashiCorp is a remote team. While prior experience working remotely isn\u2019t required, we are looking for team members who perform well given a high level of independence and autonomy. Some of the reasons our team have said they love working at HashiCorp is: The remote-first culture gives me a lot of flexibility to balance work with other personal and family commitments. I\u2019m able to adapt my schedule to fit in the things I\u2019ve not been able to at previous jobs, without the expectation of also being always on. Everyone has been encouraging of having clear boundaries between work and non-work time. What would you be working on? HashiCorp\u2019s Terraform is an open source project that enables you to safely and predictably create, change, and improve production infrastructure via the CLI. It codifies APIs into declarative configuration files that can be shared among team members, treated as code, edited, reviewed, and versioned. Terraform Cloud is built on top of our open source project Terraform. Terraform Enterprise is the best way to collaborate, validate, and execute Terraform in organizations large and small. Check out our demo to learn more. Our product is deployed to customers in a multi-tenant SaaS environment and as a single-tenant installation within private networks. In this role you can expect to: Build, iterate on, and ship features to make working with Terraform Enterprise a phenomenal experience for HashiCorp customers Contribute to various parts of our product, which consists of a Ruby on Rails backend, an Ember.js frontend, and distributed Go services Help own operations, reliability, availability, and security of the SaaS and private installations You should apply to join the team if you: You have experience running, testing, and contributing to one of the following: a backend application (e.g., Ruby on Rails, Django, Express.js) a frontend application (e.g., Ember.js, React) distributed services (e.g., Go, Java) You have experience operating and maintaining production systems in a Linux and public cloud environment You are familiar with Terraform You are familiar with infrastructure management concepts and ecosystem You are familiar with distributed systems concepts At HashiCorp, we are committed to hiring and cultivating a diverse team. If you are on the fence about whether you meet our requirements, please apply anyway! All work requires excellent written communication skills, remote work doubly so. For this reason, we require a cover letter for your application to be considered complete. In your cover letter, please describe why you\u2019re interested in working at HashiCorp, and what draws you to this role in particular! Specifics of your past experiences that are relevant to this role are great to include, too. HashiCorp embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We believe the more inclusive we are, the better our company will be. #LI-NL1 Apply for job Apply for job If this job interests you but you aren\u2019t certain if you meet all of the\u00c2\u00a0requirements, apply anyway! More Jobs Website Twitter Or view all jobs: Developer jobs Marketing jobs Product jobs Design jobs Sales jobs Support jobs & learn about: remote work Related Jobs Sr. Ruby Developer Clevertech Clevertech uses digital innovation to solve real world challenges, backed by 18 years' experience and a professional, solutions-focused team of engineers. Anywhere Full Time Posted 3 weeks ago Site Reliability Engineer \u2013 Cloud Services Hashicorp HashiCorp delivers consistent workflows to provision, secure, connect, and run any infrastructure for any application. Anywhere Full Time Posted 2 weeks ago Double Agent Test Double Great software is made by great teams. US Only Full Time Posted 2 months ago MAIN Podcast Community Post a job Remote Work Virtual Wedding Instagram Twitter Login REMOTE JOBS Developer jobs Marketing jobs Product jobs Design jobs Sales jobs Support jobs JOBS IN YOUR CITY Los Angeles jobs New York City jobs San Francisco jobs Chicago jobs Seattle jobs Austin jobs London jobs Paris jobs Berlin jobs POST YOUR JOBS Post a job We\u2019ve helped the world\u2019s top companies hire a talented, diverse pool of job candidates \u2013 view our success stories here. Terms & Privacy Policy & hello@remotewoman.com @ 2020 RemoteWoman \u2014 All Rights Reserved My account Post a job Back to Top Marketing Developer Design Product Sales Support",
+    "ContentType": "text/html; charset=UTF-8",
+    "CrawledDate": "2020-07-12",
+    "DocumentType": "JobBoards",
+    "DomainId": "remotewoman",
+    "Hash": "0DC27B6E0DCA056A4DA2C37F85822AEF",
+    "Language": "English",
+    "OutLinks": [
+        "https://remotewoman.com/job/double-agent/",
+        "https://remotewoman.com/job/senior-back-end-engineer-2/",
+        "https://remotewoman.com/job/site-reliability-engineer-cloud-services-7/",
+        "https://remotewoman.com/job/software-engineer-terraform-cloud-7/",
+        "https://remotewoman.com/job/software-engineer-terraform-cloud-7/remotewoman.com/success-stories",
+        "https://remotewoman.com/job/sr-ruby-developer/",
+        "https://remotewoman.com/job/thinkshout-6-creative-director/",
+        "https://remotewoman.com/post-job-now/",
+        "https://remotewoman.com/remote-design-jobs/",
+        "https://remotewoman.com/remote-developer-jobs/",
+        "https://remotewoman.com/remote-marketing-jobs/",
+        "https://remotewoman.com/remote-product-jobs/",
+        "https://remotewoman.com/remote-sales-jobs/",
+        "https://remotewoman.com/remote-support-jobs/",
+        "https://remotewoman.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fremotewoman.com%2Fjob%2Fsoftware-engineer-terraform-cloud-7%2F",
+        "https://remotewoman.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fremotewoman.com%2Fjob%2Fsoftware-engineer-terraform-cloud-7%2F&format=xml"
+    ],
+    "Parent": "https://remotewoman.com/remote-developer-jobs/",
+    "RequiredMatch": "terraform",
+    "SeedUrl": "https://remotewoman.com/remote-developer-jobs",
+    "TackIt": "true",
+    "Title": "Software Engineer, Terraform Cloud \u2013 Remote Woman",
+    "Url": "https://remotewoman.com/job/software-engineer-terraform-cloud-7/",
+    "Location": {
+        "city": "Remote",
+        "state": "",
+        "country": "",
+        "Remote": true
+    },
+    "CompanyName": "HashiCorp",
+    "Salary": "Not Found",
+    "PostedDate": "2020-07-07"
+}

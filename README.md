@@ -1,4 +1,5 @@
 # BlockchainOpportunityAnalysis
+Last edited: November 11 2020 by John-Paul Besong
 
 As a service to the emergent Blockchain technology community, and in an effort to aid in the growth of that community, this project seeks to achieve the following:
 * Provide an interactive visualization of the blockchain space for concretely summarizing skills, locations, verticals, salaries, opportunities and other related meta data.
@@ -24,14 +25,30 @@ These instructions will get you a copy of the project up and running on your loc
 NLP.py - Currently runs on JSON file and outputs JSONs of predicted NER. Takes in three inputs to be run: path to JSON file, path to english.all.3class.distsim.crf.ser.gz which should be under classifiers in stanford-ner-4.0.0, and path to stanford-ner.jar which is under stanford-ner-4.0.0. Download files from stanford-ner-4.0.0 folder
 
 notes:
-Currently working on Enhancing Location capabilities. Date capabilities were enhanced but need to be looked at for anomalies. 
+            Date, Location and Salary Capabilities enhanced. Needs to be perfected through extrenuous testing and weeding out bad data. Location and Salary capabilities worked on in Location.py & Salary.py
+
 
 NLP_acc.py - Takes in JSON with labeled data and Outputs JSON with predicted data. Also prints out accuracy of the NER on labeled data.
 sample_jobs.py - Samples a specific number of jobs from available postings
 Statistics.py - Stemming and Stop Words. Takes in a JSON file path and currently doesn't output anything
 
+
 Location.py - Takes string locations as input from NLP.py and returns JSON object of formatted location. 
     City, State, Country format for each location. Abbreviations should be lengthened. 
+    -
+    notes:
+    Can identify american cities but needs to work on identifying foreign cities and states
+    New York City metro anomalie because not in city list
+    
+Salary.py - Takes string salary information from NLP.py and returns and cleaned up version if necessary to suit standard format
+e.x $200k or $120K - $140K 
+
+notes:
+        Salaries still have some anomalies 
+        Salary might come up as millions but this is a mistake by the crawler
+        Need to work on identifying currency depending on location
+        
+
 
 #### Note for using NLP_acc.py
 

@@ -26,7 +26,7 @@ def cleanSalary(salary):
             #print("This is sal: ", sal)
 
         #print("$"+str(sal[0])+str(sal[1]), "-", "$"+str(sal[2])+str(sal[3]))
-        return("$"+str(sal[0])+str(sal[1]), "-", "$"+str(sal[2])+str(sal[3]))
+        return str("$"+str(sal[0])+str(sal[1])+ "-" +"$"+str(sal[2])+str(sal[3]))
 
 
     elif("-" in salary):
@@ -49,7 +49,7 @@ def cleanSalary(salary):
             #print("This is sal: ", sal)
 
         #print("$"+str(sal[0])+str(sal[1])+ "-" +"$"+str(sal[2])+str(sal[3]))
-        return("$"+str(sal[0])+str(sal[1])+ "-" +"$"+str(sal[2])+str(sal[3]))
+        return str("$"+str(sal[0])+str(sal[1])+ "-" +"$"+str(sal[2])+str(sal[3]))
 
     elif("," in salary):
         sal = []

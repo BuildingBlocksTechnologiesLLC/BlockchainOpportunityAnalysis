@@ -624,19 +624,21 @@ def nlp_body(text,tagger,crawlDay):
 
 
 
-
     if(salary != "Not Found"):
         #cleanSalary(salary)
         sal = Salary.cleanSalary(salary)
         print("This is old salary: ", salary)
         print("This is new salary: ", sal)
+    else:
+        sal = salary
 
 
        
 
         
     #return location.strip(), org_name.strip(), salary.strip(), date.strip(),city,remote
-    return location.strip(), org_name.strip(), salary.strip(), retdate.strip(),city,remote
+    #return location.strip(), org_name.strip(), salary.strip(), retdate.strip(),city,remote
+    return location.strip(), org_name.strip(), sal, retdate.strip(),city,remote
 
 def linkedin_title(text, tagger):
     """
