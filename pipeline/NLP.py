@@ -69,6 +69,13 @@ def check_remote(text):
             return False 
     return len(matches) != 0 
 
+def cryptojoborg(url):
+    text = url.split(" at")
+    if(len(text) > 1):
+       return text[1]
+    else:
+       return "Not Found" 
+
 def check_state_title(text):
     """
     Look for common state abbreviations
@@ -674,22 +681,41 @@ def simp_title(text):
     if check_remote(text):  
         location = 'Remote'
     return location, org
-def blocktribeorg(prev,text):
-    
-    r = re.compile(r"\(ASTRI\) Hong Kong Applied Science and Technology Research Institute Company Limited | 1000Spartans | 1c0 | 21MIL | 310 Coin Launch | 4 Way Technologies | 55Exchange | 5g | aap3 | aap3 Recruitment | ABC | ABCC Exchange | AboveBoard | ABRA | Abra | Accelerate Enterprise Ltd | Accenture | Accredit HR Consultancy Pte Ltd | Acquaint Inc\. | adChain | administratormail | Adventure Pizza Incorporated | Aeonideq | Aggregion | AICO | Aicumen Technologies | Aicumen Technologies Inc | Airdrop Alert BV | AKASHA Foundation | Alba Holdings | Algorythma | Alkemi | Allforcrypto | Alluminate | Almond | AlphaPoint | Altoros | AmaZix | Amit 27 | anonymous | Antler | AnyLedger | APLA | AppTad Inc\. | ARK\.io | Asia Live Tech | Aspect Resources | Assembly | ASTRI | Athena Bitcoin, Inc | Atlas City | Australasian Blockchain Music Association | Automata | Autonomos Capital | Awesome Gaming Pte Ltd | Axiom Zen | Axoni | Axoni | AZTEC protocol | Bancambios Financial Technologies | banque HODL | BC Group | Bdtask Limited | BeInCrypto | BF-Fi | BiblePay | Big Couch Ltd | BiGGChain Ltd | Binary\.com | Bit Refill | BitAccess | BitCarbon | Bitcoin | Bitcoin PR Buzz | Bitcoin\.com | Bitdeal | Bitdeal | Bitdeal | Bitfinex | bitfish | bitfish | bitfish | Bitflyer | bitFlyer EUROPE | Bitgosu Ltd\. | Bitinka | Bitkey technologies | BitMarket | Bitpay | Bitrefill | Bitstamp | Bitwage | Bleumi inc | BLK\.io | Block Gemini | Block Recruiters | BlockAble | BlockApps | Blockbid | Blockblox | Blockblox LLC | Blockchain | Blockchain Consulting GmbH | Blockchain development company- Developcoins | Blockchain Education Initiative | Blockchain Headhunter | Blockchain Healthcare Review | Blockchain Help | Blockchain People | Blockchain Rec | Blockchain Smart Technologies | Blockchain startup \(stealth mode\) | Blockchain Talent Acquisition Ltd | blockchain Technology | Blockchain Works | Blockchain XP | Blockchainappsdeveloper | BlockchainCareerbuilders | blockchaindevelopers\.net | Blockchainhub Prague | Blockchaininvest | BlockCi | BlockFactory ag | Blockfreight | Blockgeeks | Blockhire | BlockIvy | blockrize | Blocksmith | BlockState | Blockstate | Blockstream | Blocktel | Blocktribe | Blockwise Ltd\. | Blokur | BlueQbit | BNYMellon | Boltt Coin\.io | brainbot technologies AG | Braintrust | Breakthrough Innovation Lab | bridge21 | British Blockchain Frontier Technologies Association | Broctagon | BTCC | bullcatalyst | BurstIQ | Business Blockchain HQ | Cairn Energy | Cambridge Blockchain, LLC | Cander Group | Capital Match | CARPHONE WAREHOUSE | Cashback Script - CashCraft | Catradora | Caviar | Chainera | Chainlink | Chainlink | ChainSecurity AG | Chainstarter | Charles Levick | Charles Levick | Chorus One | Chronicled | Circle | CK Technical | Clause | Clear Stream | ClearCube Consulting | Clearmatics | CleverTech | Clevertech | Clink | Close Cross Ltd | cloudmlmsoftware | CME Group | Coaddrex | coderkube | Coin Cloud | Coin Developer India | Coin Metric | CoinAdvisor | Coinbase | Coincover | Coinect\.ai | Coinjoker | Coinjoker | Coinomi Wallet | CoinRating | Coinsclone | Coinsclone | Coinstruct | Colendi | Colony | ComedyPlay | Confidential | Conflux | Coral Health Research & Discovery | Cornucopia | Cornucopia IT | CottageCase | COUTURE SEARCH LLC | Cowork Unite | Cricket\.me | Cryptexxx | Crypto App factory | Crypto Asset Rating | Crypto Infos | Crypto Profits | Crypto Research Group, Inc\. | Cryptocurrency Exchange Script - BlockchainAppsDeveloper | CryptoHorse | Cryptomnia | CryptoRated | Cryptorecruit | CryptoSoftwares | Curiositas\.io | Cyber Infrastructure | CYBER-GUARD ENTERPRISE LTD | CyFin Technologies OU | Daily Deals Coupon | DAO\.Casino | Dapper Labs | Darico | Dash Core Group | DealBook | Decent\.bet | delete | Deloitte Luxembourg | developcoins-cryptocurrency-development-company | Devio | Digital | Digital Asset Custody Company | Digital Assets Data Inc\. | Digital Billions | Digital Singularity Pte Ltd | Dignyfy | Direct Capital Investments | Dividendee | Divistock LLC | DoveTail Digital Ltd\. | Dovetail Lab | DOVU | dsfjsdfksdlfm | Durie Capital Management | EarthBenign | Eco | EDR Global Search | Elemential Labs | Elevate Digital | Elite Recruitment | elkrem | Elliptic | Elocity | Email processing | Embleema | EMIREX | Emotiq AG | Employcoder | Encrypted Reviews | Enecuum | Energo Labs | Enterprise Digital Resources | Enterprise Digital Resources Ltd | Enzyme Advising Group | EPRI | Equidato Technologies AG | Espay Exchange | ethereum | Ethereum Payments company | Etherparty | Etherparty | Everex | Everex | Everex | everis Consultancy Ltd | Evershine Co-Operative Society Bank | Eximchain | Experis | EXTNOC | ExxonMobil Company | factocert | Factocert Technologies Pvt Ltd | Factom, Inc\. | Farm Credit Canada | Favour house | FemtoWeb | Ferchau Engineering GmbH | Ferdon Inc | FieldEngineer | Finance Careers | Fintech Recruiters | Fintricity | Fintricity | Fintricity Consulting | First Universal Blockchain Services \(USA\) Inc | Fit4bond - Custom Tailoring Software Development Company | Flexiana | Fluent | Fluidity | Fluidity | Fold | FunFair Technologies | Game Period | Gatecoin | GBMiners | Gem | Glassbay | Globacap Limited | Global Crypto News | GlobeTrotter Cryptocurrency Ecosystem | GMP | GoldCub | Goldcub | goming\.co | Gordon | Gotaki Maps | Grace Themes | Grayblock Power | GRAYLL | H2 Industries SE | Halo Platform, LLC | HappyFunCorp | HappyMod | Harrisburg University of Science and Technology | Hedera Hashgraph | Herdius | HKEOS | Hosho Group | HRSource | Huff Consulting | Huobi Global | Hydrogen | Hyperledger Blockchain Development Company | HYSOOP COMPANY | IBC | IBM Client Innovation Center Benelux | ICO All IN | ICOBrands | ICOCLONE | ICOCLONE Security token offering services | iContract | identitii | iFixers | Ignite Digital Talent | Ikaros TIC Solvers | Immortality X | Immuto, Inc\. | In'saneLab | Incenti | Independent HR Specialist | Indie Storm | Infinity Blockchain Ventures | Information Assurance Platform | innogy Innovation Hub | Instant Systems Inc | Interlay | Intrepid ventures | IOHK | IOHK | IOV | isoconsultation | isolution design | Ivno\.io | JAAK | Jaspercoin | Job Compass | Jobs in Crypto | John Hancock | John wick | Kairos Search | Kerr | Keyrock | Kinesis Money | Kinex Media | Kingsland University | Kite Human Capital | Kite Human Capital | Kiva\.org | KnowledgeGRIDS | Komodo | Konkrete | Kraken Digital Asset Exchange | Krypc Technologies Inc\. | Krypital Group | Kyokan | lalalala | Larson Resource Group | LAToken | LCX | Leaptrade | Learning Blocks | Leax LCC | Left | Leonovus | Leonovus | LibertyX | Liquid Falcon | London Crypto Services Ltd | Lovdoc | lucidCircus | Lunar Digital Assets | LunarExpress | Luno | Luxe Equity | Macandro | Maclean Moore | MadHive | Maicoin | Manpower Staffing Services \(S\) Pte Ltd | Manulife/John Hancock | Marbrox | Market Protocol | MARS Technologies | Master Ventures | Maticz Technologies | MCCR Recruitment | MedBlock | Mediachain Labs | Medvice | MenuBuzz | Metal | meterqubes | Meterqubes Solutions LLC | MiiBits | Millennium Crypto Mining | Miracle Tele | Mishalov Enterprises LLC | MNPG | MNR Solutions Private Limited | Mobius | Modeneis | Modis IT | Monax | Monetum | moneytis | Monsanto | Moon Assist | Mosaic | MotusWare Pty Ltd | MPCX Platform Limited | Mr | Mr | mun | Neutral | New Economy Fund | New Era Tech | NextID Pte Ltd | Nextwin | nhsprofessionals | Ninja | Nitro Interactive Limited | Niyogin Fintech | none | NonStop Recruitment Schweiz AG | O&J Group | OCI | Odoo Customization | OEL Foundation | OKEX | OKEX Technology Company Limited | OKLink Technology Company Limited | OMINEX | OmniN0de | Omnitude | Onai | Open Search Network | Opentopic | OpptIn | OPSkins / WAX Token | Orbit Search | OTC Exchange Network | Otonomos | P2P Models | Pacific Block Technology Corp\. | Pave | Pfizer | Pfizer Inc\. | Phoenix Payments Ltd | PixelPlex | Planning korea | Plexus | Plexus Resource Solution | Plexus Resource Solutions | Plexus Resource Solutions | Plexus Resource Solutions | Plexus Resource Solutions | Plexus Resource Solutions | Plexus Resource Solutions | Plexus RS | PlexusRS | Poloniex | Polymath | Poolin | POSaBIT | Power Ledger | Pragmatic Coders | Priority Token | Private \(Boutique trading firm\) | Privax | Profile 29 | Project Hydro | Propine Technologies Pte Ltd | Protoblock | Pulsar Trading Captial | Pulsehyip | Pulsehyip | Pulsehyip | Q Ventures | QED-it | Qredo | Qualified Demand | Quant Network | quest global technologies | Quillhash Technologies | RADAR | RDA Recruitment Limited | Realm Labs | RealT Inc\. | Reckoon | RECRUITERS | Rehuman Inc\. | Reph Recruiting | Reserve Protocol | Rewards Blockchain | REX | Robot Vera | Rockchain | Rondo | Rowlingstone | Sakaeru Limited | Salamantex | Salamantex GmbH | Salt | Satoshi Systems Ltd | Sean Woods - Director | Searchie & Searchie | SecureBlocks | Selfkey Foundation | sellbitbuy | Sellbitbuy | SellBloc | SettleMint | SettleMint | SGS Consulting | Share&Charge | Shelf\.Network | Shift Markets | Shivom | SHIVOM | SHIVOM | SignedBlock | Signity Solutions | SIGNiX, Inc | Silverlink Technology | SimplyVital Health | Sinergia Gesto de Pessoas | Skillsearch Limited | SKT Themes | SLBK | SMART VALOR | SmartContract Thailand | Smoogs\.io | Soarlabs\.org | Social Impact | Socieum | Solarheap | Solve\.care | SONM USA | Source Technology | Spacesoft LLC | SparkPR | Spectrus Informatics Pvt Ltd | SplashBI | SportsCastr | SportVEST | SpotnEatsy Capital | Sym Social Inc\. | Synereo | TAIA | talentBLOCK | TalentXD | TAP | TapTrust | TBC US | TBD | TBD | Tech29 | TEKsystems Singapore | Tekton | Tencoins Ltd\. | Ternio | The Arcadia Group | The Bitcoin Boutique | The Happy Beavers | The Lion | The Merkle Labs | The Millennial Company | The Pillar Project and 2030 | The Simplify Market | The Vanbex Group | Thesis | Tides - Decentralized Health Insurance | Tierion | Tipstat | TMP Worldwide | TMP Worldwide | Token Foundry @ ConsenSys | TokenTax | Tontine Trust | TOP Network | TradeIX | TransferUp | Trinity Connected | TrueCover | TruStory | Tryshifu | Turing Talent | Turing Talent | Tusk Philanthropies | Tykn\.tech | U\.CASH | Ubitquity | ULab | UNISOT | United Blockchain Group | University of Hamburg | Untappt LLC | Uphold | Upvest | V Systems Limited | Vairus World Tech | Vareger | vasa | Vectorspace\.ai | Velmie | Velocium LTD | Velosys | VeloxChain | Venture Exchange - VNX | Verasity | Vereign AG | VeryFile Sagl | Vitwit | VoozoDealer | vrpfencingcontractors | VTNGLOBAL, INC\. | Wachsman PR | Wanchain | Wealthsimple | Web3 Foundation | Winning Team | Wipro | WKL consultancy | Wmachine | Wolf | Workagency | XEEDA | Xen | Xoken | XYZ Enterprises | Your Team in India | Zab Technologies: Blockchain Development Company | Zeme Eco Fuels and Alloys Ltd | Zimrii | Zinc | Zineum | Ztex | ZVChain Technology")
-    find = r.findall(text)
-    found_comp = [word for word, word_count in Counter(find).most_common(1)]
-    if found_comp:
-        return found_comp[0]
-    return prev
+
+def blocktribeorg(body):
+
+    tokens = body.split('About')
+    if(len(tokens) > 1):
+       split = tokens[1].strip().split(' ')
+       return split[0]
+
+    return "Not Found" 
+
+def cryptocurrencyjobs(title):
+
+    #title = title.decode("utf-8").replace(u"\u2013", " -- ").encode("utf-8")
+    title = title.replace(u'\u2013',' -- ')
+    tokens = title.split(' at')
+    if(len(tokens) > 1):
+       split = tokens[1].strip().split(' -- ')
+       print ("Title is: ", title)
+       print ("XXX ", tokens[1])
+       print ("XXX ", split[0])
+       return split[0]
+
+    return "Not Found" 
+
 def index_json(file_path,stanfordnlp,ner):
     """Get retrive data from json files"""
     tagger = StanfordNERTagger(stanfordnlp,ner,encoding='utf-8')
+
+    print("Opening File: " , file_path)
     
     with open(file_path,"r") as json_file:
         job = json.loads(json_file.read())
-        
-        if 'Language' in job and job['Language'] == 'English':
+
+        #if 'Language' in job and job['Language'] == 'English':
+        if True :
             pred = job
             
             if job['DomainId'] == 'linkedin':
@@ -746,7 +772,13 @@ def index_json(file_path,stanfordnlp,ner):
             if 'spidered' in job.keys():
                 org = job['DomainId']
             if job['DomainId'] == 'blocktribe':
-                org = blocktribeorg(org,job['Body'])
+                org = blocktribeorg(job['Body'])
+            if job['DomainId'] == 'crypto.jobs':
+                org = cryptojoborg(org,job['Url'])
+            if job['DomainId'] == 'cybercoders':
+                org = 'cybercoders' 
+            if job['DomainId'] == 'cryptocurrencyjobs':
+               org = cryptocurrencyjobs(job['Title']) 
             if job['DocumentType'] == 'Careers':
                 if file_path.count('_') == 2:
                     org = file_path.split('_')[0]
@@ -755,37 +787,32 @@ def index_json(file_path,stanfordnlp,ner):
                     elif '\\' in org:
                         org = org.split('\\')[-1]
 
-            #print("This is location: ", location)
-            #print(type(location))
-            #print("This is location stripped: ", location.strip())
-
             locobject = Location.Location(location.strip())
-            #locobject.concreteLocation()
             JSLocation = json.dumps(locobject.__dict__)
-            #print(locobject)
-            #print(type(JSLocation))
-            #print("This is JsLocation: ", JSLocation)
             
-            #print("location city: ", JSLocation[1:7])
-            #print("location State: ", JSLocation{'state'})
-            #print("location Country: ", JSLocation{'Country'})
-                
-            #pred['Location'] = location.strip()
-            #pred['Location'] = JSLocation.strip()
             pred['Location'] = locobject.__dict__
-            pred['CompanyName'] = org.strip()
-            pred['Salary'] = text_sal.strip()
-            pred['PostedDate'] = text_date.strip()
+            if(org is not None):
+               pred['CompanyName'] = org.strip()
+            if(text_sal is not None):
+               pred['Salary'] = text_sal.strip()
+            print("Salary is ", text_sal)
+            if(text_date is not None):
+               pred['PostedDate'] = text_date.strip()
             json_str = json.dumps(pred, indent = 4) + "\n" 
 
             #if iterating through folder for data entries, must change write folder for results
-            with open(file_path+'nlp', "w") as w:
-                w.write(json_str)
-        else:
-            with open(file_path+'not_english', "w") as w:
-                w.write(job)
+            with open(file_path + "nlp", "w") as w:
+                # XXX Let the java program pick up the output from stdout
+                # w.write(json_str)
+                print("Done!")
+                # Add unique tags that the calling appliation can key off of... 
+                print ("BBT_JSON_START " + json_str + " BBT_JSON_END ")
+        #else:
+        #    with open(file_path+'not_english', "w") as w:
+        #        w.write(job)
               
 if __name__ == "__main__":
+
     file_path =  sys.argv[1]
     stanfordnlp = sys.argv[2]
     ner = sys.argv[3]
