@@ -1,5 +1,7 @@
 """
-Created on Wed Jun 17 2020
+Leon Lu
+John-Paul Besong
+Barb Dean
 """
 import sys
 from geotext import GeoText
@@ -75,6 +77,21 @@ def cryptojoborg(url):
        return text[1]
     else:
        return "Not Found" 
+
+def glassdoororg(body):
+
+    text = body.split('InterviewsSearch')
+    org = ''
+    if(len(text) > 1):
+       tokens = text[1].split(' ')
+       if(len(tokens) > 3):
+          for i in range(3) :
+              if tokens[i].isnumeric() :
+                 return org
+              else :
+                 org += " " + tokens[i] 
+
+    return org 
 
 def check_state_title(text):
     """
@@ -691,6 +708,29 @@ def blocktribeorg(body):
 
     return "Not Found" 
 
+def dotjobsorg(body):
+
+    tokens = body.split('Company Name')
+    if(len(tokens) > 1):
+       if('Company Website' in tokens[1]):
+          split = tokens[1].strip().split('Company Website')
+          return split[0]
+       else :
+          return tokens[1]
+
+    return "Not Found" 
+
+def opolisorg(body):
+
+    tokens = body.split('Location:')
+    if(len(tokens) > 1):
+       subtokens = tokens.split()
+       length = len(subtokens)
+       return subtokens[length -1]
+
+    return "Not Found" 
+
+
 def cryptocurrencyjobs(title):
 
     #title = title.decode("utf-8").replace(u"\u2013", " -- ").encode("utf-8")
@@ -773,10 +813,18 @@ def index_json(file_path,stanfordnlp,ner):
                 org = job['DomainId']
             if job['DomainId'] == 'blocktribe':
                 org = blocktribeorg(job['Body'])
+            if job['DomainId'] == 'dotjobs':
+                org = dotjobsorg(job['Body'])
             if job['DomainId'] == 'crypto.jobs':
                 org = cryptojoborg(org,job['Url'])
+            if job['DomainId'] == 'opolis':
+                org = opolisorg(org,job['Body'])
             if job['DomainId'] == 'cybercoders':
                 org = 'cybercoders' 
+            if job['DomainId'] == 'intelletec':
+                org = 'intelletec' 
+            if job['DomainId'] == 'glassdoor':
+                org = glassdoororg(job['Body']) 
             if job['DomainId'] == 'cryptocurrencyjobs':
                org = cryptocurrencyjobs(job['Title']) 
             if job['DocumentType'] == 'Careers':
