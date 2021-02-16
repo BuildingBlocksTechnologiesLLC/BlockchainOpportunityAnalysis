@@ -36,20 +36,27 @@ def cleanSalary(salary):
         sal = []
         #clean up salary
         for elem in num:
+            print("ELEM " , elem)
+            if (not elem):
+               break; 
             if(elem[0] == "$"):
                 elem = elem[1:]
             if(elem == "-" or elem == ","):
                 continue
-            #print("This is elem before , split", elem)
+            print("This is elem before , split", elem)
             elem = elem.split(",")
-            #print("This is elem after , split", elem)
-            #print("This is elem[0]", elem[0])
+            print("This is elem after , split", elem)
+            print("This is elem[0]", elem[0])
             sal.append(elem[0])
             sal.append("K")
-            #print("This is sal: ", sal)
+            print("This is sal: ", sal)
 
         #print("$"+str(sal[0])+str(sal[1])+ "-" +"$"+str(sal[2])+str(sal[3]))
-        return str("$"+str(sal[0])+str(sal[1])+ "-" +"$"+str(sal[2])+str(sal[3]))
+        finalString = "$"
+        for i in range(len(sal)): 
+            finalString += str(sal[i])
+        return str(finalString)
+        #return str("$"+str(sal[0])+str(sal[1])+ "-" +"$"+str(sal[2])+str(sal[3]))
 
     elif("," in salary):
         sal = []
