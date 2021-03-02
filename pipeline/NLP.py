@@ -71,10 +71,18 @@ def check_remote(text):
             return False 
     return len(matches) != 0 
 
-def cryptojoborg(url):
-    text = url.split(" at")
+def cryptojoborg(title):
+    text = title.split(" at")
     if(len(text) > 1):
        return text[1]
+    else:
+       return "Not Found" 
+
+def mashableorg(title):
+    text = title.split(" at ")
+    if(len(text) > 1):
+       subpiece = text[1].split(" in ")
+       return subpiece[0]
     else:
        return "Not Found" 
 
@@ -825,7 +833,9 @@ def index_json(file_path,stanfordnlp,ner):
             if job['DomainId'] == 'dotjobs':
                 org = dotjobsorg(job['Body'])
             if job['DomainId'] == 'crypto.jobs':
-                org = cryptojoborg(org,job['Title'])
+                org = cryptojoborg(job['Title'])
+            if job['DomainId'] == 'mashable':
+                org = mashableorg(job['Title'])
             if job['DomainId'] == 'crypto-careers':
                 org = cryptocareersorg(job['Url'])
             if job['DomainId'] == 'opolis':
